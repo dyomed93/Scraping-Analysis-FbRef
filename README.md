@@ -8,11 +8,12 @@ This repository provides tools to extract data from FBRef for all teams and play
 - **analysis**: A notebook containing functions and examples for comparing players from a specific league with players from the top 5 leagues in Europe.
 - **fbref_scout_extraction_script**: A script for scraping FBRef data, complete with functions and examples.
 - **scraper_for_players_best5leagues**: A notebook containing an example scraper for the FBRef section with data of players from the top 5 leagues.
+- **variables_used_for_players.txt**: List and explanation of variables used for players analysis, in english and italian.
 
 ## How to Use
 
 1. **Data Extraction**:
-   - Use the `fbref_scout_extraction_script` to scrape data from FBRef.
+   - Use the `fbref_scout_extraction_script` or `scraper_for_players_best5leagues` to scrape data from FBRef.
    - Follow the examples provided in the script to customize your data extraction process.
 
 2. **Data Analysis**:
