@@ -26,7 +26,7 @@ def reset_columns(df):
     df.columns = new_columns
     df = df.fillna(0)
     return df
-
+ 
 
 def clean_text(cell):
     """
