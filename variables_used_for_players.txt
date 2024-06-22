@@ -18,7 +18,7 @@ PKatt: penalties taken
 CrdY: yellow cards
 CrdR: red cards
 
-xG: Expected Goals
+xG: Expected Goals 
 npxG: non-penalty Expected Goals
 xAG: measures the probability that a specific assist
 leads to an expected goal. It focuses on passes that directly
