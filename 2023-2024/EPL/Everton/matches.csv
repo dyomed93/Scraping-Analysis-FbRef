@@ -1,0 +1,46 @@
+D a t e,T i m e,C o m p,R o u n d,D a y,V e n u e,R e s u l t,G F,G A,O p p o n e n t,x G,x G A,P o s s,A t t e n d a n c e,C a p t a i n,F o r m a t i o n,R e f e r e e,M a t c h   R e p o r t,N o t e s
+2023-08-12,15:00,Premier League,Matchweek 1,Sat,Home,L,0,1,Fulham,2.7,1.5,42,39940,James Tarkowski,4-4-1-1,Stuart Attwell,Match Report,0
+2023-08-20,14:00,Premier League,Matchweek 2,Sun,Away,L,0,4,Aston Villa,0.6,2.9,40,41694,James Tarkowski,4-1-4-1,Anthony Taylor,Match Report,0
+2023-08-26,15:00,Premier League,Matchweek 3,Sat,Home,L,0,1,Wolves,1.3,1.1,47,38851,James Tarkowski,4-1-4-1,Craig Pawson,Match Report,0
+2023-08-30,20:00,EFL Cup,Second round,Wed,Away,W,2,1,Doncaster,0.0,0.0,59,11430,Jordan Pickford,4-1-3-2,Tom Reeves,Match Report,0
+2023-09-02,12:30,Premier League,Matchweek 4,Sat,Away,D,2,2,Sheffield Utd,2.5,1.2,54,31124,James Tarkowski,4-4-1-1,Andy Madley,Match Report,0
+2023-09-17,16:30,Premier League,Matchweek 5,Sun,Home,L,0,1,Arsenal,0.3,1.0,26,39217,James Tarkowski,4-5-1,Simon Hooper,Match Report,0
+2023-09-23,17:30,Premier League,Matchweek 6,Sat,Away,W,3,1,Brentford,1.9,1.0,43,16981,James Tarkowski,4-4-1-1,Michael Oliver,Match Report,0
+2023-09-27,19:45,EFL Cup,Third round,Wed,Away,W,2,1,Aston Villa,0.0,0.0,32,23851,James Tarkowski,3-4-3,Tony Harrington,Match Report,0
+2023-09-30,15:00,Premier League,Matchweek 7,Sat,Home,L,1,2,Luton Town,2.9,0.9,67,39289,James Tarkowski,4-4-1-1,Anthony Taylor,Match Report,0
+2023-10-07,15:00,Premier League,Matchweek 8,Sat,Home,W,3,0,Bournemouth,2.4,0.7,48,38815,James Tarkowski,4-4-1-1,David Coote,Match Report,0
+2023-10-21,12:30,Premier League,Matchweek 9,Sat,Away,L,0,2,Liverpool,0.1,2.2,23,50201,James Tarkowski,4-4-1-1,Craig Pawson,Match Report,0
+2023-10-29,13:00,Premier League,Matchweek 10,Sun,Away,W,1,0,West Ham,0.8,0.7,36,62469,James Tarkowski,4-4-1-1,Stuart Attwell,Match Report,0
+2023-11-01,19:45,EFL Cup,Fourth round,Wed,Home,W,3,0,Burnley,0.0,0.0,38,38841,James Tarkowski,4-4-1-1,Michael Salisbury,Match Report,0
+2023-11-04,15:00,Premier League,Matchweek 11,Sat,Home,D,1,1,Brighton,0.7,0.5,21,38683,James Tarkowski,4-4-1-1,Tim Robinson,Match Report,0
+2023-11-11,15:00,Premier League,Matchweek 12,Sat,Away,W,3,2,Crystal Palace,1.5,2.2,33,25103,James Tarkowski,4-4-1-1,Samuel Barrott,Match Report,0
+2023-11-26,16:30,Premier League,Matchweek 13,Sun,Home,L,0,3,Manchester Utd,2.4,2.2,51,39257,James Tarkowski,4-4-1-1,John Brooks,Match Report,0
+2023-12-02,17:30,Premier League,Matchweek 14,Sat,Away,W,1,0,Nott'ham Forest,0.7,0.7,39,29404,James Tarkowski,4-4-1-1,Paul Tierney,Match Report,0
+2023-12-07,19:30,Premier League,Matchweek 15,Thu,Home,W,3,0,Newcastle Utd,3.3,1.5,38,38198,Séamus Coleman,4-4-1-1,Tim Robinson,Match Report,0
+2023-12-10,14:00,Premier League,Matchweek 16,Sun,Home,W,2,0,Chelsea,1.2,0.9,29,39280,James Tarkowski,4-4-1-1,Michael Oliver,Match Report,0
+2023-12-16,17:30,Premier League,Matchweek 17,Sat,Away,W,2,0,Burnley,1.4,0.7,39,21413,James Tarkowski,5-4-1,Anthony Taylor,Match Report,0
+2023-12-19,19:45,EFL Cup,Quarter-finals,Tue,Home,D,1 (6),1 (7),Fulham,0.0,0.0,50,38715,James Tarkowski,4-2-3-1,Graham Scott,Match Report,Fulham won on penalty kicks following extra time
+2023-12-23,15:00,Premier League,Matchweek 18,Sat,Away,L,1,2,Tottenham,1.8,1.5,39,61808,James Tarkowski,4-2-3-1,Stuart Attwell,Match Report,0
+2023-12-27,20:15,Premier League,Matchweek 19,Wed,Home,L,1,3,Manchester City,1.0,2.4,28,39327,James Tarkowski,4-2-3-1,John Brooks,Match Report,0
+2023-12-30,15:00,Premier League,Matchweek 20,Sat,Away,L,0,3,Wolves,0.4,1.9,47,31639,James Tarkowski,5-4-1,Thomas Bramall,Match Report,0
+2024-01-04,20:00,FA Cup,Third round proper,Thu,Away,D,0,0,Crystal Palace,0.0,0.0,47,24489,Séamus Coleman,4-2-3-1,Chris Kavanagh,Match Report,0
+2024-01-14,14:00,Premier League,Matchweek 21,Sun,Home,D,0,0,Aston Villa,1.1,1.2,32,39284,Séamus Coleman,4-2-3-1,David Coote,Match Report,0
+2024-01-17,19:45,FA Cup,Third round proper,Wed,Home,W,1,0,Crystal Palace,0.0,0.0,51,37796,James Tarkowski,4-2-3-1,Tony Harrington,Match Report,0
+2024-01-27,15:00,FA Cup,Fourth round proper,Sat,Home,L,1,2,Luton Town,0.0,0.0,46,37713,James Tarkowski,4-4-2,Simon Hooper,Match Report,0
+2024-01-30,19:45,Premier League,Matchweek 22,Tue,Away,D,0,0,Fulham,1.9,1.6,30,24376,James Tarkowski,4-4-1-1,Thomas Bramall,Match Report,0
+2024-02-03,12:30,Premier League,Matchweek 23,Sat,Home,D,2,2,Tottenham,2.6,1.0,43,39321,James Tarkowski,4-4-1-1,Michael Oliver,Match Report,0
+2024-02-10,12:30,Premier League,Matchweek 24,Sat,Away,L,0,2,Manchester City,0.3,1.6,28,52187,James Tarkowski,4-2-3-1,John Brooks,Match Report,0
+2024-02-19,20:00,Premier League,Matchweek 25,Mon,Home,D,1,1,Crystal Palace,1.7,0.7,61,38164,James Tarkowski,4-4-1-1,Paul Tierney,Match Report,0
+2024-02-24,15:00,Premier League,Matchweek 26,Sat,Away,D,1,1,Brighton,0.3,1.4,36,41646,James Tarkowski,4-4-1-1,Tony Harrington,Match Report,0
+2024-03-02,15:00,Premier League,Matchweek 27,Sat,Home,L,1,3,West Ham,2.7,1.9,55,39262,James Tarkowski,4-4-1-1,Craig Pawson,Match Report,0
+2024-03-09,12:30,Premier League,Matchweek 28,Sat,Away,L,0,2,Manchester Utd,1.6,2.7,49,73601,James Tarkowski,4-4-1-1,Simon Hooper,Match Report,0
+2024-03-30,15:00,Premier League,Matchweek 30,Sat,Away,L,1,2,Bournemouth,1.0,1.3,52,11207,Séamus Coleman,4-4-1-1,Samuel Barrott,Match Report,0
+2024-04-02,19:30,Premier League,Matchweek 31,Tue,Away,D,1,1,Newcastle Utd,1.4,2.4,43,52135,James Tarkowski,4-4-1-1,Tony Harrington,Match Report,0
+2024-04-06,15:00,Premier League,Matchweek 32,Sat,Home,W,1,0,Burnley,0.9,0.5,38,39125,Séamus Coleman,4-4-1-1,Michael Oliver,Match Report,0
+2024-04-15,20:00,Premier League,Matchweek 33,Mon,Away,L,0,6,Chelsea,1.5,3.1,42,39392,Séamus Coleman,4-4-1-1,Paul Tierney,Match Report,0
+2024-04-21,13:30,Premier League,Matchweek 34,Sun,Home,W,2,0,Nott'ham Forest,0.3,0.9,41,39239,James Tarkowski,4-1-4-1,Anthony Taylor,Match Report,0
+2024-04-24,20:00,Premier League,Matchweek 29,Wed,Home,W,2,0,Liverpool,1.2,2.1,25,38222,James Tarkowski,4-4-1-1,Andy Madley,Match Report,0
+2024-04-27,17:30,Premier League,Matchweek 35,Sat,Home,W,1,0,Brentford,0.8,0.9,48,39098,James Tarkowski,4-4-1-1,Darren England,Match Report,0
+2024-05-03,20:00,Premier League,Matchweek 36,Fri,Away,D,1,1,Luton Town,1.4,0.8,49,11873,James Tarkowski,4-4-1-1,Tim Robinson,Match Report,0
+2024-05-11,15:00,Premier League,Matchweek 37,Sat,Home,W,1,0,Sheffield Utd,2.3,0.6,58,39221,Séamus Coleman,4-4-1-1,Stuart Attwell,Match Report,0
+2024-05-19,16:00,Premier League,Matchweek 38,Sun,Away,L,1,2,Arsenal,0.6,2.9,32,60312,Séamus Coleman,4-4-1-1,Michael Oliver,Match Report,0

@@ -1,0 +1,28 @@
+Player,Nation,Pos,Age,90s,SCA SCA,SCA SCA90,SCA Types PassLive,SCA Types PassDead,SCA Types TO,SCA Types Sh,SCA Types Fld,SCA Types Def,GCA GCA,GCA GCA90,GCA Types PassLive,GCA Types PassDead,GCA Types TO,GCA Types Sh,GCA Types Fld,GCA Types Def,Matches
+William Saliba,fr FRA,DF,22.0,38.0,29,0.76,26,0,1,2,0,0,3,0.08,3,0,0,0,0,0,Matches
+Declan Rice,eng ENG,MF,24.0,35.8,100,2.79,71,16,3,5,0,5,12,0.33,6,5,0,1,0,0,Matches
+Martin Ødegaard,no NOR,MF,24.0,34.3,220,6.41,178,17,8,10,6,1,23,0.67,18,2,0,2,1,0,Matches
+Ben White,eng ENG,DF,25.0,33.2,86,2.59,76,5,1,2,0,2,7,0.21,6,0,0,1,0,0,Matches
+Bukayo Saka,eng ENG,FW,21.0,32.4,188,5.8,137,26,10,9,4,2,21,0.65,16,2,1,1,1,0,Matches
+Gabriel Magalhães,br BRA,DF,25.0,33.8,23,0.68,20,1,0,1,0,1,3,0.09,3,0,0,0,0,0,Matches
+David Raya,es ESP,GK,27.0,32.0,4,0.12,3,1,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Kai Havertz,de GER,"MF,FW",24.0,29.3,106,3.62,87,0,3,8,6,2,22,0.75,16,0,2,2,2,0,Matches
+Gabriel Martinelli,br BRA,FW,22.0,22.4,92,4.1,63,6,12,8,1,2,11,0.49,7,1,1,2,0,0,Matches
+Oleksandr Zinchenko,ua UKR,DF,26.0,19.1,67,3.5,64,1,1,1,0,0,6,0.31,5,1,0,0,0,0,Matches
+Leandro Trossard,be BEL,"FW,MF",28.0,18.3,65,3.55,46,3,7,5,4,0,6,0.33,1,1,2,0,2,0,Matches
+Gabriel Jesus,br BRA,FW,26.0,16.4,59,3.59,37,1,9,5,3,4,8,0.49,4,1,1,1,1,0,Matches
+Jakub Kiwior,pl POL,DF,23.0,10.5,13,1.24,10,2,0,0,1,0,4,0.38,3,1,0,0,0,0,Matches
+Takehiro Tomiyasu,jp JPN,DF,24.0,12.8,17,1.33,16,0,0,1,0,0,2,0.16,2,0,0,0,0,0,Matches
+Eddie Nketiah,eng ENG,FW,24.0,12.0,28,2.33,17,0,3,5,3,0,8,0.67,3,0,1,1,3,0,Matches
+Jorginho,it ITA,MF,31.0,10.2,27,2.64,25,0,0,1,0,1,5,0.49,5,0,0,0,0,0,Matches
+Thomas Partey,gh GHA,"MF,DF",30.0,8.8,25,2.86,24,0,0,0,1,0,4,0.46,4,0,0,0,0,0,Matches
+Aaron Ramsdale,eng ENG,GK,25.0,6.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Emile Smith Rowe,eng ENG,MF,23.0,3.9,13,3.31,10,1,0,1,1,0,2,0.51,1,1,0,0,0,0,Matches
+Fabio Vieira,pt POR,"MF,FW",23.0,3.3,12,3.64,7,1,0,1,3,0,5,1.52,1,1,0,0,3,0,Matches
+Reiss Nelson,eng ENG,FW,23.0,3.0,9,3.02,7,1,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Jurriën Timber,nl NED,DF,22.0,0.8,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Cédric Soares,pt POR,DF,31.0,0.7,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Mohamed Elneny,eg EGY,MF,31.0,0.3,1,3.21,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Ethan Nwaneri,eng ENG,FW,16.0,0.2,1,6.43,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Squad Total,0,0,25.0,38.0,1185,31.18,926,82,58,66,33,20,152,4.0,104,16,8,11,13,0,0
+Opponent Total,0,0,26.3,38.0,531,13.97,376,35,30,44,23,23,44,1.16,24,4,4,5,2,5,0

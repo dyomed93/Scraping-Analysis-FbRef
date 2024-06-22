@@ -1,0 +1,47 @@
+D a t e,T i m e,C o m p,R o u n d,D a y,V e n u e,R e s u l t,G F,G A,O p p o n e n t,x G,x G A,P o s s,A t t e n d a n c e,C a p t a i n,F o r m a t i o n,R e f e r e e,M a t c h   R e p o r t,N o t e s
+2023-08-12,21:30,La Liga,Matchweek 1,Sat,Home,L,0,2,Real Madrid,0.4,0.9,46,48927,Iker Muniain,4-2-3-1,Jesús Gil,Match Report,0
+2023-08-19,21:30,La Liga,Matchweek 2,Sat,Away,W,2,0,Osasuna,1.5,1.3,37,20704,Óscar de Marcos,4-2-3-1,José Luis Munuera,Match Report,0
+2023-08-27,21:30,La Liga,Matchweek 3,Sun,Home,W,4,2,Betis,2.9,0.4,48,44340,Iker Muniain,4-2-3-1,César Soto,Match Report,0
+2023-09-03,16:15,La Liga,Matchweek 4,Sun,Away,D,0,0,Mallorca,0.6,0.4,67,17043,Iñaki Williams,4-2-3-1,Jorge Figueroa,Match Report,0
+2023-09-16,14:00,La Liga,Matchweek 5,Sat,Home,W,3,0,Cádiz,2.9,0.3,65,42881,Óscar de Marcos,4-2-3-1,Guillermo Cuadra,Match Report,0
+2023-09-22,21:00,La Liga,Matchweek 6,Fri,Away,W,2,0,Alavés,1.7,1.1,56,19421,Óscar de Marcos,4-2-3-1,Alejandro Muñíz,Match Report,0
+2023-09-27,19:00,La Liga,Matchweek 7,Wed,Home,D,2,2,Getafe,0.7,1.4,49,43091,Óscar de Marcos,4-2-3-1,Isidro Díaz de Mera,Match Report,0
+2023-09-30,21:00,La Liga,Matchweek 8,Sat,Away,L,0,3,Real Sociedad,1.8,1.4,49,38229,Iker Muniain,4-2-3-1,Jesús Gil,Match Report,0
+2023-10-06,21:00,La Liga,Matchweek 9,Fri,Home,W,3,0,Almería,1.9,0.1,59,43677,Óscar de Marcos,4-2-3-1,Víctor García,Match Report,0
+2023-10-22,21:00,La Liga,Matchweek 10,Sun,Away,L,0,1,Barcelona,0.4,1.3,38,38194,Óscar de Marcos,4-2-3-1,Juan Martínez,Match Report,0
+2023-10-29,18:30,La Liga,Matchweek 11,Sun,Home,D,2,2,Valencia,1.9,1.9,57,46563,Óscar de Marcos,4-2-3-1,Jorge Figueroa,Match Report,0
+2023-11-01,21:30,Copa del Rey,First round,Wed,Away,W,2,1,Rubí,0.0,0.0,75,4000,Iker Muniain,4-2-3-1,César Soto,Match Report,0
+2023-11-05,18:30,La Liga,Matchweek 12,Sun,Away,W,3,2,Villarreal,2.3,2.1,43,18709,Óscar de Marcos,4-2-3-1,Guillermo Cuadra,Match Report,0
+2023-11-10,21:00,La Liga,Matchweek 13,Fri,Home,W,4,3,Celta Vigo,4.6,2.1,58,44435,Óscar de Marcos,4-2-3-1,Juan Pulido,Match Report,0
+2023-11-27,21:00,La Liga,Matchweek 14,Mon,Away,D,1,1,Girona,1.5,1.3,40,13123,Óscar de Marcos,4-2-3-1,Mario Melero,Match Report,0
+2023-12-02,16:15,La Liga,Matchweek 15,Sat,Home,W,4,0,Rayo Vallecano,1.3,0.5,51,44689,Óscar de Marcos,4-2-3-1,Francisco Hernández,Match Report,0
+2023-12-07,21:00,Copa del Rey,Second round,Thu,Away,W,3,0,Cayón,0.0,0.0,68,12295,Iker Muniain,4-2-3-1,Javier Villanueva,Match Report,0
+2023-12-11,21:00,La Liga,Matchweek 16,Mon,Away,D,1,1,Granada,1.1,0.7,52,12849,Óscar de Marcos,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,0
+2023-12-16,16:15,La Liga,Matchweek 17,Sat,Home,W,2,0,Atlético Madrid,2.4,0.4,38,48781,Iñaki Williams,4-2-3-1,Jesús Gil,Match Report,0
+2023-12-20,21:30,La Liga,Matchweek 18,Wed,Home,W,1,0,Las Palmas,3.4,0.3,50,39471,Iñaki Williams,4-2-3-1,Juan Martínez,Match Report,0
+2024-01-04,19:15,La Liga,Matchweek 19,Thu,Away,W,2,0,Sevilla,1.3,0.7,39,28366,Iñigo Lekue,4-2-3-1,José Sánchez,Match Report,0
+2024-01-07,19:00,Copa del Rey,Round of 32,Sun,Away,W,3,0,Eibar,0.0,0.0,51,7499,Iker Muniain,4-2-3-1,Alejandro Hernández,Match Report,0
+2024-01-13,18:30,La Liga,Matchweek 20,Sat,Home,W,2,1,Real Sociedad,1.6,1.1,49,51475,Iñigo Lekue,4-2-3-1,José Luis Munuera,Match Report,0
+2024-01-16,21:00,Copa del Rey,Round of 16,Tue,Home,W,2,0,Alavés,0.0,0.0,64,45233,Iker Muniain,4-2-3-1,César Soto,Match Report,0
+2024-01-20,18:30,La Liga,Matchweek 21,Sat,Away,L,0,1,Valencia,0.5,0.9,60,45344,Iñigo Lekue,4-2-3-1,Juan Pulido,Match Report,0
+2024-01-24,21:30,Copa del Rey,Quarter-finals,Wed,Home,W,4,2,Barcelona,0.0,0.0,39,50403,Iñigo Lekue,4-2-3-1,José Sánchez,Match Report,Required Extra Time
+2024-01-28,16:15,La Liga,Matchweek 22,Sun,Away,D,0,0,Cádiz,0.2,0.4,57,18839,Óscar de Marcos,4-2-3-1,Mateo Busquets,Match Report,0
+2024-02-02,21:00,La Liga,Matchweek 23,Fri,Home,W,4,0,Mallorca,1.7,0.4,62,47061,Óscar de Marcos,4-2-3-1,Jorge Figueroa,Match Report,0
+2024-02-07,21:30,Copa del Rey,Semi-finals,Wed,Away,W,1,0,Atlético Madrid,0.0,0.0,32,65029,Iñaki Williams,4-2-3-1,Alejandro Hernández,Match Report,Leg 1 of 2
+2024-02-12,21:00,La Liga,Matchweek 24,Mon,Away,D,0,0,Almería,0.7,0.9,61,12863,Óscar de Marcos,4-2-3-1,Víctor García,Match Report,0
+2024-02-19,21:00,La Liga,Matchweek 25,Mon,Home,W,3,2,Girona,1.8,2.1,31,46220,Iñaki Williams,4-2-3-1,José Sánchez,Match Report,0
+2024-02-25,16:15,La Liga,Matchweek 26,Sun,Away,L,1,3,Betis,0.2,1.2,43,53537,Óscar de Marcos,4-2-3-1,Guillermo Cuadra,Match Report,0
+2024-02-29,21:30,Copa del Rey,Semi-finals,Thu,Home,W,3,0,Atlético Madrid,0.0,0.0,40,52061,Óscar de Marcos,4-2-3-1,Juan Martínez,Match Report,Leg 2 of 2; Athletic Club won
+2024-03-03,21:00,La Liga,Matchweek 27,Sun,Home,D,0,0,Barcelona,0.4,0.7,40,50295,Iñaki Williams,4-2-3-1,Alejandro Hernández,Match Report,0
+2024-03-10,15:15,La Liga,Matchweek 28,Sun,Away,W,2,0,Las Palmas,1.1,1.2,30,27316,Óscar de Marcos,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,0
+2024-03-16,21:00,La Liga,Matchweek 29,Sat,Home,W,2,0,Alavés,1.7,1.3,59,48257,Óscar de Marcos,4-2-3-1,Alejandro Muñíz,Match Report,0
+2024-03-31,21:00,La Liga,Matchweek 30,Sun,Away,L,0,2,Real Madrid,0.3,1.1,42,72991,Óscar de Marcos,4-2-3-1,Javier Alberola,Match Report,0
+2024-04-06,22:00,Copa del Rey,Final,Sat,Home,D,1 (4),1 (2),Mallorca,0.0,0.0,69,57619,Óscar de Marcos,4-2-3-1,José Luis Munuera,Match Report,Athletic Club won on penalty kicks following extra time
+2024-04-14,18:30,La Liga,Matchweek 31,Sun,Home,D,1,1,Villarreal,0.7,2.1,53,50061,Óscar de Marcos,4-2-3-1,Guillermo Cuadra,Match Report,0
+2024-04-19,21:00,La Liga,Matchweek 32,Fri,Home,D,1,1,Granada,1.5,0.2,67,45917,Óscar de Marcos,4-2-3-1,Javier Villanueva,Match Report,0
+2024-04-27,21:00,La Liga,Matchweek 33,Sat,Away,L,1,3,Atlético Madrid,1.0,0.8,58,64612,Iñaki Williams,4-2-3-1,Juan Martínez,Match Report,0
+2024-05-03,21:00,La Liga,Matchweek 34,Fri,Away,W,2,0,Getafe,0.6,4.5,36,12149,Óscar de Marcos,4-2-3-1,Jesús Gil,Match Report,0
+2024-05-11,21:00,La Liga,Matchweek 35,Sat,Home,D,2,2,Osasuna,1.4,1.0,67,45273,Iker Muniain,4-2-3-1,José Sánchez,Match Report,0
+2024-05-15,22:00,La Liga,Matchweek 36,Wed,Away,L,1,2,Celta Vigo,0.2,0.7,47,21301,Iñigo Lekue,4-2-3-1,Víctor García,Match Report,0
+2024-05-19,19:00,La Liga,Matchweek 37,Sun,Home,W,2,0,Sevilla,1.6,0.9,53,44717,Iker Muniain,4-2-3-1,Juan Pulido,Match Report,0
+2024-05-25,18:30,La Liga,Matchweek 38,Sat,Away,W,1,0,Rayo Vallecano,0.9,1.1,37,13090,Iñigo Lekue,4-2-3-1,José Luis Munuera,Match Report,0

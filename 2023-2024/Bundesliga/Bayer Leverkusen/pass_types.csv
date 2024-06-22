@@ -1,0 +1,27 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Lukáš Hrádecký,fi FIN,GK,33.0,33.0,886,695,186,41,0,2,0,0,0,0,0,0,706,5,1,Matches
+Granit Xhaka,ch SUI,MF,30.0,31.3,3292,3221,65,39,12,17,10,17,0,0,0,0,3020,6,27,Matches
+Álex Grimaldo,es ESP,DF,27.0,30.9,2148,1801,338,35,5,11,202,192,111,60,17,1,1762,9,49,Matches
+Jonathan Tah,de GER,DF,27.0,29.2,2193,2156,33,26,1,7,3,1,0,0,0,0,2070,4,6,Matches
+Jeremie Frimpong,nl NED,DF,22.0,25.0,1026,919,103,3,4,4,93,100,0,0,0,0,797,4,38,Matches
+Florian Wirtz,de GER,MF,20.0,26.4,1855,1764,77,13,23,7,36,35,22,6,1,0,1540,14,54,Matches
+Jonas Hofmann,de GER,MF,31.0,24.5,1530,1355,169,28,7,10,126,33,97,47,23,1,1214,6,43,Matches
+Edmond Tapsoba,bf BFA,DF,24.0,23.2,1973,1896,72,40,5,11,5,10,0,0,0,0,1795,5,10,Matches
+Exequiel Palacios,ar ARG,MF,24.0,20.3,2023,1967,51,28,7,9,6,10,2,0,0,0,1856,5,23,Matches
+Odilon Kossonou,ci CIV,DF,22.0,20.1,1428,1339,88,31,4,7,2,57,0,0,0,0,1274,1,17,Matches
+Robert Andrich,de GER,"MF,DF",28.0,18.8,1494,1458,34,32,5,4,14,2,0,0,0,0,1346,2,10,Matches
+Victor Boniface,ng NGA,FW,22.0,17.2,385,367,15,1,4,3,3,5,0,0,0,0,278,3,17,Matches
+Piero Hincapié,ec ECU,DF,21.0,16.5,1435,1375,58,18,2,5,8,30,0,0,0,0,1307,2,8,Matches
+Josip Stanišić,hr CRO,DF,23.0,14.0,1077,1018,54,17,1,6,16,37,0,0,0,0,961,5,12,Matches
+Patrik Schick,cz CZE,FW,27.0,11.8,231,220,11,0,1,1,1,2,0,0,0,0,184,0,5,Matches
+Amine Adli,ma MAR,"MF,FW",23.0,10.0,459,447,11,2,2,1,23,7,0,0,0,0,367,1,10,Matches
+Nathan Tella,ng NGA,"DF,MF",24.0,9.1,351,323,28,0,1,4,27,27,1,0,0,0,279,0,14,Matches
+Adam Hložek,cz CZE,"MF,FW",21.0,5.1,152,151,1,0,0,0,0,1,0,0,0,0,123,0,4,Matches
+Borja Iglesias,es ESP,FW,30.0,2.8,75,74,0,0,0,0,1,0,0,0,0,0,58,1,3,Matches
+Arthur,br BRA,DF,20.0,2.0,109,96,13,0,0,0,7,12,1,0,0,0,88,0,3,Matches
+Matej Kovar,cz CZE,GK,23.0,1.0,17,16,1,1,0,0,0,0,0,0,0,0,17,0,0,Matches
+Nadiem Amiri,de GER,MF,26.0,1.0,100,98,2,1,0,0,1,0,1,0,0,0,92,0,2,Matches
+Gustavo Puerta,co COL,"DF,MF",20.0,0.5,42,40,2,1,0,0,1,0,1,0,1,0,39,0,0,Matches
+Noah Mbamba,be BEL,MF,18.0,0.2,20,20,0,0,0,0,1,0,0,0,0,0,19,0,0,Matches
+Squad Total,0,0,26.2,34.0,24301,22816,1412,357,84,109,586,578,236,113,42,2,21192,73,356,0
+Opponent Total,0,0,26.5,34.0,14960,13528,1394,371,35,58,405,504,112,63,43,0,11820,38,280,0

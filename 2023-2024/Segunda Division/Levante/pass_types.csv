@@ -1,0 +1,36 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Andrés Fernández,es ESP,GK,37-187,33.0,973,619,354,86,0,0,0,0,0,0,0,0,786,0,1,Matches
+Oriol Rey,es ESP,MF,26-117,32.4,1690,1648,36,32,3,7,9,3,1,0,0,0,1442,6,26,Matches
+Álex Muñoz,es ESP,DF,29-327,29.6,1714,1556,155,51,0,5,23,103,0,0,0,0,1436,3,18,Matches
+Pablo Martínez,es ESP,MF,26-120,25.8,1413,1229,174,57,8,18,141,14,96,31,40,0,1077,10,28,Matches
+Sergio Lozano,es ESP,MF,25-089,24.4,1296,1165,119,44,17,16,80,3,67,24,26,1,1011,12,26,Matches
+Álex Valle,es ESP,DF,20-057,25.6,1495,1226,266,34,0,6,61,228,4,0,0,0,1147,3,46,Matches
+Dani Gómez,es ESP,FW,25-327,22.6,415,378,34,1,5,3,15,2,1,0,0,0,306,3,10,Matches
+Adrián de la Fuente,es ESP,DF,25-116,28.8,1821,1691,124,69,1,19,25,48,0,0,0,0,1493,6,11,Matches
+Carlos Álvarez,es ESP,MF,20-320,20.9,854,796,51,20,8,3,44,5,24,9,2,0,657,7,22,Matches
+Mohamed Bouldini,ma MAR,FW,28-207,23.0,471,437,28,1,3,3,6,1,0,0,0,0,300,6,15,Matches
+Sergio Postigo,es ESP,DF,35-230,18.6,904,857,45,41,1,8,0,3,0,0,0,0,775,2,9,Matches
+Brugui,es ESP,"MF,FW",27-230,20.6,590,564,17,4,2,1,36,7,2,0,0,0,422,9,27,Matches
+Ander Capa,es ESP,DF,32-134,17.0,979,794,185,10,0,2,29,175,0,0,0,0,793,0,18,Matches
+Rúben Vezo,pt POR,DF,30-057,15.9,1002,917,82,45,3,12,7,33,0,0,0,0,819,3,11,Matches
+Andrés García,es ESP,"DF,MF",21-135,16.7,764,677,83,4,1,7,79,78,1,0,0,0,573,4,14,Matches
+Fabrício,br BRA,"FW,MF",23-257,15.1,207,194,13,4,0,3,41,2,0,0,0,0,116,0,16,Matches
+Giorgi Kochorashvili,ge GEO,MF,24-358,14.3,777,732,44,20,0,6,28,6,17,5,7,0,650,1,24,Matches
+Ángel Algobia,es ESP,MF,24-364,12.8,671,661,9,8,0,12,5,1,0,0,0,0,577,1,10,Matches
+Álex Cantero,es ESP,"FW,MF",24-013,9.8,228,217,8,0,3,0,20,6,0,0,0,0,145,3,14,Matches
+Joan Femenías,es ESP,GK,27-307,9.0,256,167,88,13,0,0,0,0,0,0,0,0,222,1,0,Matches
+Iván Romero,es ESP,"FW,MF",23-072,9.6,199,195,3,1,0,2,5,2,0,0,0,0,143,1,10,Matches
+Nikola Maraš,rs SRB,DF,28-185,7.5,399,386,12,11,0,0,0,1,0,0,0,0,362,1,2,Matches
+Xavi Grande,es ESP,DF,19-145,6.8,336,266,67,5,0,1,41,62,0,0,0,0,236,3,7,Matches
+Jorge Cabello,es ESP,DF,20-057,5.7,323,316,7,7,0,1,0,0,0,0,0,0,289,0,4,Matches
+Óscar Clemente,es ESP,MF,25-087,8.8,404,389,14,4,0,3,16,3,6,2,2,0,331,1,16,Matches
+Robert Ibáñez,es ESP,"MF,FW",31-091,4.0,117,115,1,0,0,1,9,1,0,0,0,0,88,1,3,Matches
+Buba Sangaré,es ESP,DF,16-320,1.0,32,19,13,0,0,0,1,13,0,0,0,0,25,0,0,Matches
+Marcos Navarro,es ESP,DF,20-022,0.6,33,19,13,1,0,0,1,12,0,0,0,0,27,1,0,Matches
+Paco Cortés,es ESP,MF,16-315,0.5,28,26,2,0,0,0,1,0,2,1,0,0,24,0,1,Matches
+Carlos Espí,es ESP,FW,18-333,0.4,8,8,0,0,0,0,0,0,0,0,0,0,4,0,1,Matches
+Lancinet Kourouma,es ESP,MF,20-083,0.2,10,9,1,1,0,1,1,0,0,0,0,0,7,0,1,Matches
+Edgar Alcañiz,es ESP,"FW,MF",19-095,0.1,4,4,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+Alejandro Blesa,es ESP,MF,22-158,0.1,6,6,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+Squad Total,0,0,26.9,42.0,20419,18283,2048,574,55,140,724,812,221,72,77,1,16288,88,391,0
+Opponent Total,0,0,27.8,42.0,19074,16858,2140,650,48,140,883,884,192,69,73,1,14801,76,357,0

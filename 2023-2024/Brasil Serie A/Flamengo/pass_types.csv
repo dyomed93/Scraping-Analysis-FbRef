@@ -1,0 +1,27 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Agustín Rossi,ar ARG,GK,28-304,9.0,344,278,65,17,0,0,0,0,0,0,0,0,268,1,0,Matches
+Fabrício Bruno,br BRA,DF,28-129,8.0,488,457,29,23,0,6,0,3,0,0,0,0,443,2,2,Matches
+Pedro,br BRA,FW,27-000,7.9,128,121,6,0,1,1,1,0,0,0,0,0,97,1,3,Matches
+Léo Pereira,br BRA,DF,28-141,7.8,420,378,42,25,0,2,9,15,0,0,0,0,318,0,7,Matches
+Nicolás De La Cruz,uy URU,MF,27-019,6.0,419,368,50,15,1,2,26,2,31,9,9,1,344,1,2,Matches
+Ayrton Lucas,br BRA,DF,27-001,5.7,257,213,44,9,0,0,13,35,0,0,0,0,210,0,7,Matches
+Gerson,br BRA,"FW,MF",27-031,5.8,322,311,11,5,0,0,11,4,2,0,0,0,285,0,9,Matches
+Bruno Henrique,br BRA,FW,33-173,5.8,156,154,2,1,0,0,11,1,0,0,0,0,113,0,8,Matches
+Guillermo Varela,uy URU,DF,31-088,4.6,258,218,40,3,0,0,14,37,0,0,0,0,220,0,6,Matches
+Allan,br BRA,MF,27-109,4.3,216,206,10,7,1,0,3,2,0,0,0,0,184,0,3,Matches
+Everton Soares,br BRA,FW,28-090,2.6,66,62,4,1,0,0,7,1,2,1,1,0,50,0,5,Matches
+Luiz Araújo,br BRA,"FW,MF",28-018,5.8,188,171,16,3,0,3,23,3,10,6,3,0,134,1,10,Matches
+Erick Pulgar,cl CHI,MF,30-157,4.1,220,217,3,3,0,0,0,0,0,0,0,0,191,0,2,Matches
+Giorgian De Arrascaeta,uy URU,MF,30-019,3.8,213,188,25,11,1,0,17,0,7,6,0,0,180,0,1,Matches
+Wesley,br BRA,DF,20-288,3.4,134,113,21,0,0,0,6,21,0,0,0,0,114,0,3,Matches
+Lorran,br BRA,MF,17-352,3.0,125,113,11,3,1,0,12,0,8,2,4,0,85,1,8,Matches
+David Luiz,br BRA,DF,37-059,3.0,163,149,14,8,0,0,2,0,1,1,0,0,145,0,1,Matches
+Leo Ortiz,br BRA,"MF,DF",28-169,2.9,109,100,7,7,0,1,1,0,0,0,0,0,92,2,2,Matches
+Matías Viña,uy URU,DF,26-224,2.1,121,101,20,2,0,0,9,18,0,0,0,0,100,0,3,Matches
+Igor,br BRA,MF,21-105,0.8,36,35,1,1,0,1,0,0,0,0,0,0,32,0,0,Matches
+Carlinhos,br BRA,"FW,DF",27-129,0.7,10,10,0,0,0,0,0,0,0,0,0,0,7,0,0,Matches
+Gabriel Barbosa,br BRA,"FW,MF",27-295,0.9,21,19,2,0,0,0,0,0,1,0,0,0,19,0,0,Matches
+Victor Hugo,br BRA,"FW,MF",20-040,0.8,39,36,3,0,1,1,5,1,2,0,2,0,29,0,2,Matches
+Evertton,br BRA,MF,21-113,0.2,12,12,0,0,0,0,0,0,0,0,0,0,11,0,0,Matches
+Squad Total,0,0,28.1,9.0,4465,4030,426,144,6,17,170,143,64,25,19,1,3671,9,84,0
+Opponent Total,0,0,27.9,9.0,3510,3092,408,108,2,24,153,164,40,17,16,1,2732,10,62,0

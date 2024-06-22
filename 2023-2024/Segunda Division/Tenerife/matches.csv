@@ -1,0 +1,47 @@
+D a t e,T i m e,C o m p,R o u n d,D a y,V e n u e,R e s u l t,G F,G A,O p p o n e n t,x G,x G A,P o s s,A t t e n d a n c e,C a p t a i n,F o r m a t i o n,R e f e r e e,M a t c h   R e p o r t,N o t e s
+2023-08-14,20:30,La Liga 2,Matchweek 1,Mon,Home,W,1,0,Oviedo,2.0,0.2,53.0,15861,Aitor Sanz,4-4-2,Saúl Ais,Match Report,0
+2023-08-21,21:30,La Liga 2,Matchweek 2,Mon,Away,W,2,0,Huesca,1.3,1.1,46.0,5434,Nikola Šipčić,4-2-3-1,José López,Match Report,0
+2023-08-26,18:00,La Liga 2,Matchweek 3,Sat,Home,L,0,1,Zaragoza,0.6,0.7,54.0,18848,Nikola Šipčić,4-4-2,Jon González,Match Report,0
+2023-09-03,14:00,La Liga 2,Matchweek 4,Sun,Away,W,1,0,FC Andorra,1.6,1.0,25.0,2010,Sergio González,4-4-2,Salvador Lax,Match Report,0
+2023-09-09,20:00,La Liga 2,Matchweek 5,Sat,Home,W,2,0,Albacete,1.8,1.6,37.0,17612,Enric Gallego,4-4-2,Andrés Fuentes,Match Report,0
+2023-09-17,21:00,La Liga 2,Matchweek 6,Sun,Away,L,1,2,Sporting Gijón,0.4,1.2,47.0,15792,Enric Gallego,4-2-3-1,Luis Milla,Match Report,0
+2023-09-25,20:00,La Liga 2,Matchweek 7,Mon,Home,W,1,0,Espanyol,1.8,1.9,46.0,18229,Enric Gallego,4-4-2,Dámaso Arcediano,Match Report,0
+2023-09-30,16:15,La Liga 2,Matchweek 8,Sat,Away,L,0,3,Eibar,0.3,0.7,44.0,4754,Sergio González,4-4-1-1,José Guzmán,Match Report,0
+2023-10-03,20:30,La Liga 2,Matchweek 9,Tue,Home,W,2,0,Racing Sant,2.3,0.3,53.0,14717,Enric Gallego,4-4-2,Rafael Sánchez,Match Report,0
+2023-10-08,17:30,La Liga 2,Matchweek 10,Sun,Home,W,2,1,Burgos,1.8,2.4,49.0,18383,Enric Gallego,4-4-1-1,Álvaro Moreno,Match Report,0
+2023-10-14,16:15,La Liga 2,Matchweek 11,Sat,Away,D,1,1,CD Mirandés,0.4,1.2,52.0,2848,Enric Gallego,4-4-2,Miguel Sesma,Match Report,0
+2023-10-21,17:30,La Liga 2,Matchweek 12,Sat,Home,D,0,0,Levante,1.3,0.3,57.0,19102,Enric Gallego,4-4-2,Alejandro Quintero,Match Report,0
+2023-10-28,21:00,La Liga 2,Matchweek 13,Sat,Away,L,1,2,Elche,0.5,1.6,46.0,13745,Sergio González,4-4-1-1,Rubén Ávalos,Match Report,0
+2023-11-01,12:00,Copa del Rey,First round,Wed,Away,W,1,0,Compostela,0.0,0.0,0.0,2503,Aitor Sanz,4-4-1-1,Germán Cid Camacho,Match Report,0
+2023-11-04,18:30,La Liga 2,Matchweek 14,Sat,Away,L,0,2,Valladolid,0.3,0.8,50.0,16409,Enric Gallego,4-4-2,Jon González,Match Report,0
+2023-11-12,17:30,La Liga 2,Matchweek 15,Sun,Home,L,0,1,Villarreal B,1.6,1.2,66.0,17876,Enric Gallego,4-4-2,Miguel González,Match Report,0
+2023-11-18,18:30,La Liga 2,Matchweek 16,Sat,Away,L,0,2,Amorebieta,1.8,0.4,64.0,1193,Aitor Sanz,5-3-2,Salvador Lax,Match Report,0
+2023-11-26,17:30,La Liga 2,Matchweek 17,Sun,Home,D,1,1,Cartagena,1.5,0.7,61.0,16423,Álex Corredera,4-2-3-1,Germán Cid Camacho,Match Report,0
+2023-12-02,16:15,La Liga 2,Matchweek 18,Sat,Away,W,3,0,Eldense,0.9,0.7,42.0,3950,Aitor Sanz,4-4-2,Álvaro Moreno,Match Report,0
+2023-12-06,12:00,Copa del Rey,Second round,Wed,Away,W,3,2,La Coruña,0.0,0.0,67.0,18549,Sergio González,4-2-3-1,Luis Milla,Match Report,Required Extra Time
+2023-12-11,20:00,La Liga 2,Matchweek 19,Mon,Home,W,1,0,Alcorcón,1.6,0.4,49.0,13406,Aitor Sanz,4-4-2,Alejandro Quintero,Match Report,0
+2023-12-17,21:00,La Liga 2,Matchweek 20,Sun,Away,L,1,3,Racing Ferrol,1.0,1.8,46.0,5831,Nikola Šipčić,4-4-2,Rubén Ávalos,Match Report,0
+2023-12-20,21:30,La Liga 2,Matchweek 21,Wed,Away,D,1,1,Leganés,0.2,0.3,46.0,6807,Aitor Sanz,4-2-3-1,Iván Caparrós,Match Report,0
+2024-01-07,21:00,Copa del Rey,Round of 32,Sun,Home,W,2,0,Las Palmas,0.0,0.0,26.0,21427,Aitor Sanz,4-2-3-1,Ricardo de Burgos,Match Report,0
+2024-01-13,17:30,La Liga 2,Matchweek 22,Sat,Home,L,0,1,Elche,0.4,1.1,57.0,17177,Aitor Sanz,4-1-4-1,Jon González,Match Report,0
+2024-01-16,21:00,Copa del Rey,Round of 16,Tue,Home,L,0,1,Mallorca,0.0,0.0,50.0,20176,Aitor Sanz,3-4-3,Mario Melero,Match Report,Required Extra Time
+2024-01-20,17:30,La Liga 2,Matchweek 23,Sat,Home,L,1,2,Sporting Gijón,0.9,0.7,51.0,16230,Sergio González,4-4-2,Luis Milla,Match Report,0
+2024-01-27,21:00,La Liga 2,Matchweek 24,Sat,Away,D,0,0,Levante,0.4,1.3,54.0,14427,Aitor Sanz,4-4-2,José López,Match Report,0
+2024-02-03,20:00,La Liga 2,Matchweek 25,Sat,Home,D,0,0,FC Andorra,1.0,0.5,44.0,14824,Aitor Sanz,4-4-2,Andrés Fuentes,Match Report,0
+2024-02-11,14:00,La Liga 2,Matchweek 26,Sun,Away,L,0,1,Villarreal B,0.3,0.4,45.0,1141,Aitor Sanz,4-4-1-1,Alejandro Quintero,Match Report,0
+2024-02-19,19:30,La Liga 2,Matchweek 27,Mon,Home,W,1,0,Eldense,1.3,0.5,49.0,12546,Aitor Sanz,4-4-2,Dámaso Arcediano,Match Report,0
+2024-02-25,16:15,La Liga 2,Matchweek 28,Sun,Away,D,1,1,Alcorcón,0.5,0.3,52.0,3382,Aitor Sanz,4-4-2,Miguel González,Match Report,0
+2024-03-03,15:15,La Liga 2,Matchweek 29,Sun,Home,W,2,1,CD Mirandés,1.9,1.1,53.0,13762,Aitor Sanz,4-2-3-1,Álvaro Moreno,Match Report,0
+2024-03-10,14:00,La Liga 2,Matchweek 30,Sun,Away,L,2,4,Racing Sant,1.4,2.0,49.0,13382,Enric Gallego,4-2-3-1,Oliver De La Fuente,Match Report,0
+2024-03-16,17:30,La Liga 2,Matchweek 31,Sat,Home,D,0,0,Huesca,1.8,0.3,63.0,12898,Enric Gallego,4-4-1-1,Germán Cid Camacho,Match Report,0
+2024-03-23,21:00,La Liga 2,Matchweek 32,Sat,Away,D,1,1,Espanyol,0.4,2.1,34.0,21159,Enric Gallego,4-4-2,Manuel Orellana,Match Report,0
+2024-03-31,16:15,La Liga 2,Matchweek 33,Sun,Away,L,1,3,Zaragoza,1.2,0.7,66.0,18614,Nikola Šipčić,4-4-2,Iván Caparrós,Match Report,0
+2024-04-07,17:30,La Liga 2,Matchweek 34,Sun,Home,W,2,1,Eibar,0.7,0.9,43.0,15081,Aitor Sanz,4-2-3-1,Alejandro Quintero,Match Report,0
+2024-04-14,16:15,La Liga 2,Matchweek 35,Sun,Away,L,0,1,Albacete,0.2,2.6,47.0,12468,Aitor Sanz,4-4-2,Saúl Ais,Match Report,0
+2024-04-19,19:30,La Liga 2,Matchweek 36,Fri,Home,D,0,0,Leganés,0.1,0.5,56.0,13427,Aitor Sanz,4-4-1-1,Jon González,Match Report,0
+2024-04-28,16:15,La Liga 2,Matchweek 37,Sun,Away,W,1,0,Oviedo,0.3,1.1,31.0,19875,Aitor Sanz,4-4-2,Rafael Sánchez,Match Report,0
+2024-05-05,20:00,La Liga 2,Matchweek 38,Sun,Home,W,2,0,Racing Ferrol,2.2,0.7,51.0,12438,Aitor Sanz,4-4-2,Miguel González,Match Report,0
+2024-05-12,18:30,La Liga 2,Matchweek 39,Sun,Away,L,0,2,Cartagena,0.8,1.3,55.0,10867,Aitor Sanz,3-5-2,Álvaro Moreno,Match Report,0
+2024-05-18,20:00,La Liga 2,Matchweek 40,Sat,Home,L,0,1,Amorebieta,1.3,1.3,55.0,10284,Aitor Sanz,4-4-2,Oliver De La Fuente,Match Report,0
+2024-05-26,18:30,La Liga 2,Matchweek 41,Sun,Away,D,1,1,Burgos,1.7,2.4,35.0,9432,Aitor Sanz,4-4-1-1,Iván Caparrós,Match Report,0
+2024-06-02,17:30,La Liga 2,Matchweek 42,Sun,Home,W,2,1,Valladolid,1.7,0.8,51.0,11142,Enric Gallego,4-4-2,Rubén Ávalos,Match Report,0

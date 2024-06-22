@@ -1,0 +1,26 @@
+Player,Nation,Pos,Age,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,Matches
+Jeffrey De Lange,nl NED,GK,25.0,34.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,7,2,Matches
+Bas Kuipers,nl NED,DF,28.0,32.8,47,28,24,17,6,31,55,56.4,24,34,15,19,31,78,90,0,Matches
+Mats Deijl,nl NED,DF,26.0,30.9,54,40,21,27,6,31,56,55.4,25,25,7,18,18,72,105,0,Matches
+Willum Þór Willumsson,is ISL,MF,24.0,29.7,32,17,7,18,7,6,18,33.3,12,25,6,19,12,44,44,0,Matches
+Evert Linthorst,nl NED,MF,23.0,26.3,39,19,16,18,5,21,41,51.2,20,37,17,20,36,75,79,0,Matches
+Oliver Edvardsen,no NOR,"FW,MF",24.0,26.1,30,12,9,15,6,15,48,31.3,33,26,2,24,18,48,28,0,Matches
+Joris Kramer,nl NED,DF,26.0,28.5,37,25,25,12,0,20,29,69.0,9,48,35,13,26,63,174,1,Matches
+Bobby Adekanye,nl NED,FW,24.0,20.0,18,11,6,9,3,8,27,29.6,19,18,2,16,4,22,12,0,Matches
+Victor Edvardsen,se SWE,FW,27.0,20.3,5,4,1,2,2,0,8,0.0,8,10,1,9,2,7,12,0,Matches
+Jamal Amofa,nl NED,DF,24.0,18.5,31,19,25,6,0,13,20,65.0,7,29,26,3,17,48,51,1,Matches
+Philippe Rommens,be BEL,MF,25.0,18.0,30,17,13,14,3,11,26,42.3,15,10,5,5,25,55,17,0,Matches
+Gerrit Nauber,de GER,DF,31.0,19.5,15,7,6,8,1,10,16,62.5,6,33,27,6,15,30,102,1,Matches
+Jakob Breum,dk DEN,FW,19.0,16.1,27,17,13,7,7,16,35,45.7,19,28,3,25,10,37,16,0,Matches
+Enric Llansana,nl NED,"MF,DF",22.0,13.6,51,32,21,22,8,28,41,68.3,13,32,8,24,13,64,31,0,Matches
+Thibo Baeten,be BEL,"FW,MF",21.0,10.1,16,7,4,6,6,8,19,42.1,11,14,0,14,4,20,10,0,Matches
+Xander Blomme,be BEL,MF,21.0,7.9,29,15,15,7,7,13,22,59.1,9,20,5,15,18,47,20,0,Matches
+Sylla Sow,nl NED,FW,26.0,7.0,11,7,4,2,5,4,4,100.0,0,0,0,0,1,12,2,0,Matches
+Søren Tengstedt,dk DEN,"MF,FW",23.0,4.5,9,8,2,5,2,4,9,44.4,5,2,1,1,1,10,3,0,Matches
+Finn Stokkers,nl NED,FW,27.0,4.2,6,3,2,3,1,3,6,50.0,3,2,0,2,2,8,3,0,Matches
+Luca Everink,nl NED,DF,22.0,3.1,7,2,6,1,0,2,8,25.0,6,4,1,3,9,16,6,0,Matches
+Dean James,nl NED,"DF,FW",23.0,1.1,3,2,3,0,0,3,3,100.0,0,3,0,3,2,5,4,0,Matches
+Pim Saathof,nl NED,DF,19.0,0.6,5,5,3,2,0,4,5,80.0,1,1,1,0,0,5,5,0,Matches
+Rashaan Fernandes,nl NED,"FW,MF",24.0,0.4,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,Matches
+Squad Total,0,0,25.4,34.0,502,297,226,201,75,251,497,50.5,246,401,162,239,264,766,821,5,0
+Opponent Total,0,0,25.2,34.0,549,332,281,205,63,277,526,52.7,249,400,126,274,301,850,713,12,0

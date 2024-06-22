@@ -1,0 +1,31 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Bastos,ao ANG,DF,33-085,9.4,532,516,15,13,0,0,0,1,0,0,0,0,480,1,3,Matches
+Júnior Santos,br BRA,FW,29-253,8.8,189,181,7,0,1,1,14,2,0,0,0,0,135,1,10,Matches
+Lucas Halter,br BRA,DF,24-049,7.8,461,448,13,10,1,0,0,0,0,0,0,0,416,0,3,Matches
+Marlon Freitas,br BRA,MF,29-085,7.4,472,443,24,20,3,2,7,1,1,0,1,0,413,5,5,Matches
+Luiz Henrique,br BRA,"MF,FW",23-170,6.2,161,158,3,0,0,1,11,0,2,0,0,0,120,0,18,Matches
+John,br BRA,GK,28-128,7.0,285,208,77,20,0,0,0,0,0,0,0,0,221,0,1,Matches
+Tchê Tchê,br BRA,"MF,FW",31-295,6.8,297,284,13,5,0,3,9,1,5,1,3,0,262,0,3,Matches
+Damián Suárez,uy URU,DF,36-054,6.4,309,238,70,2,0,2,16,61,7,0,3,0,247,1,10,Matches
+Danilo Barbosa,br BRA,MF,28-113,5.3,251,246,4,4,0,0,0,0,0,0,0,0,208,1,5,Matches
+Cuiabano,br BRA,DF,21-125,5.5,255,188,66,3,0,0,35,57,6,0,4,0,172,1,9,Matches
+Gregore,br BRA,MF,30-110,4.9,311,299,11,6,0,1,1,5,0,0,0,0,276,1,3,Matches
+Jeffinho,br BRA,"FW,MF",24-173,3.6,96,94,1,0,2,1,1,0,1,0,0,1,71,1,3,Matches
+Jefferson Savarino,ve VEN,"MF,FW",27-222,4.9,176,153,22,5,1,2,19,0,14,6,6,1,135,1,6,Matches
+Hugo,br BRA,DF,22-274,4.0,185,146,39,6,1,1,11,27,6,4,2,0,148,0,7,Matches
+Mateo Ponte,uy URU,DF,21-027,3.3,128,104,24,4,0,0,9,20,0,0,0,0,103,0,6,Matches
+Óscar Romero,py PAR,"MF,FW",31-352,3.4,156,140,15,4,2,1,13,2,9,5,3,0,115,1,11,Matches
+Tiquinho Soares,br BRA,FW,33-155,3.2,78,70,7,1,1,1,0,3,0,0,0,0,56,1,1,Matches
+Gatito Fernández,py PAR,GK,36-083,3.0,96,69,26,8,0,0,0,0,0,0,0,0,74,1,0,Matches
+Alexander Barboza,ar ARG,DF,29-096,2.4,116,111,5,5,0,0,0,0,0,0,0,0,91,0,0,Matches
+Carlos Eduardo,br BRA,FW,34-247,2.1,67,63,4,1,0,1,4,0,1,0,1,0,52,0,1,Matches
+Fernando Marçal,br BRA,DF,35-122,0.5,31,23,8,2,0,1,3,6,0,0,0,0,23,0,1,Matches
+Matheus Nascimento,br BRA,FW,20-109,0.3,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+Diego Hernández,uy URU,"FW,MF",23-364,1.8,73,63,10,1,0,1,10,3,5,2,2,0,58,0,1,Matches
+Yarlen Augusto,br BRA,MF,18-121,0.9,12,12,0,0,0,0,0,0,0,0,0,0,5,0,0,Matches
+Pablo,br BRA,DF,32-365,0.3,18,18,0,0,0,0,0,0,0,0,0,0,16,0,0,Matches
+Fabiano,br BRA,DF,18-066,0.2,7,6,1,1,0,0,0,0,0,0,0,0,5,0,1,Matches
+Jacob Montes,ni NCA,"FW,MF",25-244,0.2,7,7,0,0,0,0,0,0,0,0,0,0,3,0,1,Matches
+Patrick de Paula,br BRA,MF,24-286,0.2,5,5,0,0,0,0,0,0,0,0,0,0,3,0,1,Matches
+Squad Total,0,0,28.6,10.0,4776,4295,465,121,12,19,163,189,57,18,25,2,3910,16,110,0
+Opponent Total,0,0,28.2,10.0,4506,3984,505,163,9,34,206,185,53,14,27,1,3619,17,85,0

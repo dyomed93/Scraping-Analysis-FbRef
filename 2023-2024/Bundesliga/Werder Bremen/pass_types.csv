@@ -1,0 +1,33 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Marvin Ducksch,de GER,FW,29.0,30.0,950,751,192,55,11,10,159,5,97,35,49,0,566,7,16,Matches
+Mitchell Weiser,de GER,"DF,MF",29.0,29.3,1443,1207,233,7,6,13,82,225,1,0,0,0,1074,3,60,Matches
+Romano Schmid,at AUT,"MF,FW",23.0,28.9,1211,1176,29,11,12,5,62,6,9,3,5,0,941,6,29,Matches
+Anthony Jung,de GER,DF,31.0,28.7,1795,1626,166,52,1,3,23,33,2,2,0,0,1553,3,20,Matches
+Michael Zetterer,de GER,GK,28.0,27.0,1127,890,231,87,0,1,0,0,0,0,0,0,891,6,0,Matches
+Jens Stage,dk DEN,MF,26.0,25.9,1042,998,38,19,2,4,10,8,0,0,0,0,775,6,28,Matches
+Marco Friedl,at AUT,DF,25.0,24.4,1081,1033,43,37,0,3,4,5,0,0,0,0,930,5,5,Matches
+Miloš Veljković,rs SRB,DF,27.0,21.3,1295,1224,62,53,2,26,20,3,1,0,0,0,1066,9,7,Matches
+Senne Lynen,be BEL,MF,24.0,20.0,903,863,39,24,2,6,4,1,0,0,0,0,746,1,13,Matches
+Felix Agu,de GER,"DF,MF",23.0,17.9,669,538,128,3,0,2,46,124,1,0,0,0,488,3,30,Matches
+Leonardo Bittencourt,de GER,MF,29.0,17.5,829,802,22,10,7,3,40,7,5,2,2,0,665,5,16,Matches
+Olivier Deman,be BEL,DF,23.0,15.2,730,607,121,6,0,5,45,110,4,2,1,0,543,2,28,Matches
+Nick Woltemade,de GER,"FW,MF",21.0,13.2,412,401,9,0,2,2,3,1,0,0,0,0,316,2,10,Matches
+Niklas Stark,de GER,DF,28.0,12.1,595,566,28,26,0,4,0,2,0,0,0,0,475,1,3,Matches
+Rafael Borré,co COL,FW,27.0,11.0,301,284,15,0,2,4,12,6,0,0,0,0,223,2,9,Matches
+Justin Njinmah,de GER,FW,22.0,11.3,215,211,2,1,1,1,10,1,0,0,0,0,146,2,11,Matches
+Christian Groß,de GER,"DF,MF",34.0,8.9,499,484,14,9,0,0,8,2,0,0,0,0,427,1,4,Matches
+Jiří Pavlenka,cz CZE,GK,31.0,7.0,246,148,98,29,0,0,0,0,0,0,0,0,187,0,0,Matches
+Amos Pieper,de GER,DF,25.0,6.6,312,297,12,11,1,1,2,1,0,0,0,0,229,3,6,Matches
+Julián Malatini,ar ARG,DF,22.0,6.7,364,346,16,14,0,1,6,2,0,0,0,0,295,2,8,Matches
+Dawid Kownacki,pl POL,FW,26.0,4.2,109,104,4,0,0,1,3,2,0,0,0,0,69,1,3,Matches
+Niclas Füllkrug,de GER,FW,30.0,2.0,66,65,1,0,0,0,0,0,0,0,0,0,48,0,2,Matches
+Skelly Alvero,fr FRA,MF,21.0,1.4,76,75,1,1,0,1,0,0,0,0,0,0,59,0,2,Matches
+Naby Keïta,gn GUI,"MF,DF",28.0,1.2,67,67,0,0,1,0,0,0,0,0,0,0,52,0,1,Matches
+Nicolai Rapp,de GER,DF,26.0,0.8,40,39,1,0,0,0,0,1,0,0,0,0,32,0,0,Matches
+Oliver Burke,sct SCO,FW,26.0,0.4,12,8,4,0,0,0,2,4,0,0,0,0,6,0,0,Matches
+Isak Hansen-Aarøen,no NOR,MF,18.0,0.3,14,13,1,0,0,0,0,1,0,0,0,0,11,0,0,Matches
+Leon Opitz,de GER,"FW,DF",18.0,0.2,13,9,4,0,0,1,2,4,0,0,0,0,6,0,1,Matches
+Ilia Gruev,bg BUL,MF,23.0,0.0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Joel Imasuen,us USA,FW,18.0,0.0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Squad Total,0,0,27.0,34.0,16418,14834,1514,455,50,97,543,554,120,44,57,0,12821,70,312,0
+Opponent Total,0,0,26.7,34.0,18711,17015,1623,435,48,69,634,667,199,91,80,1,15028,73,324,0

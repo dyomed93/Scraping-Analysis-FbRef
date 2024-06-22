@@ -1,0 +1,30 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Chris Führich,de GER,"FW,MF",25.0,28.5,1370,1235,131,29,7,10,100,41,61,31,7,0,1112,4,34,Matches
+Waldemar Anton,de GER,DF,27.0,32.1,2624,2511,109,51,6,9,14,29,0,0,0,0,2330,4,16,Matches
+Atakan Karazor,de GER,MF,26.0,29.1,1900,1820,75,73,5,2,4,2,0,0,0,0,1698,5,34,Matches
+Alexander Nübel,de GER,GK,26.0,30.0,1218,1056,159,47,0,1,0,0,0,0,0,0,998,3,0,Matches
+Angelo Stiller,de GER,MF,22.0,29.9,2637,2448,188,91,12,9,81,8,66,32,15,0,2346,1,19,Matches
+Enzo Millot,fr FRA,"MF,FW",21.0,24.9,1456,1408,47,12,12,3,38,7,13,5,3,0,1238,1,38,Matches
+Hiroki Ito,jp JPN,DF,24.0,24.8,2066,1926,135,28,3,9,23,70,0,0,0,0,1833,5,15,Matches
+Serhou Guirassy,gn GUI,FW,27.0,24.5,777,752,21,1,9,1,1,3,0,0,0,0,629,4,17,Matches
+Maximilian Mittelstädt,de GER,DF,26.0,23.4,1708,1520,184,15,3,4,105,155,14,4,5,0,1447,4,32,Matches
+Deniz Undav,de GER,"FW,MF",27.0,23.2,799,758,32,2,18,3,7,12,0,0,0,0,595,9,43,Matches
+Jamie Leweling,de GER,"FW,MF",22.0,16.9,599,580,19,1,2,2,46,16,1,0,0,0,470,0,22,Matches
+Dan-Axel Zagadou,fr FRA,DF,24.0,16.1,1361,1320,40,20,1,4,0,2,0,0,0,0,1179,1,1,Matches
+Pascal Stenzel,de GER,DF,27.0,11.8,824,694,128,23,2,17,26,103,2,0,2,0,715,2,13,Matches
+Josha Vagnoman,de GER,DF,22.0,13.1,615,526,87,5,0,3,22,82,0,0,0,0,516,2,13,Matches
+Anthony Rouault,fr FRA,DF,22.0,11.2,931,881,49,17,2,5,3,28,0,0,0,0,824,1,12,Matches
+Silas Katompa,cd COD,"FW,MF",24.0,10.0,279,276,3,1,5,1,28,2,0,0,0,0,210,0,18,Matches
+Leonidas Stergiou,ch SUI,DF,21.0,6.6,364,319,43,3,0,2,12,40,0,0,0,0,308,2,4,Matches
+Jeong Woo-yeong,kr KOR,"MF,FW",23.0,7.0,326,320,5,0,0,2,8,1,4,1,0,0,275,1,7,Matches
+Fabian Bredlow,de GER,GK,28.0,4.0,179,158,21,10,0,0,0,0,0,0,0,0,136,0,0,Matches
+Mahmoud Dahoud,de GER,MF,27.0,2.5,235,229,5,3,1,2,6,0,2,1,1,0,205,1,3,Matches
+Lilian Egloff,de GER,"MF,DF",20.0,1.2,41,40,1,0,0,0,0,0,0,0,0,0,32,0,1,Matches
+Roberto Massimo,de GER,"FW,DF",22.0,0.9,39,34,5,0,0,0,0,5,0,0,0,0,30,0,5,Matches
+Borna Sosa,hr CRO,"FW,DF",25.0,0.5,43,37,6,2,0,1,12,1,3,2,1,0,27,0,2,Matches
+Luca Raimund,de GER,"FW,MF",18.0,0.3,23,23,0,0,0,0,1,0,0,0,0,0,16,0,0,Matches
+Jovan Milošević,rs SRB,"FW,MF",18.0,0.3,13,12,1,0,0,0,0,1,0,0,0,0,8,0,1,Matches
+Genki Haraguchi,jp JPN,MF,32.0,0.3,18,18,0,0,0,0,0,0,0,0,0,0,14,0,0,Matches
+Samuele Di Benedetto,de GER,MF,18.0,0.1,11,11,0,0,0,0,0,0,0,0,0,0,10,0,0,Matches
+Squad Total,0,0,25.0,34.0,22456,20912,1494,434,88,90,537,608,166,76,34,0,19201,50,350,0
+Opponent Total,0,0,26.6,34.0,14991,13405,1527,356,39,70,522,652,143,67,58,0,11590,59,311,0

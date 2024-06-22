@@ -1,0 +1,31 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Alisson,br BRA,MF,30-361,9.6,664,641,19,13,2,8,7,2,0,0,0,0,590,4,9,Matches
+Robert Arboleda,ec ECU,DF,32-242,8.5,587,567,20,20,0,1,0,0,0,0,0,0,541,0,1,Matches
+Igor Vinícius de Souza,br BRA,DF,27-080,8.4,568,478,88,17,0,0,38,56,15,0,11,0,482,2,6,Matches
+Jonathan Calleri,ar ARG,FW,30-271,8.3,150,141,9,0,1,3,6,0,0,0,0,0,89,0,8,Matches
+Luciano,br BRA,"MF,FW",31-033,8.0,243,232,7,2,2,3,2,1,1,0,0,0,197,4,6,Matches
+Diego,br BRA,DF,24-335,8.5,584,563,21,14,0,3,5,7,0,0,0,0,513,0,6,Matches
+Rafael Pires,br BRA,GK,34-363,7.0,184,139,45,12,0,3,0,0,0,0,0,0,150,0,1,Matches
+Welington,br BRA,DF,23-122,6.6,382,314,68,15,0,3,24,50,3,0,2,0,312,0,6,Matches
+Alan Franco,ar ARG,DF,27-253,5.5,357,349,7,7,0,4,0,0,0,0,0,0,321,1,7,Matches
+Rodrigo Nestor,br BRA,"FW,MF",23-316,4.6,250,216,31,6,0,5,33,13,12,2,6,0,191,3,8,Matches
+Michel Araujo,uy URU,"DF,FW",27-266,3.8,221,197,24,4,0,1,14,15,5,0,5,0,195,0,1,Matches
+Damián Bobadilla,py PAR,MF,22-345,2.6,120,116,4,2,1,0,5,2,0,0,0,0,108,0,2,Matches
+André Silva,br BRA,"FW,MF",27-017,3.3,83,82,1,0,0,2,8,1,0,0,0,0,58,0,5,Matches
+Lucas Moura,br BRA,FW,31-312,3.0,127,123,3,0,0,1,5,3,0,0,0,0,99,1,1,Matches
+Jandrei,br BRA,GK,31-111,3.0,117,82,35,7,0,1,0,0,0,0,0,0,91,0,0,Matches
+Pablo Maia,br BRA,MF,22-162,2.9,200,194,4,3,0,2,0,1,0,0,0,0,182,2,3,Matches
+Giuliano Galoppo,ar ARG,MF,25-002,2.6,111,105,3,2,0,3,4,0,0,0,0,0,89,3,2,Matches
+Luiz Gustavo,br BRA,MF,36-333,2.6,187,181,6,6,1,2,2,0,0,0,0,0,172,0,1,Matches
+Nahuel Ferraresi,ve VEN,DF,25-214,2.3,195,179,16,7,0,1,3,9,0,0,0,0,178,0,2,Matches
+Juan Santos,br BRA,"MF,FW",22-106,1.7,40,36,3,1,0,0,0,0,0,0,0,0,30,1,1,Matches
+Patryck,br BRA,DF,21-154,1.0,49,40,9,1,0,0,4,8,0,0,0,0,41,0,0,Matches
+Wellington Rato,br BRA,"FW,MF",31-358,0.9,75,70,5,0,1,5,8,2,3,1,1,0,62,0,2,Matches
+João Moreira,pt POR,DF,20-030,0.5,25,21,4,1,0,0,0,3,0,0,0,0,18,0,2,Matches
+Erick,br BRA,"MF,DF",26-193,1.6,64,53,11,1,0,1,10,6,4,2,0,0,47,0,7,Matches
+Ferreira,br BRA,"MF,FW",26-172,1.6,66,59,7,2,1,0,6,1,4,3,0,0,51,0,3,Matches
+Rodrigo,br BRA,MF,20-096,0.6,24,21,3,1,0,0,3,1,1,1,0,0,20,0,1,Matches
+William Gomes,br BRA,"DF,MF",18-097,0.5,25,22,3,0,0,0,7,3,0,0,0,0,18,0,1,Matches
+James Rodríguez,co COL,MF,32-344,0.4,45,39,6,1,0,1,5,1,4,2,2,0,34,0,4,Matches
+Squad Total,0,0,28.5,10.0,5743,5260,462,145,9,53,199,185,52,11,27,0,4879,21,96,0
+Opponent Total,0,0,28.0,10.0,3947,3475,464,145,2,28,157,173,50,18,23,0,3097,8,89,0

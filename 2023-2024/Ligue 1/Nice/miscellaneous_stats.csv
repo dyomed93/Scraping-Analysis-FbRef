@@ -1,0 +1,30 @@
+Player,Nation,Pos,Age,90s,Performance CrdY,Performance CrdR,Performance 2CrdY,Performance Fls,Performance Fld,Performance Off,Performance Crs,Performance Int,Performance TklW,Performance PKwon,Performance PKcon,Performance OG,Performance Recov,Aerial Duels Won,Aerial Duels Lost,Aerial Duels Won%,Matches
+Marcin Bułka,pl POL,GK,23.0,34.0,2,0,0,0,4,0,0,0,0,0,0,0,52,8,2,80.0,Matches
+Dante,br BRA,DF,39.0,31.6,5,1,0,42,17,0,10,37,30,0,1,0,219,55,31,64.0,Matches
+Melvin Bard,fr FRA,DF,22.0,29.5,7,1,0,40,24,1,70,42,38,0,1,0,204,23,29,44.2,Matches
+Jean-Clair Todibo,fr FRA,DF,23.0,29.5,2,1,0,25,18,0,12,38,28,0,0,1,212,39,26,60.0,Matches
+Khéphren Thuram,fr FRA,MF,22.0,23.4,7,0,0,33,22,2,20,18,29,0,0,0,129,19,17,52.8,Matches
+Jeremie Boga,ci CIV,FW,26.0,22.2,1,0,0,7,24,9,88,8,7,0,0,0,73,3,4,42.9,Matches
+Morgan Sanson,fr FRA,MF,28.0,21.8,4,0,0,30,34,2,114,20,19,0,1,0,125,8,18,30.8,Matches
+Terem Moffi,ng NGA,FW,24.0,21.7,4,0,0,32,19,13,7,3,4,0,0,0,36,20,39,33.9,Matches
+Gaëtan Laborde,fr FRA,"FW,MF",29.0,21.2,2,0,0,25,8,4,62,6,12,0,1,0,63,32,32,50.0,Matches
+Pablo Rosario,nl NED,"MF,DF",26.0,22.3,4,0,0,18,19,1,6,29,25,1,1,0,92,35,22,61.4,Matches
+Jordan Lotomba,ch SUI,DF,24.0,20.0,4,0,0,12,25,0,20,16,28,0,1,0,72,21,15,58.3,Matches
+Youssouf Ndayishimiye,bi BDI,"MF,DF",24.0,19.0,6,1,0,15,12,0,1,12,20,0,0,0,95,35,22,61.4,Matches
+Hicham Boudaoui,dz ALG,MF,23.0,17.9,5,0,0,25,29,1,23,11,19,1,0,0,88,22,27,44.9,Matches
+Evann Guessand,ci CIV,FW,22.0,17.3,1,0,0,32,47,5,11,12,7,3,0,0,56,24,26,48.0,Matches
+Mohamed Ali Cho,fr FRA,FW,19.0,9.6,2,0,0,17,22,3,44,3,9,1,1,0,30,5,12,29.4,Matches
+Sofiane Diop,fr FRA,FW,23.0,5.5,0,0,0,9,12,8,13,3,6,0,0,0,28,1,4,20.0,Matches
+Youcef Atal,dz ALG,DF,27.0,4.0,2,0,0,3,4,0,6,4,3,0,0,0,28,2,2,50.0,Matches
+Alexis Claude-Maurice,fr FRA,MF,25.0,5.6,1,0,0,16,8,1,26,5,5,0,0,0,27,3,3,50.0,Matches
+Antoine Mendy,fr FRA,DF,19.0,4.6,0,0,0,4,5,0,4,8,5,0,1,0,22,7,12,36.8,Matches
+Tom Louchet,fr FRA,"MF,DF",20.0,4.5,1,0,0,7,4,0,33,3,5,1,0,0,13,4,8,33.3,Matches
+Romain Perraud,fr FRA,"DF,FW",25.0,4.1,2,0,0,4,8,0,21,6,6,0,0,0,19,6,6,50.0,Matches
+Badredine Bouanani,dz ALG,FW,18.0,1.8,0,0,0,4,5,1,8,3,2,0,0,0,8,0,1,0.0,Matches
+Aliou Badara Baldé,gn GUI,"FW,DF",20.0,0.8,0,0,0,2,2,0,4,3,1,0,0,0,6,1,2,33.3,Matches
+Valentin Rosier,fr FRA,"DF,MF",26.0,0.6,0,0,0,0,1,0,0,2,0,0,0,0,3,1,0,100.0,Matches
+Reda Belahyane,fr FRA,MF,19.0,0.3,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0.0,Matches
+Daouda Traoré,fr FRA,MF,17.0,0.2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.0,Matches
+Bilal Brahimi,dz ALG,FW,23.0,0.1,0,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0.0,Matches
+Squad Total,0,0,25.8,34.0,62,4,0,402,373,52,605,292,308,7,8,1,1707,374,360,51.0,0
+Opponent Total,0,0,25.8,34.0,71,5,2,385,379,50,489,294,412,6,7,1,1639,360,374,49.0,0

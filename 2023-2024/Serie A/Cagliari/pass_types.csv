@@ -1,0 +1,32 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Alberto Dossena,it ITA,DF,24.0,33.1,1305,1255,49,41,3,11,1,7,0,0,0,0,1042,1,8,Matches
+Antoine Makoumbou,cg CGO,MF,25.0,30.0,1210,1171,33,23,4,19,11,8,0,0,0,0,1065,6,11,Matches
+Simone Scuffet,it ITA,GK,27.0,31.0,928,568,359,116,0,2,0,0,0,0,0,0,614,1,0,Matches
+Nahitan Nández,uy URU,"MF,DF",27.0,26.0,916,787,125,16,2,13,154,65,42,6,33,0,544,4,28,Matches
+Tommaso Augello,it ITA,DF,28.0,26.9,1329,1008,317,42,1,2,153,241,34,7,25,0,919,4,42,Matches
+Gabriele Zappa,it ITA,DF,23.0,28.5,1397,1119,274,31,2,5,77,243,0,0,0,0,1024,4,42,Matches
+Matteo Prati,it ITA,MF,19.0,21.9,755,705,43,25,3,0,15,4,2,0,2,0,560,7,22,Matches
+Zito Luvumbo,ao ANG,"FW,MF",21.0,21.6,388,354,29,3,2,2,82,10,8,0,3,0,246,5,23,Matches
+Alessandro Deiola,it ITA,MF,27.0,17.9,524,511,11,4,2,11,15,7,0,0,0,0,364,2,10,Matches
+Ibrahim Sulemana,gh GHA,MF,20.0,14.9,452,446,3,3,0,8,13,0,0,0,0,0,361,3,10,Matches
+Yerry Mina,co COL,DF,28.0,13.5,562,517,44,43,0,4,2,1,0,0,0,0,448,1,2,Matches
+Gianluca Lapadula,pe PER,FW,33.0,13.4,171,148,22,1,0,0,7,0,0,0,0,0,120,1,5,Matches
+Andrea Petagna,it ITA,FW,28.0,11.1,239,215,24,3,1,2,2,2,0,0,0,0,170,0,8,Matches
+Jakub Jankto,cz CZE,"MF,FW",27.0,9.7,253,223,29,8,3,0,26,7,6,1,4,1,161,1,7,Matches
+Pantelis Hatzidiakos,gr GRE,DF,26.0,9.5,405,369,31,11,0,4,6,19,0,0,0,0,328,5,6,Matches
+Edoardo Goldaniga,it ITA,DF,29.0,11.2,553,505,46,19,0,19,10,26,0,0,0,0,438,2,0,Matches
+Nicolas Viola,it ITA,"MF,FW",33.0,13.4,565,434,124,48,3,4,134,3,70,28,37,1,358,7,15,Matches
+Gaetano Oristanio,it ITA,"FW,MF",20.0,12.3,242,225,17,6,0,9,32,2,5,3,2,0,164,0,13,Matches
+Mateusz Wieteska,pl POL,DF,26.0,10.7,462,432,30,11,1,1,4,19,0,0,0,0,374,0,8,Matches
+Adam Obert,sk SVK,DF,20.0,10.5,474,429,43,17,1,14,15,24,2,0,2,0,372,2,11,Matches
+Eldor Shomurodov,uz UZB,"FW,MF",28.0,10.4,230,212,17,0,2,1,7,2,0,0,0,0,153,1,7,Matches
+Gianluca Gaetano,it ITA,"FW,MF",23.0,8.3,236,216,18,8,2,1,15,0,4,1,2,0,171,2,5,Matches
+Paulo Azzi,br BRA,"DF,MF",29.0,10.6,487,394,91,6,0,1,48,84,1,0,0,0,322,2,13,Matches
+Boris Radunović,rs SRB,GK,27.0,7.0,222,139,83,17,0,0,0,0,0,0,0,0,169,0,0,Matches
+Leonardo Pavoletti,it ITA,FW,34.0,7.0,157,152,3,1,1,0,1,1,0,0,0,0,87,2,3,Matches
+Marco Mancosu,it ITA,"MF,FW",34.0,1.7,62,54,7,2,1,0,4,0,1,0,1,0,39,1,2,Matches
+Alessandro Di Pardo,it ITA,"DF,MF",24.0,4.0,175,146,29,0,0,1,18,29,0,0,0,0,115,0,7,Matches
+Kingstone Mutandwa,zm ZAM,"FW,MF",20.0,0.4,9,9,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+Simone Aresti,it ITA,GK,37.0,0.0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Squad Total,0,0,26.1,38.0,14709,12744,1901,505,34,134,852,804,175,46,111,2,10731,64,308,0
+Opponent Total,0,0,26.5,38.0,20551,18579,1881,501,62,154,761,744,217,80,88,1,16632,91,334,0

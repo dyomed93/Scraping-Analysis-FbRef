@@ -1,0 +1,25 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Patrick Mainka,de GER,DF,28.0,34.0,1555,1523,29,25,0,3,0,4,0,0,0,0,1289,3,16,Matches
+Kevin Müller,de GER,GK,32.0,34.0,1482,1038,442,126,0,2,0,0,0,0,0,0,1104,2,1,Matches
+Tim Kleindienst,de GER,FW,27.0,31.9,874,828,43,0,2,7,19,11,0,0,0,0,516,3,50,Matches
+Eren Dinkçi,de GER,"FW,MF",21.0,29.4,819,791,25,3,2,5,79,18,3,0,3,0,508,3,52,Matches
+Jonas Föhrenbach,de GER,DF,27.0,31.0,1462,1151,307,17,0,17,73,289,1,1,0,0,1046,4,38,Matches
+Jan-Niklas Beste,de GER,"FW,MF",24.0,28.9,947,675,269,85,0,13,279,34,145,75,61,0,543,3,49,Matches
+Omar Traoré,de GER,DF,25.0,27.5,1240,935,302,10,1,2,73,292,0,0,0,0,881,3,54,Matches
+Lennard Maloney,us USA,MF,23.0,25.4,942,921,19,15,0,15,4,3,0,0,0,0,698,2,21,Matches
+Benedikt Gimber,de GER,DF,26.0,22.5,846,809,36,33,1,3,3,1,0,0,0,0,681,1,13,Matches
+Jan Schöppner,de GER,MF,24.0,22.2,668,656,12,10,4,8,7,1,0,0,0,0,444,0,23,Matches
+Marvin Pieringer,de GER,"MF,FW",23.0,16.8,431,415,15,0,3,2,7,2,0,0,0,0,298,1,11,Matches
+Norman Theuerkauf,de GER,"MF,DF",36.0,14.0,590,528,59,7,0,10,22,46,6,3,2,0,462,3,12,Matches
+Adrian Beck,de GER,"MF,FW",26.0,10.8,431,411,18,3,2,5,6,1,0,0,0,0,311,2,17,Matches
+Tim Siersleben,de GER,DF,23.0,10.1,559,545,13,10,0,9,1,3,0,0,0,0,456,1,5,Matches
+Kevin Sessa,de GER,"MF,FW",23.0,11.2,450,409,40,14,2,5,20,9,7,2,1,0,331,1,19,Matches
+Nikola Dovedan,at AUT,"MF,FW",29.0,7.3,204,187,16,2,4,1,8,3,3,0,0,0,125,1,15,Matches
+Marnon Busch,de GER,DF,28.0,6.6,411,327,83,6,1,3,26,77,0,0,0,0,282,1,13,Matches
+Denis Thomalla,de GER,"MF,FW",30.0,5.0,191,186,3,2,0,1,2,0,0,0,0,0,143,2,5,Matches
+Florian Pick,de GER,"MF,FW",27.0,3.6,183,146,35,13,0,1,32,4,18,9,8,0,118,2,10,Matches
+Stefan Schimmer,de GER,"MF,FW",29.0,1.7,45,44,1,0,0,0,2,0,0,0,0,0,22,0,3,Matches
+Christian Kühlwetter,de GER,MF,27.0,0.1,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Thomas Keller,de GER,"MF,FW",23.0,0.0,7,7,0,0,0,0,0,0,0,0,0,0,5,0,0,Matches
+Squad Total,0,0,26.7,34.0,14339,12534,1767,381,22,112,663,798,183,90,75,0,10264,38,427,0
+Opponent Total,0,0,26.6,34.0,19659,17901,1702,450,67,83,637,739,170,76,81,3,15688,56,384,0

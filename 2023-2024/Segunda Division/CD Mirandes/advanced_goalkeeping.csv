@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,90s,Goals GA,Goals PKA,Goals FK,Goals CK,Goals OG,Expected PSxG,Expected PSxG/SoT,Expected PSxG+/-,Expected /90,Launched Cmp,Launched Att,Launched Cmp%,Passes Att (GK),Passes Thr,Passes Launch%,Passes AvgLen,Goal Kicks Att,Goal Kicks Launch%,Goal Kicks AvgLen,Crosses Opp,Crosses Stp,Crosses Stp%,Sweeper #OPA,Sweeper #OPA/90,Sweeper AvgDist,Matches
+Ramón,es ESP,GK,24-194,35.0,44,3,4,3,0,37.0,0.25,-7.0,-0.2,150,478,31.4,755,147,38.7,35.1,296,62.8,47.2,582,35,6.0,26,0.74,12.1,Matches
+Luis López,es ESP,GK,23-044,7.0,11,0,1,1,0,7.2,0.25,-3.8,-0.55,14,62,22.6,116,19,37.1,33.5,65,29.2,26.3,104,2,1.9,5,0.71,12.6,Matches
+Squad Total,0,0,23.6,42.0,55,3,5,4,0,44.2,0.25,-10.8,-0.26,164,540,30.4,848,166,39.4,0.0,384,53.6,41.5,686,37,5.4,31,0.74,0.0,0
+Opponent Total,0,0,27.8,42.0,47,7,1,4,1,48.8,0.29,2.8,0.07,239,662,36.1,1042,154,44.8,38.7,326,59.8,46.3,579,46,7.9,53,1.26,14.8,0

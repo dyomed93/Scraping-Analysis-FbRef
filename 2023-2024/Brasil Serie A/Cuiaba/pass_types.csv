@@ -1,0 +1,28 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Walter,br BRA,GK,36-215,10.0,283,177,105,24,0,0,0,0,0,0,0,0,217,1,1,Matches
+Marllon Borges,br BRA,DF,32-065,9.0,363,343,20,20,0,0,1,0,0,0,0,0,310,0,5,Matches
+Isidro Pitta,py PAR,FW,24-311,7.9,138,117,20,0,0,2,5,2,0,0,0,0,101,1,7,Matches
+Alan Empereur,br BRA,DF,30-102,7.9,440,414,22,20,0,13,2,2,0,0,0,0,373,4,3,Matches
+Clayson,br BRA,"FW,MF",29-093,6.9,217,200,16,3,0,0,18,2,11,4,2,0,161,1,12,Matches
+Denilson,br BRA,MF,23-089,6.3,258,248,8,5,2,2,8,0,3,2,0,0,215,2,3,Matches
+Matheus Alexandre,br BRA,DF,25-074,7.3,328,268,60,1,0,1,12,59,0,0,0,0,262,0,10,Matches
+Lucas Mineiro,br BRA,MF,28-117,6.9,276,262,14,13,2,2,0,1,0,0,0,0,228,0,4,Matches
+Ramon,br BRA,DF,23-099,6.4,278,223,54,6,0,0,29,45,3,1,2,0,203,1,8,Matches
+Fernando Sobral,br BRA,MF,29-186,6.0,293,274,19,9,0,0,24,6,4,0,4,0,234,0,5,Matches
+Max,br BRA,"MF,FW",23-039,5.0,177,165,11,4,0,2,15,0,7,1,1,0,119,1,6,Matches
+Jonathan Cafu,br BRA,"FW,MF",32-346,5.2,150,146,4,2,0,0,18,2,0,0,0,0,107,0,8,Matches
+Bruno Fabiano Alves,br BRA,DF,33-065,4.3,171,165,6,6,0,0,0,0,0,0,0,0,159,0,0,Matches
+Rikelme,br BRA,DF,20-340,3.7,134,106,28,4,0,0,16,20,4,3,0,0,89,0,3,Matches
+Derik Lacerda,br BRA,"MF,FW",24-267,3.1,53,52,1,0,0,0,0,1,0,0,0,0,44,0,1,Matches
+Railan,br BRA,DF,24-102,2.9,138,114,24,4,0,0,9,20,0,0,0,0,110,0,2,Matches
+Eliel Chrystian,br BRA,"FW,MF",21-146,2.2,20,20,0,0,0,0,1,0,0,0,0,0,13,0,1,Matches
+Lucas Fernandes,br BRA,MF,26-274,1.8,105,99,6,3,0,0,7,1,2,1,1,0,91,0,0,Matches
+Gabriel Knesowitsch,br BRA,DF,20-246,1.8,85,83,2,2,0,0,0,0,0,0,0,0,72,0,1,Matches
+Allyson Aires dos Santos,br BRA,DF,33-241,1.0,37,36,1,0,0,0,0,1,0,0,0,0,35,0,1,Matches
+Deyverson,br BRA,FW,33-043,0.8,14,10,4,0,0,1,0,0,0,0,0,0,10,0,0,Matches
+André Luis,br BRA,"FW,MF",27-060,1.5,49,45,4,0,1,0,0,2,0,0,0,0,41,0,3,Matches
+Guilherme Madruga,br BRA,"MF,FW",23-222,1.1,55,52,2,0,0,1,2,2,0,0,0,0,44,1,2,Matches
+Luciano Giménez,ar ARG,"FW,MF",24-123,0.8,9,8,1,0,0,0,0,0,0,0,0,0,8,0,0,Matches
+Filipe Augusto,br BRA,MF,30-313,0.4,35,35,0,0,1,0,0,0,0,0,0,0,35,0,0,Matches
+Squad Total,0,0,28.0,10.0,4106,3662,432,126,6,24,167,166,34,12,10,0,3281,12,86,0
+Opponent Total,0,0,28.4,10.0,5507,5048,444,121,7,49,224,187,48,21,12,0,4653,15,100,0

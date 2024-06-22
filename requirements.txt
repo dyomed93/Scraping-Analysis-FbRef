@@ -1,0 +1,6 @@
+pandas
+os
+bs4
+request
+urllib
+rich

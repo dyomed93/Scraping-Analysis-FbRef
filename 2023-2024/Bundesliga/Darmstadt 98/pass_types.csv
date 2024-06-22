@@ -1,0 +1,35 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Marcel Schuhen,de GER,GK,30.0,31.0,1496,1092,401,112,0,4,0,0,0,0,0,0,1064,3,0,Matches
+Tim Skarke,de GER,"FW,DF",26.0,26.7,855,777,77,12,1,10,94,35,11,4,6,0,622,1,32,Matches
+Christoph Klarer,at AUT,DF,23.0,26.2,1200,1153,46,38,0,13,8,8,0,0,0,0,1044,1,11,Matches
+Fabian Holland,de GER,"MF,DF",33.0,20.4,919,836,78,30,3,4,26,40,8,2,5,0,720,5,24,Matches
+Matthias Bader,de GER,"DF,MF",26.0,20.0,912,747,160,5,1,10,32,155,0,0,0,0,687,5,31,Matches
+Matej Maglica,hr CRO,DF,24.0,18.9,999,955,41,37,1,8,7,4,0,0,0,0,759,3,14,Matches
+Luca Pfeiffer,de GER,"FW,MF",26.0,18.0,414,378,34,2,1,2,5,5,0,0,0,0,290,2,7,Matches
+Marvin Mehlem,de GER,MF,25.0,16.5,587,535,47,5,2,0,18,10,2,0,0,0,448,5,18,Matches
+Emir Karic,at AUT,DF,26.0,19.8,1210,1028,178,13,0,12,52,165,0,0,0,0,953,4,28,Matches
+Fabian Nürnberger,de GER,"DF,MF",24.0,16.8,895,747,141,25,2,7,64,99,17,2,12,1,713,7,12,Matches
+Klaus Gjasula,al ALB,"DF,MF",33.0,15.1,746,732,11,11,1,6,7,0,0,0,0,0,615,3,10,Matches
+Oscar Vilhelmsson,se SWE,"FW,MF",19.0,15.3,212,200,11,0,0,0,10,0,0,0,0,0,123,1,8,Matches
+Tobias Kempe,de GER,MF,34.0,15.0,557,454,100,40,1,2,81,2,55,20,31,0,413,3,13,Matches
+Bartol Franjić,hr CRO,MF,23.0,13.7,556,534,21,13,0,1,4,8,0,0,0,0,462,1,9,Matches
+Christoph Zimmermann,de GER,DF,30.0,13.6,555,532,21,16,0,7,0,5,0,0,0,0,455,2,6,Matches
+Jannik Müller,de GER,"DF,MF",29.0,12.6,549,514,35,7,0,4,7,28,0,0,0,0,424,0,11,Matches
+Julian Justvan,de GER,"MF,FW",25.0,11.4,408,358,49,13,5,7,41,14,18,11,7,0,294,1,16,Matches
+Mathias Honsak,at AUT,"FW,MF",26.0,11.3,285,269,14,0,1,0,11,13,0,0,0,0,210,2,10,Matches
+Clemens Riedel,de GER,DF,20.0,8.4,576,545,30,5,0,3,8,25,0,0,0,0,490,1,9,Matches
+Thomas Isherwood,se SWE,DF,25.0,7.1,268,263,5,5,0,1,1,0,0,0,0,0,223,0,6,Matches
+Aaron Seydel,de GER,FW,27.0,6.9,190,176,12,0,0,0,1,2,0,0,0,0,110,2,7,Matches
+Sebastian Polter,de GER,FW,32.0,5.0,112,103,7,0,0,0,4,0,0,0,0,0,65,2,7,Matches
+Alexander Brunst,de GER,GK,28.0,3.0,150,116,34,13,0,1,0,0,0,0,0,0,103,0,0,Matches
+Braydon Manu,gh GHA,MF,26.0,1.9,33,29,3,0,0,0,4,3,0,0,0,0,24,1,4,Matches
+Gerrit Holtmann,ph PHI,"MF,FW",28.0,4.4,155,143,12,0,0,0,12,12,0,0,0,0,113,0,5,Matches
+Andreas Müller,de GER,MF,23.0,3.9,168,165,3,1,0,0,2,1,0,0,0,0,129,0,4,Matches
+Fabian Schnellhardt,de GER,MF,29.0,2.6,172,164,8,4,0,1,4,0,4,3,1,0,149,0,2,Matches
+Fraser Hornby,sct SCO,"FW,MF",23.0,2.4,63,55,6,0,0,0,4,1,0,0,0,0,35,2,6,Matches
+Fabio Torsiello,it ITA,"FW,DF",18.0,1.7,27,23,4,1,0,0,2,2,0,0,0,0,21,0,0,Matches
+Filip Stojilković,ch SUI,"FW,MF",23.0,1.7,21,20,1,0,0,0,3,0,0,0,0,0,10,0,0,Matches
+Frank Ronstadt,de GER,"DF,MF",26.0,0.8,42,39,3,0,0,0,2,3,0,0,0,0,35,0,1,Matches
+Asaf Arania,il ISR,MF,17.0,0.1,4,3,1,0,0,0,0,1,0,0,0,0,4,0,0,Matches
+Squad Total,0,0,27.1,34.0,15336,13685,1594,408,19,103,514,641,115,42,62,1,11807,57,311,0
+Opponent Total,0,0,26.7,34.0,18463,16773,1631,453,76,70,622,709,182,73,79,0,14988,59,299,0

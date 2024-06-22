@@ -1,0 +1,32 @@
+Player,Nation,Pos,Age,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,Matches
+Álvaro Vallés,es ESP,GK,26.0,36.3,3,2,3,0,0,3,8,37.5,5,0,0,0,0,3,40,1,Matches
+Kirian Rodríguez,es ESP,MF,27.0,35.7,52,32,22,25,5,24,67,35.8,43,39,3,36,28,80,23,1,Matches
+Mika Màrmol,es ESP,DF,21.0,35.3,70,42,44,24,2,35,53,66.0,18,39,19,20,44,114,147,2,Matches
+Munir El Haddadi,ma MAR,FW,27.0,27.2,40,27,18,17,5,17,38,44.7,21,27,1,26,11,51,16,0,Matches
+Sergi Cardona,es ESP,DF,24.0,31.3,90,55,52,29,9,55,96,57.3,41,45,7,38,46,136,102,0,Matches
+Javier Muñoz,es ESP,MF,28.0,29.3,42,23,14,22,6,16,44,36.4,28,40,4,36,20,62,29,1,Matches
+Álex Suárez,es ESP,DF,30.0,28.5,53,36,33,15,5,31,37,83.8,6,33,14,19,18,71,84,0,Matches
+Saúl Coco,gq EQG,DF,24.0,25.5,32,19,25,7,0,11,18,61.1,7,27,15,12,20,52,120,3,Matches
+Sandro Ramírez,es ESP,FW,28.0,20.1,12,8,4,6,2,6,15,40.0,9,13,1,12,4,16,14,1,Matches
+Alberto Moleiro,es ESP,"FW,MF",19.0,20.0,15,6,4,7,4,6,30,20.0,24,11,0,11,7,22,10,0,Matches
+Máximo Perrone,ar ARG,MF,20.0,18.0,42,21,17,22,3,19,39,48.7,20,27,4,23,24,66,21,0,Matches
+Enzo Loiodice,fr FRA,MF,22.0,19.9,62,35,15,34,13,20,42,47.6,22,20,2,18,12,74,16,1,Matches
+Marvin,es ESP,"FW,DF",23.0,20.6,39,25,18,17,4,18,36,50.0,18,28,2,26,14,53,18,1,Matches
+Julian Araujo,mx MEX,DF,21.0,16.2,41,22,29,7,5,23,33,69.7,10,23,16,7,10,51,52,1,Matches
+Sory Kaba,gn GUI,FW,28.0,8.0,2,0,0,2,0,0,5,0.0,5,6,0,6,0,2,9,0,Matches
+Jonathan Viera,es ESP,"MF,FW",33.0,6.9,6,3,1,2,3,1,9,11.1,8,0,0,0,0,6,1,0,Matches
+Marc Cardona,es ESP,FW,28.0,8.0,9,8,3,4,2,1,12,8.3,11,5,0,5,2,11,7,0,Matches
+Francisco Jesús Crespo García,es ESP,FW,27.0,5.6,12,8,3,6,3,6,18,33.3,12,4,0,4,2,14,5,0,Matches
+Daley Sinkgraven,nl NED,DF,28.0,4.3,11,5,6,5,0,2,8,25.0,6,5,3,2,6,17,9,0,Matches
+Juan Herzog,es ESP,DF,20.0,3.2,6,5,5,1,0,3,6,50.0,3,4,1,3,2,8,17,0,Matches
+Álvaro Lemos,es ESP,DF,30.0,2.8,4,1,1,3,0,0,2,0.0,2,3,1,2,2,6,4,0,Matches
+Benito Ramírez,es ESP,"FW,MF",28.0,4.3,5,3,2,3,0,3,6,50.0,3,7,1,6,3,8,0,0,Matches
+José Campaña,es ESP,MF,30.0,1.9,2,2,1,1,0,0,2,0.0,2,3,2,1,2,4,3,0,Matches
+Cristian Herrera,es ESP,"FW,MF",32.0,1.8,1,1,0,1,0,1,2,50.0,1,1,0,1,0,1,2,0,Matches
+Aarón Escandell,es ESP,GK,27.0,1.7,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,1,1,Matches
+Fabio González,es ESP,MF,26.0,1.4,2,2,2,0,0,1,2,50.0,1,2,0,2,0,2,0,0,Matches
+Eric Curbelo,es ESP,"DF,MF",29.0,1.1,4,3,2,2,0,3,4,75.0,1,3,1,2,2,6,5,1,Matches
+Omenuke Mfulu,cd COD,"MF,FW",29.0,0.9,4,3,3,1,0,0,1,0.0,1,1,1,0,2,6,5,0,Matches
+Iñaki González,es ESP,MF,19.0,0.1,1,0,1,0,0,0,0,0.0,0,0,0,0,0,1,1,0,Matches
+Squad Total,0,0,25.5,38.0,662,397,328,263,71,305,633,48.2,328,416,98,318,281,943,761,14,0
+Opponent Total,0,0,27.1,38.0,673,415,301,301,71,308,624,49.4,316,426,99,327,335,1008,656,7,0

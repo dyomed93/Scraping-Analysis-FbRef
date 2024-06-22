@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,90s,Goals GA,Goals PKA,Goals FK,Goals CK,Goals OG,Expected PSxG,Expected PSxG/SoT,Expected PSxG+/-,Expected /90,Launched Cmp,Launched Att,Launched Cmp%,Passes Att (GK),Passes Thr,Passes Launch%,Passes AvgLen,Goal Kicks Att,Goal Kicks Launch%,Goal Kicks AvgLen,Crosses Opp,Crosses Stp,Crosses Stp%,Sweeper #OPA,Sweeper #OPA/90,Sweeper AvgDist,Matches
+Marcel Schuhen,de GER,GK,30.0,31.0,76,1,2,7,2,68.0,0.34,-6.0,-0.19,245,618,39.6,1204,182,36.3,34.8,289,62.6,48.5,453,24,5.3,51,1.65,16.5,Matches
+Alexander Brunst,de GER,GK,28.0,3.0,10,0,0,2,0,6.3,0.37,-3.7,-1.25,33,72,45.8,129,13,41.1,36.0,21,90.5,59.6,51,3,5.9,9,3.0,19.1,Matches
+Squad Total,0,0,27.1,34.0,86,1,2,9,2,74.3,0.34,-9.7,-0.29,278,690,40.3,1333,195,36.8,0.0,310,64.5,49.3,504,27,5.4,60,1.76,0.0,0
+Opponent Total,0,0,26.7,34.0,30,3,0,2,2,30.2,0.24,2.2,0.06,142,415,34.2,1075,139,31.0,32.4,223,36.8,34.2,392,29,7.4,55,1.62,17.9,0

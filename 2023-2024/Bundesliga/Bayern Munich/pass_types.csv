@@ -1,0 +1,33 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Harry Kane,eng ENG,FW,30.0,31.5,664,620,41,10,13,14,31,8,2,1,0,0,474,3,31,Matches
+Joshua Kimmich,de GER,"MF,DF",28.0,24.2,2267,1983,273,75,11,15,195,77,121,41,57,2,1951,11,20,Matches
+Leon Goretzka,de GER,MF,28.0,24.9,1754,1708,43,30,9,10,10,10,0,0,0,0,1559,3,22,Matches
+Leroy Sané,de GER,FW,27.0,23.7,1098,987,106,14,8,6,86,11,63,29,26,0,878,5,31,Matches
+Alphonso Davies,ca CAN,DF,22.0,22.9,1642,1455,187,27,4,1,31,160,0,0,0,0,1440,0,31,Matches
+Manuel Neuer,de GER,GK,37.0,22.8,876,754,122,24,0,3,0,1,0,0,0,0,754,0,0,Matches
+Kim Min-jae,kr KOR,DF,26.0,21.9,2139,2071,66,22,4,13,2,4,0,0,0,0,1986,2,8,Matches
+Jamal Musiala,de GER,"MF,FW",20.0,19.5,772,745,21,3,12,2,11,9,1,0,0,0,621,6,38,Matches
+Thomas Müller,de GER,"MF,FW",33.0,18.4,810,767,41,3,7,2,55,34,0,0,0,0,602,2,25,Matches
+Dayot Upamecano,fr FRA,DF,24.0,19.6,1813,1778,33,20,1,12,3,12,0,0,0,0,1678,2,16,Matches
+Konrad Laimer,at AUT,"DF,MF",26.0,19.7,1457,1339,113,24,4,5,31,83,4,0,0,0,1294,5,29,Matches
+Matthijs de Ligt,nl NED,DF,23.0,15.4,1193,1169,23,19,0,3,2,1,0,0,0,0,1120,1,4,Matches
+Noussair Mazraoui,ma MAR,DF,25.0,13.3,980,865,112,14,0,0,19,98,0,0,0,0,865,3,23,Matches
+Kingsley Coman,fr FRA,FW,27.0,12.4,647,630,13,1,1,5,60,6,3,0,0,0,528,4,19,Matches
+Aleksandar Pavlovic,de GER,MF,19.0,13.6,971,935,31,15,0,6,18,2,14,3,9,0,897,5,4,Matches
+Raphaël Guerreiro,pt POR,"DF,MF",29.0,13.2,1017,940,76,9,0,0,42,52,15,3,9,0,880,1,16,Matches
+Eric Dier,eng ENG,DF,29.0,13.0,1143,1092,48,19,0,16,7,3,0,0,0,0,1042,3,4,Matches
+Sven Ulreich,de GER,GK,34.0,11.0,395,335,60,13,0,0,0,0,0,0,0,0,333,0,0,Matches
+Eric Maxim Choupo-Moting,cm CMR,"MF,FW",34.0,8.0,282,273,9,0,3,0,11,0,0,0,0,0,232,0,13,Matches
+Mathys Tel,fr FRA,"FW,MF",18.0,11.7,410,389,18,1,1,2,18,9,2,0,0,0,340,3,12,Matches
+Serge Gnabry,de GER,"FW,MF",28.0,4.8,214,205,8,0,3,1,10,6,1,1,0,0,180,1,5,Matches
+Bryan Zaragoza,es ESP,"FW,MF",22.0,2.0,82,78,4,0,0,2,10,1,2,0,1,0,60,0,6,Matches
+Lovro Zvonarek,hr CRO,"FW,MF",18.0,1.8,60,59,1,0,1,0,1,0,0,0,0,0,50,0,2,Matches
+Sacha Boey,fr FRA,DF,22.0,1.2,69,52,17,2,0,0,0,15,0,0,0,0,58,0,2,Matches
+Bouna Sarr,sn SEN,DF,31.0,1.2,104,92,12,1,0,0,1,11,0,0,0,0,92,0,1,Matches
+Frans Krätzig,de GER,DF,20.0,0.6,50,45,5,0,1,1,0,5,0,0,0,0,45,0,0,Matches
+Daniel Peretz,il ISR,GK,23.0,0.2,17,15,2,0,0,0,0,0,0,0,0,0,12,0,0,Matches
+Matteo Perez Vinlöf,se SWE,FW,17.0,0.2,13,10,3,1,0,0,1,2,0,0,0,0,11,0,0,Matches
+Ryan Gravenberch,nl NED,FW,21.0,0.1,7,7,0,0,0,0,0,0,0,0,0,0,5,0,1,Matches
+Jonathan Asp Jensen,dk DEN,FW,17.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Squad Total,0,0,27.4,34.0,22946,21398,1488,347,83,119,655,620,228,78,102,2,19987,60,363,0
+Opponent Total,0,0,26.5,34.0,14634,13184,1400,346,45,86,463,527,96,38,40,1,11673,50,325,0

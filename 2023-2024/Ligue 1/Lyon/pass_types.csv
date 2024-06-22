@@ -1,0 +1,38 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Maxence Caqueret,fr FRA,MF,23.0,33.6,2009,1877,124,51,9,11,86,9,44,10,25,0,1661,8,46,Matches
+Anthony Lopes,pt POR,GK,32.0,31.0,1035,770,265,69,1,0,0,0,0,0,0,0,773,0,0,Matches
+Jake O'Brien,ie IRL,DF,22.0,26.3,1440,1375,63,37,0,9,1,9,0,0,0,0,1270,2,9,Matches
+Alexandre Lacazette,fr FRA,FW,32.0,25.5,561,514,42,1,8,6,10,2,0,0,0,0,397,5,18,Matches
+Clinton Mata,ao ANG,DF,30.0,24.7,1514,1332,181,32,0,2,52,149,0,0,0,0,1286,1,26,Matches
+Nicolás Tagliafico,ar ARG,DF,30.0,23.6,1175,1017,153,15,3,0,40,137,1,0,0,0,999,5,21,Matches
+Duje Ćaleta-Car,hr CRO,DF,26.0,22.1,1204,1183,20,16,0,9,0,3,0,0,0,0,1051,1,3,Matches
+Ernest Nuamah,gh GHA,"FW,MF",19.0,20.4,692,643,48,18,0,7,75,5,24,19,2,0,535,1,26,Matches
+Corentin Tolisso,fr FRA,MF,28.0,19.3,1257,1201,51,32,7,9,36,17,0,0,0,0,1059,5,21,Matches
+Rayan Cherki,fr FRA,"MF,FW",19.0,19.1,1069,945,121,24,15,24,71,15,66,22,15,0,830,3,31,Matches
+Ainsley Maitland-Niles,eng ENG,"DF,MF",25.0,15.9,796,694,98,9,1,5,21,86,3,1,0,0,663,4,12,Matches
+Nemanja Matić,rs SRB,MF,34.0,13.9,989,948,34,34,3,6,4,0,0,0,0,0,845,7,26,Matches
+Sinaly Diomande,ci CIV,DF,22.0,9.9,570,554,15,13,1,3,1,2,0,0,0,0,521,1,3,Matches
+Saïd Benrahma,dz ALG,"FW,MF",27.0,8.6,349,313,34,7,2,1,67,2,25,20,4,0,238,2,12,Matches
+Sael Kumbedi,fr FRA,DF,18.0,10.3,592,506,85,9,1,0,28,76,0,0,0,0,470,1,11,Matches
+Dejan Lovren,hr CRO,DF,34.0,8.0,440,418,22,10,0,2,3,1,0,0,0,0,371,0,5,Matches
+Henrique,br BRA,DF,29.0,6.7,400,342,57,4,0,0,17,53,0,0,0,0,351,1,9,Matches
+Skelly Alvero,fr FRA,MF,21.0,4.7,193,190,2,2,1,1,2,0,0,0,0,0,159,1,2,Matches
+Gift Orban,ng NGA,FW,21.0,5.3,103,97,6,3,0,1,3,0,1,0,0,0,73,0,6,Matches
+Malick Fofana,be BEL,FW,18.0,6.2,180,175,5,0,0,0,20,5,0,0,0,0,143,0,8,Matches
+Mama Samba Baldé,gw GNB,"FW,MF",27.0,6.1,135,132,3,0,2,1,5,0,0,0,0,0,88,0,7,Matches
+Orel Mangala,be BEL,MF,25.0,4.4,182,179,3,3,1,2,2,0,0,0,0,0,154,0,3,Matches
+Mahamadou Diawara,fr FRA,MF,18.0,4.0,147,144,2,2,0,0,2,0,0,0,0,0,125,1,4,Matches
+Paul Akouokou,ci CIV,MF,25.0,3.4,185,183,2,2,0,0,0,0,0,0,0,0,158,0,2,Matches
+Diego Moreira,pt POR,"FW,MF",18.0,3.0,108,105,2,1,0,0,6,1,0,0,0,0,74,1,3,Matches
+Jeffinho,br BRA,"FW,MF",23.0,3.4,129,124,5,2,0,1,2,1,2,0,0,0,95,0,7,Matches
+Bradley Barcola,fr FRA,FW,20.0,3.0,90,90,0,0,0,1,0,0,0,0,0,0,70,0,2,Matches
+Rémy Riou,fr FRA,GK,35.0,3.0,104,69,35,12,0,0,0,0,0,0,0,0,80,0,0,Matches
+Tino Kadewere,zw ZIM,"FW,MF",27.0,3.3,111,104,6,0,0,0,2,2,0,0,0,0,89,1,1,Matches
+Johann Lepenant,fr FRA,MF,20.0,2.8,186,179,6,5,1,0,2,1,0,0,0,0,165,1,4,Matches
+Amin Sarr,se SWE,"FW,MF",22.0,1.1,20,18,2,0,0,0,1,0,0,0,0,0,13,0,1,Matches
+Chaim El Djebali,tn TUN,MF,19.0,0.1,9,9,0,0,0,0,1,0,0,0,0,0,7,0,1,Matches
+Mamadou Sarr,fr FRA,DF,17.0,0.1,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0,Matches
+Adryelson,br BRA,"DF,FW",25.0,0.1,5,5,0,0,0,0,0,0,0,0,0,0,5,0,0,Matches
+Mohamed El Arouch,fr FRA,FW,19.0,0.0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Squad Total,0,0,26.6,34.0,17984,16440,1492,413,56,101,560,576,166,72,46,0,14823,52,330,0
+Opponent Total,0,0,25.5,34.0,16844,15324,1469,449,56,95,594,546,150,62,69,0,13756,51,255,0

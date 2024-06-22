@@ -1,0 +1,6 @@
+Player,Nation,Pos,Age,90s,Goals GA,Goals PKA,Goals FK,Goals CK,Goals OG,Expected PSxG,Expected PSxG/SoT,Expected PSxG+/-,Expected /90,Launched Cmp,Launched Att,Launched Cmp%,Passes Att (GK),Passes Thr,Passes Launch%,Passes AvgLen,Goal Kicks Att,Goal Kicks Launch%,Goal Kicks AvgLen,Crosses Opp,Crosses Stp,Crosses Stp%,Sweeper #OPA,Sweeper #OPA/90,Sweeper AvgDist,Matches
+Elia Caprile,it ITA,GK,21.0,23.0,27,4,0,5,0,27.6,0.22,0.6,0.02,117,350,33.4,657,137,40.3,36.8,159,53.5,45.1,391,31,7.9,20,0.87,13.3,Matches
+Etrit Berisha,al ALB,GK,34.0,14.0,25,2,0,5,1,20.7,0.24,-3.3,-0.24,44,184,23.9,400,75,34.8,33.0,90,50.0,40.8,236,11,4.7,10,0.71,12.4,Matches
+Samuele Perisan,it ITA,GK,25.0,1.0,2,0,0,0,0,0.7,0.14,-1.3,-1.32,1,8,12.5,22,8,27.3,26.3,12,16.7,29.6,18,0,0.0,1,1.0,21.0,Matches
+Squad Total,0,0,26.0,38.0,54,6,0,10,1,48.9,0.22,-4.1,-0.11,162,542,29.9,1031,220,39.8,0.0,309,42.7,37.7,645,42,6.5,31,0.82,0.0,0
+Opponent Total,0,0,26.4,38.0,29,5,0,0,3,33.9,0.25,7.9,0.21,176,446,39.5,1118,186,31.7,33.4,251,36.7,33.7,493,27,5.5,34,0.89,14.6,0

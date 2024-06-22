@@ -1,0 +1,33 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Youssouf Fofana,fr FRA,MF,24.0,30.0,1789,1693,83,77,13,4,14,6,0,0,0,0,1453,13,30,Matches
+Wissam Ben Yedder,fr FRA,FW,32.0,25.7,752,698,51,3,12,2,9,3,0,0,0,0,555,3,25,Matches
+Aleksandr Golovin,ru RUS,"MF,FW",27.0,23.9,1236,1096,129,34,14,11,110,13,82,26,46,0,935,11,27,Matches
+Takumi Minamino,jp JPN,MF,28.0,23.5,885,846,32,7,12,2,32,13,9,1,2,0,646,7,37,Matches
+Wilfried Singo,ci CIV,DF,22.0,24.3,1490,1411,76,42,2,4,21,34,0,0,0,0,1282,3,11,Matches
+Denis Zakaria,ch SUI,"MF,DF",26.0,23.7,1184,1159,25,22,2,3,9,3,0,0,0,0,1081,0,14,Matches
+Philipp Köhn,ch SUI,GK,25.0,22.0,667,484,182,52,0,0,0,0,0,0,0,0,479,1,0,Matches
+Guillermo Maripán,cl CHI,DF,29.0,19.6,1054,1010,42,36,0,2,0,4,0,0,0,0,934,2,9,Matches
+Vanderson,br BRA,DF,22.0,18.2,992,841,149,15,2,7,48,132,2,0,1,0,734,2,25,Matches
+Folarin Balogun,us USA,FW,22.0,18.8,365,333,25,1,3,1,7,0,0,0,0,0,263,7,15,Matches
+Maghnes Akliouche,fr FRA,"MF,FW",21.0,17.9,833,773,54,12,8,2,54,3,37,14,8,0,645,6,24,Matches
+Ismail Jakobs,sn SEN,DF,23.0,16.3,874,718,152,14,1,0,76,120,18,5,7,0,626,4,23,Matches
+Soungoutou Magassa,fr FRA,"DF,MF",19.0,15.0,998,977,21,18,1,21,3,3,0,0,0,0,871,0,14,Matches
+Thilo Kehrer,de GER,DF,26.0,14.7,966,900,66,32,1,2,4,19,0,0,0,0,859,0,11,Matches
+Mohamed Camara,ml MLI,MF,23.0,11.5,769,749,18,17,1,3,1,0,1,0,0,0,707,2,13,Matches
+Krépin Diatta,sn SEN,"DF,FW",24.0,13.4,787,629,152,16,0,5,39,126,10,4,4,0,602,6,13,Matches
+Radosław Majecki,pl POL,GK,23.0,12.0,376,271,105,25,0,0,0,0,0,0,0,0,277,0,0,Matches
+Mohammed Salisu,gh GHA,DF,24.0,11.5,778,751,27,19,0,0,1,7,0,0,0,0,657,0,9,Matches
+Kassoum Ouattara,fr FRA,"DF,FW",18.0,7.1,329,266,61,2,0,0,35,59,0,0,0,0,213,2,11,Matches
+Caio Henrique Oliveira Silva,br BRA,DF,26.0,6.9,464,369,94,15,2,0,36,56,23,4,13,0,376,1,13,Matches
+Eliesse Ben Seghir,ma MAR,"MF,FW",18.0,4.8,215,206,8,2,2,2,13,4,1,0,1,0,174,1,4,Matches
+Chrislain Matsima,fr FRA,DF,21.0,3.3,231,224,6,2,0,0,0,3,0,0,0,0,215,1,0,Matches
+Breel Embolo,ch SUI,FW,26.0,2.0,46,46,0,0,0,0,1,0,0,0,0,0,37,0,2,Matches
+Mamadou Coulibaly,fr FRA,MF,19.0,1.3,70,69,1,0,0,0,1,1,0,0,0,0,56,0,1,Matches
+Edan Diop,fr FRA,"MF,DF",18.0,1.8,97,86,10,1,0,0,2,9,0,0,0,0,71,1,3,Matches
+Eliot Matazo,be BEL,MF,21.0,1.1,63,61,2,1,0,1,1,1,0,0,0,0,50,0,0,Matches
+Myron Boadu,nl NED,FW,22.0,0.9,15,15,0,0,0,0,0,0,0,0,0,0,10,0,0,Matches
+Saïmon Bouabré,fr FRA,MF,17.0,0.5,17,17,0,0,0,0,0,0,0,0,0,0,15,0,1,Matches
+Antonin Cartillier,fr FRA,DF,19.0,0.1,3,3,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Lucas Michel,fr FRA,FW,19.0,0.1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Squad Total,0,0,25.0,34.0,18346,16702,1571,465,76,72,517,619,183,54,82,0,14825,73,335,0
+Opponent Total,0,0,25.7,34.0,15731,13998,1670,522,61,107,568,624,156,61,65,0,12256,63,353,0

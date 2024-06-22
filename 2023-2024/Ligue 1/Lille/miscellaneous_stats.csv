@@ -1,0 +1,31 @@
+Player,Nation,Pos,Age,90s,Performance CrdY,Performance CrdR,Performance 2CrdY,Performance Fls,Performance Fld,Performance Off,Performance Crs,Performance Int,Performance TklW,Performance PKwon,Performance PKcon,Performance OG,Performance Recov,Aerial Duels Won,Aerial Duels Lost,Aerial Duels Won%,Matches
+Lucas Chevalier,fr FRA,GK,21.0,33.0,1,0,0,1,7,0,0,0,0,0,1,0,54,4,0,100.0,Matches
+Leny Yoro,fr FRA,DF,17.0,29.7,5,0,0,20,16,0,1,36,25,0,1,1,124,44,25,63.8,Matches
+Jonathan David,ca CAN,FW,23.0,29.2,4,0,0,29,56,13,2,9,15,2,0,0,83,21,67,23.9,Matches
+Angel Gomes,eng ENG,MF,22.0,28.6,5,0,0,31,36,0,45,18,13,0,0,0,125,7,13,35.0,Matches
+Benjamin André,fr FRA,MF,32.0,28.6,8,0,0,51,43,1,19,35,49,0,0,0,195,78,56,58.2,Matches
+Ismaily,br BRA,DF,33.0,27.4,1,0,0,15,23,3,29,32,47,0,0,0,126,42,16,72.4,Matches
+Tiago santos,pt POR,DF,21.0,26.3,6,0,0,38,87,0,83,15,42,0,1,0,127,12,23,34.3,Matches
+Edon Zhegrova,xk KVX,FW,24.0,25.4,3,1,0,23,31,11,174,8,18,0,0,0,101,6,11,35.3,Matches
+Alexsandro Ribeiro,br BRA,DF,23.0,24.7,6,1,0,27,37,1,2,35,22,0,0,1,124,39,17,69.6,Matches
+Nabil Bentaleb,dz ALG,MF,28.0,21.9,7,0,0,23,18,0,6,37,32,0,1,0,142,24,13,64.9,Matches
+Bafodé Diakité,fr FRA,DF,22.0,18.8,4,0,0,16,12,2,3,21,20,0,1,0,83,32,19,62.7,Matches
+Yusuf Yazıcı,tr TUR,"MF,FW",26.0,14.6,5,0,0,19,14,4,19,5,11,0,0,0,56,5,14,26.3,Matches
+Hákon Arnar Haraldsson,is ISL,"FW,MF",20.0,14.3,5,0,0,15,28,1,7,3,8,0,0,0,48,1,8,11.1,Matches
+Rémy Cabella,fr FRA,"FW,MF",33.0,16.4,0,0,0,16,38,3,51,5,36,0,0,0,87,7,17,29.2,Matches
+Gabriel Gudmundsson,se SWE,"DF,FW",24.0,14.1,2,0,0,21,19,4,36,15,16,0,0,0,65,9,14,39.1,Matches
+Ivan Cavaleiro,pt POR,FW,29.0,8.6,1,0,0,10,7,2,29,5,6,0,0,0,31,15,22,40.5,Matches
+Adam Ounas,dz ALG,FW,26.0,4.6,0,0,0,3,12,1,22,6,3,1,0,0,27,6,6,50.0,Matches
+Samuel Umtiti,fr FRA,DF,29.0,2.1,0,0,0,3,1,0,0,2,1,0,0,0,9,1,1,50.0,Matches
+Ayyoub Bouaddi,fr FRA,MF,15.0,1.5,3,1,1,8,0,0,2,1,2,0,0,0,17,1,2,33.3,Matches
+Vito Mannone,it ITA,GK,35.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0.0,Matches
+Alan Virginius,fr FRA,FW,20.0,0.8,0,0,0,0,0,0,1,0,1,0,0,0,2,0,1,0.0,Matches
+Carlos Baleba,cm CMR,MF,19.0,0.7,0,0,0,2,2,0,0,2,2,0,0,0,2,0,0,0.0,Matches
+Ignacio Miramon,ar ARG,MF,20.0,0.4,0,0,0,0,1,0,0,0,0,0,0,0,4,0,0,0.0,Matches
+Tiago Fonseca Morais,pt POR,FW,19.0,0.5,0,0,0,1,0,0,1,1,1,0,0,0,3,0,0,0.0,Matches
+Trévis Dago,ci CIV,"FW,MF",18.0,0.3,1,0,0,2,1,0,1,1,0,0,0,0,1,1,1,50.0,Matches
+Andrej Ilic,rs SRB,FW,23.0,0.1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,Matches
+Ichem Ferrah,fr FRA,FW,17.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,Matches
+Aaron Malouda,fr FRA,FW,17.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,Matches
+Squad Total,0,0,25.1,34.0,67,3,1,376,489,46,533,292,370,3,5,2,1642,355,346,50.6,0
+Opponent Total,0,0,25.8,34.0,77,0,0,516,358,92,506,340,367,4,3,2,1673,346,355,49.4,0

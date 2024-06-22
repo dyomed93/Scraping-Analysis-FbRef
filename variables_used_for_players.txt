@@ -1,0 +1,83 @@
+ENG
+
+
+Nation: nation
+Pos: position
+Age: age
+MP: matches played
+Starts: matches started
+Min: minutes played
+90s: Min/90
+
+Gls: goals scored
+Ast: assists
+G+A: Goals + Assists
+G-PK: non-penalty goals
+PK: penalty goals
+PKatt: penalties taken
+CrdY: yellow cards
+CrdR: red cards
+
+xG: Expected Goals
+npxG: non-penalty Expected Goals
+xAG: measures the probability that a specific assist
+leads to an expected goal. It focuses on passes that directly
+contribute to an expected goal, providing an
+assessment of the likelihood that the assist results
+in a goal.
+npxG + xAG: sum of the two
+
+prgC: carries where the player moves the ball towards the opponent's goal
+by at least 5-10 yards if in their own half, or at least
+5 yards if in the opponent's half. Players with a high number
+are crucial in transition from defense to attack.
+PrgP: any completed pass into the opponent's penalty area or
+a pass that moves the ball at least 10 yards
+closer to the goal.
+prgR: passes received inside the opponent's penalty area or that are
+moved at least 10 yards towards the opponent's penalty area.
+
+The others are taken per 90 minutes.
+
+
+ITA
+
+Nation: nazione
+Pos: posizione
+Age: età
+MP: partite giocate
+Starts: partite giocate da titolare
+Min: minuti giocati
+90s: Min/90
+
+Gls: goal segnati
+Ast: assist
+G+A: Goal + Assist
+G-PK: Goal non di rigore
+PK: Rigori segnati
+PKatt: Rigori tirati
+CrdY: Cartellini Gialli
+CrdR: Cartellini Rossi
+
+xG: Expected Goals
+npxG: Expected Goals non di rigore
+xAG: quantifica la probabilità che 
+	un assist specifico porti a un gol atteso.
+	Si focalizza sui passaggi che direttamente 
+	contribuiscono a un gol atteso, offrendo una 
+	valutazione della probabilità che l'assist porti 
+	a un gol.
+npxG + xAG: somma tra i due
+
+prgC: conduzione con cui il giocatore avvicina la palla alla porta,
+	di almeno 5-10 yard se si trova nella propria metà
+	campo, o di almeno 5 yard se si trova nella metà campo
+	avversaria. Giocatori con un numero alto sono cruciali
+	in transizione dalla difesa all'attacco
+PrgP: qualsiasi passaggio completato dentro l'area avversaria o 
+	un passaggio che avvicina la palla di almeno 10 yards
+	alla porta
+prgR: passaggi ricevuti all'interno dell'area avversaria o che sono
+	stati mossi di almeno 10 yards verso l'area avversaria
+
+Le altre sono prese per 90 minuti

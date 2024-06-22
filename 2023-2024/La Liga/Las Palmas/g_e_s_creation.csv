@@ -1,0 +1,32 @@
+Player,Nation,Pos,Age,90s,SCA SCA,SCA SCA90,SCA Types PassLive,SCA Types PassDead,SCA Types TO,SCA Types Sh,SCA Types Fld,SCA Types Def,GCA GCA,GCA GCA90,GCA Types PassLive,GCA Types PassDead,GCA Types TO,GCA Types Sh,GCA Types Fld,GCA Types Def,Matches
+Álvaro Vallés,es ESP,GK,26.0,36.3,6,0.17,6,0,0,0,0,0,1,0.03,1,0,0,0,0,0,Matches
+Kirian Rodríguez,es ESP,MF,27.0,35.7,77,2.16,73,0,1,2,1,0,9,0.25,9,0,0,0,0,0,Matches
+Mika Màrmol,es ESP,DF,21.0,35.3,20,0.57,17,0,0,0,1,2,1,0.03,1,0,0,0,0,0,Matches
+Munir El Haddadi,ma MAR,FW,27.0,27.2,62,2.28,41,5,5,2,8,1,5,0.18,3,1,0,1,0,0,Matches
+Sergi Cardona,es ESP,DF,24.0,31.3,77,2.46,65,0,3,5,2,2,7,0.22,6,0,0,0,1,0,Matches
+Javier Muñoz,es ESP,MF,28.0,29.3,60,2.04,51,4,1,3,0,1,8,0.27,7,0,0,0,0,1,Matches
+Álex Suárez,es ESP,DF,30.0,28.5,18,0.63,13,2,0,2,1,0,2,0.07,1,0,0,1,0,0,Matches
+Saúl Coco,gq EQG,DF,24.0,25.5,6,0.24,5,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Sandro Ramírez,es ESP,FW,28.0,20.1,77,3.84,41,17,4,7,6,2,5,0.25,3,1,0,0,1,0,Matches
+Alberto Moleiro,es ESP,"FW,MF",19.0,20.0,67,3.34,53,1,10,0,3,0,5,0.25,5,0,0,0,0,0,Matches
+Máximo Perrone,ar ARG,MF,20.0,18.0,29,1.61,28,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Enzo Loiodice,fr FRA,MF,22.0,19.9,41,2.06,34,4,1,0,2,0,2,0.1,1,1,0,0,0,0,Matches
+Marvin,es ESP,"FW,DF",23.0,20.6,32,1.55,27,0,3,1,1,0,6,0.29,5,0,1,0,0,0,Matches
+Julian Araujo,mx MEX,DF,21.0,16.2,31,1.91,25,2,2,0,1,1,1,0.06,1,0,0,0,0,0,Matches
+Sory Kaba,gn GUI,FW,28.0,8.0,14,1.75,12,0,1,1,0,0,1,0.12,1,0,0,0,0,0,Matches
+Jonathan Viera,es ESP,"MF,FW",33.0,6.9,30,4.37,26,2,1,0,1,0,1,0.15,1,0,0,0,0,0,Matches
+Marc Cardona,es ESP,FW,28.0,8.0,16,1.95,11,0,3,1,1,0,2,0.24,1,0,0,0,1,0,Matches
+Francisco Jesús Crespo García,es ESP,FW,27.0,5.6,19,3.39,13,2,2,2,0,0,0,0.0,0,0,0,0,0,0,Matches
+Daley Sinkgraven,nl NED,DF,28.0,4.3,2,0.48,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Juan Herzog,es ESP,DF,20.0,3.2,1,0.31,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Álvaro Lemos,es ESP,DF,30.0,2.8,1,0.36,0,1,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Benito Ramírez,es ESP,"FW,MF",28.0,4.3,8,1.87,5,0,1,1,1,0,2,0.47,1,0,0,1,0,0,Matches
+José Campaña,es ESP,MF,30.0,1.9,1,0.53,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Cristian Herrera,es ESP,"FW,MF",32.0,1.8,5,2.73,5,0,0,0,0,0,1,0.55,1,0,0,0,0,0,Matches
+Aarón Escandell,es ESP,GK,27.0,1.7,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Fabio González,es ESP,MF,26.0,1.4,4,2.93,4,0,0,0,0,0,1,0.73,1,0,0,0,0,0,Matches
+Eric Curbelo,es ESP,"DF,MF",29.0,1.1,1,0.88,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Omenuke Mfulu,cd COD,"MF,FW",29.0,0.9,2,2.25,1,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Matches
+Iñaki González,es ESP,MF,19.0,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Squad Total,0,0,25.5,38.0,707,18.61,560,40,38,30,30,9,60,1.58,49,3,1,3,3,1,0
+Opponent Total,0,0,27.1,38.0,766,20.16,535,89,50,47,34,11,83,2.18,60,5,3,8,5,2,0

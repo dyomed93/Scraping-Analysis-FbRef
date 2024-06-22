@@ -1,0 +1,36 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Vangelis Pavlidis,gr GRE,FW,24.0,33.3,937,854,78,2,9,16,35,7,0,0,0,0,635,5,50,Matches
+Yukinari Sugawara,jp JPN,DF,23.0,28.4,1990,1562,424,48,3,20,178,267,109,45,44,0,1572,4,24,Matches
+Mathew Ryan,au AUS,GK,31.0,29.0,1114,942,170,46,0,3,0,0,0,0,0,0,901,2,0,Matches
+Dani de Wit,nl NED,MF,25.0,27.9,923,894,26,6,1,0,9,18,0,0,0,0,700,3,29,Matches
+Riechedly Bazoer,nl NED,DF,26.0,27.0,1945,1818,125,36,1,17,42,7,46,10,23,0,1721,2,11,Matches
+David Møller Wolfe,no NOR,DF,21.0,26.4,1315,1075,237,22,0,2,54,215,0,0,0,0,1041,3,36,Matches
+Sven Mijnans,nl NED,"MF,FW",23.0,26.3,1298,1238,50,29,7,9,40,5,16,8,1,0,1067,10,26,Matches
+Jordy Clasie,nl NED,MF,32.0,27.4,1766,1723,37,33,5,12,6,4,0,0,0,0,1554,6,14,Matches
+Ruben van Bommel,nl NED,FW,18.0,17.2,601,577,18,0,2,9,38,15,3,1,0,0,421,6,23,Matches
+Alexandre Penetra,pt POR,DF,21.0,19.5,1267,1204,62,18,1,11,8,23,0,0,0,0,1107,1,4,Matches
+Myron van Brederode,nl NED,FW,20.0,14.6,527,505,22,11,4,0,28,4,7,5,0,0,434,0,16,Matches
+Wouter Goes,nl NED,DF,19.0,12.6,867,847,18,9,1,8,3,9,0,0,0,0,756,2,4,Matches
+Kristijan Belic,rs SRB,MF,22.0,10.2,532,522,7,7,1,8,1,0,0,0,0,0,450,3,6,Matches
+Mayckel Lahdo,se SWE,FW,20.0,8.5,296,295,1,0,2,1,13,1,0,0,0,0,226,0,15,Matches
+Bruno Martins Indi,nl NED,DF,31.0,8.4,610,576,32,20,0,5,7,9,0,0,0,0,531,2,2,Matches
+Tiago Dantas,pt POR,MF,22.0,7.7,540,526,12,6,0,1,7,4,1,0,0,0,472,2,7,Matches
+Ernest Poku,nl NED,FW,19.0,7.4,199,189,9,1,0,0,10,7,0,0,0,0,142,1,8,Matches
+Ibrahim Sadiq,gh GHA,"FW,MF",23.0,7.3,234,225,9,1,1,3,13,6,2,1,1,0,177,0,7,Matches
+Jens Odgaard,dk DEN,"FW,MF",24.0,4.9,155,139,16,4,1,0,23,1,10,10,0,0,106,0,6,Matches
+Mees de Wit,nl NED,DF,25.0,4.6,276,244,32,1,0,0,8,31,0,0,0,0,242,0,2,Matches
+Rome-Jayden Owusu-Oduro,nl NED,GK,19.0,4.0,142,120,22,5,0,0,0,0,0,0,0,0,100,0,0,Matches
+Denso Kasius,nl NED,DF,20.0,5.0,285,241,42,2,1,7,16,38,2,0,1,0,223,2,7,Matches
+Djordje Mihailovic,us USA,MF,24.0,3.1,115,111,3,1,0,0,5,0,2,1,0,0,95,1,3,Matches
+Jayden Addai,nl NED,FW,17.0,3.3,79,77,1,0,0,0,6,1,0,0,0,0,50,1,6,Matches
+Pantelis Hatzidiakos,gr GRE,DF,26.0,2.0,149,144,5,5,0,0,4,0,0,0,0,0,130,0,1,Matches
+Kenzo Goudmijn,nl NED,MF,21.0,2.7,180,173,7,3,0,0,4,2,2,1,1,0,149,0,2,Matches
+Hobie Verhulst,nl NED,GK,30.0,1.0,46,33,13,4,0,0,0,0,0,0,0,0,32,0,0,Matches
+Dave Kwakman,nl NED,MF,18.0,0.8,64,62,2,2,0,0,2,0,0,0,0,0,61,0,1,Matches
+Maxim Dekker,nl NED,DF,19.0,0.9,42,38,4,1,0,0,2,3,0,0,0,0,33,0,1,Matches
+Lequincio Zeefuik,nl NED,"MF,FW",18.0,0.7,18,18,0,0,0,0,0,0,0,0,0,0,12,0,0,Matches
+Finn Stam,nl NED,DF,20.0,0.4,18,15,3,0,0,0,0,3,0,0,0,0,15,0,0,Matches
+Mexx Meerdink,nl NED,"FW,MF",20.0,0.3,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+Kees Smit,nl NED,MF,17.0,0.2,12,12,0,0,0,0,0,0,0,0,0,0,10,0,0,Matches
+Squad Total,0,0,24.3,34.0,18546,17003,1487,323,40,132,562,680,200,82,71,0,15168,56,311,0
+Opponent Total,0,0,25.0,34.0,15506,13916,1564,404,31,87,515,641,127,59,46,0,12163,26,292,0

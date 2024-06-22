@@ -1,0 +1,32 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Stanislav Lobotka,sk SVK,MF,28.0,36.5,2278,2209,63,37,4,14,3,2,0,0,0,0,2081,6,14,Matches
+Giovanni Di Lorenzo,it ITA,DF,29.0,35.9,2732,2336,386,42,6,26,126,343,1,0,0,0,2314,10,46,Matches
+Andre-Frank Zambo Anguissa,cm CMR,MF,27.0,31.0,1839,1803,32,18,4,4,20,14,0,0,0,0,1604,4,24,Matches
+Khvicha Kvaratskhelia,ge GEO,FW,22.0,30.4,1200,1110,86,17,6,30,99,22,45,27,12,0,965,4,22,Matches
+Alex Meret,it ITA,GK,26.0,30.8,914,726,185,48,0,1,0,0,0,0,0,0,769,3,1,Matches
+Matteo Politano,it ITA,FW,29.0,26.2,1292,1137,145,36,2,31,135,38,65,30,13,2,994,10,43,Matches
+Amir Rrahmani,xk KVX,DF,29.0,28.9,2255,2153,97,72,0,45,4,6,0,0,0,0,2028,5,8,Matches
+Juan Jesus,br BRA,DF,32.0,23.5,1709,1621,86,60,0,7,0,16,0,0,0,0,1547,2,12,Matches
+Piotr Zieliński,pl POL,MF,29.0,21.4,1255,1145,102,28,5,7,89,2,68,14,37,0,1037,8,17,Matches
+Victor Osimhen,ng NGA,FW,24.0,22.0,290,269,17,0,1,1,14,3,0,0,0,0,194,4,15,Matches
+Leo Skiri Østigård,no NOR,DF,23.0,18.1,1339,1297,37,25,0,8,2,6,0,0,0,0,1172,5,4,Matches
+Mathías Olivera,uy URU,DF,25.0,17.4,1175,992,182,26,1,6,27,156,0,0,0,0,1024,1,22,Matches
+Giacomo Raspadori,it ITA,"FW,MF",23.0,17.6,709,638,68,15,6,18,65,5,28,5,18,0,525,3,20,Matches
+Mário Rui,pt POR,DF,32.0,13.4,1068,906,162,40,2,11,62,106,16,0,15,0,860,0,16,Matches
+Jens Cajuste,se SWE,MF,23.0,11.3,435,425,8,1,1,1,6,7,0,0,0,0,369,2,9,Matches
+Natan,br BRA,DF,22.0,10.6,666,619,46,22,0,7,5,24,0,0,0,0,581,1,6,Matches
+Giovanni Simeone,ar ARG,FW,28.0,8.9,187,170,15,0,2,0,6,0,0,0,0,0,132,2,4,Matches
+Pierluigi Gollini,it ITA,GK,28.0,7.0,266,197,69,16,0,2,0,0,0,0,0,0,218,0,0,Matches
+Hamed Junior Traorè,ci CIV,MF,23.0,4.2,196,195,1,1,0,3,7,0,0,0,0,0,167,0,1,Matches
+Pasquale Mazzocchi,it ITA,DF,28.0,4.8,276,237,39,4,2,3,14,35,0,0,0,0,225,0,2,Matches
+Elif Elmas,mk MKD,"FW,MF",23.0,3.8,191,183,7,1,0,0,6,3,3,0,1,0,167,1,4,Matches
+Jesper Lindstrøm,dk DEN,"FW,MF",23.0,4.8,229,215,14,4,1,2,12,6,4,1,2,1,188,0,11,Matches
+Cyril Ngonge,be BEL,FW,23.0,3.5,144,131,13,2,1,1,20,2,9,4,5,0,107,0,4,Matches
+Gianluca Gaetano,it ITA,MF,23.0,1.8,79,78,1,1,0,1,3,0,0,0,0,0,70,0,1,Matches
+Alessio Zerbin,it ITA,"FW,DF",24.0,1.7,71,63,8,1,0,1,7,6,1,0,1,0,56,0,5,Matches
+Diego Demme,de GER,MF,31.0,0.8,76,76,0,0,0,2,3,0,0,0,0,0,63,0,1,Matches
+Alessandro Zanoli,it ITA,"DF,FW",22.0,0.6,40,37,3,0,0,0,2,3,0,0,0,0,33,0,0,Matches
+Leander Dendoncker,be BEL,MF,28.0,0.3,27,26,1,1,0,0,0,0,0,0,0,0,23,0,0,Matches
+Nikita Contini Baranovsky,it ITA,GK,27.0,0.2,4,2,2,1,0,0,0,0,0,0,0,0,4,0,0,Matches
+Squad Total,0,0,27.2,38.0,22942,20996,1875,519,44,232,737,805,240,81,104,3,19517,71,312,0
+Opponent Total,0,0,26.5,38.0,14682,12925,1682,439,28,96,542,655,133,44,73,0,11370,75,302,0

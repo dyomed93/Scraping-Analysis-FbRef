@@ -1,0 +1,37 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Matìas Soulé,ar ARG,"FW,MF",20.0,34.7,1535,1387,142,27,23,3,98,32,82,32,15,1,1197,6,33,Matches
+Caleb Okoli,it ITA,DF,22.0,32.4,1720,1588,129,66,0,6,2,27,0,0,0,0,1407,3,16,Matches
+Enzo Barrenechea,ar ARG,MF,22.0,31.2,1903,1795,104,88,1,13,1,3,0,0,0,0,1624,4,21,Matches
+Stefano Turati,it ITA,GK,21.0,30.5,1065,858,205,61,0,1,0,0,0,0,0,0,775,2,0,Matches
+Simone Romagnoli,it ITA,DF,33.0,30.2,1421,1256,165,76,0,1,1,0,0,0,0,0,1221,0,9,Matches
+Luca Mazzitelli,it ITA,MF,27.0,24.6,1309,1234,67,38,5,10,42,5,12,7,3,0,974,8,21,Matches
+Marco Brescianini,it ITA,MF,23.0,25.8,804,761,40,7,5,0,20,29,0,0,0,0,632,3,21,Matches
+Walid Cheddira,ma MAR,FW,25.0,23.6,385,349,33,0,1,2,3,1,0,0,0,0,262,3,27,Matches
+Pol Lirola,es ESP,DF,25.0,17.1,722,627,93,15,2,2,25,78,0,0,0,0,556,2,20,Matches
+Francesco Gelli,it ITA,"MF,DF",26.0,17.3,743,612,129,32,2,0,53,52,43,18,5,1,604,2,18,Matches
+Ilario Monterisi,it ITA,DF,21.0,16.3,997,911,85,22,2,0,5,55,0,0,0,0,802,1,18,Matches
+Nadir Zortea,it ITA,DF,24.0,14.0,572,433,138,7,0,0,74,114,17,0,13,1,418,1,25,Matches
+Anthony Oyono,ga GAB,DF,22.0,13.3,621,490,130,5,0,1,11,125,0,0,0,0,518,1,16,Matches
+Emanuele Valeri,it ITA,DF,24.0,13.1,560,398,160,16,1,2,73,125,18,3,14,0,341,2,17,Matches
+Riccardo Marchizza,it ITA,DF,25.0,12.8,558,444,112,10,0,2,22,102,0,0,0,0,423,2,16,Matches
+Reinier,br BRA,"MF,FW",21.0,11.8,401,383,18,3,2,2,13,4,8,1,0,0,318,0,10,Matches
+Abdou Harroui,nl NED,"MF,FW",25.0,11.3,383,361,18,4,4,2,12,6,2,1,0,0,303,4,11,Matches
+Kaio Jorge,br BRA,FW,21.0,9.0,159,133,26,0,0,1,3,1,0,0,0,0,116,0,5,Matches
+Michele Cerofolini,it ITA,GK,24.0,7.5,209,148,61,23,0,0,0,0,0,0,0,0,124,0,0,Matches
+Marvin Cuni,al ALB,FW,22.0,5.9,115,104,10,0,0,1,4,1,0,0,0,0,82,1,5,Matches
+Jaime Báez,uy URU,"FW,MF",28.0,5.6,202,182,20,4,0,1,24,2,14,2,10,0,141,0,7,Matches
+Luca Garritano,it ITA,"MF,DF",29.0,5.4,220,203,17,4,0,2,16,5,8,3,3,0,147,0,10,Matches
+Arijon Ibrahimović,de GER,"FW,DF",17.0,5.3,225,212,11,1,0,2,7,7,3,2,0,0,163,2,6,Matches
+Kevin Bonifazi,it ITA,DF,27.0,3.4,145,133,12,8,0,1,0,4,0,0,0,0,123,0,4,Matches
+Demba Seck,sn SEN,"FW,MF",22.0,3.3,92,89,3,1,0,0,2,1,1,0,0,0,74,0,3,Matches
+Mateus Lusuardi,br BRA,DF,19.0,2.4,154,134,19,4,0,0,1,15,0,0,0,0,134,1,0,Matches
+Mehdi Bourabia,ma MAR,MF,31.0,2.2,98,96,2,2,1,0,2,0,0,0,0,0,76,0,4,Matches
+Giuseppe Caso,it ITA,"FW,MF",24.0,4.6,112,106,6,0,1,0,2,1,5,0,0,0,95,0,2,Matches
+Farés Ghedjemis,fr FRA,"FW,MF",20.0,2.0,61,60,1,0,0,0,6,1,0,0,0,0,48,0,3,Matches
+Giorgi Kvernadze,ge GEO,"FW,DF",20.0,0.7,36,32,4,0,0,0,1,4,0,0,0,0,31,0,2,Matches
+Gennaro Borrelli,it ITA,FW,23.0,0.3,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,Matches
+Karlo Lulić,hr CRO,MF,27.0,0.2,12,12,0,0,0,0,0,0,0,0,0,0,8,0,0,Matches
+Luigi Canotto,it ITA,FW,29.0,0.2,3,2,1,1,0,0,0,0,0,0,0,0,2,0,1,Matches
+Przemysław Szymiński,pl POL,MF,29.0,0.1,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Squad Total,0,0,24.3,38.0,17545,15536,1961,525,50,55,524,800,213,69,63,3,13740,48,352,0
+Opponent Total,0,0,26.7,38.0,17938,16076,1791,408,43,108,676,794,180,73,74,1,13984,71,340,0

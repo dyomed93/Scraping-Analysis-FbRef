@@ -1,0 +1,31 @@
+Player,Nation,Pos,Age,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,Matches
+Lucas Chevalier,fr FRA,GK,21.0,33.0,3,0,3,0,0,3,4,75.0,1,1,0,1,0,3,11,2,Matches
+Leny Yoro,fr FRA,DF,17.0,29.7,36,25,27,7,2,17,31,54.8,14,20,14,6,36,72,97,1,Matches
+Jonathan David,ca CAN,FW,23.0,29.2,26,15,6,13,7,8,26,30.8,18,16,0,16,9,35,4,0,Matches
+Angel Gomes,eng ENG,MF,22.0,28.6,26,13,4,15,7,14,32,43.8,18,23,6,17,18,44,28,1,Matches
+Benjamin André,fr FRA,MF,32.0,28.6,89,49,39,45,5,43,81,53.1,38,34,5,29,35,124,60,0,Matches
+Ismaily,br BRA,DF,33.0,27.4,72,47,34,25,13,31,60,51.7,29,33,6,27,32,104,77,0,Matches
+Tiago santos,pt POR,DF,21.0,26.3,63,42,31,19,13,30,52,57.7,22,24,5,19,15,78,37,0,Matches
+Edon Zhegrova,xk KVX,FW,24.0,25.4,32,18,9,15,8,14,36,38.9,22,17,1,16,8,40,8,0,Matches
+Alexsandro Ribeiro,br BRA,DF,23.0,24.7,32,22,24,8,0,16,31,51.6,15,25,15,10,35,67,116,5,Matches
+Nabil Bentaleb,dz ALG,MF,28.0,21.9,49,32,29,18,2,22,43,51.2,21,33,12,21,37,86,33,0,Matches
+Bafodé Diakité,fr FRA,DF,22.0,18.8,29,20,12,15,2,24,32,75.0,8,16,8,8,21,50,49,1,Matches
+Yusuf Yazıcı,tr TUR,"MF,FW",26.0,14.6,19,11,6,9,4,4,15,26.7,11,10,1,9,5,24,5,0,Matches
+Hákon Arnar Haraldsson,is ISL,"FW,MF",20.0,14.3,12,8,4,7,1,5,21,23.8,16,7,2,5,3,15,5,0,Matches
+Rémy Cabella,fr FRA,"FW,MF",33.0,16.4,54,36,19,20,15,20,54,37.0,34,32,0,32,5,59,5,0,Matches
+Gabriel Gudmundsson,se SWE,"DF,FW",24.0,14.1,22,16,7,13,2,12,20,60.0,8,14,3,11,15,37,25,0,Matches
+Ivan Cavaleiro,pt POR,FW,29.0,8.6,10,6,3,4,3,7,20,35.0,13,9,2,7,5,15,6,0,Matches
+Adam Ounas,dz ALG,FW,26.0,4.6,4,3,2,2,0,2,7,28.6,5,2,0,2,6,10,1,0,Matches
+Samuel Umtiti,fr FRA,DF,29.0,2.1,1,1,0,1,0,1,4,25.0,3,0,0,0,2,3,4,0,Matches
+Ayyoub Bouaddi,fr FRA,MF,15.0,1.5,6,2,6,0,0,2,5,40.0,3,2,0,2,1,7,3,0,Matches
+Vito Mannone,it ITA,GK,35.0,1.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Alan Virginius,fr FRA,FW,20.0,0.8,1,1,1,0,0,0,1,0.0,1,0,0,0,0,1,0,0,Matches
+Carlos Baleba,cm CMR,MF,19.0,0.7,6,2,1,4,1,3,4,75.0,1,0,0,0,2,8,0,0,Matches
+Ignacio Miramon,ar ARG,MF,20.0,0.4,1,0,0,1,0,0,1,0.0,1,1,0,1,0,1,0,0,Matches
+Tiago Fonseca Morais,pt POR,FW,19.0,0.5,1,1,0,1,0,0,0,0.0,0,0,0,0,1,2,0,0,Matches
+Trévis Dago,ci CIV,"FW,MF",18.0,0.3,0,0,0,0,0,0,0,0.0,0,0,0,0,1,1,0,0,Matches
+Andrej Ilic,rs SRB,FW,23.0,0.1,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Ichem Ferrah,fr FRA,FW,17.0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Aaron Malouda,fr FRA,FW,17.0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Squad Total,0,0,25.1,34.0,594,370,267,242,85,278,580,47.9,302,319,80,239,292,886,574,10,0
+Opponent Total,0,0,25.8,34.0,603,367,313,217,73,293,629,46.6,336,387,124,263,340,943,558,11,0

@@ -1,0 +1,35 @@
+Player,Nation,Pos,Age,90s,Performance CrdY,Performance CrdR,Performance 2CrdY,Performance Fls,Performance Fld,Performance Off,Performance Crs,Performance Int,Performance TklW,Performance PKwon,Performance PKcon,Performance OG,Performance Recov,Aerial Duels Won,Aerial Duels Lost,Aerial Duels Won%,Matches
+Filip Jørgensen,dk DEN,GK,21.0,36.0,4,0,0,2,5,0,0,2,1,0,1,0,40,11,0,100.0,Matches
+Alex Baena,es ESP,"MF,FW",22.0,28.7,11,1,0,52,57,8,175,13,21,1,1,0,116,8,12,40.0,Matches
+Alexander Sørloth,no NOR,FW,27.0,27.7,3,0,0,34,19,23,7,0,3,1,0,0,57,80,45,64.0,Matches
+Daniel Parejo,es ESP,MF,34.0,28.7,4,0,0,18,51,0,57,21,30,0,0,0,173,24,10,70.6,Matches
+Gerard Moreno,es ESP,FW,31.0,24.6,0,0,0,22,38,17,27,9,12,0,0,0,87,27,28,49.1,Matches
+Raúl Albiol,es ESP,DF,37.0,22.6,6,0,0,21,8,1,0,16,14,0,0,0,75,46,29,61.3,Matches
+Jorge Cuenca,es ESP,DF,23.0,21.8,7,0,0,25,12,0,13,21,29,0,0,0,82,60,38,61.2,Matches
+Santi Comesaña,es ESP,MF,26.0,18.4,8,2,1,33,22,1,5,22,26,0,0,0,85,31,26,54.4,Matches
+Ilias Akhomach,ma MAR,"MF,FW",19.0,16.8,4,0,0,41,35,4,29,13,21,0,0,0,70,3,7,30.0,Matches
+Alberto Moreno,es ESP,DF,31.0,16.5,5,2,2,24,14,5,49,24,21,1,0,0,76,10,13,43.5,Matches
+Kiko Femenía,es ESP,DF,32.0,17.6,8,1,1,25,3,0,28,31,25,0,1,0,106,10,11,47.6,Matches
+Étienne Capoue,fr FRA,MF,35.0,16.2,8,0,0,25,41,2,7,22,18,1,0,0,97,21,19,52.5,Matches
+Yerson Mosquera,co COL,DF,22.0,13.7,4,0,0,14,27,0,7,17,13,0,0,0,72,26,8,76.5,Matches
+Alfonso Pedraza,es ESP,DF,27.0,12.4,4,1,0,14,17,4,58,13,9,0,0,0,54,6,8,42.9,Matches
+Aïssa Mandi,dz ALG,DF,31.0,12.4,3,0,0,7,5,0,0,8,8,0,1,0,49,12,11,52.2,Matches
+Juan Foyth,ar ARG,DF,25.0,11.8,1,0,0,18,7,0,18,12,15,0,0,0,58,26,16,61.9,Matches
+Francis Coquelin,fr FRA,MF,32.0,10.1,4,0,0,18,8,1,2,16,12,0,0,0,60,11,10,52.4,Matches
+Adrià Altimira,es ESP,"DF,MF",22.0,8.6,3,0,0,12,4,0,5,5,7,0,1,0,42,2,7,22.2,Matches
+Gonçalo Guedes,pt POR,"FW,MF",26.0,10.6,0,0,0,5,16,3,27,2,4,0,0,0,29,2,10,16.7,Matches
+Eric Bailly,ci CIV,DF,29.0,9.3,4,0,0,6,5,0,0,9,3,0,0,1,51,15,7,68.2,Matches
+José Luis Morales,es ESP,"FW,MF",36.0,11.6,0,0,0,3,4,13,10,7,3,0,0,0,38,2,12,14.3,Matches
+Yeremi Pino,es ESP,"MF,FW",20.0,5.3,4,0,0,22,9,3,7,5,18,0,0,0,29,8,10,44.4,Matches
+Ramón Terrats,es ESP,"MF,DF",22.0,8.7,4,0,0,15,16,1,28,3,13,0,1,0,45,5,5,50.0,Matches
+Bertrand Traoré,bf BFA,MF,27.0,6.3,4,0,0,7,21,2,9,1,4,1,0,0,22,4,3,57.1,Matches
+Matteo Gabbia,it ITA,DF,23.0,5.3,2,0,0,9,3,0,0,8,6,0,0,0,20,17,5,77.3,Matches
+Manu Trigueros,es ESP,MF,31.0,3.4,0,0,0,5,3,1,5,3,5,0,0,0,15,4,1,80.0,Matches
+Ben Brereton,cl CHI,"FW,MF",24.0,3.0,2,0,0,5,4,2,4,0,2,0,0,0,13,1,2,33.3,Matches
+Carlos Romero,es ESP,DF,21.0,2.9,1,0,0,2,6,0,11,1,5,0,0,0,27,1,2,33.3,Matches
+Pepe Reina,es ESP,GK,40.0,2.0,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0,Matches
+Denis Suárez,es ESP,"MF,FW",29.0,1.5,0,0,0,4,2,1,4,0,0,0,0,0,8,0,1,0.0,Matches
+Stefan Lekovic,rs SRB,DF,19.0,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,Matches
+Pascu,es ESP,FW,20.0,0.2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0,Matches
+Squad Total,0,0,27.9,38.0,110,8,4,488,462,92,592,304,348,5,6,1,1697,474,357,57.0,0
+Opponent Total,0,0,27.1,38.0,91,2,2,486,461,75,886,346,436,3,7,1,1876,357,474,43.0,0

@@ -1,0 +1,32 @@
+Player,Nation,Pos,Age,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,Matches
+Éderson,br BRA,MF,24.0,31.9,83,49,38,38,7,44,63,69.8,19,48,8,40,41,124,33,1,Matches
+Berat Djimsiti,al ALB,DF,30.0,31.5,42,24,29,12,1,19,31,61.3,12,53,33,20,57,99,100,0,Matches
+Giorgio Scalvini,it ITA,DF,19.0,28.3,53,33,29,19,5,19,40,47.5,21,44,17,27,59,112,71,0,Matches
+Teun Koopmeiners,nl NED,MF,25.0,29.2,39,24,12,22,5,17,50,34.0,33,33,3,30,10,49,35,0,Matches
+Marten de Roon,nl NED,"MF,DF",32.0,28.9,80,43,36,32,12,35,82,42.7,47,36,10,26,40,120,54,0,Matches
+Matteo Ruggeri,it ITA,DF,21.0,27.2,29,15,14,7,8,16,30,53.3,14,46,4,42,23,52,44,0,Matches
+Marco Carnesecchi,it ITA,GK,23.0,26.9,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,22,3,Matches
+Sead Kolašinac,ba BIH,DF,30.0,24.2,44,32,23,19,2,30,49,61.2,19,22,9,13,21,65,47,0,Matches
+Charles De Ketelaere,be BEL,"FW,MF",22.0,22.5,33,21,3,12,18,10,20,50.0,10,30,2,28,7,40,6,0,Matches
+Mario Pašalić,hr CRO,MF,28.0,22.8,28,17,9,18,1,14,31,45.2,17,29,6,23,16,44,34,0,Matches
+Davide Zappacosta,it ITA,DF,31.0,20.7,30,20,15,10,5,16,34,47.1,18,29,4,25,5,35,19,0,Matches
+Ademola Lookman,ng NGA,"FW,MF",25.0,21.0,20,15,2,11,7,8,22,36.4,14,19,0,19,9,29,0,1,Matches
+Gianluca Scamacca,it ITA,FW,24.0,16.1,15,9,4,5,6,7,14,50.0,7,7,1,6,4,19,9,0,Matches
+Aleksei Miranchuk,ru RUS,"MF,FW",27.0,13.1,12,6,6,4,2,5,13,38.5,8,6,1,5,2,14,5,1,Matches
+Emil Holm,se SWE,DF,23.0,10.5,28,19,17,9,2,16,36,44.4,20,25,3,22,7,35,25,0,Matches
+Juan Musso,ar ARG,GK,29.0,11.0,1,0,1,0,0,1,1,100.0,0,0,0,0,0,1,6,0,Matches
+Hans Hateboer,nl NED,DF,29.0,12.4,12,5,8,2,2,5,15,33.3,10,21,7,14,4,16,21,0,Matches
+Rafael Tolói,it ITA,DF,32.0,10.7,20,9,7,8,5,14,27,51.9,13,9,4,5,13,33,29,0,Matches
+Isak Hien,se SWE,DF,24.0,10.4,18,12,8,10,0,7,15,46.7,8,12,5,7,14,32,33,0,Matches
+El Bilal Touré,ml MLI,FW,21.0,4.4,1,1,0,1,0,0,1,0.0,1,0,0,0,1,2,2,0,Matches
+Mitchel Bakker,nl NED,DF,23.0,4.2,7,3,6,1,0,2,12,16.7,10,5,0,5,3,10,6,0,Matches
+Luis Muriel,co COL,"FW,MF",32.0,4.5,3,2,0,2,1,1,1,100.0,0,4,0,4,1,4,0,0,Matches
+Duván Zapata,co COL,FW,32.0,1.2,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0,Matches
+Giovanni Bonfanti,it ITA,DF,20.0,1.0,4,2,2,2,0,2,3,66.7,1,1,1,0,1,5,1,0,Matches
+Nadir Zortea,it ITA,DF,24.0,1.7,5,4,3,1,1,1,4,25.0,3,2,0,2,1,6,3,0,Matches
+Michel Ndary Adopo,fr FRA,MF,23.0,1.2,4,3,0,3,1,1,1,100.0,0,0,0,0,0,4,2,1,Matches
+José Luis Palomino,ar ARG,DF,33.0,0.3,2,1,1,1,0,1,1,100.0,0,2,1,1,1,3,6,0,Matches
+Francesco Rossi,it ITA,GK,32.0,0.1,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Leonardo Mendicino,it ITA,MF,17.0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Squad Total,0,0,26.3,38.0,613,369,273,249,91,291,597,48.7,306,483,119,364,340,953,614,7,0
+Opponent Total,0,0,26.4,38.0,647,414,330,249,68,270,556,48.6,286,457,125,332,340,987,704,12,0

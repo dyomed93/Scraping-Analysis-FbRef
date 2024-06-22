@@ -1,0 +1,37 @@
+Player,Nation,Pos,Age,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,Matches
+Pedro Alcalá,es ESP,DF,35-094,36.8,32,25,26,6,0,11,18,61.1,7,32,21,11,27,59,199,0,Matches
+Iván Calero,es ESP,DF,29-061,36.0,63,42,43,16,4,47,90,52.2,43,32,14,18,29,92,110,0,Matches
+José Fontán,es ESP,DF,24-131,35.6,69,46,41,24,4,45,63,71.4,18,33,16,17,54,123,150,0,Matches
+Jairo Izquierdo,es ESP,"DF,FW",30-243,29.5,38,22,18,11,9,15,38,39.5,23,17,2,15,15,53,31,0,Matches
+Damián Musto,ar ARG,MF,37-012,30.1,62,40,28,31,3,24,40,60.0,16,25,11,14,46,108,87,2,Matches
+Luis Muñoz,es ESP,"MF,FW",27-119,26.0,29,20,9,16,4,10,33,30.3,23,32,5,27,18,47,17,0,Matches
+Tomás Alarcón,cl CHI,MF,25-154,26.5,38,24,23,12,3,16,31,51.6,15,27,8,19,27,65,39,0,Matches
+Alfredo Ortuño,es ESP,FW,33-152,27.0,23,12,6,11,6,8,21,38.1,13,21,5,16,3,26,30,0,Matches
+Gonzalo Verdú,es ESP,DF,35-244,18.6,19,11,12,7,0,7,13,53.8,6,21,17,4,21,40,113,0,Matches
+Marc Martínez,es ESP,GK,34-078,21.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,6,1,Matches
+Andy,es ESP,MF,34-143,19.8,32,18,8,20,4,9,29,31.0,20,25,6,19,18,50,33,0,Matches
+Raúl Lizoain,es ESP,GK,33-146,19.0,0,0,0,0,0,0,2,0.0,2,0,0,0,0,0,9,1,Matches
+Kiko Olivas,es ESP,DF,35-305,16.8,33,23,24,9,0,22,31,71.0,9,21,13,8,26,59,74,1,Matches
+Juanjo Narváez,co COL,"FW,MF",29-130,14.0,7,4,2,3,2,1,8,12.5,7,8,0,8,5,12,9,0,Matches
+Isak Jansson,se SWE,"MF,FW",22-142,10.8,11,5,2,6,3,4,14,28.6,10,12,2,10,5,16,11,0,Matches
+Darío Poveda,es ESP,FW,27-100,10.6,1,0,0,1,0,1,4,25.0,3,5,0,5,1,2,4,0,Matches
+Juan Carlos,es ESP,"FW,MF",33-098,10.7,15,6,3,10,2,5,15,33.3,10,11,4,7,2,17,3,1,Matches
+Hector Hevel,nl NED,"MF,FW",28-037,9.8,19,10,6,11,2,8,15,53.3,7,6,1,5,7,26,7,0,Matches
+Arnau Solà,es ESP,DF,21-078,9.1,27,16,15,10,2,15,24,62.5,9,9,5,4,12,39,22,0,Matches
+Mikel Rico,es ESP,"MF,FW",39-230,11.0,10,5,3,6,1,8,22,36.4,14,12,4,8,4,14,8,1,Matches
+Diego Moreno,es ESP,DF,23-000,5.8,10,7,5,5,0,7,12,58.3,5,5,3,2,2,12,23,1,Matches
+Jony Álamo,es ESP,MF,22-270,6.2,12,4,7,5,0,7,16,43.8,9,6,2,4,4,16,8,0,Matches
+Iván Ayllón,es ESP,"FW,MF",23-048,5.7,10,4,2,4,4,4,6,66.7,2,7,0,7,5,15,5,0,Matches
+Úmaro Embaló,pt POR,"FW,MF",23-046,6.0,7,5,5,2,0,1,9,11.1,8,7,0,7,2,9,4,0,Matches
+Arnau Ortiz,es ESP,"FW,MF",22-236,5.5,8,5,3,2,3,6,8,75.0,2,7,0,7,4,12,1,0,Matches
+Lauti,uy URU,"FW,MF",23-133,4.4,4,3,0,3,1,1,5,20.0,4,4,0,4,1,5,1,0,Matches
+David Ferreiro,es ESP,"MF,FW",36-081,3.3,8,4,5,3,0,5,10,50.0,5,2,0,2,3,11,0,0,Matches
+Tomás Mejías,es ESP,GK,35-143,2.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,4,1,Matches
+Carlos Sanchez,es ESP,DF,23-063,1.5,7,2,5,2,0,3,4,75.0,1,2,0,2,2,9,4,0,Matches
+Toni Datković,hr CRO,DF,30-228,1.0,0,0,0,0,0,0,0,0.0,0,2,1,1,1,1,3,0,Matches
+Juan Sabater,0,DF,0,0.5,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,3,0,Matches
+Djakaría Barro,ci CIV,MF,22-161,0.2,2,1,2,0,0,1,1,100.0,0,0,0,0,1,3,1,0,Matches
+Jony,es ESP,FW,32-348,0.1,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Mamadou Cellou,gn GUI,MF,22-168,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Squad Total,0,0,30.5,42.0,597,365,304,236,57,292,584,50.0,292,391,140,251,345,942,1019,9,0
+Opponent Total,0,0,27.5,42.0,529,304,264,203,62,246,531,46.3,285,396,105,291,328,857,779,10,0

@@ -1,0 +1,42 @@
+D a t e,T i m e,C o m p,R o u n d,D a y,V e n u e,R e s u l t,G F,G A,O p p o n e n t,x G,x G A,P o s s,A t t e n d a n c e,C a p t a i n,F o r m a t i o n,R e f e r e e,M a t c h   R e p o r t,N o t e s
+2023-08-13,17:45,Coppa Italia,First round,Sun,Home,W,1,0,Ternana,0.0,0.0,60,9248,Antonio Candreva,3-4-3,Antonio Giua,Match Report,0.0
+2023-08-20,18:30,Serie A,Matchweek 1,Sun,Away,D,2,2,Roma,0.1,1.9,40,62050,Federico Fazio,3-4-3,Ermanno Feliciani,Match Report,0.0
+2023-08-28,18:30,Serie A,Matchweek 2,Mon,Home,D,1,1,Udinese,0.5,0.8,56,20000,Antonio Candreva,3-4-3,Davide Massa,Match Report,0.0
+2023-09-03,20:45,Serie A,Matchweek 3,Sun,Away,L,0,2,Lecce,1.1,1.7,54,28052,Antonio Candreva,3-4-3,Luca Massimi,Match Report,0.0
+2023-09-18,18:30,Serie A,Matchweek 4,Mon,Home,L,0,3,Torino,0.7,1.8,56,15480,Antonio Candreva,3-4-3,Antonio Giua,Match Report,0.0
+2023-09-22,18:30,Serie A,Matchweek 5,Fri,Home,D,1,1,Frosinone,1.1,0.7,50,16217,Antonio Candreva,3-4-3,Marco Piccinini,Match Report,0.0
+2023-09-27,18:30,Serie A,Matchweek 6,Wed,Away,L,0,1,Empoli,0.6,3.2,58,7979,Antonio Candreva,3-4-3,Antonio Rapuano,Match Report,0.0
+2023-09-30,20:45,Serie A,Matchweek 7,Sat,Home,L,0,4,Inter,0.6,2.3,36,28085,Norbert Gyömbér,3-4-3,Rosario Abisso,Match Report,0.0
+2023-10-08,12:30,Serie A,Matchweek 8,Sun,Away,L,0,3,Monza,0.6,2.8,43,12494,Antonio Candreva,3-4-3,Luca Massimi,Match Report,0.0
+2023-10-22,15:00,Serie A,Matchweek 9,Sun,Home,D,2,2,Cagliari,1.5,1.7,49,17409,Federico Fazio,4-3-2-1,Daniele Chiffi,Match Report,0.0
+2023-10-27,20:45,Serie A,Matchweek 10,Fri,Away,L,0,1,Genoa,0.6,0.5,49,31904,Antonio Candreva,3-4-3,Davide Massa,Match Report,0.0
+2023-10-31,18:00,Coppa Italia,Second round,Tue,Home,W,4,0,Sampdoria,0.0,0.0,62,4740,Giulio Maggiore,4-3-3,Gianluca Manganiello,Match Report,0.0
+2023-11-04,15:00,Serie A,Matchweek 11,Sat,Home,L,0,2,Napoli,0.3,1.4,42,16812,Federico Fazio,4-2-3-1,Antonio Rapuano,Match Report,0.0
+2023-11-10,18:30,Serie A,Matchweek 12,Fri,Away,D,2,2,Sassuolo,0.8,2.9,37,10945,Federico Fazio,4-3-3,Davide Ghersini,Match Report,0.0
+2023-11-25,15:00,Serie A,Matchweek 13,Sat,Home,W,2,1,Lazio,1.7,2.0,38,16700,Antonio Candreva,3-4-3,Alessandro Prontera,Match Report,0.0
+2023-12-03,15:00,Serie A,Matchweek 14,Sun,Away,L,0,3,Fiorentina,0.8,2.5,43,26286,Federico Fazio,3-4-3,Paride Tremolada,Match Report,0.0
+2023-12-10,18:00,Serie A,Matchweek 15,Sun,Home,L,1,2,Bologna,0.5,2.1,35,16700,Antonio Candreva,3-5-2,Simone Sozza,Match Report,0.0
+2023-12-18,20:45,Serie A,Matchweek 16,Mon,Away,L,1,4,Atalanta,1.3,1.9,49,14264,Antonio Candreva,4-3-2-1,Ermanno Feliciani,Match Report,0.0
+2023-12-22,20:45,Serie A,Matchweek 17,Fri,Home,D,2,2,Milan,1.4,2.2,35,23467,Federico Fazio,4-2-3-1,Daniele Doveri,Match Report,0.0
+2023-12-30,18:00,Serie A,Matchweek 18,Sat,Away,W,1,0,Hellas Verona,0.5,0.8,52,18181,Federico Fazio,4-1-4-1,Maurizio Mariani,Match Report,0.0
+2024-01-04,21:00,Coppa Italia,Round of 16,Thu,Away,L,1,6,Juventus,0.0,0.0,43,40548,Vincenzo Fiorillo,4-2-3-1,Davide Ghersini,Match Report,0.0
+2024-01-07,18:00,Serie A,Matchweek 19,Sun,Home,L,1,2,Juventus,0.8,2.0,30,40548,Federico Fazio,3-5-2,Marco Guida,Match Report,0.0
+2024-01-13,15:00,Serie A,Matchweek 20,Sat,Away,L,1,2,Napoli,0.1,2.2,30,35000,Federico Fazio,3-4-3,Livio Marinelli,Match Report,0.0
+2024-01-21,18:00,Serie A,Matchweek 21,Sun,Home,L,1,2,Genoa,0.8,1.1,60,17440,Antonio Candreva,4-3-2-1,Daniele Orsato,Match Report,0.0
+2024-01-29,20:45,Serie A,Matchweek 22,Mon,Home,L,1,2,Roma,1.2,1.6,39,18038,Antonio Candreva,3-4-3,Marco Di Bello,Match Report,0.0
+2024-02-04,12:30,Serie A,Matchweek 23,Sun,Away,D,0,0,Torino,0.1,0.8,33,24461,Antonio Candreva,3-4-3,Daniele Chiffi,Match Report,0.0
+2024-02-09,20:45,Serie A,Matchweek 24,Fri,Home,L,1,3,Empoli,0.9,2.2,61,18511,Antonio Candreva,3-4-3,Maurizio Mariani,Match Report,0.0
+2024-02-16,21:00,Serie A,Matchweek 25,Fri,Away,L,0,4,Inter,0.0,3.9,28,72609,Antonio Candreva,3-4-3,Marco Piccinini,Match Report,0.0
+2024-02-24,18:00,Serie A,Matchweek 26,Sat,Home,L,0,2,Monza,0.9,2.4,41,18560,Antonio Candreva,3-4-3,Michael Fabbri,Match Report,0.0
+2024-03-02,15:00,Serie A,Matchweek 27,Sat,Away,D,1,1,Udinese,1.1,1.8,50,20189,Antonio Candreva,4-3-1-2,Gianluca Manganiello,Match Report,0.0
+2024-03-09,15:00,Serie A,Matchweek 28,Sat,Away,L,2,4,Cagliari,0.9,3.3,70,16118,Antonio Candreva,4-3-1-2,Francesco Fourneau,Match Report,0.0
+2024-03-16,18:00,Serie A,Matchweek 29,Sat,Home,L,0,1,Lecce,1.2,1.2,70,15376,Antonio Candreva,4-3-1-2,Fabio Maresca,Match Report,0.0
+2024-04-01,12:30,Serie A,Matchweek 30,Mon,Away,L,0,3,Bologna,0.6,1.6,30,27255,Antonio Candreva,4-4-1-1,Ermanno Feliciani,Match Report,0.0
+2024-04-05,20:45,Serie A,Matchweek 31,Fri,Home,D,2,2,Sassuolo,1.2,2.3,54,14036,Antonio Candreva,4-3-3,Simone Sozza,Match Report,0.0
+2024-04-12,20:45,Serie A,Matchweek 32,Fri,Away,L,1,4,Lazio,0.6,1.9,35,34000,Antonio Candreva,3-4-3,Luca Zufferli,Match Report,0.0
+2024-04-21,18:00,Serie A,Matchweek 33,Sun,Home,L,0,2,Fiorentina,0.2,2.0,28,14597,Federico Fazio,3-4-3,Matteo Marchetti,Match Report,0.0
+2024-04-26,20:45,Serie A,Matchweek 34,Fri,Away,L,0,3,Frosinone,1.4,1.7,58,13728,Federico Fazio,5-3-2,Francesco Fourneau,Match Report,0.0
+2024-05-06,18:00,Serie A,Matchweek 35,Mon,Home,L,1,2,Atalanta,0.5,1.9,32,12980,Federico Fazio,3-4-3,Ermanno Feliciani,Match Report,0.0
+2024-05-12,18:00,Serie A,Matchweek 36,Sun,Away,D,1,1,Juventus,0.8,2.3,33,37470,Federico Fazio,3-4-3,Alberto Santoro,Match Report,0.0
+2024-05-20,18:30,Serie A,Matchweek 37,Mon,Home,L,1,2,Hellas Verona,0.6,2.1,53,15998,Federico Fazio,3-4-3,Marco Di Bello,Match Report,0.0
+2024-05-25,20:45,Serie A,Matchweek 38,Sat,Away,D,3,3,Milan,1.7,3.0,34,70831,Antonio Candreva,3-4-3,Davide Di Marco,Match Report,0.0

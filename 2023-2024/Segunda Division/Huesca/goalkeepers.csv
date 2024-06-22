@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,Playing Time MP,Playing Time Starts,Playing Time Min,Playing Time 90s,Performance GA,Performance GA90,Performance SoTA,Performance Saves,Performance Save%,Performance W,Performance D,Performance L,Performance CS,Performance CS%,Penalty Kicks PKatt,Penalty Kicks PKA,Penalty Kicks PKsv,Penalty Kicks PKm,Penalty Kicks Save%,Matches
+Álvaro Fernández,es ESP,GK,26-069,42,41,3693,41.0,33.0,0.8,128,96,77.3,11.0,15,15.0,20.0,48.8,5.0,4.0,1.0,0.0,20.0,Matches
+Juan Pérez,es ESP,GK,27-342,1,1,87,1.0,0.0,0.0,4,4,0.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
+Squad Total,0,0,27.8,42,42,3780,42.0,33.0,0.79,132,100,78.0,11.0,16,15.0,20.0,47.6,5.0,4.0,1.0,0.0,20.0,0
+Opponent Total,0,0,27.7,42,42,3780,42.0,36.0,0.86,123,89,72.4,15.0,16,11.0,20.0,47.6,2.0,2.0,0.0,0.0,0.0,0

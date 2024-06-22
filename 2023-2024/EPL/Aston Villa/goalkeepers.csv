@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,Playing Time MP,Playing Time Starts,Playing Time Min,Playing Time 90s,Performance GA,Performance GA90,Performance SoTA,Performance Saves,Performance Save%,Performance W,Performance D,Performance L,Performance CS,Performance CS%,Penalty Kicks PKatt,Penalty Kicks PKA,Penalty Kicks PKsv,Penalty Kicks PKm,Penalty Kicks Save%,Matches
+Emiliano Martínez,ar ARG,GK,30.0,34,34,3015,33.5,48,1.43,139,95,66.2,19,8,7,8,23.5,1,1,0,0,0.0,Matches
+Robin Olsen,se SWE,GK,33.0,5,4,405,4.5,13,2.89,34,20,61.8,1,0,3,0,0.0,1,0,1,0,100.0,Matches
+Squad Total,0,0,26.9,38,38,3420,38.0,61,1.61,173,115,65.3,20,8,10,8,21.1,2,1,1,0,50.0,0
+Opponent Total,0,0,26.2,38,38,3420,38.0,76,2.0,186,114,61.3,10,8,20,6,15.8,4,4,0,0,0.0,0

@@ -1,0 +1,48 @@
+D a t e,T i m e,C o m p,R o u n d,D a y,V e n u e,R e s u l t,G F,G A,O p p o n e n t,x G,x G A,P o s s,A t t e n d a n c e,C a p t a i n,F o r m a t i o n,R e f e r e e,M a t c h   R e p o r t,N o t e s
+2023-08-13,17:05,Ligue 1,Matchweek 1,Sun,Home,W,5,1,Metz,4.0,0.4,70,26065.0,Benjamin Bourigeaud,4-3-3,Jeremy Stinat,Match Report,0
+2023-08-20,20:45,Ligue 1,Matchweek 2,Sun,Away,D,1,1,Lens,1.4,1.0,50,37233.0,Benjamin Bourigeaud,4-3-3,Benoît Millot,Match Report,0
+2023-08-27,13:00,Ligue 1,Matchweek 3,Sun,Home,D,2,2,Le Havre,3.2,0.4,61,28311.0,Benjamin Bourigeaud,4-1-4-1,Eric Wattellier,Match Report,0
+2023-09-02,17:00,Ligue 1,Matchweek 4,Sat,Away,D,0,0,Brest,0.3,1.4,52,15021.0,Benjamin Bourigeaud,4-3-3,Hakim Ben El Hadj Salem,Match Report,0
+2023-09-16,17:00,Ligue 1,Matchweek 5,Sat,Home,D,2,2,Lille,0.5,1.0,47,28178.0,Benjamin Bourigeaud,4-3-3,Jérôme Brisard,Match Report,0
+2023-09-21,18:45,Europa Lg,Group stage,Thu,Home,W,3,0,il Maccabi Haifa,1.8,0.2,61,26838.0,Benjamin Bourigeaud,4-2-3-1,Harm Osmers,Match Report,0
+2023-09-24,17:05,Ligue 1,Matchweek 6,Sun,Away,D,0,0,Montpellier,0.9,1.5,63,15430.0,Benjamin Bourigeaud,4-2-3-1,Stéphanie Frappart,Match Report,0
+2023-10-01,20:45,Ligue 1,Matchweek 7,Sun,Home,W,3,1,Nantes,2.7,1.0,58,27313.0,Benjamin Bourigeaud,4-2-3-1,Ruddy Buquet,Match Report,0
+2023-10-05,21:00,Europa Lg,Group stage,Thu,Away,L,0,1,es Villarreal,1.9,0.3,52,17458.0,Benjamin Bourigeaud,4-2-3-1,Harald Lechner,Match Report,0
+2023-10-08,20:45,Ligue 1,Matchweek 8,Sun,Home,L,1,3,Paris S-G,1.1,3.5,42,27734.0,Benjamin Bourigeaud,4-3-3,Benoît Bastien,Match Report,0
+2023-10-22,13:00,Ligue 1,Matchweek 9,Sun,Away,L,1,2,Lorient,0.9,0.6,69,16711.0,Benjamin Bourigeaud,4-3-3,Gaël Angoula,Match Report,0
+2023-10-26,22:00,Europa Lg,Group stage,Thu,Away,W,2,1,gr Panathinaikos,1.5,2.2,38,13459.0,Benjamin Bourigeaud,4-3-3,João Pinheiro,Match Report,0
+2023-10-29,17:05,Ligue 1,Matchweek 10,Sun,Home,D,1,1,Strasbourg,1.1,1.0,61,28100.0,Benjamin Bourigeaud,4-3-3,Florent Batta,Match Report,0
+2023-11-05,20:45,Ligue 1,Matchweek 11,Sun,Away,L,0,2,Nice,0.8,1.6,54,22430.0,Benjamin Bourigeaud,4-4-2,Clément Turpin,Match Report,0
+2023-11-09,18:45,Europa Lg,Group stage,Thu,Home,W,3,1,gr Panathinaikos,2.1,1.6,37,28004.0,Benjamin Bourigeaud,4-2-3-1,William Collum,Match Report,0
+2023-11-12,17:05,Ligue 1,Matchweek 12,Sun,Home,L,0,1,Lyon,0.9,1.5,42,28441.0,Benjamin Bourigeaud,4-4-2,Stéphanie Frappart,Match Report,0
+2023-11-26,17:05,Ligue 1,Matchweek 13,Sun,Home,W,3,1,Reims,1.8,1.6,38,27718.0,Steve Mandanda,3-4-3,Ruddy Buquet,Match Report,0
+2023-11-30,19:45,Europa Lg,Group stage,Thu,Away,W,3,0,il Maccabi Haifa,1.5,0.2,69,0.0,Steve Mandanda,3-4-3,Horațiu Fesnic,Match Report,0
+2023-12-03,20:45,Ligue 1,Matchweek 14,Sun,Away,L,0,2,Marseille,0.6,0.9,57,54162.0,Steve Mandanda,3-4-3,Willy Delajod,Match Report,0
+2023-12-09,17:00,Ligue 1,Matchweek 15,Sat,Home,L,1,2,Monaco,1.7,0.9,47,26856.0,Steve Mandanda,3-4-3,Clément Turpin,Match Report,0
+2023-12-14,18:45,Europa Lg,Group stage,Thu,Home,L,2,3,es Villarreal,0.6,2.3,54,27761.0,Steve Mandanda,3-4-3,Atilla Karaoğlan,Match Report,0
+2023-12-17,15:00,Ligue 1,Matchweek 16,Sun,Away,D,0,0,Toulouse,0.7,0.9,51,23310.0,Steve Mandanda,3-4-3,Jeremy Stinat,Match Report,0
+2023-12-20,21:00,Ligue 1,Matchweek 17,Wed,Away,W,3,1,Clermont Foot,2.5,0.6,56,8840.0,Steve Mandanda,3-4-3,Eric Wattellier,Match Report,0
+2024-01-07,14:30,Coupe de France,Round of 64,Sun,Away,W,2,0,Guingamp,0.0,0.0,59,16822.0,Baptiste Santamaria,3-4-3,Jérôme Brisard,Match Report,0
+2024-01-13,21:00,Ligue 1,Matchweek 18,Sat,Home,W,2,0,Nice,2.0,0.7,44,26689.0,Steve Mandanda,4-4-2,Bastien Dechepy,Match Report,0
+2024-01-21,21:05,Coupe de France,Round of 32,Sun,Home,D,1 (9),1 (8),Marseille,0.0,0.0,47,28151.0,Benjamin Bourigeaud,4-4-2,Jérémie Pignard,Match Report,Rennes won on penalty kicks following normal time
+2024-01-26,21:00,Ligue 1,Matchweek 19,Fri,Away,W,3,2,Lyon,0.8,0.9,36,40516.0,Steve Mandanda,4-4-2,Thomas Léonard,Match Report,0
+2024-02-03,17:00,Ligue 1,Matchweek 20,Sat,Home,W,2,1,Montpellier,2.0,1.2,48,24898.0,Steve Mandanda,4-4-2,Mathieu Vernice,Match Report,0
+2024-02-06,20:45,Coupe de France,Round of 16,Tue,Away,W,6,1,Sochaux,0.0,0.0,58,19393.0,Benjamin Bourigeaud,4-4-2,Jeremy Stinat,Match Report,0
+2024-02-11,13:00,Ligue 1,Matchweek 21,Sun,Away,W,1,0,Le Havre,0.9,1.1,51,22702.0,Steve Mandanda,4-4-2,Benoît Millot,Match Report,0
+2024-02-15,21:00,Europa Lg,Knockout round play-offs,Thu,Away,L,0,3,it Milan,0.8,2.3,41,69021.0,Steve Mandanda,4-4-2,Nikola Dabanović,Match Report,Leg 1 of 2
+2024-02-18,15:00,Ligue 1,Matchweek 22,Sun,Home,W,3,1,Clermont Foot,3.7,0.8,53,27501.0,Steve Mandanda,4-4-2,Romain Lissorgue,Match Report,0
+2024-02-22,18:45,Europa Lg,Knockout round play-offs,Thu,Home,W,3,2,it Milan,3.0,2.0,55,29241.0,Steve Mandanda,4-3-3,João Pinheiro,Match Report,Leg 2 of 2; Milan won
+2024-02-25,17:05,Ligue 1,Matchweek 23,Sun,Away,D,1,1,Paris S-G,0.8,1.9,34,47874.0,Steve Mandanda,4-4-2,Bastien Dechepy,Match Report,0
+2024-02-29,20:45,Coupe de France,Quarter-finals,Thu,Away,W,3,1,Le Puy Foot 43,0.0,0.0,50,31414.0,Benjamin Bourigeaud,4-4-2,Hakim Ben El Hadj Salem,Match Report,0
+2024-03-03,17:05,Ligue 1,Matchweek 24,Sun,Home,L,1,2,Lorient,1.4,2.0,56,28615.0,Steve Mandanda,4-2-3-1,Benoît Bastien,Match Report,0
+2024-03-10,17:05,Ligue 1,Matchweek 25,Sun,Away,D,2,2,Lille,1.1,2.4,40,40383.0,Steve Mandanda,4-2-3-1,Benoît Millot,Match Report,0
+2024-03-17,17:05,Ligue 1,Matchweek 26,Sun,Home,W,2,0,Marseille,1.4,0.7,43,28610.0,Steve Mandanda,4-1-4-1,Eric Wattellier,Match Report,0
+2024-03-31,17:05,Ligue 1,Matchweek 27,Sun,Away,L,0,2,Strasbourg,1.1,2.5,59,25407.0,Steve Mandanda,4-1-4-1,Hakim Ben El Hadj Salem,Match Report,0
+2024-04-03,21:10,Coupe de France,Semi-finals,Wed,Away,L,0,1,Paris S-G,0.0,0.0,31,47879.0,Steve Mandanda,4-1-4-1,Ruddy Buquet,Match Report,0
+2024-04-07,17:05,Ligue 1,Matchweek 28,Sun,Away,L,0,1,Monaco,1.3,2.0,48,6634.0,Steve Mandanda,4-4-2,Stéphanie Frappart,Match Report,0
+2024-04-13,21:00,Ligue 1,Matchweek 29,Sat,Home,L,1,2,Toulouse,1.0,0.5,55,28055.0,Steve Mandanda,4-2-3-1,Florent Batta,Match Report,0
+2024-04-20,17:00,Ligue 1,Matchweek 30,Sat,Away,W,3,0,Nantes,2.4,0.2,55,25433.0,Steve Mandanda,4-2-3-1,Willy Delajod,Match Report,0
+2024-04-28,17:05,Ligue 1,Matchweek 31,Sun,Home,L,4,5,Brest,2.6,2.0,47,28527.0,Steve Mandanda,4-4-2,Benoît Bastien,Match Report,0
+2024-05-04,19:00,Ligue 1,Matchweek 32,Sat,Away,W,3,2,Metz,2.1,0.6,64,23290.0,Steve Mandanda,4-4-2,Ruddy Buquet,Match Report,0
+2024-05-12,21:00,Ligue 1,Matchweek 33,Sun,Home,D,1,1,Lens,1.9,0.6,57,28660.0,Steve Mandanda,4-4-2,Benoît Millot,Match Report,0
+2024-05-19,21:00,Ligue 1,Matchweek 34,Sun,Away,L,1,2,Reims,1.5,1.3,65,16077.0,Steve Mandanda,4-2-3-1,Mathieu Vernice,Match Report,0

@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,Playing Time MP,Playing Time Starts,Playing Time Min,Playing Time 90s,Performance GA,Performance GA90,Performance SoTA,Performance Saves,Performance Save%,Performance W,Performance D,Performance L,Performance CS,Performance CS%,Penalty Kicks PKatt,Penalty Kicks PKA,Penalty Kicks PKsv,Penalty Kicks PKm,Penalty Kicks Save%,Matches
+Jasper Schendelaar,nl NED,GK,22.0,32,32,2880,32.0,64,2.0,185,123,69.2,9,8,15,5,15.6,9,7,2,0,22.2,Matches
+Mike Hauptmeijer,nl NED,GK,26.0,2,2,180,2.0,3,1.5,11,8,81.8,0,1,1,0,0.0,1,1,0,0,0.0,Matches
+Squad Total,0,0,26.4,34,34,3060,34.0,67,1.97,196,131,69.9,9,9,16,5,14.7,10,8,2,0,20.0,0
+Opponent Total,0,0,25.2,34,34,3060,34.0,45,1.32,162,117,73.5,16,9,9,6,17.6,2,2,0,0,0.0,0

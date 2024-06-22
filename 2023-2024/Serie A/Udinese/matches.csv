@@ -1,0 +1,41 @@
+D a t e,T i m e,C o m p,R o u n d,D a y,V e n u e,R e s u l t,G F,G A,O p p o n e n t,x G,x G A,P o s s,A t t e n d a n c e,C a p t a i n,F o r m a t i o n,R e f e r e e,M a t c h   R e p o r t,N o t e s
+2023-08-11,18:00,Coppa Italia,First round,Fri,Home,W,4,1,Catanzaro,0.0,0.0,42,4801,Walace,3-5-2,Daniele Minelli,Match Report,0
+2023-08-20,20:45,Serie A,Matchweek 1,Sun,Home,L,0,3,Juventus,1.0,1.8,49,24911,Walace,3-5-2,Antonio Rapuano,Match Report,0
+2023-08-28,18:30,Serie A,Matchweek 2,Mon,Away,D,1,1,Salernitana,0.8,0.5,44,20000,Walace,3-5-2,Davide Massa,Match Report,0
+2023-09-02,18:30,Serie A,Matchweek 3,Sat,Home,D,0,0,Frosinone,1.5,1.8,47,20116,Walace,3-5-2,Marco Guida,Match Report,0
+2023-09-17,12:30,Serie A,Matchweek 4,Sun,Away,D,0,0,Cagliari,0.7,1.6,54,15121,Walace,3-5-2,Daniele Doveri,Match Report,0
+2023-09-24,15:00,Serie A,Matchweek 5,Sun,Home,L,0,2,Fiorentina,2.2,0.5,49,21229,Walace,3-5-2,Daniele Chiffi,Match Report,0
+2023-09-27,20:45,Serie A,Matchweek 6,Wed,Away,L,1,4,Napoli,0.7,3.3,34,45305,Walace,3-5-2,Gianluca Manganiello,Match Report,0
+2023-10-01,15:00,Serie A,Matchweek 7,Sun,Home,D,2,2,Genoa,1.3,0.8,59,20805,Roberto Pereyra,3-5-2,Maurizio Mariani,Match Report,0
+2023-10-06,18:30,Serie A,Matchweek 8,Fri,Away,D,0,0,Empoli,0.7,1.3,40,7128,Roberto Pereyra,3-5-2,Michael Fabbri,Match Report,0
+2023-10-23,18:30,Serie A,Matchweek 9,Mon,Home,D,1,1,Lecce,2.1,0.8,46,20113,Roberto Pereyra,3-5-2,Paride Tremolada,Match Report,0
+2023-10-29,15:00,Serie A,Matchweek 10,Sun,Away,D,1,1,Monza,1.1,0.5,39,10311,Roberto Pereyra,3-5-2,Alessandro Prontera,Match Report,0
+2023-11-01,21:00,Coppa Italia,Second round,Wed,Home,L,1,2,Cagliari,0.0,0.0,40,4537,Sandi Lovrić,3-5-2,Francesco Cosso,Match Report,Required Extra Time
+2023-11-04,20:45,Serie A,Matchweek 11,Sat,Away,W,1,0,Milan,1.4,0.9,28,71018,Roberto Pereyra,3-5-2,Juan Sacchi,Match Report,0
+2023-11-12,15:00,Serie A,Matchweek 12,Sun,Home,D,1,1,Atalanta,1.5,0.7,35,23100,Roberto Pereyra,3-5-1-1,Gianluca Aureliano,Match Report,0
+2023-11-26,18:00,Serie A,Matchweek 13,Sun,Away,L,1,3,Roma,0.5,1.4,36,61015,Walace,3-5-2,Luca Massimi,Match Report,0
+2023-12-03,15:00,Serie A,Matchweek 14,Sun,Home,D,3,3,Hellas Verona,1.9,1.3,40,22294,Roberto Pereyra,3-5-1-1,Fabio Maresca,Match Report,0
+2023-12-09,20:45,Serie A,Matchweek 15,Sat,Away,L,0,4,Inter,0.8,3.5,26,71874,Roberto Pereyra,3-1-4-2,Marco Di Bello,Match Report,0
+2023-12-17,15:00,Serie A,Matchweek 16,Sun,Home,D,2,2,Sassuolo,0.8,3.0,33,20490,Roberto Pereyra,3-5-2,Gianluca Manganiello,Match Report,0
+2023-12-23,15:00,Serie A,Matchweek 17,Sat,Away,D,1,1,Torino,0.9,1.0,38,23546,Roberto Pereyra,3-5-2,Michael Fabbri,Match Report,0
+2023-12-30,15:00,Serie A,Matchweek 18,Sat,Home,W,3,0,Bologna,1.1,0.9,27,24786,Roberto Pereyra,3-5-1-1,Daniele Orsato,Match Report,0
+2024-01-07,15:00,Serie A,Matchweek 19,Sun,Home,L,1,2,Lazio,0.7,0.5,47,23033,Roberto Pereyra,3-5-1-1,Juan Sacchi,Match Report,0
+2024-01-14,18:00,Serie A,Matchweek 20,Sun,Away,D,2,2,Fiorentina,1.2,1.3,31,23686,Roberto Pereyra,3-5-1-1,Luca Pairetto,Match Report,0
+2024-01-20,20:45,Serie A,Matchweek 21,Sat,Home,L,2,3,Milan,0.6,2.6,31,24591,Roberto Pereyra,3-5-1-1,Fabio Maresca,Match Report,0
+2024-01-27,15:00,Serie A,Matchweek 22,Sat,Away,L,0,2,Atalanta,0.6,1.1,42,14716,Walace,3-5-1-1,Marco Piccinini,Match Report,0
+2024-02-03,15:00,Serie A,Matchweek 23,Sat,Home,D,0,0,Monza,0.9,0.1,47,11373,Roberto Pereyra,3-5-1-1,Alessandro Prontera,Match Report,0
+2024-02-12,20:45,Serie A,Matchweek 24,Mon,Away,W,1,0,Juventus,0.7,1.7,30,38856,Walace,3-5-1-1,Rosario Abisso,Match Report,0
+2024-02-18,15:00,Serie A,Matchweek 25,Sun,Home,D,1,1,Cagliari,1.0,0.2,52,15445,Walace,3-5-1-1,Maurizio Mariani,Match Report,0
+2024-02-24,20:45,Serie A,Matchweek 26,Sat,Away,L,0,2,Genoa,0.3,1.3,35,31126,Walace,3-5-1-1,Francesco Fourneau,Match Report,0
+2024-03-02,15:00,Serie A,Matchweek 27,Sat,Home,D,1,1,Salernitana,1.8,1.1,50,20189,Walace,3-5-1-1,Gianluca Manganiello,Match Report,0
+2024-03-11,20:45,Serie A,Matchweek 28,Mon,Away,W,2,1,Lazio,1.2,2.2,32,34000,Roberto Pereyra,3-5-2,Gianluca Aureliano,Match Report,0
+2024-03-16,15:00,Serie A,Matchweek 29,Sat,Home,L,0,2,Torino,0.4,1.0,43,21223,Roberto Pereyra,3-5-2,Andrea Colombo,Match Report,0
+2024-04-01,15:00,Serie A,Matchweek 30,Mon,Away,D,1,1,Sassuolo,1.5,1.2,40,11512,Roberto Pereyra,3-5-1-1,Michael Fabbri,Match Report,0
+2024-04-08,20:45,Serie A,Matchweek 31,Mon,Home,L,1,2,Inter,0.1,3.3,24,24993,Roberto Pereyra,3-5-1-1,Marco Piccinini,Match Report,0
+2024-04-20,20:45,Serie A,Matchweek 33,Sat,Away,L,0,1,Hellas Verona,1.7,0.8,47,27662,Roberto Pereyra,3-5-1-1,Marco Guida,Match Report,0
+2024-04-25,20:00,Serie A,Matchweek 32,Thu,Home,L,1,2,Roma,0.6,1.4,28,24947,Roberto Pereyra,3-4-3,Luca Pairetto,Match Report,0
+2024-04-28,15:00,Serie A,Matchweek 34,Sun,Away,D,1,1,Bologna,0.7,0.7,35,27396,Roberto Pereyra,3-4-3,Juan Sacchi,Match Report,0
+2024-05-06,20:45,Serie A,Matchweek 35,Mon,Home,D,1,1,Napoli,0.7,0.8,32,20872,Walace,3-4-3,Gianluca Aureliano,Match Report,0
+2024-05-13,18:30,Serie A,Matchweek 36,Mon,Away,W,2,0,Lecce,1.4,0.4,35,28041,Walace,3-4-3,Davide Massa,Match Report,0
+2024-05-19,15:00,Serie A,Matchweek 37,Sun,Home,D,1,1,Empoli,1.2,0.8,47,24686,Walace,3-4-3,Daniele Orsato,Match Report,0
+2024-05-26,20:45,Serie A,Matchweek 38,Sun,Away,W,1,0,Frosinone,0.7,0.8,43,16190,Walace,3-5-2,Daniele Doveri,Match Report,0

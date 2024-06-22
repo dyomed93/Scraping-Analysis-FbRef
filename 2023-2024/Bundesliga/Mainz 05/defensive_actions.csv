@@ -1,0 +1,33 @@
+Player,Nation,Pos,Age,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,Matches
+Sepp van den Berg,nl NED,DF,21.0,31.5,38,23,20,15,3,15,26,57.7,11,66,36,30,43,81,159,2,Matches
+Robin Zentner,de GER,GK,28.0,30.0,2,2,2,0,0,2,5,40.0,3,1,0,1,1,3,19,1,Matches
+Leandro Barreiro Martins,lu LUX,MF,23.0,29.0,65,40,19,37,9,30,50,60.0,20,45,16,29,36,101,53,0,Matches
+Anthony Caci,fr FRA,DF,26.0,27.6,56,23,30,25,1,27,44,61.4,17,43,7,36,32,88,45,0,Matches
+Dominik Kohr,de GER,"DF,MF",29.0,24.3,65,42,36,25,4,36,57,63.2,21,27,6,21,43,108,58,0,Matches
+Lee Jae-sung,kr KOR,"MF,FW",30.0,23.5,33,20,11,16,6,13,39,33.3,26,22,2,20,27,60,23,0,Matches
+Phillipp Mwene,at AUT,DF,29.0,22.2,34,15,15,16,3,16,33,48.5,17,27,3,24,17,51,47,0,Matches
+Brajan Gruda,de GER,"MF,FW",19.0,18.2,22,14,5,11,6,14,24,58.3,10,15,0,15,5,27,4,0,Matches
+Jonathan Burkardt,de GER,"FW,MF",23.0,17.1,12,8,2,6,4,4,11,36.4,7,16,3,13,3,15,2,0,Matches
+Karim Onisiwo,at AUT,"FW,MF",31.0,16.6,17,8,4,6,7,6,11,54.5,5,18,4,14,2,19,7,0,Matches
+Ludovic Ajorque,fr FRA,FW,29.0,15.1,3,2,1,2,0,2,11,18.2,9,6,2,4,4,7,11,0,Matches
+Nadiem Amiri,de GER,MF,26.0,14.6,22,14,8,10,4,13,19,68.4,6,16,2,14,14,36,18,0,Matches
+Tom Krauß,de GER,MF,22.0,15.0,57,33,22,31,4,21,58,36.2,37,33,4,29,17,74,28,0,Matches
+Edimilson Fernandes,ch SUI,DF,27.0,14.3,25,16,15,9,1,16,24,66.7,8,14,6,8,22,47,52,0,Matches
+Silvan Widmer,ch SUI,DF,30.0,13.8,23,10,12,8,3,17,28,60.7,11,18,5,13,16,39,37,0,Matches
+Andreas Hanche-Olsen,no NOR,DF,26.0,11.0,20,12,10,8,2,10,16,62.5,6,10,4,6,11,31,41,0,Matches
+Danny da Costa,de GER,DF,30.0,9.2,18,9,9,7,2,9,19,47.4,10,17,4,13,16,34,24,0,Matches
+Stefan Bell,de GER,DF,31.0,7.4,8,8,7,1,0,4,8,50.0,4,7,5,2,6,14,30,0,Matches
+Marco Richter,de GER,"MF,FW",25.0,8.0,10,4,5,3,2,4,11,36.4,7,9,0,9,2,12,1,0,Matches
+Josuha Guilavogui,fr FRA,DF,32.0,4.5,15,10,10,5,0,6,7,85.7,1,13,7,6,13,28,21,0,Matches
+Maxim Leitsch,de GER,DF,25.0,4.2,6,3,5,1,0,3,6,50.0,3,2,0,2,4,10,13,0,Matches
+Daniel Batz,de GER,GK,32.0,4.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,3,0,Matches
+Matondo-Merveille Papela,de GER,"MF,DF",22.0,2.9,5,4,2,3,0,0,4,0.0,4,1,0,1,4,9,2,0,Matches
+Jessic Ngankam,de GER,"FW,MF",23.0,2.0,1,1,0,1,0,0,0,0.0,0,3,1,2,3,4,0,0,Matches
+Anton Stach,de GER,MF,24.0,1.9,3,0,2,0,1,2,4,50.0,2,5,0,5,2,5,5,0,Matches
+Aymen Barkok,ma MAR,"MF,FW",25.0,3.6,9,5,2,6,1,3,6,50.0,3,7,0,7,2,11,1,0,Matches
+Nelson Weiper,de GER,"FW,MF",18.0,1.4,2,1,2,0,0,2,3,66.7,1,1,0,1,1,3,0,0,Matches
+Anwar El Ghazi,nl NED,"MF,DF",28.0,0.6,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,Matches
+Marcus Müller,de GER,MF,20.0,0.2,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+David Mamutovic,de GER,"FW,DF",22.0,0.1,1,1,0,1,0,1,1,100.0,0,0,0,0,0,1,0,0,Matches
+Squad Total,0,0,26.7,34.0,572,328,256,253,63,276,526,52.5,250,442,117,325,346,918,704,3,0
+Opponent Total,0,0,26.5,34.0,554,315,284,215,55,269,538,50.0,269,442,146,296,276,830,896,9,0

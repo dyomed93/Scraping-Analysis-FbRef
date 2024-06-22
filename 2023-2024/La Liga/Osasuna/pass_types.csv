@@ -1,0 +1,32 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Sergio Herrera,es ESP,GK,30.0,31.9,1185,842,341,118,0,0,0,1,0,0,0,0,766,2,1,Matches
+Jesús Areso,es ESP,DF,24.0,29.6,1368,1033,332,20,1,6,110,311,0,0,0,0,1021,3,48,Matches
+Ante Budimir,hr CRO,FW,32.0,27.1,441,421,20,0,1,1,10,4,0,0,0,0,241,0,19,Matches
+Catena,es ESP,DF,28.0,28.2,1341,1242,94,72,1,19,0,3,0,0,0,0,1095,5,6,Matches
+David García,es ESP,DF,29.0,25.9,1339,1258,77,50,3,11,2,8,0,0,0,0,1109,4,6,Matches
+Aimar Oroz,es ESP,MF,21.0,26.0,1035,986,43,5,3,3,11,7,1,1,0,0,839,6,35,Matches
+Rubén Peña,es ESP,"DF,FW",32.0,23.2,955,785,162,5,2,3,111,149,4,3,1,0,626,8,38,Matches
+Moi Gómez,es ESP,"MF,FW",29.0,22.3,1177,1109,61,29,0,17,52,8,18,3,11,0,953,7,36,Matches
+Johan Mojica,co COL,DF,30.0,22.7,1193,1001,186,18,1,12,116,167,1,0,0,0,865,6,57,Matches
+Jon Moncayola,es ESP,MF,25.0,20.0,1025,948,74,26,0,12,90,8,40,19,20,0,786,3,16,Matches
+Lucas Torró,es ESP,MF,29.0,19.9,798,785,12,12,0,6,3,0,0,0,0,0,604,1,8,Matches
+Iker Muñoz,es ESP,MF,20.0,20.6,991,966,18,17,0,10,13,1,0,0,0,0,739,7,12,Matches
+Rubén García,es ESP,"FW,MF",30.0,17.2,774,692,82,24,2,4,101,7,47,25,16,1,519,0,32,Matches
+Juan Cruz Armada,es ESP,DF,31.0,18.5,941,759,178,11,0,0,21,165,0,0,0,0,712,4,15,Matches
+Jorge Herrando,es ESP,DF,22.0,18.3,738,679,58,34,0,3,0,1,0,0,0,0,589,1,11,Matches
+Raúl,es ESP,FW,22.0,15.1,306,285,18,1,1,0,6,2,0,0,0,0,191,3,11,Matches
+Pablo Ibáñez,es ESP,MF,24.0,12.8,452,437,13,3,0,1,12,5,0,0,0,0,343,2,9,Matches
+Ezequiel Ávila,ar ARG,"FW,MF",29.0,9.6,371,312,56,13,4,6,79,10,32,17,12,0,232,3,9,Matches
+José Arnaiz,es ESP,"FW,MF",28.0,10.3,318,260,58,18,0,3,46,3,25,13,8,0,233,0,8,Matches
+Unai García,es ESP,DF,31.0,6.2,202,184,17,15,0,6,5,2,0,0,0,0,158,1,0,Matches
+Aitor Fernández,es ESP,GK,32.0,6.1,198,147,49,27,0,0,0,0,0,0,0,0,127,2,0,Matches
+Kike Barja,es ESP,"FW,MF",26.0,3.4,114,110,4,1,0,0,23,1,2,2,0,0,83,0,3,Matches
+Nacho Vidal,es ESP,"DF,FW",28.0,1.1,40,36,4,1,0,1,0,3,0,0,0,0,27,0,2,Matches
+Darko Brašanac,rs SRB,MF,31.0,0.5,15,15,0,0,0,0,1,0,0,0,0,0,9,0,0,Matches
+Iñigo Arguibide,es ESP,DF,18.0,0.2,4,3,1,0,0,0,0,1,0,0,0,0,1,0,1,Matches
+Jorge Moreno,es ESP,DF,22.0,0.2,7,7,0,0,0,0,1,0,0,0,0,0,2,0,0,Matches
+Xabier Huarte Armendáriz,es ESP,MF,22.0,0.1,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+Asier Osambela,es ESP,MF,19.0,0.1,5,5,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+Max Svensson,es ESP,FW,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Squad Total,0,0,27.7,38.0,17335,15309,1958,520,19,124,813,867,170,83,68,1,12874,68,383,0
+Opponent Total,0,0,27.0,38.0,19141,17116,1899,561,64,147,694,776,175,75,55,0,14977,126,343,0

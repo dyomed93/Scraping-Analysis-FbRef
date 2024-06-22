@@ -1,0 +1,38 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Nicolás Ezequiel Fernández,ar ARG,"MF,FW",24-162,36.1,1485,1308,169,52,10,23,234,37,79,28,38,0,1086,8,59,Matches
+Pedro Bigas,es ESP,DF,33-280,34.8,2653,2477,168,114,1,18,5,4,0,0,0,0,2346,8,12,Matches
+Tete Morente,es ESP,"MF,DF",27-200,36.0,1466,1376,82,9,1,8,157,71,2,1,0,0,1053,8,58,Matches
+Carlos Clerc,es ESP,DF,32-121,33.5,2328,1980,339,71,4,33,67,266,0,0,0,0,1872,9,24,Matches
+Mario Gaspar,es ESP,"DF,MF",33-210,30.0,1442,1358,81,58,0,8,18,21,0,0,0,0,1189,3,20,Matches
+Nicolás Castro,ar ARG,MF,23-233,28.6,1709,1622,81,38,9,24,87,6,37,11,22,0,1416,6,23,Matches
+Aleix Febas,es ESP,MF,28-140,28.0,1356,1321,33,30,3,7,18,1,2,0,0,0,1166,2,31,Matches
+Mourad El Ghezouani,ma MAR,FW,26-025,24.8,421,371,50,0,0,2,2,0,0,0,0,0,303,0,12,Matches
+Josan,es ESP,DF,34-201,24.0,1551,1285,262,46,1,23,138,216,0,0,0,0,1260,4,35,Matches
+Matías Dituro,ar ARG,GK,37-044,21.0,918,792,125,45,1,8,0,0,0,0,0,0,734,1,1,Matches
+John Donald,es ESP,"MF,DF",23-296,18.9,982,961,19,16,0,1,0,2,0,0,0,0,867,2,10,Matches
+Sergio Carreira,es ESP,"DF,MF",23-252,16.5,1148,971,176,21,2,9,41,155,0,0,0,0,970,1,19,Matches
+Óscar Plano,es ESP,"FW,MF",33-131,15.1,572,555,13,8,2,1,17,1,0,0,0,0,442,4,19,Matches
+San Román,es ESP,GK,26-343,14.0,438,323,114,31,0,1,0,0,0,0,0,0,317,1,1,Matches
+Fidel,es ESP,"MF,FW",34-238,10.4,642,564,73,19,6,4,77,9,45,15,23,1,465,5,21,Matches
+Rodrigo Mendoza,es ESP,MF,19-098,11.3,391,383,7,1,4,1,19,4,2,0,2,0,293,1,11,Matches
+José Salinas,es ESP,"DF,MF",23-265,11.0,654,537,117,10,0,1,31,107,0,0,0,0,545,0,15,Matches
+Édgar Badía,es ESP,GK,32-130,7.0,266,206,60,16,0,0,0,0,0,0,0,0,207,0,0,Matches
+Arnau Puigmal,es ESP,"MF,DF",23-163,6.6,239,188,51,15,0,1,55,5,31,12,17,0,166,0,8,Matches
+Borja Garcés,es ESP,FW,24-320,6.8,117,106,10,0,0,0,1,1,0,0,0,0,82,1,2,Matches
+Sergio Bermejo,es ESP,"MF,FW",26-309,5.6,249,231,17,9,1,0,10,2,6,1,5,0,225,1,2,Matches
+Sergio León,es ESP,FW,35-167,5.4,64,52,11,0,0,0,1,0,0,0,0,0,48,1,0,Matches
+Raúl Guti,es ESP,"MF,FW",27-174,4.4,203,182,21,14,1,3,10,0,7,0,6,0,165,0,2,Matches
+Álex Martín,es ESP,"DF,MF",26-148,3.5,199,163,34,1,0,3,2,33,0,0,0,0,146,2,4,Matches
+Jhegson Méndez,ec ECU,MF,27-056,3.3,263,255,5,3,0,2,1,2,0,0,0,0,237,3,4,Matches
+Diego González,es ESP,DF,29-145,4.6,239,224,15,6,0,0,0,1,0,0,0,0,201,0,0,Matches
+Nieto,es ESP,"FW,DF",26-084,4.0,80,75,4,0,0,0,0,1,0,0,0,0,64,1,2,Matches
+Lautaro Blanco,ar ARG,"DF,MF",25-123,3.7,187,143,43,2,0,1,45,37,4,1,3,0,103,1,7,Matches
+Cristian Salvador,es ESP,"MF,DF",29-214,5.0,276,272,4,4,0,3,1,0,0,0,0,0,240,0,4,Matches
+Lucas Boyé,ar ARG,FW,28-114,2.4,58,53,5,0,1,1,1,0,0,0,0,0,46,0,2,Matches
+Rafael Nuñez,do DOM,"MF,DF",22-148,2.1,94,90,4,0,0,1,7,2,2,1,0,0,71,0,3,Matches
+Adam Boayar,es ESP,"FW,DF",18-252,2.5,66,59,6,0,1,1,0,1,0,0,0,0,58,1,1,Matches
+Pere Milla,es ESP,FW,31-272,0.1,5,4,1,0,0,0,0,1,0,0,0,0,4,0,0,Matches
+Javi Pamies,es ESP,"DF,MF",21-096,0.1,4,3,1,0,0,0,0,1,0,0,0,0,3,0,0,Matches
+David López,es ESP,"DF,MF",21-139,0.0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Squad Total,0,0,28.8,42.0,22767,20492,2201,639,48,188,1045,987,217,70,116,1,18390,74,412,0
+Opponent Total,0,0,27.6,42.0,16592,14393,2112,602,41,87,606,812,179,72,54,0,12403,87,354,0

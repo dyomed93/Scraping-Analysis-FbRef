@@ -1,0 +1,36 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+David Soria,es ESP,GK,30.0,37.9,1295,781,508,198,0,9,0,0,0,0,0,0,687,6,0,Matches
+Nemanja Maksimović,rs SRB,MF,28.0,36.3,1036,969,63,19,1,3,5,5,0,0,0,0,844,4,16,Matches
+Mason Greenwood,eng ENG,"MF,FW",21.0,29.6,1036,962,66,21,4,32,107,3,39,28,1,0,777,8,24,Matches
+Djené,tg TOG,"DF,MF",31.0,27.6,1121,1049,69,21,0,4,30,48,0,0,0,0,861,3,14,Matches
+Gastón Álvarez,uy URU,DF,23.0,28.2,1017,878,138,35,0,10,25,101,0,0,0,0,754,1,17,Matches
+Diego Rico,es ESP,DF,30.0,28.2,1495,1150,335,24,2,28,130,311,0,0,0,0,993,10,49,Matches
+Borja Mayoral,es ESP,FW,26.0,23.9,558,530,26,0,0,8,22,1,1,0,0,0,422,2,26,Matches
+Luis Milla,es ESP,MF,28.0,23.5,1273,1101,165,93,1,40,102,3,65,30,24,0,1011,7,17,Matches
+Omar Alderete,py PAR,DF,26.0,24.4,1056,985,58,54,0,37,5,3,0,0,0,0,678,13,11,Matches
+Jaime Mata,es ESP,"FW,MF",34.0,19.9,521,502,17,1,0,1,39,8,1,0,0,0,340,2,21,Matches
+Iglesias,es ESP,"DF,FW",25.0,15.7,635,505,123,10,2,10,58,113,0,0,0,0,382,7,15,Matches
+Juanmi Latasa,es ESP,FW,22.0,17.3,368,354,11,0,2,0,2,0,0,0,0,0,192,3,5,Matches
+Carmona,es ESP,"DF,MF",21.0,14.6,570,489,79,6,0,3,29,73,0,0,0,0,419,2,20,Matches
+Damián Suárez,uy URU,DF,35.0,14.4,638,499,137,20,0,15,49,107,9,1,6,1,436,2,14,Matches
+Domingos Duarte,pt POR,DF,28.0,10.1,380,365,13,11,1,3,1,1,0,0,0,0,294,2,4,Matches
+Carles Aleñá,es ESP,MF,25.0,11.3,396,359,36,17,1,4,33,5,14,13,1,0,308,1,12,Matches
+Óscar Rodríguez Arnaiz,es ESP,"MF,FW",25.0,10.7,442,418,23,6,3,8,17,3,11,3,4,0,333,1,15,Matches
+Stefan Mitrović,rs SRB,DF,33.0,7.8,251,223,28,24,1,1,0,0,0,0,0,0,191,0,0,Matches
+Jesús Santiago,es ESP,MF,19.0,7.3,189,184,4,3,0,1,4,0,1,0,0,0,144,1,8,Matches
+Ilaix Moriba,gn GUI,"MF,FW",20.0,6.7,204,201,3,2,1,1,2,1,0,0,0,0,150,0,7,Matches
+Jordi,es ESP,"MF,DF",22.0,6.4,242,233,6,0,1,1,22,6,0,0,0,0,150,3,7,Matches
+Mauro Arambarri,uy URU,MF,27.0,3.8,142,138,4,2,0,2,6,1,1,1,0,0,114,0,2,Matches
+Nabil Aberdin,fr FRA,DF,20.0,2.0,79,75,4,4,0,1,0,0,0,0,0,0,60,0,0,Matches
+Fabrizio Angileri,ar ARG,"DF,MF",29.0,1.8,103,96,7,1,0,2,8,6,0,0,0,0,68,0,5,Matches
+Enes Ünal,tr TUR,"FW,MF",26.0,1.6,35,34,1,1,0,0,1,0,0,0,0,0,24,0,0,Matches
+Alberto Risco,es ESP,MF,17.0,1.5,47,44,3,0,0,0,1,3,0,0,0,0,39,0,1,Matches
+Portu,es ESP,FW,31.0,1.1,23,21,2,1,0,0,2,0,1,0,1,0,17,0,2,Matches
+Anthony Lozano,hn HON,"MF,FW",30.0,1.0,16,16,0,0,0,0,1,0,0,0,0,0,10,0,1,Matches
+Santiago García,0,FW,21.0,0.3,7,6,1,1,0,0,0,0,0,0,0,0,6,0,0,Matches
+Daniel Fuzato,br BRA,GK,26.0,0.1,10,6,4,0,0,0,0,0,0,0,0,0,5,0,0,Matches
+Gorka Rivera Alonso,es ESP,DF,18.0,0.0,6,5,1,0,0,0,0,1,0,0,0,0,4,0,0,Matches
+Yassin Tallal,es ESP,FW,18.0,0.0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Jeremy Jorge,es ESP,FW,20.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Squad Total,0,0,27.3,38.0,15193,13180,1935,575,20,224,701,803,143,76,37,1,10713,78,313,0
+Opponent Total,0,0,27.2,38.0,18849,16675,2033,695,78,136,640,805,173,60,66,1,14502,141,292,0

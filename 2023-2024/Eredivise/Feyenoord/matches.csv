@@ -1,0 +1,43 @@
+D a t e,T i m e,C o m p,R o u n d,D a y,V e n u e,R e s u l t,G F,G A,O p p o n e n t,x G,x G A,P o s s,A t t e n d a n c e,C a p t a i n,F o r m a t i o n,R e f e r e e,M a t c h   R e p o r t,N o t e s
+2023-08-13,14:30,Eredivisie,Matchweek 1,Sun,Home,D,0,0,Fortuna Sittard,1.3,1.2,61,47500.0,Lutsharel Geertruida,4-3-3,Rob Dieperink,Match Report,0
+2023-08-20,14:30,Eredivisie,Matchweek 2,Sun,Away,D,2,2,Sparta R'dam,2.0,0.9,71,10600.0,Lutsharel Geertruida,4-2-3-1,Danny Makkelie,Match Report,0
+2023-08-27,14:30,Eredivisie,Matchweek 3,Sun,Home,W,6,1,Almere City,4.4,1.3,63,47500.0,Gernot Trauner,4-2-3-1,Bas Nijhuis,Match Report,0
+2023-09-03,12:15,Eredivisie,Matchweek 4,Sun,Away,W,5,1,Utrecht,4.5,0.6,55,20366.0,Gernot Trauner,4-2-3-1,Pol van Boekel,Match Report,0
+2023-09-16,16:30,Eredivisie,Matchweek 5,Sat,Home,W,6,1,Heerenveen,3.3,0.8,61,47500.0,Gernot Trauner,4-2-3-1,Jeroen Manschot,Match Report,0
+2023-09-19,21:00,Champions Lg,Group stage,Tue,Home,W,2,0,sct Celtic,1.6,0.3,61,44008.0,Gernot Trauner,4-2-3-1,Irfan Peljto,Match Report,0
+2023-09-27,14:00,Eredivisie,Matchweek 6,Wed,Away,W,4,0,Ajax,2.5,0.3,38,0.0,Gernot Trauner,4-2-3-1,Serdar Gözübüyük,Match Report,0
+2023-09-30,16:30,Eredivisie,Matchweek 7,Sat,Home,W,3,1,Go Ahead Eag,3.3,0.4,62,47500.0,Gernot Trauner,4-2-3-1,Jochem Kamphuis,Match Report,0
+2023-10-04,18:45,Champions Lg,Group stage,Wed,Away,L,2,3,es Atlético Madrid,2.4,0.8,52,61742.0,Gernot Trauner,4-3-3,François Letexier,Match Report,0
+2023-10-08,12:15,Eredivisie,Matchweek 8,Sun,Away,W,2,0,Zwolle,2.2,0.8,58,14000.0,Lutsharel Geertruida,4-2-3-1,Sander van der Eijk,Match Report,0
+2023-10-21,21:00,Eredivisie,Matchweek 9,Sat,Home,W,4,0,Vitesse,3.0,0.1,57,47500.0,Lutsharel Geertruida,4-3-3,Bas Nijhuis,Match Report,0
+2023-10-25,18:45,Champions Lg,Group stage,Wed,Home,W,3,1,it Lazio,2.1,2.3,46,44031.0,Lutsharel Geertruida,4-3-3,Tobias Stieler,Match Report,0
+2023-10-29,12:15,Eredivisie,Matchweek 10,Sun,Away,L,1,2,Twente,1.5,1.5,59,30000.0,Lutsharel Geertruida,4-3-3,Dennis Higler,Match Report,0
+2023-11-04,18:45,Eredivisie,Matchweek 11,Sat,Away,W,2,1,RKC Waalwijk,4.2,0.5,75,7168.0,Lutsharel Geertruida,4-2-3-1,Pol van Boekel,Match Report,0
+2023-11-07,21:00,Champions Lg,Group stage,Tue,Away,L,0,1,it Lazio,1.4,1.1,64,36612.0,Lutsharel Geertruida,4-3-3,Szymon Marciniak,Match Report,0
+2023-11-12,16:45,Eredivisie,Matchweek 12,Sun,Home,W,1,0,AZ Alkmaar,0.5,0.2,54,47500.0,Gernot Trauner,4-4-1-1,Danny Makkelie,Match Report,0
+2023-11-25,16:30,Eredivisie,Matchweek 13,Sat,Away,W,4,2,Excelsior,4.5,1.3,61,4400.0,Lutsharel Geertruida,4-2-3-1,Serdar Gözübüyük,Match Report,0
+2023-11-28,21:00,Champions Lg,Group stage,Tue,Home,L,1,3,es Atlético Madrid,1.1,1.3,51,43992.0,Gernot Trauner,4-2-3-1,Anthony Taylor,Match Report,0
+2023-12-03,12:15,Eredivisie,Matchweek 14,Sun,Home,L,1,2,PSV Eindhoven,1.3,1.9,60,47500.0,Gernot Trauner,4-3-3,Danny Makkelie,Match Report,0
+2023-12-07,21:00,Eredivisie,Matchweek 15,Thu,Home,W,3,1,Volendam,3.4,0.5,83,40000.0,Gernot Trauner,4-2-3-1,Martin van den Kerkhof,Match Report,0
+2023-12-13,20:00,Champions Lg,Group stage,Wed,Away,L,1,2,sct Celtic,2.1,2.2,53,56391.0,Lutsharel Geertruida,4-2-3-1,Benoît Bastien,Match Report,0
+2023-12-17,14:30,Eredivisie,Matchweek 16,Sun,Away,W,4,0,Heracles Almelo,3.0,0.1,66,12080.0,Gernot Trauner,4-2-3-1,Jeroen Manschot,Match Report,0
+2024-01-14,16:45,Eredivisie,Matchweek 17,Sun,Home,D,2,2,NEC Nijmegen,2.4,0.5,68,47500.0,Gernot Trauner,4-2-3-1,Sander van der Eijk,Match Report,0
+2024-01-21,14:30,Eredivisie,Matchweek 18,Sun,Away,W,2,1,Vitesse,2.6,0.4,61,18467.0,Gernot Trauner,4-2-3-1,Serdar Gözübüyük,Match Report,0
+2024-01-28,14:30,Eredivisie,Matchweek 19,Sun,Home,D,0,0,Twente,2.9,0.4,62,47500.0,Gernot Trauner,4-3-3,Allard Lindhout,Match Report,0
+2024-02-04,14:30,Eredivisie,Matchweek 20,Sun,Away,W,1,0,AZ Alkmaar,1.0,0.9,43,18414.0,Gernot Trauner,4-3-3,Danny Makkelie,Match Report,0
+2024-02-11,20:00,Eredivisie,Matchweek 21,Sun,Home,W,2,0,Sparta R'dam,3.2,0.3,69,47500.0,Lutsharel Geertruida,4-2-3-1,Pol van Boekel,Match Report,0
+2024-02-15,18:45,Europa Lg,Knockout round play-offs,Thu,Home,D,1,1,it Roma,1.2,0.9,53,43235.0,Dávid Hancko,4-2-3-1,Radu Petrescu,Match Report,Leg 1 of 2
+2024-02-18,16:45,Eredivisie,Matchweek 22,Sun,Home,W,1,0,RKC Waalwijk,3.2,0.7,76,47500.0,Lutsharel Geertruida,4-2-3-1,Martin van den Kerkhof,Match Report,0
+2024-02-22,21:00,Europa Lg,Knockout round play-offs,Thu,Away,D,1 (2),1 (4),it Roma,0.8,1.2,42,69689.0,Lutsharel Geertruida,4-2-3-1,Jesús Gil,Match Report,Leg 2 of 2; Roma won; Roma won on penalty kicks following extra time
+2024-02-25,14:30,Eredivisie,Matchweek 23,Sun,Away,W,2,0,Almere City,0.7,1.0,60,4223.0,Lutsharel Geertruida,4-3-3,Edwin van de Graaf,Match Report,0
+2024-03-03,14:30,Eredivisie,Matchweek 24,Sun,Away,D,2,2,PSV Eindhoven,2.5,2.4,36,35000.0,Lutsharel Geertruida,4-3-3,Serdar Gözübüyük,Match Report,0
+2024-03-10,20:00,Eredivisie,Matchweek 25,Sun,Home,W,3,0,Heracles Almelo,2.3,0.3,58,47500.0,Lutsharel Geertruida,4-3-3,Bas Nijhuis,Match Report,0
+2024-03-17,14:30,Eredivisie,Matchweek 26,Sun,Away,W,3,2,Heerenveen,2.7,0.6,70,24289.0,Lutsharel Geertruida,4-2-3-1,Dennis Higler,Match Report,0
+2024-03-31,14:30,Eredivisie,Matchweek 27,Sun,Home,W,4,2,Utrecht,3.7,0.9,67,47500.0,Lutsharel Geertruida,4-3-3,Allard Lindhout,Match Report,0
+2024-04-04,18:45,Eredivisie,Matchweek 28,Thu,Away,D,0,0,Volendam,2.8,0.7,75,6789.0,Lutsharel Geertruida,4-3-3,Ingmar Oostrom,Match Report,0
+2024-04-07,14:30,Eredivisie,Matchweek 29,Sun,Home,W,6,0,Ajax,3.5,0.1,57,47500.0,Lutsharel Geertruida,4-3-3,Danny Makkelie,Match Report,0
+2024-04-14,14:30,Eredivisie,Matchweek 30,Sun,Away,W,1,0,Fortuna Sittard,2.0,0.6,58,11278.0,Lutsharel Geertruida,4-3-3,Bas Nijhuis,Match Report,0
+2024-04-25,21:00,Eredivisie,Matchweek 31,Thu,Away,W,3,1,Go Ahead Eag,1.2,1.5,59,9997.0,Gernot Trauner,4-3-3,Erwin Blank,Match Report,0
+2024-05-05,20:00,Eredivisie,Matchweek 32,Sun,Home,W,5,0,Zwolle,5.0,0.4,64,47500.0,Gernot Trauner,4-3-3,Marc Nagtegaal,Match Report,0
+2024-05-12,14:30,Eredivisie,Matchweek 33,Sun,Away,W,3,2,NEC Nijmegen,3.8,2.0,67,12540.0,Lutsharel Geertruida,4-3-3,Alex Bos,Match Report,0
+2024-05-19,14:30,Eredivisie,Matchweek 34,Sun,Home,W,4,0,Excelsior,2.8,0.3,66,43000.0,Gernot Trauner,4-2-3-1,Allard Lindhout,Match Report,0

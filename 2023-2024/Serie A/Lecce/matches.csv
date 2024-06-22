@@ -1,0 +1,41 @@
+D a t e,T i m e,C o m p,R o u n d,D a y,V e n u e,R e s u l t,G F,G A,O p p o n e n t,x G,x G A,P o s s,A t t e n d a n c e,C a p t a i n,F o r m a t i o n,R e f e r e e,M a t c h   R e p o r t,N o t e s
+2023-08-13,21:00,Coppa Italia,First round,Sun,Home,W,1,0,Como,0.0,0.0,52,14174,Gabriel Strefezza,4-3-3,Daniele Rutella,Match Report,0.0
+2023-08-20,20:45,Serie A,Matchweek 1,Sun,Home,W,2,1,Lazio,1.4,1.6,48,29081,Gabriel Strefezza,4-3-3,Federico Dionisi,Match Report,0.0
+2023-08-27,18:30,Serie A,Matchweek 2,Sun,Away,D,2,2,Fiorentina,0.3,1.3,41,34604,Gabriel Strefezza,4-3-3,Maria Sole Ferrieri Caputi,Match Report,0.0
+2023-09-03,20:45,Serie A,Matchweek 3,Sun,Home,W,2,0,Salernitana,1.7,1.1,46,28052,Federico Baschirotto,4-3-3,Luca Massimi,Match Report,0.0
+2023-09-17,15:00,Serie A,Matchweek 4,Sun,Away,D,1,1,Monza,0.9,2.2,39,13074,Federico Baschirotto,4-3-3,Livio Marinelli,Match Report,0.0
+2023-09-22,20:45,Serie A,Matchweek 5,Fri,Home,W,1,0,Genoa,0.9,0.3,56,27000,Gabriel Strefezza,4-3-3,Antonio Rapuano,Match Report,0.0
+2023-09-26,20:45,Serie A,Matchweek 6,Tue,Away,L,0,1,Juventus,0.1,1.4,50,37498,Gabriel Strefezza,4-3-3,Antonio Giua,Match Report,0.0
+2023-09-30,15:00,Serie A,Matchweek 7,Sat,Home,L,0,4,Napoli,0.5,2.5,44,27588,Gabriel Strefezza,4-3-3,Luca Pairetto,Match Report,0.0
+2023-10-06,20:45,Serie A,Matchweek 8,Fri,Home,D,1,1,Sassuolo,1.7,1.5,43,26160,Gabriel Strefezza,4-3-3,Juan Sacchi,Match Report,0.0
+2023-10-23,18:30,Serie A,Matchweek 9,Mon,Away,D,1,1,Udinese,0.8,2.1,54,20113,Gabriel Strefezza,4-3-3,Paride Tremolada,Match Report,0.0
+2023-10-28,18:00,Serie A,Matchweek 10,Sat,Home,L,0,1,Torino,0.5,0.8,49,26123,Federico Baschirotto,4-3-3,Gianluca Aureliano,Match Report,0.0
+2023-11-01,18:00,Coppa Italia,Second round,Wed,Home,L,2,4,Parma,0.0,0.0,58,6654,Gabriel Strefezza,4-3-3,Daniele Minelli,Match Report,0.0
+2023-11-05,18:00,Serie A,Matchweek 11,Sun,Away,L,1,2,Roma,0.8,2.0,40,64790,Federico Baschirotto,4-3-3,Andrea Colombo,Match Report,0.0
+2023-11-11,15:00,Serie A,Matchweek 12,Sat,Home,D,2,2,Milan,1.4,1.1,45,26480,Gabriel Strefezza,4-3-3,Rosario Abisso,Match Report,0.0
+2023-11-27,18:30,Serie A,Matchweek 13,Mon,Away,D,2,2,Hellas Verona,1.0,1.7,51,16730,Alexis Blin,4-3-3,Federico La Penna,Match Report,0.0
+2023-12-03,12:30,Serie A,Matchweek 14,Sun,Home,D,1,1,Bologna,1.5,1.2,43,24326,Gabriel Strefezza,4-2-3-1,Daniele Doveri,Match Report,0.0
+2023-12-11,18:30,Serie A,Matchweek 15,Mon,Away,D,1,1,Empoli,0.8,1.4,44,7152,Federico Baschirotto,4-2-3-1,Andrea Colombo,Match Report,0.0
+2023-12-16,15:00,Serie A,Matchweek 16,Sat,Home,W,2,1,Frosinone,0.7,1.7,40,23645,Gabriel Strefezza,4-3-3,Luca Zufferli,Match Report,0.0
+2023-12-23,18:00,Serie A,Matchweek 17,Sat,Away,L,0,2,Inter,1.3,2.9,32,72723,Gabriel Strefezza,4-3-3,Matteo Marcenaro,Match Report,0.0
+2023-12-30,12:30,Serie A,Matchweek 18,Sat,Away,L,0,1,Atalanta,1.2,1.1,38,14864,Gabriel Strefezza,4-3-3,Gianluca Manganiello,Match Report,0.0
+2024-01-06,18:00,Serie A,Matchweek 19,Sat,Home,D,1,1,Cagliari,1.5,1.0,42,25203,Gabriel Strefezza,4-1-4-1,Davide Massa,Match Report,0.0
+2024-01-14,12:30,Serie A,Matchweek 20,Sun,Away,L,0,1,Lazio,1.1,0.9,48,40000,Federico Baschirotto,4-3-3,Maria Sole Ferrieri Caputi,Match Report,0.0
+2024-01-21,20:45,Serie A,Matchweek 21,Sun,Home,L,0,3,Juventus,0.6,2.1,51,28074,Federico Baschirotto,4-1-4-1,Daniele Doveri,Match Report,0.0
+2024-01-28,12:30,Serie A,Matchweek 22,Sun,Away,L,1,2,Genoa,1.8,1.7,51,32152,Federico Baschirotto,4-3-3,Luca Pairetto,Match Report,0.0
+2024-02-02,20:45,Serie A,Matchweek 23,Fri,Home,W,3,2,Fiorentina,2.6,1.1,44,24778,Alexis Blin,4-2-3-1,Antonio Giua,Match Report,0.0
+2024-02-11,15:00,Serie A,Matchweek 24,Sun,Away,L,0,4,Bologna,1.2,1.5,36,24658,Federico Baschirotto,4-3-3,Gianluca Manganiello,Match Report,0.0
+2024-02-16,19:00,Serie A,Matchweek 25,Fri,Away,L,0,2,Torino,0.5,1.2,41,22457,Alexis Blin,4-3-3,Giovanni Ayroldi,Match Report,0.0
+2024-02-25,18:00,Serie A,Matchweek 26,Sun,Home,L,0,4,Inter,1.0,2.9,39,27910,Alexis Blin,4-2-3-1,Daniele Doveri,Match Report,0.0
+2024-03-03,15:00,Serie A,Matchweek 27,Sun,Away,D,1,1,Frosinone,1.2,1.3,36,15334,Federico Baschirotto,4-2-3-1,Marco Guida,Match Report,0.0
+2024-03-10,12:30,Serie A,Matchweek 28,Sun,Home,L,0,1,Hellas Verona,1.0,0.6,56,25222,Federico Baschirotto,4-3-3,Daniele Chiffi,Match Report,0.0
+2024-03-16,18:00,Serie A,Matchweek 29,Sat,Away,W,1,0,Salernitana,1.2,1.2,30,15376,Alexis Blin,4-2-3-1,Fabio Maresca,Match Report,0.0
+2024-04-01,18:00,Serie A,Matchweek 30,Mon,Home,D,0,0,Roma,1.8,1.3,40,29031,Alexis Blin,4-4-2,Matteo Marcenaro,Match Report,0.0
+2024-04-06,15:00,Serie A,Matchweek 31,Sat,Away,L,0,3,Milan,0.5,1.5,36,71576,Alexis Blin,4-3-3,Luca Massimi,Match Report,0.0
+2024-04-13,15:00,Serie A,Matchweek 32,Sat,Home,W,1,0,Empoli,2.6,0.1,54,25957,Alexis Blin,4-2-3-1,Maurizio Mariani,Match Report,0.0
+2024-04-21,12:30,Serie A,Matchweek 33,Sun,Away,W,3,0,Sassuolo,2.3,0.6,45,16210,Alexis Blin,4-4-2,Daniele Doveri,Match Report,0.0
+2024-04-27,15:00,Serie A,Matchweek 34,Sat,Home,D,1,1,Monza,0.9,1.1,45,27167,Alexis Blin,4-4-2,Alberto Santoro,Match Report,0.0
+2024-05-05,12:30,Serie A,Matchweek 35,Sun,Away,D,1,1,Cagliari,1.8,1.0,66,16407,Alexis Blin,4-4-2,Matteo Marcenaro,Match Report,0.0
+2024-05-13,18:30,Serie A,Matchweek 36,Mon,Home,L,0,2,Udinese,0.4,1.4,65,28041,Alexis Blin,4-4-1-1,Davide Massa,Match Report,0.0
+2024-05-18,18:00,Serie A,Matchweek 37,Sat,Home,L,0,2,Atalanta,1.3,1.6,44,26354,Federico Baschirotto,4-4-2,Antonio Rapuano,Match Report,0.0
+2024-05-26,18:00,Serie A,Matchweek 38,Sun,Away,D,0,0,Napoli,0.5,1.5,33,41000,Alexis Blin,4-4-1-1,Federico Dionisi,Match Report,0.0

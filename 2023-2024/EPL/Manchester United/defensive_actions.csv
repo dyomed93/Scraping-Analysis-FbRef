@@ -1,0 +1,34 @@
+Player,Nation,Pos,Age,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,Matches
+André Onana,cm CMR,GK,27.0,38.0,2,0,2,0,0,2,2,100.0,0,0,0,0,0,2,11,2,Matches
+Diogo Dalot,pt POR,DF,24.0,35.3,81,51,58,12,11,51,74,68.9,23,44,16,28,37,118,111,0,Matches
+Bruno Fernandes,pt POR,"MF,FW",28.0,34.6,68,38,27,25,16,30,88,34.1,58,49,6,43,27,95,50,2,Matches
+Alejandro Garnacho,ar ARG,FW,19.0,28.5,22,15,7,6,9,12,45,26.7,33,26,2,24,18,40,18,0,Matches
+Marcus Rashford,eng ENG,FW,25.0,25.2,19,12,9,4,6,9,26,34.6,17,15,1,14,4,23,21,0,Matches
+Rasmus Højlund,dk DEN,FW,20.0,24.0,11,7,2,3,6,5,13,38.5,8,9,1,8,1,12,19,0,Matches
+Casemiro,br BRA,"MF,DF",31.0,22.0,83,56,43,32,8,51,106,48.1,55,74,33,41,18,101,71,1,Matches
+Kobbie Mainoo,eng ENG,MF,18.0,21.4,47,27,20,16,11,21,45,46.7,24,20,12,8,22,69,30,1,Matches
+Aaron Wan-Bissaka,eng ENG,DF,25.0,19.8,42,25,18,20,4,19,26,73.1,7,29,15,14,41,83,68,1,Matches
+Scott McTominay,sct SCO,"MF,FW",26.0,21.1,49,25,23,24,2,22,33,66.7,11,34,12,22,14,63,54,0,Matches
+Harry Maguire,eng ENG,DF,30.0,18.4,24,17,14,10,0,12,22,54.5,10,33,24,9,25,49,83,1,Matches
+Raphaël Varane,fr FRA,DF,30.0,15.3,18,11,10,7,1,10,14,71.4,4,23,18,5,15,33,88,0,Matches
+Jonny Evans,nir NIR,DF,35.0,15.5,22,14,20,2,0,12,21,57.1,9,25,18,7,23,45,76,0,Matches
+Antony,br BRA,FW,23.0,14.7,40,21,15,19,6,20,40,50.0,20,29,1,28,12,52,9,0,Matches
+Victor Lindelöf,se SWE,DF,29.0,14.8,15,10,8,7,0,5,13,38.5,8,18,9,9,12,27,40,1,Matches
+Christian Eriksen,dk DEN,MF,31.0,12.7,18,13,5,10,3,12,33,36.4,21,17,6,11,4,22,13,0,Matches
+Luke Shaw,eng ENG,DF,28.0,10.7,11,8,7,3,1,9,15,60.0,6,18,11,7,6,17,39,0,Matches
+Sofyan Amrabat,ma MAR,"MF,DF",26.0,10.4,27,16,17,8,2,17,31,54.8,14,20,7,13,8,35,19,2,Matches
+Lisandro Martínez,ar ARG,DF,25.0,7.2,12,8,8,4,0,5,12,41.7,7,10,8,2,5,17,26,0,Matches
+Mason Mount,eng ENG,"MF,FW",24.0,5.7,22,14,6,10,6,6,16,37.5,10,6,1,5,6,28,3,0,Matches
+Anthony Martial,fr FRA,FW,27.0,5.0,4,1,1,1,2,1,1,100.0,0,4,0,4,0,4,3,0,Matches
+Sergio Reguilón,es ESP,DF,26.0,4.6,13,8,6,2,5,8,17,47.1,9,10,0,10,5,18,7,0,Matches
+Amad Diallo,ci CIV,"FW,MF",21.0,4.3,10,3,1,6,3,3,7,42.9,4,3,1,2,1,11,6,0,Matches
+Willy Kambwala,fr FRA,DF,18.0,3.7,3,1,1,2,0,1,3,33.3,2,6,3,3,4,7,14,1,Matches
+Facundo Pellistri,uy URU,"FW,MF",21.0,1.9,5,3,4,1,0,1,3,33.3,2,7,1,6,1,6,5,0,Matches
+Hannibal Mejbri,tn TUN,"MF,FW",20.0,1.5,3,3,1,2,0,1,3,33.3,2,1,1,0,0,3,0,0,Matches
+Omari Forson,eng ENG,FW,19.0,0.8,2,0,0,2,0,1,1,100.0,0,0,0,0,0,2,0,0,Matches
+Jadon Sancho,eng ENG,"FW,MF",23.0,0.9,1,0,1,0,0,1,3,33.3,2,1,0,1,1,2,0,0,Matches
+Ethan Wheatley,eng ENG,FW,17.0,0.2,1,1,0,1,0,1,1,100.0,0,2,0,2,2,3,0,0,Matches
+Donny van de Beek,nl NED,DF,26.0,0.0,0,0,0,0,0,0,0,0.0,0,1,0,1,0,0,0,0,Matches
+Daniel Gore,eng ENG,MF,18.0,0.0,1,1,0,1,0,1,1,100.0,0,0,0,0,1,2,0,0,Matches
+Squad Total,0,0,26.1,38.0,676,409,334,240,102,349,715,48.8,366,534,207,327,313,989,884,12,0
+Opponent Total,0,0,26.2,38.0,645,373,344,210,91,303,614,49.3,311,489,172,317,378,1023,713,18,0

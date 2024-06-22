@@ -1,0 +1,30 @@
+Player,Nation,Pos,Age,90s,Standard Gls,Standard Sh,Standard SoT,Standard SoT%,Standard Sh/90,Standard SoT/90,Standard G/Sh,Standard G/SoT,Standard Dist,Standard FK,Standard PK,Standard PKatt,Expected xG,Expected npxG,Expected npxG/Sh,Expected G-xG,Expected np:G-xG,Matches
+Stijn van Gassel,nl NED,GK,26.0,34.0,0,1,0,0.0,0.03,0.0,0.0,0.0,20.9,0,0,0,0.1,0.1,0.06,-0.1,-0.1,Matches
+Siebe Horemans,be BEL,DF,25.0,33.6,3,22,8,36.4,0.65,0.24,0.14,0.38,14.2,0,0,0,2.0,2.0,0.1,1.0,1.0,Matches
+Julian Baas,nl NED,MF,21.0,32.0,2,12,5,41.7,0.37,0.16,0.08,0.2,24.1,4,1,1,1.7,0.9,0.08,0.3,0.1,Matches
+Arthur Zagre,fr FRA,DF,21.0,25.7,1,12,6,50.0,0.47,0.23,0.08,0.17,16.5,0,0,0,1.6,1.6,0.13,-0.6,-0.6,Matches
+Casper Widell,se SWE,DF,20.0,25.8,1,10,2,20.0,0.39,0.08,0.1,0.5,11.5,0,0,0,1.0,1.0,0.1,0.0,0.0,Matches
+Redouan El Yaakoubi,nl NED,"DF,MF",27.0,25.1,0,13,4,30.8,0.52,0.16,0.0,0.0,15.7,0,0,0,1.2,1.2,0.09,-1.2,-1.2,Matches
+Couhaib Driouech,ma MAR,"FW,MF",21.0,21.3,6,49,21,42.9,2.3,0.98,0.12,0.29,19.3,0,0,0,4.3,4.3,0.09,1.7,1.7,Matches
+Lazaros Lamprou,gr GRE,"FW,MF",25.0,18.0,6,50,18,36.0,2.78,1.0,0.12,0.33,16.4,4,0,0,7.6,7.6,0.15,-1.6,-1.6,Matches
+Cisse Sandra,be BEL,MF,19.0,18.6,1,21,4,19.0,1.13,0.22,0.05,0.25,16.2,0,0,0,2.1,2.1,0.1,-1.1,-1.1,Matches
+Troy Parrott,ie IRL,FW,21.0,17.6,10,53,23,43.4,3.0,1.3,0.19,0.43,13.3,0,0,0,9.5,9.5,0.18,0.5,0.5,Matches
+Kenzo Goudmijn,nl NED,"MF,FW",21.0,17.4,0,21,6,28.6,1.2,0.34,0.0,0.0,22.5,0,0,0,0.9,0.9,0.04,-0.9,-0.9,Matches
+Sven Nieuwpoort,nl NED,DF,30.0,16.3,1,1,1,100.0,0.06,0.06,1.0,1.0,5.2,0,0,0,0.1,0.1,0.14,0.9,0.9,Matches
+Derensili Fernandes,nl NED,"FW,MF",22.0,14.3,2,21,3,14.3,1.46,0.21,0.1,0.67,19.4,1,0,0,1.8,1.8,0.08,0.2,0.2,Matches
+Lance Duijvestijn,nl NED,"MF,FW",24.0,12.2,4,20,7,35.0,1.64,0.57,0.2,0.57,18.1,0,0,0,2.6,2.6,0.13,1.4,1.4,Matches
+Noah Naujoks,nl NED,"MF,FW",21.0,11.7,0,8,3,37.5,0.69,0.26,0.0,0.0,10.4,0,0,0,1.2,1.2,0.15,-1.2,-1.2,Matches
+Nikolas Agrafiotis,nl NED,FW,23.0,8.4,5,29,13,44.8,3.44,1.54,0.17,0.38,14.7,0,0,0,4.0,4.0,0.14,1.0,1.0,Matches
+Mimeirhel Benita,nl NED,DF,19.0,10.5,0,4,0,0.0,0.38,0.0,0.0,0.0,23.2,0,0,0,0.2,0.2,0.06,-0.2,-0.2,Matches
+Serano Seymor,nl NED,DF,21.0,4.1,0,1,0,0.0,0.24,0.0,0.0,0.0,12.1,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches
+Kian Fitz-Jim,nl NED,MF,20.0,4.4,0,6,2,33.3,1.36,0.45,0.0,0.0,22.4,0,0,0,0.6,0.6,0.1,-0.6,-0.6,Matches
+Kik Pierie,nl NED,DF,23.0,3.3,1,3,2,66.7,0.91,0.61,0.33,0.5,11.5,0,0,0,0.3,0.3,0.1,0.7,0.7,Matches
+Siem de Moes,nl NED,DF,19.0,3.2,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches
+Richie Omorowa,se SWE,FW,19.0,5.7,2,11,4,36.4,1.93,0.7,0.18,0.5,9.8,0,0,0,2.6,2.6,0.24,-0.6,-0.6,Matches
+Oscar Uddenäs,se SWE,"FW,MF",20.0,5.2,3,8,5,62.5,1.53,0.96,0.38,0.6,13.8,0,0,0,1.4,1.4,0.17,1.6,1.6,Matches
+Ian Smeulers,nl NED,DF,23.0,2.0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches
+Lennard Hartjes,nl NED,MF,20.0,1.0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches
+Mike van Duinen,nl NED,"FW,MF",31.0,1.0,0,1,0,0.0,1.02,0.0,0.0,0.0,6.5,0,0,0,0.1,0.1,0.06,-0.1,-0.1,Matches
+Jeremy Udenhout,nl NED,DF,20.0,0.1,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches
+Squad Total,0,0,23.2,34.0,48,377,137,36.3,11.09,4.03,0.12,0.34,16.5,9,1,1,45.7,45.0,0.12,2.3,2.0,0
+Opponent Total,0,0,25.3,34.0,72,523,202,38.6,15.38,5.94,0.13,0.35,17.1,15,2,2,58.2,56.7,0.11,13.8,13.3,0

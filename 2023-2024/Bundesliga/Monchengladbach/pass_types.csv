@@ -1,0 +1,30 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Julian Weigl,de GER,MF,27.0,30.7,1473,1375,94,86,2,10,3,3,1,0,0,0,1311,4,21,Matches
+Nico Elvedi,ch SUI,DF,26.0,27.6,1690,1605,83,32,2,1,3,26,0,0,0,0,1500,2,11,Matches
+Franck Honorat,fr FRA,"DF,FW",26.0,26.1,1207,998,199,39,3,2,236,42,115,40,62,1,802,10,38,Matches
+Moritz Nicolas,de GER,GK,25.0,27.0,1055,836,213,52,0,0,0,0,0,0,0,0,818,6,0,Matches
+Joe Scally,us USA,DF,20.0,24.8,1312,1083,228,21,0,9,46,207,0,0,0,0,1052,1,42,Matches
+Luca Netz,de GER,DF,20.0,24.7,1220,999,216,22,2,1,74,172,22,6,13,0,945,5,28,Matches
+Rocco Reitz,de GER,MF,21.0,23.7,1043,1005,33,18,11,2,15,1,0,0,0,0,782,5,43,Matches
+Maximilian Wöber,at AUT,DF,25.0,23.0,1485,1356,125,32,0,5,21,61,0,0,0,0,1224,4,14,Matches
+Alassane Pléa,fr FRA,"FW,MF",30.0,21.3,774,720,54,7,13,8,44,4,7,3,3,0,541,0,33,Matches
+Ko Itakura,jp JPN,"DF,MF",26.0,17.7,910,882,28,15,1,2,5,0,0,0,0,0,798,0,4,Matches
+Manu Koné,fr FRA,MF,22.0,17.3,688,676,10,9,0,2,3,0,0,0,0,0,583,2,15,Matches
+Jordan Pefok,us USA,FW,27.0,15.8,281,259,22,1,0,0,0,0,0,0,0,0,221,0,6,Matches
+Marvin Friedrich,de GER,DF,27.0,17.4,905,859,43,22,0,4,2,20,0,0,0,0,755,3,9,Matches
+Florian Neuhaus,de GER,MF,26.0,13.6,567,548,16,14,7,14,10,2,0,0,0,0,470,3,8,Matches
+Nathan N'Goumou,fr FRA,"FW,MF",23.0,15.4,445,425,16,4,0,2,28,7,1,0,0,0,329,4,9,Matches
+Robin Hack,de GER,"FW,MF",24.0,15.0,525,485,39,10,3,4,44,3,20,9,9,0,389,1,22,Matches
+Stefan Lainer,at AUT,"DF,MF",30.0,8.3,483,415,67,4,1,0,19,62,1,0,0,0,375,1,11,Matches
+Tomáš Čvančara,cz CZE,FW,22.0,10.0,216,206,9,0,0,0,3,0,0,0,0,0,137,1,7,Matches
+Jonas Omlin,ch SUI,GK,29.0,7.0,276,224,52,18,0,0,0,0,0,0,0,0,208,0,0,Matches
+Christoph Kramer,de GER,MF,32.0,2.8,183,176,6,4,0,0,3,0,1,0,0,0,145,1,4,Matches
+Fabio Chiarodia,it ITA,DF,18.0,1.7,87,81,6,2,0,0,1,4,0,0,0,0,78,0,0,Matches
+Patrick Herrmann,de GER,"FW,DF",32.0,1.0,44,37,7,1,0,0,5,0,6,4,0,0,29,0,1,Matches
+Grant Ranos,am ARM,"MF,FW",20.0,0.5,25,25,0,0,0,1,1,0,0,0,0,0,20,0,0,Matches
+Lukas Ullrich,de GER,"DF,FW",19.0,0.5,23,22,1,0,0,0,5,1,0,0,0,0,10,0,2,Matches
+Shiō Fukuda,jp JPN,"FW,MF",19.0,0.4,6,6,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+Tony Jantschke,de GER,"DF,MF",33.0,0.3,12,11,1,1,0,0,0,0,0,0,0,0,12,0,0,Matches
+Yvandro Borges Sanches,lu LUX,"MF,FW",19.0,0.2,11,11,0,0,0,0,3,0,0,0,0,0,7,0,2,Matches
+Squad Total,0,0,25.4,34.0,16946,15325,1568,414,45,67,574,615,174,62,87,1,13544,53,330,0
+Opponent Total,0,0,26.7,34.0,19590,17982,1562,355,65,81,710,668,208,87,79,0,16078,46,352,0

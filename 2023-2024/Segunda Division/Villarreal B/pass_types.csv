@@ -1,0 +1,34 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Javier Ontiveros,es ESP,"MF,FW",26-286,32.8,1682,1480,193,64,24,26,174,34,93,17,18,3,1173,9,52,Matches
+Álex Forés,es ESP,FW,23-070,31.5,447,401,43,0,1,4,16,2,0,0,0,0,313,3,15,Matches
+Carlo,es ESP,MF,23-130,32.0,1749,1710,39,32,11,19,10,2,0,0,0,0,1521,0,19,Matches
+Iker Álvarez,ad AND,GK,22-332,32.0,971,642,326,91,0,1,0,0,0,0,0,0,684,3,0,Matches
+Dani Tasende,es ESP,DF,23-351,30.6,1895,1516,373,87,3,32,142,236,50,14,2,0,1345,6,35,Matches
+Pascu,es ESP,"FW,MF",21-073,27.7,640,599,37,1,6,5,5,1,0,0,0,0,483,4,18,Matches
+Stefan Lekovic,rs SRB,DF,20-164,27.1,1311,1249,62,47,0,6,0,2,0,0,0,0,1140,0,4,Matches
+Antonio Espigare,es ESP,DF,19-290,26.0,1306,1227,74,45,1,9,4,12,0,0,0,0,1081,5,10,Matches
+Adrià Altimira,es ESP,"DF,MF",23-085,25.2,1282,1041,237,35,1,28,42,202,0,0,0,0,1063,4,21,Matches
+Rodri,es ESP,MF,21-169,20.6,902,878,20,11,4,5,28,9,0,0,0,0,727,4,22,Matches
+Alberto Del Moral,es ESP,MF,23-337,19.3,1104,1067,35,25,1,11,2,0,0,0,0,0,920,2,16,Matches
+Lanchi,es ESP,"DF,MF",22-364,19.2,833,678,154,10,0,1,53,143,1,0,0,0,609,1,25,Matches
+Carlos Romero,es ESP,"DF,MF",22-236,19.0,931,834,95,20,4,11,46,62,13,1,2,0,727,2,24,Matches
+Pablo Íñiguez,es ESP,DF,30-153,15.0,796,753,43,30,1,5,1,0,0,0,0,0,681,0,6,Matches
+Diego Collado,es ESP,"FW,MF",23-164,15.1,351,341,10,2,2,1,35,5,0,0,0,0,266,0,17,Matches
+Abraham Rando,es ESP,DF,22-352,12.3,722,678,42,21,0,2,5,20,0,0,0,0,625,2,9,Matches
+Aitor Gelardo,es ESP,MF,21-361,12.3,578,561,17,14,1,5,1,1,1,1,0,0,471,0,10,Matches
+Daniel Requena,es ESP,"MF,FW",20-130,15.2,728,698,29,20,2,5,10,1,7,0,0,0,604,1,13,Matches
+Pau Navarro,es ESP,"DF,MF",19-057,11.1,381,365,16,10,0,1,0,2,0,0,0,0,331,0,2,Matches
+Morro,es ESP,GK,23-284,9.0,260,188,71,21,0,2,0,0,0,0,0,0,197,1,0,Matches
+Hugo Novoa,es ESP,"MF,FW",21-172,6.4,170,166,3,0,1,0,19,3,0,0,0,0,116,1,12,Matches
+Tiago Geralnik,ar ARG,"MF,FW",21-082,7.2,393,361,31,19,0,4,10,5,7,5,1,0,355,1,3,Matches
+Andrés Ferrari,uy URU,"FW,MF",21-170,6.9,88,79,9,0,0,0,1,1,0,0,0,0,57,0,3,Matches
+Hugo Perez,es ESP,DF,21-188,1.8,79,69,10,6,0,2,1,0,0,0,0,0,68,0,0,Matches
+Ilias Akhomach,ma MAR,MF,20-066,1.7,51,48,3,2,1,0,0,0,1,0,0,0,44,0,0,Matches
+Rubén Gómez,es ESP,GK,22-149,1.0,44,32,12,2,0,0,0,0,0,0,0,0,32,0,0,Matches
+Victor Moreno,es ESP,"FW,MF",40-172,1.7,74,73,1,0,0,0,3,1,0,0,0,0,55,0,4,Matches
+Marcos Sánchez,es ESP,DF,20-239,0.5,30,28,2,0,0,0,0,2,0,0,0,0,19,0,0,Matches
+Pau Cabanes,es ESP,FW,19-125,0.3,12,12,0,0,0,0,0,0,0,0,0,0,11,0,0,Matches
+Fabio Blanco,es ESP,"MF,DF",20-124,0.2,16,16,0,0,0,0,4,0,0,0,0,0,10,0,2,Matches
+Gerard Hernandez,es ESP,MF,19-082,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Squad Total,0,0,22.9,42.0,19826,17790,1987,615,64,185,612,746,173,38,23,3,15728,49,342,0
+Opponent Total,0,0,27.9,42.0,20323,18272,1950,544,40,120,828,752,216,74,109,0,15987,101,387,0

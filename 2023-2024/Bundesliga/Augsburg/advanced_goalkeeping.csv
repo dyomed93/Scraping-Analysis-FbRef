@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,90s,Goals GA,Goals PKA,Goals FK,Goals CK,Goals OG,Expected PSxG,Expected PSxG/SoT,Expected PSxG+/-,Expected /90,Launched Cmp,Launched Att,Launched Cmp%,Passes Att (GK),Passes Thr,Passes Launch%,Passes AvgLen,Goal Kicks Att,Goal Kicks Launch%,Goal Kicks AvgLen,Crosses Opp,Crosses Stp,Crosses Stp%,Sweeper #OPA,Sweeper #OPA/90,Sweeper AvgDist,Matches
+Finn Dahmen,de GER,GK,25.0,31.0,52,7,0,10,2,49.3,0.26,-0.7,-0.02,169,450,37.6,1151,92,30.8,32.4,187,51.3,44.3,484,28,5.8,50,1.61,15.0,Matches
+Tomáš Koubek,cz CZE,GK,30.0,3.0,8,0,0,2,0,6.7,0.29,-1.3,-0.43,16,40,40.0,74,6,36.5,34.5,24,54.2,46.5,36,2,5.6,2,0.67,11.6,Matches
+Squad Total,0,0,26.0,34.0,60,7,0,12,2,56.0,0.26,-2.0,-0.06,185,490,37.8,1172,98,32.5,34.5,264,41.3,37.4,520,30,5.8,52,1.53,11.6,0
+Opponent Total,0,0,26.6,34.0,50,5,1,6,1,42.3,0.28,-6.7,-0.2,186,488,38.1,1175,172,32.8,33.4,289,35.6,33.5,502,32,6.4,38,1.12,13.4,0

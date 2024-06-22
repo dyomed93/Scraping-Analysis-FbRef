@@ -1,0 +1,6 @@
+Player,Nation,Pos,Age,90s,Goals GA,Goals PKA,Goals FK,Goals CK,Goals OG,Expected PSxG,Expected PSxG/SoT,Expected PSxG+/-,Expected /90,Launched Cmp,Launched Att,Launched Cmp%,Passes Att (GK),Passes Thr,Passes Launch%,Passes AvgLen,Goal Kicks Att,Goal Kicks Launch%,Goal Kicks AvgLen,Crosses Opp,Crosses Stp,Crosses Stp%,Sweeper #OPA,Sweeper #OPA/90,Sweeper AvgDist,Matches
+Łukasz Skorupski,pl POL,GK,32.0,32.0,29,3,1,3,1,26.6,0.23,-1.4,-0.05,103,297,34.7,829,136,26.3,29.6,188,42.0,38.7,432,12,2.8,15,0.47,12.2,Matches
+Federico Ravaglia,it ITA,GK,23.0,5.9,3,0,1,0,0,5.5,0.25,2.5,0.43,14,49,28.6,172,23,18.0,25.4,34,52.9,41.0,73,1,1.4,4,0.67,17.1,Matches
+Nicola Bagnolini,it ITA,GK,19.0,0.1,0,0,0,0,0,0.0,0.02,0.0,0.36,1,2,50.0,1,0,100.0,47.0,2,50.0,53.0,0,0,0.0,0,0.0,0.0,Matches
+Squad Total,0,0,25.2,38.0,32,3,2,3,1,32.1,0.23,1.1,0.03,118,348,33.9,941,159,26.5,29.6,285,34.7,33.2,505,13,2.6,19,0.5,12.2,0
+Opponent Total,0,0,26.6,38.0,54,4,2,6,2,46.3,0.26,-5.7,-0.15,134,392,34.2,873,139,33.9,33.6,280,34.3,32.4,411,22,5.4,25,0.66,13.0,0

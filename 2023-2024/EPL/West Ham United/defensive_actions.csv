@@ -1,0 +1,29 @@
+Player,Nation,Pos,Age,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,Matches
+Vladimír Coufal,cz CZE,DF,30.0,34.8,64,41,50,12,2,38,75,50.7,37,49,15,34,43,107,97,0,Matches
+Emerson Palmieri,it ITA,DF,28.0,34.9,106,68,48,42,16,57,90,63.3,33,47,15,32,43,149,96,0,Matches
+Jarrod Bowen,eng ENG,FW,26.0,33.5,42,28,14,14,14,13,35,37.1,22,37,5,32,19,61,14,0,Matches
+James Ward-Prowse,eng ENG,MF,28.0,33.3,45,29,14,23,8,18,44,40.9,26,31,9,22,38,83,49,0,Matches
+Tomáš Souček,cz CZE,MF,28.0,31.9,53,35,24,26,3,21,47,44.7,26,55,28,27,37,90,109,0,Matches
+Kurt Zouma,fr FRA,DF,28.0,31.5,23,17,14,9,0,10,16,62.5,6,38,28,10,29,52,160,0,Matches
+Alphonse Areola,fr FRA,GK,30.0,30.0,1,1,1,0,0,1,3,33.3,2,0,0,0,1,2,16,0,Matches
+Lucas Paquetá,br BRA,"FW,MF",25.0,29.1,71,48,38,26,7,25,52,48.1,27,28,1,27,21,92,28,2,Matches
+Edson Álvarez,mx MEX,MF,25.0,26.4,80,39,47,26,7,31,66,47.0,35,59,20,39,42,122,81,0,Matches
+Mohammed Kudus,gh GHA,"FW,MF",22.0,27.6,65,47,27,27,11,20,40,50.0,20,25,0,25,11,76,9,1,Matches
+Nayef Aguerd,ma MAR,DF,27.0,20.6,26,14,19,7,0,16,22,72.7,6,33,24,9,17,43,85,2,Matches
+Michail Antonio,jm JAM,FW,33.0,18.8,15,8,5,6,4,3,11,27.3,8,16,3,13,4,19,4,0,Matches
+Konstantinos Mavropanos,gr GRE,DF,25.0,16.7,28,16,17,9,2,17,21,81.0,4,21,13,8,23,51,79,3,Matches
+Łukasz Fabiański,pl POL,GK,38.0,8.0,1,0,1,0,0,1,2,50.0,1,0,0,0,1,2,4,0,Matches
+Angelo Ogbonna,it ITA,DF,35.0,7.1,11,5,9,2,0,6,7,85.7,1,13,10,3,3,14,29,0,Matches
+Saïd Benrahma,dz ALG,"FW,MF",27.0,6.9,8,4,5,3,0,4,15,26.7,11,8,0,8,5,13,7,0,Matches
+Ben Johnson,eng ENG,"DF,FW",23.0,6.0,11,7,7,3,1,9,14,64.3,5,2,1,1,5,16,14,0,Matches
+Aaron Cresswell,eng ENG,"DF,FW",33.0,4.8,3,2,1,1,1,2,3,66.7,1,5,3,2,3,6,7,0,Matches
+Pablo Fornals,es ESP,"MF,FW",27.0,4.7,10,6,4,3,3,5,16,31.3,11,8,1,7,6,16,7,0,Matches
+Danny Ings,eng ENG,FW,31.0,4.5,6,2,0,6,0,4,13,30.8,9,4,1,3,3,9,7,0,Matches
+Kalvin Phillips,eng ENG,MF,27.0,3.4,11,6,2,8,1,5,9,55.6,4,4,1,3,4,15,2,1,Matches
+Maxwel Cornet,ci CIV,"MF,FW",26.0,1.2,3,2,3,0,0,1,5,20.0,4,2,0,2,2,5,1,0,Matches
+Divin Mubama,eng ENG,FW,18.0,0.9,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+George Earthy,eng ENG,FW,18.0,0.4,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,0,0,Matches
+Thilo Kehrer,de GER,"DF,MF",26.0,0.2,1,1,0,1,0,0,0,0.0,0,2,2,0,0,1,0,0,Matches
+Kaelan Casey,eng ENG,DF,18.0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,1,0,Matches
+Squad Total,0,0,28.3,38.0,684,426,350,254,80,307,607,50.6,300,487,180,307,361,1045,906,9,0
+Opponent Total,0,0,26.1,38.0,718,406,310,315,93,321,674,47.6,353,451,108,343,253,971,766,15,0

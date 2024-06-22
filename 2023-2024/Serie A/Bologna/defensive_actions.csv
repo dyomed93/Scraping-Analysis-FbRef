@@ -1,0 +1,31 @@
+Player,Nation,Pos,Age,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,Matches
+Łukasz Skorupski,pl POL,GK,32.0,32.0,2,2,2,0,0,2,3,66.7,1,0,0,0,1,3,11,3,Matches
+Joshua Zirkzee,nl NED,FW,22.0,30.7,32,20,8,15,9,13,24,54.2,11,25,2,23,3,35,36,0,Matches
+Lewis Ferguson,sct SCO,MF,23.0,30.1,37,21,16,17,4,16,37,43.2,21,25,8,17,17,54,27,1,Matches
+Remo Freuler,ch SUI,MF,31.0,29.2,78,50,41,32,5,38,69,55.1,31,37,9,28,36,114,53,2,Matches
+Sam Beukema,nl NED,DF,24.0,28.3,27,11,14,11,2,16,25,64.0,9,35,21,14,15,42,99,2,Matches
+Stefan Posch,at AUT,DF,26.0,26.8,77,46,35,38,4,49,88,55.7,39,27,8,19,18,95,72,0,Matches
+Riccardo Calafiori,it ITA,DF,21.0,26.1,47,32,28,16,3,22,32,68.8,10,38,13,25,50,97,74,3,Matches
+Victor Bernth Kristiansen,dk DEN,DF,20.0,25.6,52,34,23,22,7,20,35,57.1,15,35,8,27,12,64,45,1,Matches
+Michel Aebischer,ch SUI,MF,26.0,24.8,35,20,9,20,6,15,34,44.1,19,28,6,22,12,47,22,0,Matches
+Jhon Lucumí,co COL,DF,25.0,24.6,48,29,31,17,0,27,36,75.0,9,32,17,15,16,64,68,2,Matches
+Alexis Saelemaekers,be BEL,"FW,MF",24.0,21.0,32,22,13,14,5,12,27,44.4,15,13,1,12,13,45,10,1,Matches
+Dan Ndoye,ch SUI,"FW,MF",22.0,19.7,30,15,17,11,2,17,39,43.6,22,20,1,19,10,40,14,0,Matches
+Riccardo Orsolini,it ITA,"FW,MF",26.0,19.9,23,14,13,4,6,9,30,30.0,21,25,3,22,8,31,19,1,Matches
+Giovanni Fabbian,it ITA,"MF,FW",20.0,11.7,17,10,9,7,1,7,12,58.3,5,5,2,3,7,24,11,0,Matches
+Charalambos Lykogiannis,gr GRE,DF,29.0,10.0,10,6,5,4,1,5,10,50.0,5,15,5,10,5,15,30,0,Matches
+Nikola Moro,hr CRO,MF,25.0,9.3,21,16,8,12,1,8,15,53.3,7,14,1,13,7,28,10,0,Matches
+Kacper Urbanski,pl POL,"MF,FW",18.0,10.3,16,10,5,10,1,6,13,46.2,7,15,1,14,4,20,14,0,Matches
+Lorenzo De Silvestri,it ITA,DF,35.0,7.5,10,8,5,2,3,4,7,57.1,3,9,4,5,6,16,27,0,Matches
+Federico Ravaglia,it ITA,GK,23.0,5.9,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,2,0,Matches
+Oussama El Azzouzi,ma MAR,MF,22.0,6.1,12,7,4,5,3,7,14,50.0,7,8,2,6,6,18,12,0,Matches
+Jens Odgaard,dk DEN,"FW,MF",24.0,4.8,4,4,1,1,2,1,3,33.3,2,9,0,9,1,5,3,0,Matches
+Jesper Karlsson,se SWE,FW,25.0,3.8,3,3,2,1,0,2,8,25.0,6,4,0,4,4,7,1,0,Matches
+Santiago Castro,ar ARG,FW,18.0,2.7,2,1,0,1,1,1,3,33.3,2,1,0,1,1,3,1,0,Matches
+Sydney van Hooijdonk,nl NED,FW,23.0,2.4,3,0,0,2,1,1,2,50.0,1,1,1,0,1,4,4,0,Matches
+Tommaso Corazza,it ITA,DF,19.0,2.2,10,4,9,1,0,4,9,44.4,5,2,0,2,5,15,3,0,Matches
+Nicolás Domínguez,ar ARG,MF,25.0,1.1,1,0,1,0,0,0,2,0.0,2,3,0,3,0,1,2,0,Matches
+Kevin Bonifazi,it ITA,DF,27.0,1.0,4,0,0,4,0,1,2,50.0,1,0,0,0,0,4,7,1,Matches
+Nicola Bagnolini,it ITA,GK,19.0,0.1,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Squad Total,0,0,25.2,38.0,633,385,299,267,67,303,579,52.3,276,426,113,313,258,891,677,17,0
+Opponent Total,0,0,26.6,38.0,633,377,282,259,92,322,615,52.4,293,514,131,383,306,939,554,15,0

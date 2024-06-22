@@ -1,0 +1,30 @@
+Player,Nation,Pos,Age,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,Matches
+Brice Samba,fr FRA,GK,29.0,33.0,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,10,3,Matches
+Facundo Medina,ar ARG,DF,24.0,30.2,64,38,25,31,8,44,69,63.8,25,38,13,25,24,88,59,2,Matches
+Kevin Danso,at AUT,DF,24.0,29.5,24,14,12,11,1,15,30,50.0,15,43,30,13,23,47,115,1,Matches
+Florian Sotoca,fr FRA,"MF,FW",32.0,28.9,33,22,9,21,3,17,38,44.7,21,41,4,37,20,53,34,0,Matches
+Jonathan Gradit,fr FRA,DF,30.0,23.5,32,20,15,14,3,19,35,54.3,16,30,17,13,37,69,61,0,Matches
+Przemysław Frankowski,pl POL,DF,28.0,24.4,60,39,25,26,9,31,74,41.9,43,30,7,23,25,85,36,0,Matches
+Ruben Aguilar,fr FRA,DF,30.0,21.4,53,31,27,23,3,27,45,60.0,18,35,5,30,26,79,46,0,Matches
+Elye Wahi,fr FRA,FW,20.0,18.8,6,4,1,3,2,2,10,20.0,8,5,1,4,3,9,3,0,Matches
+Neil El Aynaoui,fr FRA,MF,22.0,17.4,37,20,13,20,4,20,46,43.5,26,20,6,14,32,69,21,1,Matches
+Salis Abdul Samed,gh GHA,MF,23.0,16.9,21,14,8,10,3,8,18,44.4,10,12,1,11,12,33,18,0,Matches
+David Pereira da Costa,pt POR,MF,22.0,16.6,18,10,5,12,1,10,23,43.5,13,21,4,17,16,34,8,1,Matches
+Angelo Fulgini,fr FRA,MF,26.0,15.3,23,14,6,13,4,11,19,57.9,8,22,1,21,8,31,11,0,Matches
+Andy Diouf,fr FRA,MF,20.0,14.6,28,19,12,11,5,14,22,63.6,8,13,3,10,3,31,5,1,Matches
+Adrien Thomasson,fr FRA,MF,29.0,13.3,25,14,4,16,5,11,34,32.4,23,14,0,14,9,34,10,1,Matches
+Deiver Machado,co COL,DF,29.0,12.5,24,18,10,10,4,15,20,75.0,5,13,2,11,7,31,8,0,Matches
+Nampalys Mendy,sn SEN,MF,31.0,11.7,29,18,10,13,6,16,20,80.0,4,11,4,7,14,43,14,1,Matches
+Wesley Saïd,fr FRA,"FW,MF",28.0,11.3,8,4,1,2,5,2,9,22.2,7,4,0,4,4,12,3,0,Matches
+Abduqodir Xusanov,uz UZB,DF,19.0,9.0,21,12,13,8,0,9,17,52.9,8,13,8,5,13,34,32,2,Matches
+Massadio Haïdara,ml MLI,DF,30.0,8.2,9,8,5,3,1,4,6,66.7,2,7,2,5,11,20,32,3,Matches
+Jhoanner Chávez,ec ECU,DF,21.0,5.3,6,5,2,2,2,3,9,33.3,6,2,0,2,5,11,11,0,Matches
+Morgan Guilavogui,gn GUI,"FW,MF",25.0,6.3,21,10,4,12,5,5,11,45.5,6,11,2,9,4,25,7,0,Matches
+Stijn Spierings,nl NED,MF,27.0,1.3,1,0,0,1,0,1,1,100.0,0,2,1,1,2,3,1,0,Matches
+Jean-Louis Leca,fr FRA,GK,37.0,1.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,1,0,Matches
+Faitout Maouassa,fr FRA,"MF,DF",25.0,0.8,1,1,1,0,0,1,1,100.0,0,1,0,1,0,1,3,0,Matches
+Ayanda Sishuba,be BEL,"MF,FW",18.0,0.7,3,1,0,2,1,1,2,50.0,1,1,0,1,0,3,0,0,Matches
+Julien Le Cardinal,fr FRA,DF,25.0,0.6,6,2,4,2,0,4,9,44.4,5,2,1,1,0,6,0,0,Matches
+Oscar Cortés,co COL,"FW,MF",19.0,0.5,0,0,0,0,0,0,0,0.0,0,1,0,1,0,0,0,0,Matches
+Squad Total,0,0,26.7,34.0,554,339,213,266,75,291,569,51.1,278,392,112,280,298,852,549,16,0
+Opponent Total,0,0,25.6,34.0,537,329,250,219,68,220,446,49.3,226,423,125,298,345,882,720,18,0

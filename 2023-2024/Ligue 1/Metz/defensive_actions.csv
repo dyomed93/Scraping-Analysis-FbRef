@@ -1,0 +1,33 @@
+Player,Nation,Pos,Age,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,Matches
+Alexandre Oukidja,dz ALG,GK,35.0,33.2,2,1,2,0,0,1,2,50.0,1,1,0,1,3,5,24,3,Matches
+Matthieu Udol,fr FRA,DF,27.0,30.0,55,37,38,12,5,38,56,67.9,18,62,16,46,50,105,108,0,Matches
+Danley Jean-Jacques,ht HAI,MF,23.0,29.8,54,28,24,21,9,19,56,33.9,37,48,7,41,44,98,44,0,Matches
+Lamine Camara,sn SEN,MF,19.0,25.1,62,42,26,30,6,24,49,49.0,25,35,2,33,28,90,34,0,Matches
+Ismaël Traoré,ci CIV,DF,36.0,24.7,19,12,13,6,0,8,21,38.1,13,33,20,13,30,49,86,0,Matches
+Maxime Colin,fr FRA,DF,31.0,20.4,39,23,25,7,7,16,29,55.2,13,22,7,15,20,59,71,0,Matches
+Kévin Van Den Kerkhof,dz ALG,"FW,MF",27.0,21.3,31,24,11,13,7,13,32,40.6,19,15,2,13,11,42,32,1,Matches
+Fali Candé,gw GNB,DF,25.0,20.5,40,19,31,9,0,20,35,57.1,15,41,28,13,20,60,107,1,Matches
+Georges Mikautadze,ge GEO,FW,22.0,19.4,4,3,1,2,1,0,9,0.0,9,11,0,11,8,12,3,0,Matches
+Christophe Hérelle,mq MTQ,DF,30.0,18.0,32,15,24,7,1,13,23,56.5,10,16,9,7,18,50,68,2,Matches
+Kévin N'Doram,fr FRA,MF,27.0,17.8,31,22,20,9,2,17,38,44.7,21,17,8,9,27,58,38,0,Matches
+Cheikh Tidiane Sabaly,sn SEN,"FW,MF",24.0,15.3,40,20,23,12,5,16,40,40.0,24,19,2,17,10,50,14,0,Matches
+Arthur Atta,fr FRA,"MF,FW",20.0,10.3,18,14,8,7,3,8,19,42.1,11,13,3,10,10,28,23,0,Matches
+Ablie Jallow,gm GAM,"MF,FW",24.0,10.2,8,5,2,3,3,3,5,60.0,2,4,0,4,8,16,3,0,Matches
+Koffi Kouao,ci CIV,DF,25.0,9.6,20,13,12,7,1,11,17,64.7,6,9,6,3,13,33,38,1,Matches
+Joel Asoro,se SWE,"FW,MF",24.0,9.4,13,9,7,6,0,3,10,30.0,7,7,1,6,6,19,9,0,Matches
+Papa Amadou Diallo,sn SEN,FW,19.0,9.9,18,8,10,7,1,7,21,33.3,14,11,1,10,11,29,16,0,Matches
+Sadibou Sané,sn SEN,DF,19.0,9.4,19,12,16,2,1,6,7,85.7,1,14,9,5,8,27,64,0,Matches
+Simon Elisor,fr FRA,FW,24.0,8.5,9,2,3,2,4,2,6,33.3,4,6,1,5,0,9,9,0,Matches
+Joseph Nduquidi,fr FRA,"MF,DF",18.0,8.3,11,4,6,3,2,1,9,11.1,8,11,3,8,11,22,15,1,Matches
+Didier Lamkel Zé,cm CMR,"FW,MF",26.0,6.1,7,2,2,4,1,2,5,40.0,3,4,0,4,0,7,11,0,Matches
+Oscar Estupiñan,co COL,FW,26.0,2.9,5,4,0,3,2,1,2,50.0,1,2,0,2,0,5,0,0,Matches
+Abou Lô,sn SEN,"MF,DF",23.0,2.2,3,1,2,1,0,1,4,25.0,3,5,2,3,4,7,8,0,Matches
+Youssef Maziz,fr FRA,"FW,MF",25.0,1.4,0,0,0,0,0,0,2,0.0,2,1,0,1,1,1,2,0,Matches
+Benjamin Tetteh,gh GHA,"FW,MF",26.0,3.1,6,6,1,5,0,4,7,57.1,3,0,0,0,0,6,1,0,Matches
+Malick Mbaye,sn SEN,"MF,FW",19.0,1.7,5,1,0,1,4,1,2,50.0,1,1,0,1,1,6,2,0,Matches
+Habib Maïga,ci CIV,"MF,FW",27.0,1.6,2,2,1,0,1,1,3,33.3,2,2,0,2,4,6,2,0,Matches
+Jean Frederic N'Guessan,ci CIV,"MF,FW",20.0,1.2,3,1,0,3,0,0,3,0.0,3,3,0,3,1,4,0,0,Matches
+Ibou Sané,sn SEN,"MF,FW",18.0,1.4,6,4,2,1,3,2,2,100.0,0,3,0,3,1,7,2,0,Matches
+Guillaume Dietsch,fr FRA,GK,22.0,0.8,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Squad Total,0,0,26.5,34.0,562,334,310,183,69,238,514,46.3,276,416,127,289,348,910,834,9,0
+Opponent Total,0,0,25.6,34.0,603,382,261,258,84,336,626,53.7,290,303,89,214,259,862,563,12,0

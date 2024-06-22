@@ -1,0 +1,35 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Rodrigo Guth,br BRA,DF,22.0,31.3,1352,1323,27,25,1,11,11,2,0,0,0,0,1046,2,22,Matches
+Ivo Pinto,pt POR,DF,33.0,31.2,1402,1080,317,31,2,11,150,279,7,0,2,0,936,5,34,Matches
+Iñigo Córdoba,es ESP,"FW,MF",26.0,29.2,983,959,22,5,2,5,95,17,0,0,0,0,621,2,49,Matches
+Deroy Duarte,cv CPV,MF,24.0,26.9,889,868,21,14,1,7,2,5,0,0,0,0,734,0,9,Matches
+Mitchell Dijks,nl NED,DF,30.0,26.0,1091,832,255,22,0,2,48,233,0,0,0,0,792,4,26,Matches
+Dimitris Siovas,gr GRE,DF,34.0,25.6,1109,1067,37,28,0,0,3,0,0,0,0,0,872,5,7,Matches
+Kaj Sierhuis,nl NED,FW,25.0,24.2,546,507,35,1,2,3,14,4,0,0,0,0,361,4,16,Matches
+Alen Halilović,hr CRO,"MF,FW",27.0,23.3,989,833,156,53,2,27,120,8,70,22,15,2,767,0,12,Matches
+Loreintz Rosier,fr FRA,MF,24.0,19.0,771,763,7,7,1,10,8,0,0,0,0,0,585,1,14,Matches
+Ivor Pandur,hr CRO,GK,23.0,16.0,554,391,160,35,0,0,0,0,0,0,0,0,379,3,0,Matches
+Justin Lonwijk,sr SUR,"FW,MF",23.0,11.4,256,245,7,1,0,3,8,1,0,0,0,0,162,4,12,Matches
+Tijjani Noslin,nl NED,FW,24.0,11.3,300,274,26,1,1,2,31,7,15,4,1,0,198,0,12,Matches
+Michael Verrips,nl NED,GK,26.0,12.0,352,233,119,35,0,0,0,0,0,0,0,0,167,0,0,Matches
+Oğuzhan Özyakup,tr TUR,MF,30.0,10.7,512,434,75,28,2,1,59,0,41,19,12,0,394,3,5,Matches
+Siemen Voet,be BEL,DF,23.0,10.9,430,388,42,11,0,4,5,26,0,0,0,0,338,0,2,Matches
+Arianit Ferati,xk KVX,"MF,DF",25.0,8.2,351,332,17,8,2,4,11,8,1,0,0,0,270,2,8,Matches
+Ragnar Oratmangoen,id IDN,"MF,FW",25.0,9.8,355,334,18,1,0,0,16,5,9,5,0,0,273,3,12,Matches
+Sadik Fofana,tg TOG,DF,20.0,7.0,260,236,24,6,0,5,1,18,0,0,0,0,182,0,7,Matches
+Rémy Vita,mg MAD,"DF,MF",22.0,6.6,279,206,72,8,1,0,30,60,4,4,0,0,181,1,10,Matches
+Kristoffer Peterson,se SWE,"MF,FW",28.0,6.5,202,168,33,12,1,1,41,3,18,10,8,0,140,1,8,Matches
+Luuk Koopmans,nl NED,GK,29.0,5.0,151,100,51,16,0,0,0,0,0,0,0,0,71,0,1,Matches
+Alessio da Cruz,0,"FW,MF",26.0,4.5,88,80,8,2,0,0,7,0,3,2,1,0,62,0,5,Matches
+Marko Lazetić,rs SRB,"FW,DF",19.0,2.0,32,28,4,0,1,1,1,0,0,0,0,0,21,0,0,Matches
+Iman Griffith,nl NED,"FW,MF",21.0,2.7,66,63,3,0,0,0,6,0,2,0,0,0,45,0,6,Matches
+Milan Robberechts,be BEL,"FW,MF",19.0,2.4,53,51,2,0,0,0,3,0,1,1,0,0,43,0,3,Matches
+Paul Gladon,nl NED,FW,31.0,1.9,36,35,1,0,0,0,0,0,0,0,0,0,18,0,0,Matches
+Mouhamed Belkheir,fr FRA,"FW,MF",24.0,4.7,63,57,6,0,0,1,4,0,0,0,0,0,42,0,3,Matches
+Tom Hendriks,nl NED,GK,21.0,1.0,24,17,7,2,0,0,0,0,0,0,0,0,18,0,0,Matches
+Nathan Markelo,cw CUW,DF,24.0,0.8,27,18,9,0,0,0,1,9,0,0,0,0,14,0,2,Matches
+Jayden Braaf,nl NED,"FW,MF",20.0,0.5,14,14,0,0,0,0,0,0,0,0,0,0,12,0,0,Matches
+Daan Bisschops,nl NED,MF,18.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Sjors Hermsen,0,"FW,MF",0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Squad Total,0,0,26.8,34.0,13537,11936,1561,352,19,98,675,685,171,67,39,2,9744,40,285,0
+Opponent Total,0,0,25.0,34.0,18033,16285,1704,393,25,107,572,763,158,75,51,2,14289,44,331,0

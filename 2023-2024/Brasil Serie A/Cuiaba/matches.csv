@@ -1,0 +1,47 @@
+D a t e,T i m e,C o m p,R o u n d,D a y,V e n u e,R e s u l t,G F,G A,O p p o n e n t,x G,x G A,P o s s,A t t e n d a n c e,C a p t a i n,F o r m a t i o n,R e f e r e e,M a t c h   R e p o r t,N o t e s
+2024-04-03,18:00,Sudamericana,Group stage,Wed,Home,D,1.0,1.0,ar Lanús,0.0,0.0,47.0,0.0,Walter,5-4-1,Gery Vargas,Match Report,0
+2024-04-11,18:00,Sudamericana,Group stage,Thu,Away,W,2.0,0.0,ve Metropolitanos,0.0,0.0,43.0,740.0,Walter,5-4-1,Álex Cajas,Match Report,0
+2024-04-14,16:00,Série A,Matchweek 1,Sun,Away,L,0.0,4.0,Ath Paranaense,0.3,2.0,38.0,21388.0,Walter,5-4-1,Jonathan Benkenstein Pinheiro,Match Report,0
+2024-04-20,18:30,Série A,Matchweek 3,Sat,Away,L,0.0,1.0,Grêmio,1.3,0.6,43.0,22904.0,Walter,5-4-1,Bruno Pereira Vasconcelos,Match Report,0
+2024-04-23,19:00,Sudamericana,Group stage,Tue,Away,D,1.0,1.0,pe Deportivo Garcilaso,0.0,0.0,57.0,6043.0,Walter,5-4-1,Augusto Aragón,Match Report,0
+2024-04-27,17:30,Série A,Matchweek 4,Sat,Home,L,0.0,3.0,Atlético Mineiro,0.2,2.1,34.0,6711.0,Walter,5-4-1,Savio Pereira,Match Report,0
+2024-05-05,17:30,Série A,Matchweek 5,Sun,Home,L,0.0,2.0,Palmeiras,0.4,1.8,45.0,10781.0,Walter,3-4-1-2,Bruno Arleu,Match Report,0
+2024-05-08,20:00,Sudamericana,Group stage,Wed,Home,W,3.0,0.0,ve Metropolitanos,0.0,0.0,76.0,3145.0,Marllon Borges,4-3-3,Derlis López,Match Report,0
+2024-05-15,20:00,Sudamericana,Group stage,Wed,Home,D,1.0,1.0,pe Deportivo Garcilaso,0.0,0.0,62.0,2273.0,Walter,4-3-3,Juan Lara,Match Report,0
+2024-05-29,19:00,Sudamericana,Group stage,Wed,Away,W,1.0,0.0,ar Lanús,0.0,0.0,47.0,2905.0,Walter,4-3-3,Gery Vargas,Match Report,0
+2024-06-01,17:30,Série A,Matchweek 7,Sat,Home,L,0.0,1.0,Internacional,0.4,1.0,37.0,5747.0,Walter,4-3-3,Anderson Ribeiro Gonçalves,Match Report,0
+2024-06-05,19:00,Série A,Matchweek 2,Wed,Home,D,0.0,0.0,Vitória,0.4,1.0,54.0,3614.0,Walter,4-2-3-1,Wilton Pereira Sampaio,Match Report,0
+2024-06-09,16:00,Série A,Matchweek 6,Sun,Away,W,5.0,2.0,Criciúma,1.5,1.8,38.0,13846.0,Walter,4-3-3,Bruno Arleu,Match Report,0
+2024-06-13,19:00,Série A,Matchweek 8,Thu,Away,L,1.0,2.0,Cruzeiro,1.6,1.0,49.0,0.0,Walter,4-2-3-1,Marcelo de Lima Henrique,Match Report,0
+2024-06-16,17:30,Série A,Matchweek 9,Sun,Home,W,5.0,0.0,Fortaleza,3.6,0.1,55.0,0.0,Walter,4-2-3-1,Jefferson Ferreira de Moraes,Match Report,0
+2024-06-19,20:00,Série A,Matchweek 10,Wed,Away,W,1.0,0.0,São Paulo,0.4,0.8,34.0,0.0,Walter,4-2-3-1,Gustavo Ervino Bauermann,Match Report,0
+2024-06-22,17:30,Série A,Matchweek 11,Sat,Home,0,0.0,0.0,Atl Goianiense,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0
+2024-06-26,20:00,Série A,Matchweek 12,Wed,Away,0,0.0,0.0,Corinthians,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0
+2024-06-29,17:30,Série A,Matchweek 13,Sat,Home,0,0.0,0.0,Red Bull Bragantino,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0
+2024-07-03,18:00,Série A,Matchweek 14,Wed,Home,0,0.0,0.0,Botafogo (RJ),0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0
+2024-07-06,21:00,Série A,Matchweek 15,Sat,Away,0,0.0,0.0,Flamengo,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0
+2024-07-10,0,Série A,Matchweek 16,Wed,Home,0,0.0,0.0,Juventude,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0
+2024-07-17,0,Série A,Matchweek 17,Wed,Away,0,0.0,0.0,Bahia,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0
+2024-07-18,18:00,Sudamericana,Knockout round play-offs,Thu,Away,0,0.0,0.0,cl Palestino,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,Leg 1 of 2
+2024-07-20,0,Série A,Matchweek 18,Sat,Home,0,0.0,0.0,Fluminense,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0
+2024-07-24,0,Série A,Matchweek 19,Wed,Away,0,0.0,0.0,Vasco da Gama,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0
+2024-07-25,18:00,Sudamericana,Knockout round play-offs,Thu,Home,0,0.0,0.0,cl Palestino,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,Leg 2 of 2
+2024-07-27,0,Série A,Matchweek 20,Sat,Home,0,0.0,0.0,Ath Paranaense,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0
+2024-08-03,0,Série A,Matchweek 21,Sat,Away,0,0.0,0.0,Vitória,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0
+2024-08-10,0,Série A,Matchweek 22,Sat,Home,0,0.0,0.0,Grêmio,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0
+2024-08-17,0,Série A,Matchweek 23,Sat,Away,0,0.0,0.0,Atlético Mineiro,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0
+2024-08-24,0,Série A,Matchweek 24,Sat,Away,0,0.0,0.0,Palmeiras,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0
+2024-08-31,0,Série A,Matchweek 25,Sat,Home,0,0.0,0.0,Criciúma,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0
+2024-09-14,0,Série A,Matchweek 26,Sat,Away,0,0.0,0.0,Internacional,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0
+2024-09-21,0,Série A,Matchweek 27,Sat,Home,0,0.0,0.0,Cruzeiro,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0
+2024-09-28,0,Série A,Matchweek 28,Sat,Away,0,0.0,0.0,Fortaleza,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0
+2024-10-04,0,Série A,Matchweek 29,Fri,Home,0,0.0,0.0,São Paulo,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0
+2024-10-19,0,Série A,Matchweek 30,Sat,Away,0,0.0,0.0,Atl Goianiense,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0
+2024-10-25,0,Série A,Matchweek 31,Fri,Home,0,0.0,0.0,Corinthians,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0
+2024-11-06,0,Série A,Matchweek 32,Wed,Away,0,0.0,0.0,Red Bull Bragantino,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0
+2024-11-13,0,Série A,Matchweek 33,Wed,Away,0,0.0,0.0,Botafogo (RJ),0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0
+2024-11-20,0,Série A,Matchweek 34,Wed,Home,0,0.0,0.0,Flamengo,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0
+2024-11-23,0,Série A,Matchweek 35,Sat,Away,0,0.0,0.0,Juventude,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0
+2024-11-30,0,Série A,Matchweek 36,Sat,Home,0,0.0,0.0,Bahia,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0
+2024-12-04,0,Série A,Matchweek 37,Wed,Away,0,0.0,0.0,Fluminense,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0
+2024-12-08,0,Série A,Matchweek 38,Sun,Home,0,0.0,0.0,Vasco da Gama,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0

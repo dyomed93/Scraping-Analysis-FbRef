@@ -1,0 +1,41 @@
+D a t e,T i m e,C o m p,R o u n d,D a y,V e n u e,R e s u l t,G F,G A,O p p o n e n t,x G,x G A,P o s s,A t t e n d a n c e,C a p t a i n,F o r m a t i o n,R e f e r e e,M a t c h   R e p o r t,N o t e s
+2023-08-14,19:30,La Liga,Matchweek 1,Mon,Home,W,1,0,Alavés,0.7,0.3,45.0,19306,Fali,4-4-2,Isidro Díaz de Mera,Match Report,0
+2023-08-20,19:30,La Liga,Matchweek 2,Sun,Away,L,0,2,Barcelona,1.1,3.4,26.0,39603,Álex Fernández,4-4-2,Alejandro Muñíz,Match Report,0
+2023-08-26,19:00,La Liga,Matchweek 3,Sat,Home,D,1,1,Almería,1.6,0.3,52.0,18653,Isaac Carcelen,4-4-2,Víctor García,Match Report,0
+2023-09-01,19:30,La Liga,Matchweek 4,Fri,Home,W,3,1,Villarreal,2.1,0.3,43.0,18557,Isaac Carcelen,4-4-2,Juan Pulido,Match Report,0
+2023-09-16,14:00,La Liga,Matchweek 5,Sat,Away,L,0,3,Athletic Club,0.3,2.9,35.0,42881,Isaac Carcelen,4-4-2,Guillermo Cuadra,Match Report,0
+2023-09-24,18:30,La Liga,Matchweek 6,Sun,Away,D,1,1,Betis,0.2,1.8,37.0,56087,Isaac Carcelen,4-4-2,Miguel Ángel Ortiz Arias,Match Report,0
+2023-09-27,21:30,La Liga,Matchweek 7,Wed,Home,D,0,0,Rayo Vallecano,0.6,0.3,52.0,18505,Isaac Carcelen,4-4-2,Francisco Hernández,Match Report,0
+2023-10-01,21:00,La Liga,Matchweek 8,Sun,Away,L,2,3,Atlético Madrid,0.8,2.7,31.0,53421,Jeremías Ledesma,5-3-2,Javier Villanueva,Match Report,0
+2023-10-07,14:00,La Liga,Matchweek 9,Sat,Home,L,0,1,Girona,0.4,1.2,27.0,16438,Isaac Carcelen,4-4-2,Juan Martínez,Match Report,0
+2023-10-23,21:00,La Liga,Matchweek 10,Mon,Away,L,0,2,Valencia,0.6,1.5,39.0,41647,Isaac Carcelen,4-4-2,Pablo González,Match Report,0
+2023-10-28,21:00,La Liga,Matchweek 11,Sat,Home,D,2,2,Sevilla,1.1,1.2,34.0,18886,Isaac Carcelen,4-4-2,César Soto,Match Report,0
+2023-11-01,12:00,Copa del Rey,First round,Wed,Away,D,0 (4),0 (2),Llagostera,0.0,0.0,0.0,3770,0,0,0,Match Report,Cádiz won on penalty kicks following extra time
+2023-11-06,21:00,La Liga,Matchweek 12,Mon,Away,L,0,1,Getafe,0.5,1.2,55.0,9853,Isaac Carcelen,4-4-2,Ricardo de Burgos,Match Report,0
+2023-11-26,18:30,La Liga,Matchweek 14,Sun,Home,L,0,3,Real Madrid,1.2,1.6,39.0,20325,Jeremías Ledesma,5-4-1,Guillermo Cuadra,Match Report,0
+2023-11-29,21:00,La Liga,Matchweek 13,Wed,Away,D,1,1,Mallorca,0.3,1.1,33.0,13821,Isaac Carcelen,4-4-2,Javier Villanueva,Match Report,0
+2023-12-04,21:00,La Liga,Matchweek 15,Mon,Away,D,1,1,Celta Vigo,0.3,2.4,32.0,17302,Isaac Carcelen,4-4-2,Jesús Gil,Match Report,0
+2023-12-07,19:00,Copa del Rey,Second round,Thu,Away,L,1,2,Arandina,0.0,0.0,55.0,4100,José Mari,4-4-2,Francisco Hernández,Match Report,0
+2023-12-10,18:30,La Liga,Matchweek 16,Sun,Home,D,1,1,Osasuna,0.9,1.6,45.0,18356,Isaac Carcelen,4-4-2,Juan Martínez,Match Report,0
+2023-12-17,17:30,La Liga,Matchweek 17,Sun,Away,D,1,1,Las Palmas,1.6,0.7,36.0,25275,Isaac Carcelen,4-4-2,Alejandro Muñíz,Match Report,0
+2023-12-21,19:00,La Liga,Matchweek 18,Thu,Home,D,0,0,Real Sociedad,1.0,0.5,40.0,17693,Isaac Carcelen,4-4-2,Javier Villanueva,Match Report,0
+2024-01-03,17:00,La Liga,Matchweek 19,Wed,Away,L,0,2,Granada,0.8,3.0,45.0,17732,Isaac Carcelen,4-4-2,Juan Pulido,Match Report,0
+2024-01-14,16:15,La Liga,Matchweek 20,Sun,Home,L,1,4,Valencia,1.1,1.9,57.0,18622,Isaac Carcelen,4-5-1,Isidro Díaz de Mera,Match Report,0
+2024-01-19,21:00,La Liga,Matchweek 21,Fri,Away,L,0,1,Alavés,0.3,2.0,51.0,15838,Jeremías Ledesma,4-4-2,Alejandro Muñíz,Match Report,0
+2024-01-28,16:15,La Liga,Matchweek 22,Sun,Home,D,0,0,Athletic Club,0.4,0.2,43.0,18839,Isaac Carcelen,4-4-2,Mateo Busquets,Match Report,0
+2024-02-04,14:00,La Liga,Matchweek 23,Sun,Away,D,0,0,Villarreal,0.7,1.2,41.0,17183,Isaac Carcelen,4-4-2,Pablo González,Match Report,0
+2024-02-09,21:00,La Liga,Matchweek 24,Fri,Home,L,0,2,Betis,0.8,1.0,53.0,15346,Jeremías Ledesma,4-4-2,Ricardo de Burgos,Match Report,0
+2024-02-17,16:15,La Liga,Matchweek 25,Sat,Away,L,0,2,Osasuna,0.5,2.0,44.0,19525,Jeremías Ledesma,4-4-2,Francisco Hernández,Match Report,0
+2024-02-25,14:00,La Liga,Matchweek 26,Sun,Home,D,2,2,Celta Vigo,2.2,0.7,65.0,18123,Jeremías Ledesma,4-4-2,Miguel Ángel Ortiz Arias,Match Report,0
+2024-03-02,16:15,La Liga,Matchweek 27,Sat,Away,D,1,1,Rayo Vallecano,1.0,0.7,47.0,12272,Jeremías Ledesma,4-4-2,Javier Alberola,Match Report,0
+2024-03-09,16:15,La Liga,Matchweek 28,Sat,Home,W,2,0,Atlético Madrid,1.1,0.9,40.0,15917,Jeremías Ledesma,4-4-2,Pablo González,Match Report,0
+2024-03-15,21:00,La Liga,Matchweek 29,Fri,Away,L,0,2,Real Sociedad,0.8,1.9,37.0,31000,Jeremías Ledesma,4-4-2,César Soto,Match Report,0
+2024-03-29,21:00,La Liga,Matchweek 30,Fri,Home,W,1,0,Granada,1.6,0.5,59.0,15422,Jeremías Ledesma,4-4-2,Guillermo Cuadra,Match Report,0
+2024-04-13,21:00,La Liga,Matchweek 31,Sat,Home,L,0,1,Barcelona,1.0,0.9,38.0,19607,Jeremías Ledesma,4-4-2,Juan Pulido,Match Report,0
+2024-04-20,21:00,La Liga,Matchweek 32,Sat,Away,L,1,4,Girona,1.6,2.1,43.0,12665,Jeremías Ledesma,4-4-2,Javier Alberola,Match Report,0
+2024-04-28,14:00,La Liga,Matchweek 33,Sun,Home,D,1,1,Mallorca,0.4,0.9,58.0,18174,Jeremías Ledesma,4-4-2,Isidro Díaz de Mera,Match Report,0
+2024-05-04,16:15,La Liga,Matchweek 34,Sat,Away,L,0,3,Real Madrid,0.9,2.3,30.0,72654,Jeremías Ledesma,4-5-1,Javier Villanueva,Match Report,0
+2024-05-12,14:00,La Liga,Matchweek 35,Sun,Home,W,1,0,Getafe,1.5,0.5,45.0,16592,Jeremías Ledesma,4-4-2,Ricardo de Burgos,Match Report,0
+2024-05-15,19:30,La Liga,Matchweek 36,Wed,Away,W,1,0,Sevilla,2.5,1.3,44.0,35805,Jeremías Ledesma,4-4-2,Miguel Ángel Ortiz Arias,Match Report,0
+2024-05-19,19:00,La Liga,Matchweek 37,Sun,Home,D,0,0,Las Palmas,0.9,0.6,49.0,18950,Jeremías Ledesma,4-4-2,César Soto,Match Report,0
+2024-05-25,18:30,La Liga,Matchweek 38,Sat,Away,L,1,6,Almería,0.5,2.9,54.0,7558,Álex Fernández,4-2-3-1,Mateo Busquets,Match Report,0

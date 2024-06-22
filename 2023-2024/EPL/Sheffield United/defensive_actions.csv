@@ -1,0 +1,38 @@
+Player,Nation,Pos,Age,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,Matches
+Gustavo Hamer,nl NED,MF,26.0,32.3,39,21,17,15,7,16,59,27.1,43,33,9,24,29,68,35,0,Matches
+Jayden Bogle,eng ENG,DF,23.0,31.0,66,36,43,21,2,35,70,50.0,35,42,11,31,32,98,97,0,Matches
+Jack Robinson,eng ENG,DF,29.0,32.1,43,28,29,14,0,25,39,64.1,14,49,33,16,33,76,132,2,Matches
+Vinicius Souza,br BRA,MF,24.0,29.6,125,76,59,51,15,41,74,55.4,33,57,17,40,32,157,75,1,Matches
+Anel Ahmedhodžić,ba BIH,DF,24.0,29.4,64,36,48,14,2,30,49,61.2,19,43,26,17,35,99,137,2,Matches
+Wes Foderingham,eng ENG,GK,32.0,29.4,5,3,5,0,0,5,6,83.3,1,0,0,0,0,5,18,6,Matches
+Auston Trusty,us USA,DF,24.0,28.6,47,30,31,13,3,21,43,48.8,22,41,22,19,35,82,153,3,Matches
+Cameron Archer,eng ENG,"FW,MF",22.0,20.4,18,13,6,6,6,8,18,44.4,10,22,3,19,1,19,11,0,Matches
+James Mcatee,eng ENG,"MF,FW",20.0,20.2,32,21,9,13,10,13,33,39.4,20,20,0,20,11,43,18,0,Matches
+Oliver Norwood,nir NIR,MF,32.0,16.0,41,26,18,18,5,20,47,42.6,27,24,9,15,21,62,39,0,Matches
+Oliver McBurnie,sct SCO,FW,27.0,14.2,17,7,4,7,6,5,12,41.7,7,18,2,16,5,22,28,0,Matches
+Ben Osborn,eng ENG,"DF,MF",28.0,15.2,22,9,11,9,2,8,17,47.1,9,18,2,16,8,30,30,0,Matches
+Ben Brereton,cl CHI,"FW,MF",24.0,12.3,9,4,4,4,1,4,10,40.0,6,9,3,6,3,12,12,0,Matches
+Andre Brooks,eng ENG,"MF,DF",19.0,10.4,22,13,7,11,4,9,21,42.9,12,13,1,12,14,36,20,0,Matches
+George Baldock,gr GRE,DF,30.0,10.8,18,10,10,7,1,6,15,40.0,9,14,8,6,10,28,33,0,Matches
+Oliver Arblaster,eng ENG,MF,19.0,10.5,23,14,11,8,4,7,15,46.7,8,17,7,10,15,38,9,0,Matches
+Luke Thomas,eng ENG,DF,22.0,10.2,20,9,13,6,1,8,14,57.1,6,23,5,18,10,30,27,0,Matches
+William Osula,dk DEN,FW,19.0,8.7,2,2,1,0,1,1,2,50.0,1,3,1,2,2,4,9,0,Matches
+Ivo Grbić,hr CRO,GK,27.0,8.6,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,9,1,Matches
+Mason Holgate,eng ENG,DF,26.0,7.9,12,7,5,6,1,5,12,41.7,7,12,5,7,11,23,40,0,Matches
+Yasser Larouci,dz ALG,DF,22.0,5.9,17,9,10,5,2,10,14,71.4,4,6,1,5,7,24,20,1,Matches
+John Egan,ie IRL,DF,30.0,5.4,6,4,4,2,0,4,11,36.4,7,10,4,6,13,19,39,1,Matches
+Max Lowe,eng ENG,"DF,MF",26.0,5.6,21,10,13,5,3,8,15,53.3,7,10,4,6,5,26,15,0,Matches
+Anis Ben Slimane,tn TUN,MF,22.0,4.7,11,6,5,2,4,4,10,40.0,6,7,1,6,5,16,7,0,Matches
+Bénie Adama Traore,ci CIV,"FW,MF",20.0,4.3,4,2,1,2,1,0,4,0.0,4,4,1,3,1,5,1,0,Matches
+Rhian Brewster,eng ENG,"FW,MF",23.0,3.8,5,1,1,2,2,0,2,0.0,2,2,0,2,1,6,2,0,Matches
+Chris Basham,eng ENG,"DF,MF",35.0,3.6,7,2,4,3,0,2,9,22.2,7,9,4,5,5,12,17,0,Matches
+Tom Davies,eng ENG,MF,25.0,2.5,10,5,4,3,3,3,9,33.3,6,2,1,1,3,13,6,1,Matches
+Rhys Norrington-Davies,wls WAL,DF,24.0,1.2,1,1,1,0,0,0,1,0.0,1,2,0,2,1,2,2,0,Matches
+John Fleck,sct SCO,"MF,DF",31.0,1.0,1,0,0,1,0,0,1,0.0,1,0,0,0,0,1,1,0,Matches
+Sam Curtis,ie IRL,DF,17.0,0.3,1,0,1,0,0,1,2,50.0,1,2,0,2,0,1,0,0,Matches
+Daniel Jebbison,eng ENG,FW,19.0,0.2,0,0,0,0,0,0,0,0.0,0,1,0,1,0,0,0,0,Matches
+Antwoine Hackford,eng ENG,FW,19.0,0.1,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Sydie Peck,eng ENG,MF,18.0,0.1,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Ryan One,sct SCO,FW,17.0,0.1,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Squad Total,0,0,25.7,38.0,709,405,375,248,86,299,635,47.1,336,514,180,334,348,1057,1042,18,0
+Opponent Total,0,0,26.4,38.0,608,357,288,225,95,285,535,53.3,250,412,106,306,275,883,610,9,0

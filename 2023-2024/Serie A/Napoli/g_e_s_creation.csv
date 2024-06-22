@@ -1,0 +1,32 @@
+Player,Nation,Pos,Age,90s,SCA SCA,SCA SCA90,SCA Types PassLive,SCA Types PassDead,SCA Types TO,SCA Types Sh,SCA Types Fld,SCA Types Def,GCA GCA,GCA GCA90,GCA Types PassLive,GCA Types PassDead,GCA Types TO,GCA Types Sh,GCA Types Fld,GCA Types Def,Matches
+Stanislav Lobotka,sk SVK,MF,28.0,36.5,88,2.41,77,1,4,1,4,1,4,0.11,4,0,0,0,0,0,Matches
+Giovanni Di Lorenzo,it ITA,DF,29.0,35.9,126,3.51,114,0,5,6,0,1,10,0.28,9,0,0,1,0,0,Matches
+Andre-Frank Zambo Anguissa,cm CMR,MF,27.0,31.0,89,2.88,84,1,1,2,1,0,4,0.13,4,0,0,0,0,0,Matches
+Khvicha Kvaratskhelia,ge GEO,FW,22.0,30.4,155,5.1,80,15,26,16,14,4,16,0.53,6,0,3,3,3,1,Matches
+Alex Meret,it ITA,GK,26.0,30.8,5,0.16,5,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Matteo Politano,it ITA,FW,29.0,26.2,142,5.41,100,16,6,14,6,0,15,0.57,10,2,2,0,1,0,Matches
+Amir Rrahmani,xk KVX,DF,29.0,28.9,43,1.49,34,0,1,4,1,3,5,0.17,5,0,0,0,0,0,Matches
+Juan Jesus,br BRA,DF,32.0,23.5,13,0.55,11,0,0,2,0,0,0,0.0,0,0,0,0,0,0,Matches
+Piotr Zieliński,pl POL,MF,29.0,21.4,91,4.26,60,21,4,5,1,0,8,0.37,4,1,0,2,1,0,Matches
+Victor Osimhen,ng NGA,FW,24.0,22.0,54,2.45,29,0,4,14,7,0,8,0.36,5,0,1,1,1,0,Matches
+Leo Skiri Østigård,no NOR,DF,23.0,18.1,11,0.61,10,0,0,0,0,1,0,0.0,0,0,0,0,0,0,Matches
+Mathías Olivera,uy URU,DF,25.0,17.4,42,2.41,35,1,1,3,1,1,2,0.11,1,0,0,0,0,1,Matches
+Giacomo Raspadori,it ITA,"FW,MF",23.0,17.6,75,4.25,49,11,4,7,3,1,3,0.17,3,0,0,0,0,0,Matches
+Mário Rui,pt POR,DF,32.0,13.4,41,3.06,25,13,0,0,3,0,2,0.15,2,0,0,0,0,0,Matches
+Jens Cajuste,se SWE,MF,23.0,11.3,37,3.28,31,0,4,1,0,1,5,0.44,4,0,0,0,0,1,Matches
+Natan,br BRA,DF,22.0,10.6,9,0.85,9,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Giovanni Simeone,ar ARG,FW,28.0,8.9,28,3.15,17,0,2,4,4,1,1,0.11,0,0,0,0,1,0,Matches
+Pierluigi Gollini,it ITA,GK,28.0,7.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Hamed Junior Traorè,ci CIV,MF,23.0,4.2,16,3.77,13,0,2,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Pasquale Mazzocchi,it ITA,DF,28.0,4.8,7,1.48,6,0,0,1,0,0,1,0.21,1,0,0,0,0,0,Matches
+Elif Elmas,mk MKD,"FW,MF",23.0,3.8,9,2.4,7,0,1,0,1,0,0,0.0,0,0,0,0,0,0,Matches
+Jesper Lindstrøm,dk DEN,"FW,MF",23.0,4.8,24,5.01,17,3,3,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Cyril Ngonge,be BEL,FW,23.0,3.5,26,7.45,10,3,5,4,4,0,0,0.0,0,0,0,0,0,0,Matches
+Gianluca Gaetano,it ITA,MF,23.0,1.8,8,4.44,7,0,0,0,1,0,1,0.56,0,0,0,0,1,0,Matches
+Alessio Zerbin,it ITA,"FW,DF",24.0,1.7,5,3.0,4,0,0,0,1,0,1,0.6,0,0,0,0,1,0,Matches
+Diego Demme,de GER,MF,31.0,0.8,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Alessandro Zanoli,it ITA,"DF,FW",22.0,0.6,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Leander Dendoncker,be BEL,MF,28.0,0.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Nikita Contini Baranovsky,it ITA,GK,27.0,0.2,1,5.29,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Squad Total,0,0,27.2,38.0,1145,30.13,835,85,73,86,52,14,86,2.26,58,3,6,7,9,3,0
+Opponent Total,0,0,26.5,38.0,696,18.32,507,66,39,50,24,10,83,2.18,62,5,5,7,3,1,0

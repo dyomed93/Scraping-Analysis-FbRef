@@ -1,0 +1,6 @@
+Player,Nation,Pos,Age,90s,Goals GA,Goals PKA,Goals FK,Goals CK,Goals OG,Expected PSxG,Expected PSxG/SoT,Expected PSxG+/-,Expected /90,Launched Cmp,Launched Att,Launched Cmp%,Passes Att (GK),Passes Thr,Passes Launch%,Passes AvgLen,Goal Kicks Att,Goal Kicks Launch%,Goal Kicks AvgLen,Crosses Opp,Crosses Stp,Crosses Stp%,Sweeper #OPA,Sweeper #OPA/90,Sweeper AvgDist,Matches
+Manuel Neuer,de GER,GK,37.0,22.8,33,2,1,1,0,29.1,0.29,-3.9,-0.17,73,159,45.9,779,110,18.6,27.7,97,14.4,26.0,231,9,3.9,32,1.4,17.5,Matches
+Sven Ulreich,de GER,GK,34.0,11.0,12,1,1,2,0,11.8,0.35,-0.2,-0.01,26,79,32.9,348,57,20.4,26.2,47,17.0,26.4,108,5,4.6,16,1.45,19.9,Matches
+Daniel Peretz,il ISR,GK,23.0,0.2,0,0,0,0,0,0.0,0.0,0.0,0.0,0,4,0.0,15,3,26.7,33.1,2,0.0,16.5,2,0,0.0,0,0.0,0.0,Matches
+Squad Total,0,0,27.4,34.0,45,3,2,3,0,41.0,0.3,-4.0,-0.12,99,242,40.9,1072,170,20.4,0.0,216,10.6,20.9,341,14,4.1,48,1.41,0.0,0
+Opponent Total,0,0,26.5,34.0,94,5,1,11,1,87.0,0.36,-6.0,-0.18,162,436,37.2,1008,160,32.4,34.1,304,35.9,32.9,523,24,4.6,22,0.65,12.5,0

@@ -1,0 +1,33 @@
+Player,Nation,Pos,Age,90s,SCA SCA,SCA SCA90,SCA Types PassLive,SCA Types PassDead,SCA Types TO,SCA Types Sh,SCA Types Fld,SCA Types Def,GCA GCA,GCA GCA90,GCA Types PassLive,GCA Types PassDead,GCA Types TO,GCA Types Sh,GCA Types Fld,GCA Types Def,Matches
+Jokin Ezkieta,es ESP,GK,27-309,42.0,4,0.1,1,3,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Iñigo Vicente,es ESP,"FW,MF",26-167,38.6,215,5.57,156,37,6,5,7,4,28,0.73,22,1,0,2,0,3,Matches
+Peque,es ESP,"MF,FW",21-261,31.5,113,3.59,76,0,17,8,10,2,16,0.51,8,0,3,2,2,1,Matches
+Arana,es ESP,FW,24-134,27.3,52,1.91,25,0,9,12,5,1,9,0.33,3,0,1,3,2,0,Matches
+Germán Sánchez,es ESP,DF,37-192,30.4,17,0.56,14,0,0,3,0,0,0,0.0,0,0,0,0,0,0,Matches
+Aldasoro,es ESP,MF,25-016,32.1,53,1.65,41,1,3,7,0,1,5,0.16,5,0,0,0,0,0,Matches
+Íñigo Sainz Maza,es ESP,MF,26-005,25.5,33,1.27,25,0,1,1,2,4,4,0.15,3,0,0,0,1,0,Matches
+Saúl García,es ESP,DF,29-225,26.9,49,1.82,36,11,0,0,2,0,4,0.15,3,1,0,0,0,0,Matches
+Mantilla,es ESP,DF,24-043,23.0,23,1.0,19,1,1,1,1,0,2,0.09,2,0,0,0,0,0,Matches
+Rubén González,es ESP,DF,29-288,21.6,12,0.56,11,0,0,0,0,1,1,0.05,1,0,0,0,0,0,Matches
+Iván Morante,es ESP,MF,23-158,20.5,50,2.44,33,11,1,1,2,2,7,0.34,1,4,1,0,1,0,Matches
+Dani Fernandez,es ESP,DF,27-052,17.9,25,1.39,18,2,0,4,1,0,4,0.22,2,0,0,2,0,0,Matches
+Manu Hernando,es ESP,DF,25-338,18.0,8,0.44,7,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Mario García,es ESP,DF,20-263,14.8,26,1.76,17,8,0,0,1,0,0,0.0,0,0,0,0,0,0,Matches
+Andrés Martín,es ESP,"FW,MF",24-346,14.5,50,3.38,33,2,8,5,0,2,7,0.47,5,0,1,1,0,0,Matches
+Lago Junior,ci CIV,"FW,MF",33-173,12.4,28,2.26,20,0,3,2,3,0,4,0.32,3,0,0,0,1,0,Matches
+Marco Sangalli,es ESP,"DF,FW",32-135,15.1,45,2.99,35,2,2,3,2,1,4,0.27,3,0,0,0,1,0,Matches
+Jordi Mboula,es ESP,"FW,MF",25-097,12.7,34,2.68,26,1,3,1,2,1,2,0.16,1,0,0,0,1,0,Matches
+Clément Grenier,fr FRA,"MF,FW",33-166,8.7,18,2.07,14,1,1,1,0,1,3,0.34,2,0,0,1,0,0,Matches
+Ekain Zenitagoia,es ESP,FW,30-172,11.0,21,1.91,11,0,3,3,4,0,3,0.27,1,0,0,1,1,0,Matches
+Pol Moreno,es ESP,DF,30-043,8.7,5,0.58,1,1,0,3,0,0,1,0.12,0,0,0,1,0,0,Matches
+Roko Baturina,hr CRO,FW,24-001,2.7,1,0.37,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Yeray Cabanzón,es ESP,"FW,MF",21-038,2.3,7,2.97,5,1,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Juan Gutierrez,es ESP,DF,24-145,1.2,3,2.43,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Jeremy Arévalo,es ESP,"FW,MF",19-094,1.6,6,3.83,3,0,1,0,2,0,1,0.64,0,0,0,0,1,0,Matches
+Cedric Omoigui,ng NGA,FW,29-223,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Jorge Pombo,es ESP,MF,30-120,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Diego Campo,es ESP,MF,22-218,0.1,1,8.18,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Álvaro Santamaría,es ESP,MF,22-227,0.1,1,12.86,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Matheus Aiás,br BRA,MF,27-173,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Squad Total,0,0,27.2,42.0,900,21.43,633,82,59,62,44,20,105,2.5,65,6,6,13,11,4,0
+Opponent Total,0,0,27.7,42.0,1083,25.79,818,86,65,70,37,7,95,2.26,68,5,9,9,4,0,0

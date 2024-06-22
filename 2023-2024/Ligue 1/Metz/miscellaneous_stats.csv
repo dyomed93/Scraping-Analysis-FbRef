@@ -1,0 +1,33 @@
+Player,Nation,Pos,Age,90s,Performance CrdY,Performance CrdR,Performance 2CrdY,Performance Fls,Performance Fld,Performance Off,Performance Crs,Performance Int,Performance TklW,Performance PKwon,Performance PKcon,Performance OG,Performance Recov,Aerial Duels Won,Aerial Duels Lost,Aerial Duels Won%,Matches
+Alexandre Oukidja,dz ALG,GK,35.0,33.2,3,0,0,1,7,0,0,3,1,0,1,0,22,12,2,85.7,Matches
+Matthieu Udol,fr FRA,DF,27.0,30.0,5,0,0,28,20,1,73,50,37,0,0,0,149,27,40,40.3,Matches
+Danley Jean-Jacques,ht HAI,MF,23.0,29.8,5,0,0,48,23,2,20,44,28,0,0,0,126,23,45,33.8,Matches
+Lamine Camara,sn SEN,MF,19.0,25.1,3,0,0,45,45,1,119,28,42,0,0,0,180,11,26,29.7,Matches
+Ismaël Traoré,ci CIV,DF,36.0,24.7,2,0,0,23,4,0,0,30,12,0,1,0,108,23,33,41.1,Matches
+Maxime Colin,fr FRA,DF,31.0,20.4,3,0,0,11,8,0,34,20,23,1,0,0,83,23,14,62.2,Matches
+Kévin Van Den Kerkhof,dz ALG,"FW,MF",27.0,21.3,2,0,0,8,10,6,128,11,24,0,0,0,90,10,27,27.0,Matches
+Fali Candé,gw GNB,DF,25.0,20.5,4,0,0,14,16,0,8,20,19,1,2,0,93,30,22,57.7,Matches
+Georges Mikautadze,ge GEO,FW,22.0,19.4,0,1,0,13,26,1,34,8,3,0,0,0,69,14,46,23.3,Matches
+Christophe Hérelle,mq MTQ,DF,30.0,18.0,4,1,0,14,33,0,1,18,15,0,0,0,77,17,16,51.5,Matches
+Kévin N'Doram,fr FRA,MF,27.0,17.8,4,0,0,29,22,0,2,27,22,0,0,0,59,24,14,63.2,Matches
+Cheikh Tidiane Sabaly,sn SEN,"FW,MF",24.0,15.3,4,0,0,24,27,6,12,10,20,1,1,0,86,5,17,22.7,Matches
+Arthur Atta,fr FRA,"MF,FW",20.0,10.3,0,0,0,18,12,4,10,10,14,0,0,0,54,11,19,36.7,Matches
+Ablie Jallow,gm GAM,"MF,FW",24.0,10.2,1,0,0,8,14,0,23,8,5,0,0,0,49,5,18,21.7,Matches
+Koffi Kouao,ci CIV,DF,25.0,9.6,2,0,0,16,5,1,16,13,13,0,0,0,52,13,6,68.4,Matches
+Joel Asoro,se SWE,"FW,MF",24.0,9.4,2,0,0,18,22,4,19,6,9,1,1,0,32,17,15,53.1,Matches
+Papa Amadou Diallo,sn SEN,FW,19.0,9.9,1,0,0,10,11,4,14,11,8,0,0,0,59,30,36,45.5,Matches
+Sadibou Sané,sn SEN,DF,19.0,9.4,1,0,0,9,5,1,8,8,12,0,0,0,28,13,12,52.0,Matches
+Simon Elisor,fr FRA,FW,24.0,8.5,1,0,0,17,16,4,4,0,2,1,0,0,20,35,47,42.7,Matches
+Joseph Nduquidi,fr FRA,"MF,DF",18.0,8.3,2,0,0,13,13,0,0,11,4,0,0,0,35,6,14,30.0,Matches
+Didier Lamkel Zé,cm CMR,"FW,MF",26.0,6.1,1,0,0,14,11,3,13,0,2,0,0,0,26,13,21,38.2,Matches
+Oscar Estupiñan,co COL,FW,26.0,2.9,0,0,0,6,3,1,1,0,4,0,0,0,11,11,11,50.0,Matches
+Abou Lô,sn SEN,"MF,DF",23.0,2.2,0,1,0,3,2,0,0,4,1,0,0,0,10,2,2,50.0,Matches
+Youssef Maziz,fr FRA,"FW,MF",25.0,1.4,0,0,0,1,2,0,4,1,0,0,0,0,6,2,2,50.0,Matches
+Benjamin Tetteh,gh GHA,"FW,MF",26.0,3.1,2,0,0,4,4,5,1,0,6,0,0,0,8,8,19,29.6,Matches
+Malick Mbaye,sn SEN,"MF,FW",19.0,1.7,1,0,0,5,4,0,13,1,1,0,0,0,7,1,7,12.5,Matches
+Habib Maïga,ci CIV,"MF,FW",27.0,1.6,0,0,0,4,2,0,1,4,2,0,0,0,17,2,1,66.7,Matches
+Jean Frederic N'Guessan,ci CIV,"MF,FW",20.0,1.2,0,0,0,10,5,0,1,1,1,0,0,0,8,1,0,100.0,Matches
+Ibou Sané,sn SEN,"MF,FW",18.0,1.4,1,0,0,5,2,1,4,1,4,0,0,0,10,1,2,33.3,Matches
+Guillaume Dietsch,fr FRA,GK,22.0,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,Matches
+Squad Total,0,0,26.5,34.0,54,3,0,419,374,45,563,348,334,5,6,0,1574,390,534,42.2,0
+Opponent Total,0,0,25.6,34.0,58,1,0,400,399,51,736,259,382,5,6,0,1750,534,390,57.8,0

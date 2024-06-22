@@ -1,0 +1,28 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Paulo Gazzaniga,ar ARG,GK,31.0,38.0,1391,1065,321,75,1,5,0,0,0,0,0,0,1094,5,1,Matches
+Aleix García,es ESP,MF,26.0,35.5,2935,2673,254,119,5,87,192,11,122,50,52,1,2567,8,24,Matches
+Miguel Gutiérrez,es ESP,DF,22.0,33.7,1855,1586,263,28,9,3,97,235,0,0,0,0,1595,6,33,Matches
+Sávio,br BRA,"FW,MF",19.0,33.1,1064,1042,17,2,1,9,120,11,4,3,0,0,812,5,42,Matches
+Daley Blind,nl NED,DF,33.0,33.0,2585,2465,97,69,0,18,17,21,2,0,1,0,2304,23,27,Matches
+Iván Martín,es ESP,MF,24.0,30.3,1628,1583,37,20,2,4,10,6,0,0,0,0,1487,8,19,Matches
+Artem Dovbyk,ua UKR,FW,26.0,28.7,392,359,28,0,2,2,1,0,0,0,0,0,277,5,16,Matches
+Eric García,es ESP,DF,22.0,29.3,2306,2123,175,71,7,18,10,95,0,0,0,0,2064,8,20,Matches
+Yangel Herrera,ve VEN,MF,25.0,23.4,1137,1110,22,7,1,6,29,2,0,0,0,0,972,5,14,Matches
+Viktor Tsyhankov,ua UKR,"MF,FW",25.0,22.8,920,861,50,15,5,3,62,8,27,8,11,0,726,9,25,Matches
+David López,es ESP,DF,33.0,21.8,1582,1499,81,33,0,3,0,2,0,0,0,0,1468,2,4,Matches
+Yan Couto,br BRA,"DF,FW",21.0,24.9,1354,1181,170,24,5,4,111,145,1,0,0,0,1057,3,47,Matches
+Arnau Martinez,es ESP,DF,20.0,13.8,834,731,101,25,2,3,7,76,0,0,0,0,751,2,8,Matches
+Portu,es ESP,"MF,FW",31.0,13.2,308,291,14,1,4,0,19,0,2,0,2,0,232,3,15,Matches
+Juanpe,es ESP,DF,32.0,8.3,550,528,22,15,0,4,1,1,0,0,0,0,500,0,1,Matches
+Cristhian Stuani,uy URU,FW,36.0,8.9,115,101,14,1,1,0,1,0,0,0,0,0,84,0,2,Matches
+Pablo Torre,es ESP,"MF,FW",20.0,7.8,429,416,11,5,8,3,7,0,1,0,1,0,356,2,8,Matches
+Valery Fernández,es ESP,"MF,FW",23.0,5.6,221,211,10,0,1,0,13,10,0,0,0,0,188,0,4,Matches
+Jhon Solis,co COL,MF,18.0,4.3,225,222,3,2,2,0,0,1,0,0,0,0,191,0,3,Matches
+Antal Yaakobishvili,hu HUN,DF,19.0,0.7,42,42,0,0,0,0,0,0,0,0,0,0,37,0,0,Matches
+Jastin García,es ESP,FW,19.0,0.4,11,11,0,0,0,0,1,0,0,0,0,0,7,0,1,Matches
+Toni Villa,es ESP,FW,28.0,0.1,9,7,1,1,0,0,0,0,0,0,0,0,7,1,0,Matches
+Ibrahima Kebe,ml MLI,MF,22.0,0.1,8,7,1,1,0,0,0,0,0,0,0,0,5,0,0,Matches
+Bernardo Espinosa,co COL,DF,34.0,0.0,8,8,0,0,0,0,0,0,0,0,0,0,7,0,0,Matches
+Silvi Clúa,es ESP,MF,18.0,0.0,5,5,0,0,0,0,0,0,0,0,0,0,5,0,0,Matches
+Squad Total,0,0,26.1,38.0,21914,20127,1692,514,56,172,698,624,159,61,67,1,18793,95,314,0
+Opponent Total,0,0,27.2,38.0,16590,14841,1700,477,38,124,711,641,161,75,60,1,13335,49,314,0

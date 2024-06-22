@@ -1,0 +1,32 @@
+Player,Nation,Pos,Age,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,Matches
+Steve Mandanda,fr FRA,GK,38.0,34.0,2,0,2,0,0,2,4,50.0,2,0,0,0,0,2,6,1,Matches
+Benjamin Bourigeaud,fr FRA,"MF,FW",29.0,26.9,31,18,14,9,8,13,44,29.5,31,31,2,29,22,53,39,2,Matches
+Arthur Theate,be BEL,DF,23.0,25.5,30,17,19,6,5,24,37,64.9,13,40,23,17,31,61,90,2,Matches
+Arnaud Kalimuendo,fr FRA,FW,21.0,23.8,5,4,2,2,1,2,5,40.0,3,13,2,11,4,9,4,0,Matches
+Adrien Truffert,fr FRA,DF,21.0,23.8,39,21,23,10,6,25,40,62.5,15,31,5,26,19,58,49,0,Matches
+Amine Gouiri,dz ALG,"FW,MF",23.0,23.0,20,10,4,11,5,8,19,42.1,11,18,1,17,14,34,12,0,Matches
+Warmed Omari,fr FRA,DF,23.0,23.0,32,19,23,7,2,16,28,57.1,12,30,20,10,33,65,77,2,Matches
+Baptiste Santamaria,fr FRA,MF,28.0,21.4,52,33,21,25,6,29,46,63.0,17,15,6,9,34,86,33,1,Matches
+Enzo Le Fée,fr FRA,MF,23.0,17.0,50,35,23,17,10,23,47,48.9,24,17,3,14,19,69,20,0,Matches
+Martin Terrier,fr FRA,"FW,MF",26.0,17.0,14,9,3,8,3,6,14,42.9,8,21,4,17,9,23,17,0,Matches
+Ludovic Blas,fr FRA,"FW,MF",25.0,17.4,30,14,16,13,1,12,28,42.9,16,13,1,12,6,36,9,0,Matches
+Désiré Doué,fr FRA,"MF,FW",18.0,18.1,32,18,11,14,7,10,33,30.3,23,30,1,29,14,46,8,0,Matches
+Jeanuël Belocian,fr FRA,DF,18.0,16.1,32,22,23,8,1,22,28,78.6,6,18,10,8,13,45,49,0,Matches
+Christopher Wooh,cm CMR,DF,21.0,15.4,18,12,12,6,0,8,15,53.3,7,19,9,10,18,36,51,0,Matches
+Guela Doué,ci CIV,DF,20.0,13.7,28,21,14,12,2,22,32,68.8,10,12,1,11,15,43,65,1,Matches
+Lorenz Assignon,tg TOG,DF,23.0,11.2,24,12,12,8,4,9,24,37.5,15,9,4,5,9,33,27,1,Matches
+Nemanja Matić,rs SRB,MF,34.0,11.4,19,10,7,9,3,9,12,75.0,3,15,7,8,27,46,19,0,Matches
+Azor Matusiwa,nl NED,MF,25.0,8.8,7,3,3,4,0,4,7,57.1,3,9,2,7,11,18,17,0,Matches
+Alidu Seidu,gh GHA,DF,23.0,6.6,21,9,17,3,1,14,19,73.7,5,11,3,8,10,31,13,0,Matches
+Ibrahim Salah,ma MAR,"FW,MF",21.0,5.8,15,7,5,6,4,11,18,61.1,7,4,0,4,10,25,5,0,Matches
+Bertuğ Yıldırım,tr TUR,FW,21.0,5.2,7,5,2,3,2,3,8,37.5,5,8,0,8,0,7,4,0,Matches
+Fabian Rieder,ch SUI,MF,21.0,4.1,13,7,2,9,2,6,11,54.5,5,3,1,2,5,18,2,0,Matches
+Jeremy Doku,be BEL,FW,21.0,1.2,2,2,1,0,1,1,1,100.0,0,0,0,0,0,2,0,0,Matches
+Mahamadou Nagida,cm CMR,DF,18.0,1.2,1,1,0,0,1,0,2,0.0,2,2,1,1,4,5,0,0,Matches
+Lovro Majer,hr CRO,MF,25.0,0.2,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,1,0,Matches
+Birger Meling,no NOR,DF,28.0,0.2,1,1,1,0,0,1,1,100.0,0,1,0,1,0,1,0,0,Matches
+Mathis Lambourde,fr FRA,FW,17.0,0.1,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,1,0,Matches
+Jérémy Jacquet,fr FRA,MF,18.0,0.1,1,1,1,0,0,0,1,0.0,1,0,0,0,1,2,0,0,Matches
+Djaoui Cissé,fr FRA,MF,19.0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Squad Total,0,0,25.2,34.0,526,311,261,190,75,280,525,53.3,245,371,106,265,328,854,618,10,0
+Opponent Total,0,0,25.8,34.0,623,378,328,222,73,289,640,45.2,351,386,137,249,359,982,622,3,0

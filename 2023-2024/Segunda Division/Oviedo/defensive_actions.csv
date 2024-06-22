@@ -1,0 +1,35 @@
+Player,Nation,Pos,Age,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,Matches
+Leonardo Román,es ESP,GK,23-351,42.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,17,1,Matches
+Dani Calvo,es ESP,DF,30-081,39.0,38,26,24,13,1,13,19,68.4,6,40,34,6,31,69,166,1,Matches
+Viti,es ESP,"DF,MF",26-279,37.0,60,37,35,18,7,34,56,60.7,22,34,6,28,36,96,37,0,Matches
+Santiago Colombatto,ar ARG,MF,27-156,34.7,50,34,23,21,6,31,56,55.4,25,40,8,32,29,79,56,0,Matches
+Abel,es ESP,DF,23-305,36.1,85,55,49,25,11,54,100,54.0,46,54,4,50,35,120,73,0,Matches
+Oier Luengo,es ESP,DF,26-223,33.2,44,21,27,16,1,20,46,43.5,26,36,23,13,29,73,90,2,Matches
+Sebas Moyano,es ESP,"FW,MF",27-090,30.4,31,25,13,16,2,15,40,37.5,25,31,2,29,24,55,13,1,Matches
+Jaime Seoane,es ESP,"MF,FW",27-151,27.4,52,29,21,21,10,23,57,40.4,34,19,4,15,14,66,18,1,Matches
+Borja Bastón,es ESP,FW,31-301,26.7,13,10,5,4,4,5,11,45.5,6,16,1,15,3,16,22,0,Matches
+Luismi,es ESP,MF,32-047,17.5,32,19,16,14,2,17,35,48.6,18,25,14,11,20,52,33,0,Matches
+David Costas,es ESP,DF,29-087,17.8,28,17,24,3,1,8,8,100.0,0,15,8,7,34,62,78,1,Matches
+Mascarenhas,pt POR,"FW,MF",24-037,16.3,19,12,9,9,1,8,20,40.0,12,18,3,15,2,21,14,0,Matches
+Paulino,es ESP,"FW,MF",26-360,16.2,24,12,6,10,8,11,24,45.8,13,11,1,10,4,28,9,0,Matches
+Alexandre Alemão,br BRA,FW,26-081,16.2,14,9,4,7,3,6,11,54.5,5,24,6,18,4,18,9,0,Matches
+Jaime Suárez Juesas,es ESP,MF,27-173,15.8,32,17,17,12,3,14,29,48.3,15,22,12,10,28,60,27,0,Matches
+Santi Cazorla,es ESP,"MF,FW",39-191,10.8,25,10,11,11,3,14,27,51.9,13,10,2,8,8,33,6,1,Matches
+Jonathan Dubasin,be BEL,"FW,MF",24-140,9.4,12,8,8,4,0,10,15,66.7,5,11,3,8,7,19,5,0,Matches
+Lucas Ahijado,es ESP,DF,29-143,7.7,20,16,6,11,3,12,21,57.1,9,12,4,8,7,27,13,0,Matches
+Carlos Pomares Rayo,es ESP,DF,31-199,6.3,16,13,11,4,1,9,12,75.0,3,7,1,6,8,24,23,0,Matches
+Borja Sánchez Laborde,es ESP,"FW,MF",28-116,5.2,13,8,4,5,4,3,14,21.4,11,5,0,5,2,15,8,0,Matches
+Víctor Camarasa,es ESP,MF,30-024,5.1,6,4,2,4,0,4,10,40.0,6,7,0,7,10,16,7,0,Matches
+Mario Hernández,es ESP,DF,25-148,2.3,4,3,2,2,0,3,7,42.9,4,1,0,1,0,4,3,0,Matches
+Romario Ibarra,ec ECU,"MF,FW",29-271,1.5,2,1,2,0,0,1,2,50.0,1,3,0,3,2,4,0,0,Matches
+Jaime Vázquez,es ESP,DF,18-141,1.0,0,0,0,0,0,0,0,0.0,0,4,4,0,1,1,1,1,Matches
+Santiago Homenchenko,uy URU,MF,20-296,0.7,6,5,3,3,0,2,3,66.7,1,0,0,0,1,7,1,0,Matches
+Hugo Rama,es ESP,MF,27-212,0.5,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,0,0,Matches
+Álex Millán,es ESP,"FW,MF",24-227,1.1,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0,Matches
+Mario Sesé,es ESP,"MF,DF",21-296,1.0,1,1,1,0,0,1,2,50.0,1,1,0,1,0,1,0,0,Matches
+Marco Esteban,es ESP,DF,18-172,0.5,4,2,1,2,1,1,1,100.0,0,0,0,0,0,4,2,0,Matches
+Alejandro Suárez,es ESP,"FW,MF",20-301,0.2,0,0,0,0,0,0,0,0.0,0,0,0,0,1,1,0,0,Matches
+Enol Rodríguez,es ESP,FW,22-329,0.1,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Yayo González,es ESP,MF,19-327,0.1,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Squad Total,0,0,27.6,42.0,631,394,324,235,72,319,629,50.7,310,447,140,307,340,971,732,9,0
+Opponent Total,0,0,27.5,42.0,701,460,322,275,104,352,695,50.6,343,452,143,309,371,1072,1024,10,0

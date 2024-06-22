@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,Playing Time MP,Playing Time Starts,Playing Time Min,Playing Time 90s,Performance GA,Performance GA90,Performance SoTA,Performance Saves,Performance Save%,Performance W,Performance D,Performance L,Performance CS,Performance CS%,Penalty Kicks PKatt,Penalty Kicks PKA,Penalty Kicks PKsv,Penalty Kicks PKm,Penalty Kicks Save%,Matches
+Juan Soriano,es ESP,GK,26-303,40,39,3530,39.2,38,0.97,141,102,77.3,14,10,15,16,41.0,7,6,1,0,14.3,Matches
+Tomeu Nadal,es ESP,GK,35-134,3,3,250,2.8,3,1.08,7,6,71.4,1,1,1,0,0.0,1,1,0,0,0.0,Matches
+Squad Total,0,0,28.8,42,42,3780,42.0,41,0.98,148,108,77.0,15,11,16,16,38.1,8,7,1,0,12.5,0
+Opponent Total,0,0,27.6,42,42,3780,42.0,38,0.9,131,93,75.6,16,11,15,15,35.7,6,6,0,0,0.0,0

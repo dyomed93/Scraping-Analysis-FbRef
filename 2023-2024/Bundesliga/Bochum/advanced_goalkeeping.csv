@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,90s,Goals GA,Goals PKA,Goals FK,Goals CK,Goals OG,Expected PSxG,Expected PSxG/SoT,Expected PSxG+/-,Expected /90,Launched Cmp,Launched Att,Launched Cmp%,Passes Att (GK),Passes Thr,Passes Launch%,Passes AvgLen,Goal Kicks Att,Goal Kicks Launch%,Goal Kicks AvgLen,Crosses Opp,Crosses Stp,Crosses Stp%,Sweeper #OPA,Sweeper #OPA/90,Sweeper AvgDist,Matches
+Manuel Riemann,de GER,GK,34.0,33.0,70,9,0,9,3,59.6,0.27,-7.4,-0.22,430,1041,41.3,1498,89,61.0,42.5,208,61.1,46.9,510,35,6.9,104,3.15,19.8,Matches
+Andreas Luthe,de GER,GK,36.0,1.0,4,0,0,0,1,2.7,0.68,-0.3,-0.3,20,43,46.5,42,2,85.7,51.3,7,100.0,61.1,13,0,0.0,0,0.0,7.7,Matches
+Squad Total,0,0,29.1,34.0,74,9,0,9,4,62.3,0.28,-7.7,-0.23,450,1084,41.5,1497,91,63.5,51.3,258,51.9,41.2,523,35,6.7,104,3.06,7.7,0
+Opponent Total,0,0,26.5,34.0,42,4,2,9,1,43.7,0.27,2.7,0.08,203,571,35.6,1183,219,36.1,35.6,331,43.5,37.6,516,36,7.0,52,1.53,15.7,0

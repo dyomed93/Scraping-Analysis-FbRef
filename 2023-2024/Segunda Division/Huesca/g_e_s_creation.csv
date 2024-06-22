@@ -1,0 +1,33 @@
+Player,Nation,Pos,Age,90s,SCA SCA,SCA SCA90,SCA Types PassLive,SCA Types PassDead,SCA Types TO,SCA Types Sh,SCA Types Fld,SCA Types Def,GCA GCA,GCA GCA90,GCA Types PassLive,GCA Types PassDead,GCA Types TO,GCA Types Sh,GCA Types Fld,GCA Types Def,Matches
+Álvaro Fernández,es ESP,GK,26-069,41.0,4,0.1,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Miguel Loureiro,es ESP,DF,27-213,36.6,44,1.2,34,4,2,2,0,2,1,0.03,1,0,0,0,0,0,Matches
+Jorge Pulido,es ESP,DF,33-074,35.9,26,0.72,21,1,1,3,0,0,4,0.11,2,0,1,1,0,0,Matches
+Óscar Sielva,es ESP,MF,32-320,33.7,75,2.22,28,43,0,3,1,0,5,0.15,0,5,0,0,0,0,Matches
+Javi Martínez,es ESP,MF,24-182,31.4,61,1.95,52,0,3,2,3,1,3,0.1,3,0,0,0,0,0,Matches
+Ignasi Vilarrasa,es ESP,DF,24-303,29.8,65,2.18,39,22,0,2,2,0,9,0.3,6,3,0,0,0,0,Matches
+Gerard Valentín,es ESP,"MF,DF",30-329,26.1,68,2.61,33,9,17,1,6,2,2,0.08,1,0,0,1,0,0,Matches
+Samuel Obeng,gh GHA,FW,27-037,25.8,21,0.81,14,0,2,2,3,0,2,0.08,2,0,0,0,0,0,Matches
+Jérémy Blasco,fr FRA,DF,25-130,24.7,8,0.32,6,0,0,2,0,0,0,0.0,0,0,0,0,0,0,Matches
+Juanjo Nieto,es ESP,DF,29-262,24.1,44,1.83,32,2,2,3,5,0,3,0.12,1,0,0,1,1,0,Matches
+Joaquín Muñoz,es ESP,"FW,MF",25-103,22.5,59,2.62,29,7,9,4,8,2,7,0.31,5,1,0,0,1,0,Matches
+Kento Hashimoto,jp JPN,MF,30-310,20.4,17,0.83,11,0,1,2,0,3,1,0.05,0,0,0,1,0,0,Matches
+Hugo Vallejo,es ESP,"MF,FW",24-127,19.0,53,2.79,37,0,6,2,8,0,8,0.42,3,0,1,0,4,0,Matches
+Iván Martos,es ESP,DF,27-037,17.2,13,0.76,10,0,0,2,0,1,0,0.0,0,0,0,0,0,0,Matches
+Iker Kortajarena,es ESP,MF,24-000,15.2,25,1.64,18,0,0,5,2,0,3,0.2,1,0,0,2,0,0,Matches
+Elady Zorrilla,es ESP,"FW,MF",33-344,13.5,17,1.26,12,0,1,1,3,0,2,0.15,1,0,0,0,1,0,Matches
+Javier Mier,es ESP,MF,25-138,11.8,19,1.61,14,0,0,3,1,1,1,0.08,0,0,0,1,0,0,Matches
+Ruben Pulido Peñas,es ESP,DF,23-293,5.8,2,0.35,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Enzo Lombardo,fr FRA,"MF,FW",27-066,6.3,18,2.85,16,0,1,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Alex Balboa,gq EQG,MF,23-107,4.5,5,1.11,3,0,1,0,1,0,0,0.0,0,0,0,0,0,0,Matches
+Aboubakary Kanté,gm GAM,"FW,MF",29-315,4.0,9,2.28,6,0,1,1,1,0,1,0.25,1,0,0,0,0,0,Matches
+Rafa Tresaco,es ESP,"MF,FW",23-298,3.2,9,2.8,5,1,1,1,1,0,0,0.0,0,0,0,0,0,0,Matches
+Jovanny Bolívar,ve VEN,"FW,MF",22-188,3.4,1,0.29,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Carlos Gutiérrez,es ESP,DF,32-230,1.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Manuel Rico,es ESP,MF,21-172,1.2,4,3.33,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Juan Pérez,es ESP,GK,27-342,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Iker Gil,es ESP,FW,19-104,0.6,3,5.0,2,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Dani Escriche,es ESP,"FW,MF",26-089,0.9,1,1.13,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Matches
+Diego Aznar,es ESP,"FW,MF",20-275,0.3,1,3.21,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Ayman Arguigue,ma MAR,FW,19-172,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Squad Total,0,0,27.8,42.0,672,16.0,434,89,48,43,46,12,52,1.24,27,9,2,7,7,0,0
+Opponent Total,0,0,27.7,42.0,836,19.9,616,78,44,44,40,14,57,1.36,37,4,4,4,6,2,0

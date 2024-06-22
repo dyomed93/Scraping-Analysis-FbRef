@@ -1,0 +1,36 @@
+Player,Nation,Pos,Age,90s,Performance CrdY,Performance CrdR,Performance 2CrdY,Performance Fls,Performance Fld,Performance Off,Performance Crs,Performance Int,Performance TklW,Performance PKwon,Performance PKcon,Performance OG,Performance Recov,Aerial Duels Won,Aerial Duels Lost,Aerial Duels Won%,Matches
+Morgan Gibbs-White,eng ENG,"MF,FW",23.0,35.1,9,0,0,37,57,6,182,17,24,0,0,0,179,60,68,46.9,Matches
+Murillo,br BRA,DF,21.0,31.0,5,0,0,38,7,0,4,37,31,0,0,1,146,38,40,48.7,Matches
+Anthony Elanga,se SWE,"FW,MF",21.0,27.0,1,0,0,9,26,19,58,8,19,0,0,0,96,17,37,31.5,Matches
+Ryan Yates,eng ENG,MF,25.0,22.1,6,0,0,54,57,2,6,21,39,0,0,0,110,41,36,53.2,Matches
+Callum Hudson-Odoi,eng ENG,"FW,MF",22.0,20.6,0,0,0,14,30,9,74,7,8,1,0,0,98,2,7,22.2,Matches
+Chris Wood,nz NZL,FW,31.0,20.1,0,0,0,22,13,7,2,1,4,0,1,0,46,72,96,42.9,Matches
+Danilo,br BRA,MF,22.0,19.9,4,0,0,13,9,2,26,35,18,0,1,0,118,14,10,58.3,Matches
+Ola Aina,ng NGA,DF,26.0,18.8,3,0,0,18,25,2,28,18,31,0,1,0,97,16,12,57.1,Matches
+Orel Mangala,be BEL,MF,25.0,17.4,6,0,0,23,21,0,2,26,13,0,0,0,74,9,3,75.0,Matches
+Nicolás Domínguez,ar ARG,"MF,FW",25.0,16.6,4,0,0,26,16,2,6,18,34,0,0,0,108,21,19,52.5,Matches
+Neco Williams,wls WAL,DF,22.0,18.2,4,0,0,23,30,4,68,22,40,0,0,0,107,31,20,60.8,Matches
+Willy Boly,ci CIV,DF,32.0,16.0,3,1,1,20,2,1,1,25,29,0,0,0,86,57,26,68.7,Matches
+Matt Turner,us USA,GK,29.0,17.0,2,0,0,0,3,0,0,0,0,0,0,0,11,4,0,100.0,Matches
+Matz Sels,be BEL,GK,31.0,16.0,1,0,0,0,3,0,0,0,0,0,0,0,4,3,0,100.0,Matches
+Moussa Niakhate,sn SEN,DF,27.0,16.2,5,1,1,11,4,0,11,14,25,0,0,0,98,15,5,75.0,Matches
+Harry Toffolo,eng ENG,DF,27.0,16.2,3,0,0,17,2,0,47,14,14,0,0,0,57,25,15,62.5,Matches
+Ibrahim Sangaré,ci CIV,MF,25.0,11.5,6,0,0,22,9,2,2,16,23,0,0,0,70,8,16,33.3,Matches
+Taiwo Awoniyi,ng NGA,FW,25.0,11.6,2,0,0,9,16,13,1,1,7,0,0,0,33,21,48,30.4,Matches
+Serge Aurier,ci CIV,"DF,MF",30.0,9.3,2,0,0,8,9,0,22,9,14,0,0,0,50,30,20,60.0,Matches
+Gonzalo Montiel,ar ARG,DF,26.0,8.9,5,0,0,6,1,2,16,9,19,0,1,0,42,12,8,60.0,Matches
+Andrew Omobamidele,ie IRL,DF,21.0,8.7,2,0,0,6,3,0,0,13,3,0,0,1,21,7,10,41.2,Matches
+Divock Origi,be BEL,FW,28.0,6.7,1,0,0,14,8,5,13,2,4,0,0,0,16,11,17,39.3,Matches
+Nuno Tavares,pt POR,DF,23.0,5.1,2,0,0,8,2,0,16,1,7,0,0,0,33,3,2,60.0,Matches
+Odisseas Vlachodimos,gr GRE,GK,29.0,5.0,0,0,0,0,1,0,0,0,0,0,0,0,4,0,0,0.0,Matches
+Joe Worrall,eng ENG,DF,26.0,4.9,0,1,0,3,2,0,0,3,5,0,0,0,18,12,10,54.5,Matches
+Scott McKenna,sct SCO,DF,26.0,4.6,0,0,0,3,2,0,0,5,0,0,0,0,25,20,3,87.0,Matches
+Felipe,br BRA,DF,34.0,4.2,4,0,0,10,2,0,0,4,9,0,0,0,20,14,6,70.0,Matches
+Brennan Johnson,wls WAL,"FW,MF",22.0,2.6,0,0,0,1,7,1,2,0,1,0,0,0,11,1,2,33.3,Matches
+Gio Reyna,us USA,"FW,MF",20.0,2.6,0,0,0,3,2,0,8,2,3,0,0,0,14,7,9,43.8,Matches
+Cheikhou Kouyaté,sn SEN,MF,33.0,2.4,2,0,0,6,2,0,0,2,5,0,0,0,14,10,10,50.0,Matches
+Rodrigo Ribeiro,pt POR,"MF,FW",18.0,0.2,0,0,0,1,0,0,0,1,0,0,0,0,1,2,1,66.7,Matches
+Andrey Santos,br BRA,MF,19.0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,Matches
+Brandon Aguilera,cr CRC,FW,20.0,0.1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0.0,Matches
+Squad Total,0,0,25.7,38.0,82,3,2,428,371,77,595,331,429,1,4,2,1807,583,556,51.2,0
+Opponent Total,0,0,26.4,38.0,81,7,2,383,420,38,799,289,341,4,1,0,1867,556,583,48.8,0

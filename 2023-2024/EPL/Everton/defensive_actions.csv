@@ -1,0 +1,29 @@
+Player,Nation,Pos,Age,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,Matches
+Jordan Pickford,eng ENG,GK,29.0,38.0,1,0,1,0,0,1,1,100.0,0,3,0,3,0,1,19,1,Matches
+James Tarkowski,eng ENG,DF,30.0,38.0,61,42,46,14,1,27,48,56.3,21,82,56,26,56,117,191,2,Matches
+Jarrad Branthwaite,eng ENG,DF,21.0,34.6,66,32,42,22,2,45,62,72.6,17,51,36,15,50,116,163,2,Matches
+James Garner,eng ENG,MF,22.0,33.4,83,44,32,38,13,35,82,42.7,47,45,14,31,45,128,47,1,Matches
+Dwight McNeil,eng ENG,"MF,FW",23.0,32.1,44,27,16,14,14,24,55,43.6,31,44,7,37,22,66,37,0,Matches
+Abdoulaye Doucouré,ml MLI,"FW,MF",30.0,29.2,43,27,20,14,9,18,46,39.1,28,23,3,20,15,58,19,0,Matches
+Vitaliy Mykolenko,ua UKR,DF,24.0,27.4,69,38,46,21,2,41,66,62.1,25,36,11,25,36,105,92,0,Matches
+Ashley Young,eng ENG,"DF,MF",38.0,25.3,53,38,28,19,6,30,54,55.6,24,24,6,18,22,75,50,3,Matches
+Dominic Calvert-Lewin,eng ENG,FW,26.0,24.1,13,6,2,6,5,2,15,13.3,13,14,4,10,4,17,38,0,Matches
+Jack Harrison,eng ENG,"MF,FW",26.0,24.6,37,22,12,12,13,17,49,34.7,32,25,5,20,12,49,24,0,Matches
+Idrissa Gana Gueye,sn SEN,MF,33.0,20.9,73,44,32,27,14,29,46,63.0,17,24,7,17,28,101,16,0,Matches
+Amadou Onana,be BEL,MF,21.0,23.2,71,38,32,31,8,21,42,50.0,21,25,6,19,21,92,31,0,Matches
+Ben Godfrey,eng ENG,DF,25.0,12.4,30,20,17,8,5,15,28,53.6,13,14,8,6,16,46,57,0,Matches
+Nathan Patterson,sct SCO,DF,21.0,11.2,34,24,21,11,2,14,37,37.8,23,14,3,11,9,43,33,0,Matches
+Beto,gw GNB,FW,25.0,10.6,14,6,1,6,7,4,12,33.3,8,11,0,11,1,15,14,0,Matches
+Séamus Coleman,ie IRL,DF,34.0,7.4,17,14,10,3,4,11,16,68.8,5,12,4,8,7,24,26,1,Matches
+Arnaut Danjuma,nl NED,"MF,FW",26.0,6.6,6,4,2,3,1,1,4,25.0,3,4,0,4,3,9,0,0,Matches
+Michael Keane,eng ENG,DF,30.0,4.9,7,3,3,3,1,1,7,14.3,6,5,4,1,5,12,18,1,Matches
+André Gomes,pt POR,"MF,FW",30.0,5.6,7,4,2,3,2,3,13,23.1,10,10,1,9,3,10,4,1,Matches
+Alex Iwobi,ng NGA,MF,27.0,1.6,2,0,1,0,1,2,3,66.7,1,2,0,2,1,3,0,0,Matches
+Lewis Dobbin,eng ENG,MF,20.0,2.6,9,7,3,5,1,5,9,55.6,4,5,1,4,1,10,0,0,Matches
+Youssef Chermiti,pt POR,FW,19.0,2.3,3,2,2,1,0,1,5,20.0,4,4,1,3,1,4,2,0,Matches
+Neal Maupay,fr FRA,FW,26.0,1.2,0,0,0,0,0,0,1,0.0,1,2,0,2,0,0,1,0,Matches
+Thomas Cannon,ie IRL,FW,20.0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Tyler Onyango,eng ENG,MF,20.0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Lewis Warrington,eng ENG,FW,20.0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Squad Total,0,0,27.1,38.0,743,442,371,261,111,347,701,49.5,354,479,177,302,358,1101,882,12,0
+Opponent Total,0,0,26.3,38.0,587,335,304,216,67,267,517,51.6,250,423,130,293,262,849,873,18,0

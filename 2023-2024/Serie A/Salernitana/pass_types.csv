@@ -1,0 +1,42 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Antonio Candreva,it ITA,"MF,FW",36.0,30.6,1407,1164,240,74,4,32,223,40,88,11,44,0,1019,3,41,Matches
+Domagoj Bradarić,hr CRO,DF,23.0,30.5,1536,1248,286,33,2,10,81,243,9,3,6,0,1184,2,41,Matches
+Lassana Coulibaly,ml MLI,MF,27.0,23.1,873,852,14,14,1,5,8,0,0,0,0,0,736,7,20,Matches
+Lorenzo Pirola,it ITA,DF,21.0,22.1,1040,980,59,36,0,3,2,10,0,0,0,0,868,1,12,Matches
+Loum Tchaouna,fr FRA,"FW,MF",19.0,23.3,766,717,43,3,1,12,70,10,8,4,1,0,505,6,35,Matches
+Guillermo Ochoa,mx MEX,GK,38.0,21.0,652,397,253,82,0,0,0,0,0,0,0,0,393,2,1,Matches
+Giulio Maggiore,it ITA,MF,25.0,20.0,797,777,13,12,1,4,3,0,0,0,0,0,619,7,23,Matches
+Norbert Gyömbér,sk SVK,DF,31.0,19.6,750,709,39,30,0,1,0,9,0,0,0,0,630,2,2,Matches
+Grigoris Kastanos,cy CYP,"MF,DF",25.0,16.4,650,549,98,21,4,10,38,49,27,5,6,0,458,3,23,Matches
+Pasquale Mazzocchi,it ITA,DF,28.0,14.1,635,502,131,11,1,4,42,119,1,0,1,0,460,2,17,Matches
+Federico Fazio,ar ARG,DF,36.0,15.1,587,540,44,34,0,2,0,8,0,0,0,0,440,3,5,Matches
+Toma Bašić,hr CRO,MF,26.0,12.9,540,503,35,22,1,6,25,7,6,1,4,0,442,2,11,Matches
+Benoît Costil,fr FRA,GK,36.0,13.0,428,273,154,50,0,0,1,0,0,0,0,0,258,1,0,Matches
+Boulaye Dia,sn SEN,"FW,MF",26.0,12.7,244,227,16,2,2,5,1,0,0,0,0,0,204,1,5,Matches
+Chukwubuikem Ikwuemesi,ng NGA,FW,21.0,11.8,167,156,10,0,3,0,2,0,0,0,0,0,110,1,4,Matches
+Matteo Lovato,it ITA,DF,23.0,10.5,400,366,30,28,0,1,1,1,0,0,0,0,323,4,2,Matches
+Niccolò Pierozzi,it ITA,DF,21.0,9.7,348,294,54,18,0,0,6,36,0,0,0,0,264,0,8,Matches
+Mateusz Łęgowski,pl POL,MF,20.0,12.7,378,370,7,5,1,2,6,2,0,0,0,0,292,1,17,Matches
+Junior Sambia,fr FRA,"DF,MF",26.0,11.5,508,419,88,8,0,1,28,75,5,1,4,0,397,1,10,Matches
+Alessandro Zanoli,it ITA,DF,22.0,10.2,434,356,78,3,1,4,30,75,0,0,0,0,322,0,18,Matches
+Flavius Daniliuc,at AUT,DF,22.0,8.3,411,368,41,11,1,4,1,30,0,0,0,0,350,2,8,Matches
+Jovane Cabral,cv CPV,"MF,FW",25.0,7.5,245,227,16,4,1,7,14,5,1,1,0,0,185,2,6,Matches
+Emil Bohinen,no NOR,MF,24.0,5.9,333,321,12,11,0,1,2,0,0,0,0,0,262,0,16,Matches
+Agustín Martegani,ar ARG,MF,23.0,8.1,297,280,12,8,1,1,1,2,2,0,0,0,248,5,4,Matches
+Simeon Nwankwo,ng NGA,FW,31.0,7.6,133,125,7,1,1,0,0,1,0,0,0,0,83,1,7,Matches
+Kostas Manolas,gr GRE,DF,32.0,5.4,303,295,8,8,1,2,1,0,0,0,0,0,276,0,0,Matches
+Marco Pellegrino,0,DF,0.0,6.1,256,238,18,7,0,0,1,11,0,0,0,0,211,0,3,Matches
+Shon Weissman,il ISR,"FW,DF",27.0,5.5,67,62,5,0,0,0,0,1,0,0,0,0,49,0,1,Matches
+Triantafyllos Pasaridīs,gr GRE,DF,27.0,5.0,172,164,8,7,0,0,0,1,0,0,0,0,141,0,2,Matches
+Vincenzo Fiorillo,it ITA,GK,33.0,4.0,128,59,67,13,0,0,0,0,0,0,0,0,53,2,0,Matches
+Erik Botheim,no NOR,"FW,MF",23.0,3.5,65,61,4,0,0,1,1,0,0,0,0,0,48,0,1,Matches
+Jérôme Boateng,de GER,DF,34.0,2.6,126,124,2,2,0,0,1,0,0,0,0,0,106,0,0,Matches
+Emanuel Vignato,it ITA,"MF,FW",22.0,3.5,120,115,5,0,0,1,2,1,0,0,0,0,90,0,5,Matches
+Iron Gomis,fr FRA,MF,23.0,1.5,69,67,2,1,0,0,1,0,1,0,0,0,62,0,2,Matches
+Trivante Stewart,jm JAM,"FW,MF",23.0,1.1,27,21,6,0,0,0,2,0,0,0,0,0,18,0,0,Matches
+Dylan Bronn,tn TUN,"DF,MF",28.0,0.6,12,12,0,0,0,0,0,0,0,0,0,0,8,0,0,Matches
+Andres Sfait,ro ROU,"DF,MF",18.0,0.3,6,5,1,0,0,0,1,1,0,0,0,0,4,0,1,Matches
+Gerardo Fusco,it ITA,FW,18.0,0.2,7,7,0,0,0,0,1,0,0,0,0,0,5,0,0,Matches
+Mamadou Coulibaly,sn SEN,DF,24.0,0.0,3,3,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Squad Total,0,0,27.3,38.0,15920,13953,1906,559,27,119,596,737,148,26,66,0,12124,61,351,0
+Opponent Total,0,0,26.7,38.0,20097,18226,1792,477,46,133,802,750,266,96,117,1,16368,79,307,0

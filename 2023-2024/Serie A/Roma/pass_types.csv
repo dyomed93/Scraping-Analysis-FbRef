@@ -1,0 +1,33 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Bryan Cristante,it ITA,"MF,DF",28.0,36.5,2178,2140,30,28,5,21,29,2,0,0,0,0,1785,8,43,Matches
+Gianluca Mancini,it ITA,DF,27.0,31.9,2011,1909,98,72,2,7,24,5,0,0,0,0,1744,4,6,Matches
+Leandro Paredes,ar ARG,MF,29.0,29.3,2129,1950,177,104,3,20,82,12,60,33,24,0,1880,2,20,Matches
+Romelu Lukaku,be BEL,FW,30.0,29.3,621,574,40,0,0,1,13,0,0,0,0,0,438,7,26,Matches
+Diego Llorente,es ESP,DF,29.0,24.1,1648,1592,55,28,1,3,6,8,0,0,0,0,1501,1,11,Matches
+Obite N'Dicka,ci CIV,DF,23.0,24.1,1587,1523,62,38,0,2,11,7,0,0,0,0,1437,2,7,Matches
+Paulo Dybala,ar ARG,"FW,MF",29.0,21.8,1000,877,117,27,7,11,88,10,54,22,27,0,790,6,20,Matches
+Rui Patrício,pt POR,GK,35.0,23.0,630,442,187,50,0,0,0,0,0,0,0,0,493,1,0,Matches
+Lorenzo Pellegrini,it ITA,MF,27.0,20.7,850,779,70,27,9,3,76,2,40,19,17,0,665,1,16,Matches
+Rasmus Kristensen,dk DEN,DF,26.0,19.4,1037,879,152,8,1,1,44,144,0,0,0,0,799,6,25,Matches
+Stephan El Shaarawy,it ITA,"FW,DF",30.0,19.3,662,617,42,1,2,9,17,39,1,1,0,0,545,3,17,Matches
+Edoardo Bove,it ITA,MF,21.0,19.8,780,764,11,10,3,3,8,1,0,0,0,0,649,5,19,Matches
+Mile Svilar,rs SRB,GK,23.0,15.0,605,492,113,24,0,0,0,0,0,0,0,0,526,0,0,Matches
+Leonardo Spinazzola,it ITA,DF,30.0,14.6,849,731,112,8,3,7,84,104,0,0,0,0,663,6,17,Matches
+Rick Karsdorp,nl NED,DF,28.0,13.2,684,559,119,4,0,2,28,115,0,0,0,0,544,6,15,Matches
+Angeliño,es ESP,DF,26.0,12.7,715,610,101,12,0,4,53,87,2,1,0,0,546,4,11,Matches
+Nicola Zalewski,pl POL,"DF,FW",21.0,10.8,471,406,63,9,0,4,38,53,1,0,1,0,358,2,23,Matches
+Houssem Aouar,dz ALG,"MF,FW",25.0,8.4,359,344,15,4,0,0,10,3,8,5,2,0,300,0,8,Matches
+Andrea Belotti,it ITA,FW,29.0,7.5,155,141,13,0,1,0,4,2,0,0,0,0,115,1,10,Matches
+Zeki Çelik,tr TUR,DF,26.0,7.5,341,280,61,5,1,3,20,56,0,0,0,0,284,0,3,Matches
+Tommaso Baldanzi,it ITA,"FW,MF",20.0,5.8,205,201,4,0,1,0,7,4,0,0,0,0,175,0,2,Matches
+Dean Huijsen,es ESP,DF,18.0,5.7,459,441,18,6,0,2,1,7,0,0,0,0,400,0,10,Matches
+Chris Smalling,eng ENG,DF,33.0,4.3,228,224,4,4,0,2,0,0,0,0,0,0,197,0,1,Matches
+Sardar Azmoun,ir IRN,"FW,MF",28.0,6.5,156,152,4,1,1,1,2,1,0,0,0,0,108,0,8,Matches
+Tammy Abraham,eng ENG,FW,25.0,2.7,40,37,2,0,0,0,2,0,0,0,0,0,19,1,1,Matches
+Renato Sanches,pt POR,MF,25.0,1.6,77,76,1,1,0,0,4,0,0,0,0,0,67,0,1,Matches
+Riccardo Pagano,it ITA,"MF,DF",18.0,0.6,23,22,1,0,0,0,1,0,1,1,0,0,20,0,0,Matches
+Ola Solbakken,no NOR,FW,24.0,0.3,8,8,0,0,0,0,1,0,0,0,0,0,6,0,0,Matches
+João Costa,br BRA,"MF,FW",18.0,0.2,9,7,2,0,0,0,1,1,0,0,0,0,7,0,1,Matches
+Niccolò Pisilli,it ITA,MF,18.0,0.1,6,6,0,0,0,0,0,0,0,0,0,0,5,0,0,Matches
+Squad Total,0,0,27.7,38.0,20523,18783,1674,471,40,106,654,663,167,82,71,0,17066,66,321,0
+Opponent Total,0,0,26.4,38.0,16943,15312,1587,503,19,132,640,543,167,72,64,2,13816,44,282,0

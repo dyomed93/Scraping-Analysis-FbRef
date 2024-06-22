@@ -1,0 +1,39 @@
+D a t e,T i m e,C o m p,R o u n d,D a y,V e n u e,R e s u l t,G F,G A,O p p o n e n t,x G,x G A,P o s s,A t t e n d a n c e,C a p t a i n,F o r m a t i o n,R e f e r e e,M a t c h   R e p o r t,N o t e s
+2023-08-11,21:00,Ligue 1,Matchweek 1,Fri,Home,D,1,1,Lille,1.2,1.3,40,29436,Dante,4-3-3,Benoît Bastien,Match Report,0
+2023-08-20,15:00,Ligue 1,Matchweek 2,Sun,Away,D,1,1,Lorient,1.7,0.8,59,15848,Dante,4-3-3,Hakim Ben El Hadj Salem,Match Report,0
+2023-08-27,20:45,Ligue 1,Matchweek 3,Sun,Home,D,0,0,Lyon,1.9,0.2,58,28033,Dante,4-3-3,Bastien Dechepy,Match Report,0
+2023-09-03,17:05,Ligue 1,Matchweek 4,Sun,Home,W,2,0,Strasbourg,2.2,0.2,62,20215,Dante,4-3-3,Jeremy Stinat,Match Report,0
+2023-09-15,21:00,Ligue 1,Matchweek 5,Fri,Away,W,3,2,Paris S-G,1.3,1.0,31,47874,Dante,4-3-3,Clément Turpin,Match Report,0
+2023-09-22,21:00,Ligue 1,Matchweek 6,Fri,Away,W,1,0,Monaco,0.9,1.8,45,10075,Dante,4-3-3,Benoît Millot,Match Report,0
+2023-10-01,15:00,Ligue 1,Matchweek 7,Sun,Home,D,0,0,Brest,1.1,0.2,54,32044,Dante,4-3-3,Romain Lissorgue,Match Report,0
+2023-10-07,17:00,Ligue 1,Matchweek 8,Sat,Away,W,1,0,Metz,1.4,0.4,68,23160,Dante,4-3-3,Jérôme Brisard,Match Report,0
+2023-10-21,21:00,Ligue 1,Matchweek 9,Sat,Home,W,1,0,Marseille,0.6,1.1,50,31423,Dante,4-3-3,Ruddy Buquet,Match Report,0
+2023-10-27,21:00,Ligue 1,Matchweek 10,Fri,Away,W,1,0,Clermont Foot,2.2,0.5,55,10800,Dante,4-3-3,Jérémie Pignard,Match Report,0
+2023-11-05,20:45,Ligue 1,Matchweek 11,Sun,Home,W,2,0,Rennes,1.6,0.8,46,22430,Dante,4-3-3,Clément Turpin,Match Report,0
+2023-11-10,21:00,Ligue 1,Matchweek 12,Fri,Away,D,0,0,Montpellier,0.7,0.5,59,13452,Dante,4-3-3,Hakim Ben El Hadj Salem,Match Report,0
+2023-11-26,13:00,Ligue 1,Matchweek 13,Sun,Home,W,1,0,Toulouse,1.0,1.3,53,21849,Dante,4-3-3,François Letexier,Match Report,0
+2023-12-02,21:00,Ligue 1,Matchweek 14,Sat,Away,L,0,1,Nantes,1.3,1.4,62,26560,Dante,4-3-3,Ruddy Buquet,Match Report,0
+2023-12-10,13:00,Ligue 1,Matchweek 15,Sun,Home,W,2,1,Reims,0.9,1.3,52,24325,Dante,4-3-3,Benoît Bastien,Match Report,0
+2023-12-16,17:00,Ligue 1,Matchweek 16,Sat,Away,L,1,3,Le Havre,1.9,2.1,62,21971,Dante,4-3-3,Jérémie Pignard,Match Report,0
+2023-12-20,21:00,Ligue 1,Matchweek 17,Wed,Home,W,2,0,Lens,2.5,0.5,41,25041,Dante,4-3-3,Hakim Ben El Hadj Salem,Match Report,0
+2024-01-06,20:45,Coupe de France,Round of 64,Sat,Home,D,0 (4),0 (2),Auxerre,0.0,0.0,56,20973,Gaëtan Laborde,3-4-3,Eric Wattellier,Match Report,Nice won on penalty kicks following extra time
+2024-01-13,21:00,Ligue 1,Matchweek 18,Sat,Away,L,0,2,Rennes,0.7,2.0,56,26689,Dante,4-3-3,Bastien Dechepy,Match Report,0
+2024-01-20,17:30,Coupe de France,Round of 32,Sat,Away,W,3,2,Bordeaux,0.0,0.0,50,22960,Dante,4-3-3,Thomas Léonard,Match Report,0
+2024-01-27,17:00,Ligue 1,Matchweek 19,Sat,Home,W,1,0,Metz,2.2,0.1,66,20137,Dante,4-3-3,Stéphanie Frappart,Match Report,0
+2024-02-04,17:05,Ligue 1,Matchweek 20,Sun,Away,D,0,0,Brest,0.7,1.0,47,14500,Dante,3-4-3,Jeremy Stinat,Match Report,0
+2024-02-07,20:30,Coupe de France,Round of 16,Wed,Away,W,4,1,Montpellier,0.0,0.0,51,5769,Dante,4-4-2,François Letexier,Match Report,0
+2024-02-11,20:45,Ligue 1,Matchweek 21,Sun,Home,L,2,3,Monaco,2.1,1.7,47,24788,Dante,4-3-3,Eric Wattellier,Match Report,0
+2024-02-16,21:00,Ligue 1,Matchweek 22,Fri,Away,L,0,1,Lyon,0.8,1.1,51,48033,Jean-Clair Todibo,4-3-3,Clément Turpin,Match Report,0
+2024-02-25,15:00,Ligue 1,Matchweek 23,Sun,Home,D,0,0,Clermont Foot,1.6,2.0,58,22081,Dante,4-3-3,Hakim Ben El Hadj Salem,Match Report,0
+2024-03-03,13:00,Ligue 1,Matchweek 24,Sun,Away,L,1,2,Toulouse,1.4,1.8,56,25507,Dante,3-4-3,Jérémie Pignard,Match Report,0
+2024-03-08,21:00,Ligue 1,Matchweek 25,Fri,Home,L,1,2,Montpellier,1.1,1.2,65,21819,Dante,3-4-3,Ruddy Buquet,Match Report,0
+2024-03-13,21:10,Coupe de France,Quarter-finals,Wed,Away,L,1,3,Paris S-G,0.0,0.0,36,47619,Dante,4-3-3,François Letexier,Match Report,0
+2024-03-16,21:00,Ligue 1,Matchweek 26,Sat,Away,W,3,1,Lens,2.2,1.3,40,37346,Dante,4-3-3,Benoît Bastien,Match Report,0
+2024-03-31,15:00,Ligue 1,Matchweek 27,Sun,Home,L,1,2,Nantes,1.3,1.7,56,21142,Dante,4-3-3,Bastien Dechepy,Match Report,0
+2024-04-07,15:00,Ligue 1,Matchweek 28,Sun,Away,D,0,0,Reims,1.9,0.5,47,14606,Dante,4-3-3,Eric Wattellier,Match Report,0
+2024-04-19,21:00,Ligue 1,Matchweek 30,Fri,Home,W,3,0,Lorient,2.5,0.5,51,21067,Dante,4-3-3,Jeremy Stinat,Match Report,0
+2024-04-24,21:00,Ligue 1,Matchweek 29,Wed,Away,D,2,2,Marseille,1.4,2.2,52,53000,Dante,4-3-3,Jérémie Pignard,Match Report,0
+2024-04-28,15:00,Ligue 1,Matchweek 31,Sun,Away,W,3,1,Strasbourg,1.6,0.6,52,25181,Dante,4-3-3,Thomas Léonard,Match Report,0
+2024-05-10,21:00,Ligue 1,Matchweek 33,Fri,Home,W,1,0,Le Havre,1.8,0.5,58,24529,Dante,4-3-3,Benoît Bastien,Match Report,0
+2024-05-15,21:00,Ligue 1,Matchweek 32,Wed,Home,L,1,2,Paris S-G,1.4,1.0,37,33818,Dante,4-3-3,Ruddy Buquet,Match Report,0
+2024-05-19,21:00,Ligue 1,Matchweek 34,Sun,Away,D,2,2,Lille,0.9,1.2,45,45488,Jean-Clair Todibo,3-4-3,Willy Delajod,Match Report,0

@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,90s,Goals GA,Goals PKA,Goals FK,Goals CK,Goals OG,Expected PSxG,Expected PSxG/SoT,Expected PSxG+/-,Expected /90,Launched Cmp,Launched Att,Launched Cmp%,Passes Att (GK),Passes Thr,Passes Launch%,Passes AvgLen,Goal Kicks Att,Goal Kicks Launch%,Goal Kicks AvgLen,Crosses Opp,Crosses Stp,Crosses Stp%,Sweeper #OPA,Sweeper #OPA/90,Sweeper AvgDist,Matches
+Thomas Kaminski,be BEL,GK,30.0,37.8,85,4,0,13,4,77.6,0.34,-3.4,-0.09,271,808,33.5,1121,150,52.0,39.5,341,66.0,47.5,558,16,2.9,76,2.01,20.5,Matches
+James Shea,eng ENG,GK,32.0,0.2,0,0,0,0,0,0.1,0.06,0.1,0.75,3,6,50.0,6,1,83.3,50.8,3,33.3,37.3,3,0,0.0,1,6.0,19.0,Matches
+Squad Total,0,0,26.7,38.0,85,4,0,13,4,77.7,0.34,-3.3,-0.09,274,814,33.7,1122,151,52.4,0.0,349,64.8,46.8,561,16,2.9,77,2.03,0.0,0
+Opponent Total,0,0,26.5,38.0,52,5,1,10,3,46.7,0.31,-2.3,-0.06,204,626,32.6,1239,141,36.6,34.2,265,64.9,47.4,653,51,7.8,38,1.0,13.2,0

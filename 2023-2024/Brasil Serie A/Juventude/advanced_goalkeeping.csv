@@ -1,0 +1,4 @@
+Player,Nation,Pos,Age,90s,Goals GA,Goals PKA,Goals FK,Goals CK,Goals OG,Expected PSxG,Expected PSxG/SoT,Expected PSxG+/-,Expected /90,Launched Cmp,Launched Att,Launched Cmp%,Passes Att (GK),Passes Thr,Passes Launch%,Passes AvgLen,Goal Kicks Att,Goal Kicks Launch%,Goal Kicks AvgLen,Crosses Opp,Crosses Stp,Crosses Stp%,Sweeper #OPA,Sweeper #OPA/90,Sweeper AvgDist,Matches
+Gabriel,br BRA,GK,31-267,9.0,11,2,1,1,0,10.4,0.25,-0.6,-0.07,20,54,37.0,241,42,18.3,29.2,66,15.2,25.2,123,11,8.9,11,1.22,14.0,Matches
+Squad Total,0,0,28.8,9.0,11,2,1,1,0,10.4,0.25,-0.6,-0.07,20,54,37.0,241,42,18.3,0.0,66,15.2,25.2,123,11,8.9,11,1.22,0.0,0
+Opponent Total,0,0,28.2,9.0,11,0,0,3,1,11.7,0.33,1.7,0.19,44,106,41.5,205,36,36.1,34.1,74,43.2,37.7,134,6,4.5,7,0.78,12.3,0

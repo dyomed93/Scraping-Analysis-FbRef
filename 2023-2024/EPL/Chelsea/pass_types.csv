@@ -1,0 +1,35 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Conor Gallagher,eng ENG,MF,23.0,34.8,2018,1889,122,50,5,7,64,17,45,15,12,2,1801,7,29,Matches
+Moisés Caicedo,ec ECU,MF,21.0,31.8,2119,2065,45,39,12,12,10,3,0,0,0,0,1907,9,29,Matches
+Nicolas Jackson,sn SEN,FW,22.0,31.1,666,613,52,1,11,0,5,2,0,0,0,0,515,1,25,Matches
+Cole Palmer,eng ENG,"FW,MF",21.0,29.0,1415,1294,111,23,27,14,81,22,55,24,12,0,1121,10,37,Matches
+Axel Disasi,fr FRA,DF,25.0,28.7,2256,2153,98,49,3,11,10,43,0,0,0,0,2031,5,19,Matches
+Thiago Silva,br BRA,DF,38.0,28.1,2287,2198,88,60,0,9,4,3,0,0,0,0,2166,1,6,Matches
+Enzo Fernández,ar ARG,MF,22.0,24.5,1862,1756,89,52,21,28,45,5,22,4,7,0,1574,17,30,Matches
+Đorđe Petrović,rs SRB,GK,23.0,22.1,806,629,175,26,0,0,0,0,0,0,0,0,635,2,0,Matches
+Raheem Sterling,eng ENG,"FW,MF",28.0,22.0,728,716,7,0,11,1,59,6,0,0,0,0,538,5,34,Matches
+Levi Colwill,eng ENG,DF,20.0,20.0,1163,1033,126,28,4,0,12,94,0,0,0,0,965,4,17,Matches
+Marc Cucurella,es ESP,DF,25.0,19.8,1196,1043,153,30,1,2,16,123,0,0,0,0,1036,0,26,Matches
+Malo Gusto,fr FRA,DF,20.0,19.5,1423,1244,176,38,2,0,64,138,0,0,0,0,1230,3,29,Matches
+Mykhailo Mudryk,ua UKR,FW,22.0,17.5,566,498,62,4,5,9,78,5,52,24,11,2,385,6,14,Matches
+Robert Sánchez,es ESP,GK,25.0,15.9,609,487,120,29,0,2,0,0,0,0,0,0,500,2,0,Matches
+Benoît Badiashile,fr FRA,DF,22.0,14.9,1173,1137,36,27,1,2,2,6,0,0,0,0,1065,0,6,Matches
+Noni Madueke,eng ENG,FW,21.0,11.7,486,472,10,2,2,0,22,6,2,1,0,0,412,4,6,Matches
+Trevoh Chalobah,eng ENG,DF,24.0,10.6,783,746,36,13,1,0,0,22,0,0,0,0,700,1,1,Matches
+Ben Chilwell,eng ENG,DF,26.0,8.4,495,416,73,11,0,0,43,41,21,9,11,0,373,6,19,Matches
+Armando Broja,al ALB,FW,21.0,5.0,94,87,7,1,0,0,1,0,0,0,0,0,83,0,0,Matches
+Reece James,eng ENG,DF,23.0,4.7,341,284,57,10,4,2,28,46,1,0,1,0,275,0,5,Matches
+Lesley Ugochukwu,fr FRA,MF,19.0,3.3,183,183,0,0,0,1,0,0,0,0,0,0,155,0,2,Matches
+Christopher Nkunku,fr FRA,"FW,MF",25.0,4.9,183,166,16,0,3,1,4,1,3,1,0,0,159,1,5,Matches
+Carney Chukwuemeka,eng ENG,"MF,FW",19.0,2.5,134,134,0,0,2,0,1,0,0,0,0,0,115,0,4,Matches
+Alfie Gilchrist,eng ENG,DF,19.0,2.3,141,121,19,3,0,0,1,16,0,0,0,0,121,1,0,Matches
+Ian Maatsen,nl NED,"FW,MF",21.0,2.3,138,126,12,0,1,0,8,11,1,0,1,0,97,0,1,Matches
+Cesare Casadei,it ITA,"FW,MF",20.0,0.9,65,65,0,0,0,0,0,0,0,0,0,0,53,0,1,Matches
+Roméo Lavia,be BEL,MF,19.0,0.4,27,27,0,0,0,0,0,0,0,0,0,0,22,0,2,Matches
+Deivid Washington,br BRA,"DF,FW",18.0,0.1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Mason Burstow,eng ENG,FW,19.0,0.1,4,3,1,0,0,0,0,0,0,0,0,0,3,0,1,Matches
+Joshua Acheampong,eng ENG,DF,17.0,0.1,2,1,1,0,0,0,0,1,0,0,0,0,1,0,0,Matches
+Alex Matos,eng ENG,MF,18.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Jimi Tauriainen,eng ENG,FW,19.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Squad Total,0,0,24.2,38.0,23364,21587,1692,496,116,101,558,611,202,78,55,4,20039,85,348,0
+Opponent Total,0,0,26.3,38.0,16487,14718,1699,495,56,107,683,645,190,97,46,8,13051,70,345,0

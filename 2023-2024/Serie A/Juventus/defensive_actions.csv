@@ -1,0 +1,34 @@
+Player,Nation,Pos,Age,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,Matches
+Gleison Bremer,br BRA,DF,26.0,35.9,58,42,32,21,5,21,29,72.4,8,45,27,18,40,98,147,0,Matches
+Wojciech Szczęsny,pl POL,GK,33.0,35.0,0,0,0,0,0,0,0,0.0,0,0,0,0,1,1,11,2,Matches
+Manuel Locatelli,it ITA,MF,25.0,33.4,69,43,24,35,10,31,58,53.4,27,43,17,26,25,94,65,0,Matches
+Adrien Rabiot,fr FRA,MF,28.0,29.5,58,39,22,30,6,30,45,66.7,15,26,6,20,25,83,34,0,Matches
+Federico Gatti,it ITA,DF,25.0,29.3,33,19,16,16,1,19,24,79.2,5,26,15,11,19,52,90,1,Matches
+Weston McKennie,us USA,"MF,DF",24.0,28.8,48,29,31,11,6,17,27,63.0,10,28,7,21,18,66,69,0,Matches
+Andrea Cambiaso,it ITA,"DF,FW",23.0,26.4,47,30,23,15,9,25,43,58.1,18,28,3,25,11,58,26,1,Matches
+Danilo,br BRA,DF,32.0,27.2,60,36,38,18,4,32,48,66.7,16,34,15,19,37,97,94,0,Matches
+Dušan Vlahović,rs SRB,FW,23.0,25.6,9,5,0,6,3,4,11,36.4,7,4,2,2,1,10,11,0,Matches
+Filip Kostić,rs SRB,DF,30.0,20.2,37,23,20,13,4,17,33,51.5,16,29,8,21,9,46,43,0,Matches
+Federico Chiesa,it ITA,FW,25.0,24.4,20,10,7,6,7,3,13,23.1,10,17,1,16,6,26,4,0,Matches
+Fabio Miretti,it ITA,MF,19.0,12.3,18,14,6,8,4,10,26,38.5,16,10,1,9,7,25,6,0,Matches
+Daniele Rugani,it ITA,DF,29.0,13.2,11,9,7,3,1,4,5,80.0,1,11,4,7,9,20,42,0,Matches
+Timothy Weah,us USA,"DF,FW",23.0,14.0,27,20,16,8,3,15,20,75.0,5,12,1,11,5,32,15,0,Matches
+Kenan Yıldız,tr TUR,"FW,DF",18.0,10.6,13,9,5,6,2,4,8,50.0,4,6,0,6,1,14,4,0,Matches
+Alex Sandro,br BRA,DF,32.0,8.0,13,7,7,6,0,4,5,80.0,1,13,7,6,15,28,23,0,Matches
+Moise Kean,it ITA,FW,23.0,7.3,7,4,3,2,2,1,3,33.3,2,4,1,3,2,9,5,0,Matches
+Arkadiusz Milik,pl POL,FW,29.0,10.2,9,5,2,5,2,3,5,60.0,2,7,1,6,5,14,3,0,Matches
+Samuel Iling-Junior,eng ENG,"DF,MF",19.0,9.0,23,13,9,11,3,11,18,61.1,7,17,5,12,6,29,19,0,Matches
+Nicolò Fagioli,it ITA,MF,22.0,4.9,5,3,1,3,1,3,7,42.9,4,3,0,3,4,9,1,0,Matches
+Carlos Alcaraz,ar ARG,MF,20.0,4.2,6,6,0,6,0,5,10,50.0,5,5,2,3,5,11,4,0,Matches
+Hans Nicolussi Caviglia,it ITA,MF,23.0,3.0,5,2,1,3,1,4,6,66.7,2,5,1,4,0,5,2,0,Matches
+Mattia Perin,it ITA,GK,30.0,2.5,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,1,0,Matches
+Mattia De Sciglio,it ITA,DF,30.0,0.5,0,0,0,0,0,0,0,0.0,0,1,0,1,1,1,2,0,Matches
+Paul Pogba,fr FRA,MF,30.0,0.6,1,1,0,1,0,1,1,100.0,0,0,0,0,1,2,1,0,Matches
+Carlo Pinsoglio,it ITA,GK,33.0,0.5,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Joseph Nonge,be BEL,MF,18.0,0.3,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,1,0,Matches
+Tiago Djaló,pt POR,DF,23.0,0.2,0,0,0,0,0,0,0,0.0,0,1,0,1,0,0,1,0,Matches
+Dean Huijsen,es ESP,DF,18.0,0.1,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,1,0,Matches
+Nikola Sekulov,it ITA,FW,21.0,0.1,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Leonardo Cerri,it ITA,DF,20.0,0.1,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Squad Total,0,0,26.5,38.0,577,369,270,233,74,264,445,59.3,181,375,124,251,253,830,725,4,0
+Opponent Total,0,0,26.6,38.0,576,319,271,227,78,269,528,50.9,259,408,150,258,273,849,741,12,0

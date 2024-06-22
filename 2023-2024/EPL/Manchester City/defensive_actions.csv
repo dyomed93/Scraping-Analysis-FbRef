@@ -1,0 +1,28 @@
+Player,Nation,Pos,Age,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,Matches
+Rodri,es ESP,MF,27.0,32.6,70,43,25,33,12,29,60,48.3,31,32,8,24,26,96,41,4,Matches
+Phil Foden,eng ENG,"FW,MF",23.0,31.7,31,20,11,10,10,13,31,41.9,18,30,0,30,13,44,18,1,Matches
+Ederson,br BRA,GK,29.0,30.9,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,10,1,Matches
+Julián Álvarez,ar ARG,"MF,FW",23.0,29.4,24,13,5,8,11,8,32,25.0,24,30,0,30,2,26,14,1,Matches
+Kyle Walker,eng ENG,DF,33.0,30.7,38,24,19,17,2,19,39,48.7,20,19,6,13,27,65,40,1,Matches
+Bernardo Silva,pt POR,"MF,FW",28.0,28.6,51,23,13,25,13,25,57,43.9,32,32,4,28,17,68,15,1,Matches
+Erling Haaland,no NOR,FW,23.0,28.4,6,3,0,3,3,2,3,66.7,1,11,1,10,2,8,16,0,Matches
+Rúben Dias,pt POR,DF,26.0,28.4,39,20,14,21,4,19,26,73.1,7,32,17,15,30,69,77,0,Matches
+Manuel Akanji,ch SUI,"DF,MF",28.0,27.9,42,28,16,18,8,22,39,56.4,17,28,12,16,23,65,70,3,Matches
+Joško Gvardiol,hr CRO,DF,21.0,25.9,55,33,21,24,10,21,38,55.3,17,36,12,24,27,82,37,3,Matches
+Nathan Aké,nl NED,DF,28.0,22.7,26,16,15,8,3,13,20,65.0,7,17,2,15,14,40,54,0,Matches
+Jeremy Doku,be BEL,"FW,MF",21.0,17.7,39,22,13,12,14,9,20,45.0,11,14,0,14,9,48,5,0,Matches
+Mateo Kovačić,hr CRO,MF,29.0,17.2,36,25,16,15,5,18,28,64.3,10,23,1,22,10,46,10,0,Matches
+Kevin De Bruyne,be BEL,MF,32.0,13.6,14,9,1,5,8,7,20,35.0,13,5,0,5,4,18,4,0,Matches
+John Stones,eng ENG,"DF,MF",29.0,11.8,2,1,1,0,1,0,3,0.0,3,11,7,4,10,12,21,0,Matches
+Jack Grealish,eng ENG,"FW,MF",27.0,11.2,13,8,6,7,0,6,12,50.0,6,13,2,11,6,19,5,0,Matches
+Rico Lewis,eng ENG,"DF,MF",18.0,9.0,10,7,4,4,2,3,7,42.9,4,7,1,6,4,14,6,0,Matches
+Matheus Nunes,pt POR,MF,24.0,7.3,10,4,1,7,2,5,16,31.3,11,7,1,6,1,11,8,1,Matches
+Stefan Ortega,de GER,GK,30.0,7.1,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,2,1,Matches
+Oscar Bobb,no NOR,"FW,MF",20.0,3.4,7,3,1,2,4,2,4,50.0,2,4,0,4,5,12,1,0,Matches
+Kalvin Phillips,eng ENG,MF,27.0,1.0,3,3,1,1,1,0,0,0.0,0,0,0,0,2,5,2,0,Matches
+Sergio Gómez,es ESP,"FW,MF",22.0,0.6,1,0,0,1,0,1,2,50.0,1,0,0,0,1,2,0,0,Matches
+Aymeric Laporte,es ESP,DF,29.0,0.1,0,0,0,0,0,0,0,0.0,0,1,1,0,0,0,1,0,Matches
+Cole Palmer,eng ENG,MF,21.0,0.1,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+James Mcatee,eng ENG,MF,20.0,0.0,0,0,0,0,0,0,0,0.0,0,1,0,1,0,0,0,0,Matches
+Squad Total,0,0,26.6,38.0,517,305,183,221,113,222,458,48.5,236,353,75,278,233,750,457,17,0
+Opponent Total,0,0,26.4,38.0,638,335,379,193,66,282,659,42.8,377,537,207,330,314,952,847,13,0

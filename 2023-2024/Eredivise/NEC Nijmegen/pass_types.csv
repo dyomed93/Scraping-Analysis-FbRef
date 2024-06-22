@@ -1,0 +1,31 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Calvin Verdonk,id IDN,DF,26.0,31.7,2235,1919,311,54,3,25,85,253,0,0,0,0,1718,5,52,Matches
+Jasper Cillessen,nl NED,GK,34.0,29.3,1052,726,325,50,0,0,0,0,0,0,0,0,697,1,0,Matches
+Bram Nuytinck,nl NED,DF,33.0,26.7,1644,1593,45,30,1,5,3,0,0,0,0,0,1450,6,8,Matches
+Dirk Proper,nl NED,MF,21.0,25.5,1224,1195,26,20,6,9,4,5,1,1,0,0,1059,3,22,Matches
+Koki Ogawa,jp JPN,FW,25.0,24.5,317,293,24,1,0,0,0,0,0,0,0,0,236,0,10,Matches
+Sontje Hansen,nl NED,FW,21.0,21.2,520,509,9,1,4,1,40,5,2,0,0,0,365,2,23,Matches
+Bart van Rooij,nl NED,DF,22.0,21.9,1103,913,187,16,1,5,73,171,0,0,0,0,841,3,20,Matches
+Mees Hoedemakers,nl NED,MF,25.0,21.7,1156,1081,74,46,3,21,46,4,24,12,9,0,923,1,20,Matches
+Philippe Sandler,nl NED,DF,26.0,20.8,1266,1222,43,36,3,22,2,1,1,1,0,0,1152,1,5,Matches
+Magnus Mattsson,dk DEN,MF,24.0,19.0,645,603,38,5,9,1,17,3,4,1,2,0,502,4,18,Matches
+Youri Baas,nl NED,"DF,FW",20.0,19.1,757,632,124,8,0,6,28,110,6,0,2,0,577,1,22,Matches
+Kodai Sano,jp JPN,"FW,MF",19.0,17.7,705,682,19,4,4,3,24,9,0,0,0,0,561,4,18,Matches
+Roberto González,es ESP,"FW,MF",22.0,15.4,406,395,11,4,3,0,36,1,3,0,3,0,284,0,20,Matches
+Lasse Schöne,dk DEN,MF,37.0,13.8,796,690,105,47,4,5,70,1,57,27,26,0,647,1,12,Matches
+Tjaronn Chery,sr SUR,"MF,FW",35.0,11.5,537,437,98,23,5,0,75,5,53,18,26,0,409,2,12,Matches
+Brayann Pereira,fr FRA,DF,20.0,8.8,340,265,75,9,0,0,26,66,0,0,0,0,261,0,8,Matches
+Mathias Ross,dk DEN,DF,22.0,11.6,411,386,24,22,1,5,0,0,0,0,0,0,323,1,4,Matches
+Lars Olden Larsen,no NOR,FW,24.0,7.5,213,209,2,0,1,0,12,1,0,0,0,0,137,2,5,Matches
+Bas Dost,nl NED,FW,34.0,5.1,164,161,3,0,1,0,2,0,0,0,0,0,89,0,3,Matches
+Sylla Sow,nl NED,FW,26.0,5.4,92,91,1,0,0,0,4,0,0,0,0,0,64,0,6,Matches
+Robin Roefs,nl NED,GK,20.0,4.7,184,125,59,11,0,0,0,0,0,0,0,0,133,0,0,Matches
+Elayis Tavsan,nl NED,FW,22.0,3.8,104,96,7,3,1,0,8,2,1,1,0,0,82,1,3,Matches
+Yvandro Borges Sanches,lu LUX,"FW,MF",19.0,2.4,102,100,1,0,0,0,4,1,0,0,0,0,86,1,3,Matches
+Sai van Wermeskerken,jp JPN,DF,29.0,1.8,59,47,12,3,0,0,2,9,0,0,0,0,48,0,0,Matches
+Pedro David Rosendo Marques,pt POR,FW,25.0,0.5,29,26,2,0,0,0,2,0,0,0,0,0,19,1,3,Matches
+Nils Rossen,nl NED,"MF,FW",17.0,0.3,21,21,0,0,0,0,0,0,0,0,0,0,20,0,0,Matches
+Luc Netten,nl NED,DF,19.0,0.3,7,6,1,0,0,0,0,1,0,0,0,0,7,0,0,Matches
+D'Leanu Arts,nl NED,DF,20.0,0.3,14,10,4,0,0,0,0,4,0,0,0,0,9,0,0,Matches
+Squad Total,0,0,26.0,34.0,16103,14433,1630,393,50,108,563,652,152,61,68,0,12699,40,297,0
+Opponent Total,0,0,25.0,34.0,17324,15747,1543,327,23,112,790,658,217,110,73,0,13799,34,350,0

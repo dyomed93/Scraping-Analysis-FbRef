@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,Playing Time MP,Playing Time Starts,Playing Time Min,Playing Time 90s,Performance GA,Performance GA90,Performance SoTA,Performance Saves,Performance Save%,Performance W,Performance D,Performance L,Performance CS,Performance CS%,Penalty Kicks PKatt,Penalty Kicks PKA,Penalty Kicks PKsv,Penalty Kicks PKm,Penalty Kicks Save%,Matches
+David Soria,es ESP,GK,30.0,38,38,3413,37.9,52,1.37,171,118,72.5,10,13,15,10,26.3,7,5,1,1,16.7,Matches
+Daniel Fuzato,br BRA,GK,26.0,1,0,7,0.1,2,25.71,2,0,0.0,0,0,0,0,0.0,0,0,0,0,0.0,Matches
+Squad Total,0,0,27.3,38,38,3420,38.0,54,1.42,173,118,71.7,10,13,15,10,26.3,7,5,1,1,16.7,0
+Opponent Total,0,0,27.2,38,38,3420,38.0,42,1.11,157,114,77.1,15,13,10,15,39.5,7,6,1,0,14.3,0

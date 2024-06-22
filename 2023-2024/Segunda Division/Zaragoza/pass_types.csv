@@ -1,0 +1,37 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Maikel Mesa,es ESP,"MF,FW",33-017,33.3,845,772,68,16,6,3,10,4,7,4,0,0,660,5,15,Matches
+Alejandro Francés,es ESP,DF,21-325,35.5,2140,1893,241,93,1,37,34,144,0,0,0,0,1721,6,19,Matches
+Jair Amador,gq EQG,DF,34-305,31.7,1575,1495,75,63,0,13,2,0,0,0,0,0,1292,5,11,Matches
+Ivan Monzón,es ESP,FW,21-180,27.3,502,498,3,0,2,0,16,0,0,0,0,0,296,1,20,Matches
+Toni Moya,es ESP,MF,26-093,28.5,1670,1446,212,85,5,17,211,5,122,42,62,0,1231,12,22,Matches
+Marc Aguado,es ESP,MF,24-120,26.8,1330,1287,38,33,1,5,5,2,1,1,0,0,1182,5,17,Matches
+Fran Gámez,es ESP,DF,32-330,25.4,1312,1037,269,9,0,7,117,258,2,0,1,0,903,6,54,Matches
+Santiago Mouriño,uy URU,DF,22-129,23.8,1140,1006,130,25,1,6,17,103,1,0,1,0,880,4,18,Matches
+Germán Valera,es ESP,"MF,FW",22-097,24.6,725,695,29,4,1,1,66,6,12,1,1,0,534,1,20,Matches
+Victor Mollejo,es ESP,"FW,MF",23-152,20.3,616,601,12,3,1,5,73,9,0,0,0,0,387,3,24,Matches
+Francho Serrano,es ESP,MF,22-248,18.9,763,704,56,22,0,4,70,12,9,2,6,0,570,3,26,Matches
+Jaume Grau,es ESP,MF,27-047,20.4,780,768,6,6,2,5,10,0,0,0,0,0,614,6,14,Matches
+Édgar Badía,es ESP,GK,32-130,18.0,508,320,187,51,0,2,0,1,0,0,0,0,355,1,0,Matches
+Quentin Lecoeuche,fr FRA,DF,30-138,17.3,873,651,219,27,1,2,85,184,8,2,6,0,588,3,17,Matches
+Lluis López,es ESP,DF,27-108,14.6,873,839,30,19,0,6,1,9,0,0,0,0,726,4,10,Matches
+Sinan Bakış,tr TUR,FW,30-060,12.4,185,178,4,0,0,0,1,0,0,0,0,0,128,3,12,Matches
+Cristian Álvarez,ar ARG,GK,38-221,12.7,419,291,127,38,0,4,0,0,0,0,0,0,289,1,0,Matches
+Rebollo,es ESP,GK,24-194,9.0,252,144,106,37,0,0,0,0,0,0,0,0,188,2,0,Matches
+Manu Vallejo,es ESP,"FW,MF",27-128,10.3,338,293,43,17,1,4,31,4,18,11,5,0,238,2,15,Matches
+Andrés Martín,es ESP,DF,22-242,8.4,466,366,100,5,1,2,15,95,0,0,0,0,363,0,7,Matches
+Adrián Liso,es ESP,"FW,MF",19-080,8.1,152,149,3,0,0,0,37,0,3,3,0,0,96,0,12,Matches
+Akim Zedadka,dz ALG,DF,29-022,7.6,370,297,69,4,0,2,28,65,0,0,0,0,270,4,6,Matches
+Carlos Nieto,es ESP,DF,28-046,4.3,216,176,38,3,0,1,17,35,0,0,0,0,152,2,3,Matches
+Sergio Bermejo,es ESP,"MF,FW",26-309,6.6,283,247,32,16,1,4,29,0,14,10,4,0,208,4,7,Matches
+Sergi Enrich,es ESP,"FW,MF",34-116,7.6,207,200,7,0,0,0,1,1,0,0,0,0,134,0,4,Matches
+Gaëtan Poussin,fr FRA,GK,25-160,2.3,80,44,36,15,0,0,0,0,0,0,0,0,53,0,0,Matches
+Marcos Luna,es ESP,DF,21-077,1.9,101,90,11,2,0,1,10,9,0,0,0,0,77,0,3,Matches
+Lucas Terrer,es ESP,MF,19-014,1.7,48,47,1,0,0,0,1,1,0,0,0,0,36,0,3,Matches
+Raúl Guti,es ESP,MF,27-174,0.6,28,28,0,0,0,0,1,0,0,0,0,0,24,0,0,Matches
+Alberto Vaquero,es ESP,"MF,FW",20-222,0.7,26,26,0,0,0,0,1,0,0,0,0,0,18,0,0,Matches
+Pau Sans,es ESP,"MF,FW",19-210,0.4,16,16,0,0,0,0,3,0,0,0,0,0,12,0,0,Matches
+Cuenca,es ESP,"FW,DF",21-227,0.1,16,16,0,0,0,0,2,0,0,0,0,0,14,0,0,Matches
+Juan Sebastian Serrano,es ESP,FW,22-135,0.1,6,6,0,0,0,0,0,0,0,0,0,0,5,0,0,Matches
+Pablo Cortés,es ESP,DF,20-024,0.0,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+Squad Total,0,0,27.1,42.0,18864,16629,2152,593,24,131,894,947,197,76,86,0,14246,83,359,0
+Opponent Total,0,0,27.7,42.0,18449,16189,2173,590,27,114,765,978,178,90,57,1,13958,87,365,0

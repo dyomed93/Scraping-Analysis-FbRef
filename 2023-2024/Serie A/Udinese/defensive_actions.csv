@@ -1,0 +1,35 @@
+Player,Nation,Pos,Age,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,Matches
+Walace,br BRA,MF,28.0,36.0,66,43,40,26,0,36,77,46.8,41,43,6,37,43,109,66,1,Matches
+Nehuén Pérez,ar ARG,DF,23.0,36.0,72,48,42,28,2,39,48,81.3,9,53,26,27,45,117,158,1,Matches
+Lorenzo Lucca,it ITA,FW,22.0,28.8,19,11,4,11,4,5,20,25.0,15,18,3,15,3,22,36,1,Matches
+Lazar Samardzic,rs SRB,MF,21.0,26.4,40,19,18,18,4,16,39,41.0,23,26,6,20,10,50,25,0,Matches
+Hassane Kamara,ci CIV,DF,29.0,24.7,45,32,26,13,6,25,38,65.8,13,29,2,27,26,71,66,0,Matches
+Thomas Kristensen,dk DEN,DF,21.0,23.3,35,24,25,10,0,21,33,63.6,12,29,20,9,29,64,118,0,Matches
+Jaka Bijol,si SVN,DF,24.0,23.2,43,27,34,9,0,22,35,62.9,13,36,21,15,23,66,140,1,Matches
+Roberto Pereyra,ar ARG,"FW,MF",32.0,20.6,19,9,11,5,3,11,29,37.9,18,20,4,16,7,26,18,0,Matches
+Sandi Lovrić,si SVN,MF,25.0,22.1,25,12,9,11,5,9,23,39.1,14,21,2,19,21,46,24,0,Matches
+Maduka Okoye,ng NGA,GK,23.0,21.0,0,0,0,0,0,0,0,0.0,0,0,0,0,1,1,4,2,Matches
+Martín Payero,ar ARG,MF,24.0,20.0,54,32,28,19,7,19,46,41.3,27,25,7,18,15,69,21,0,Matches
+Festy Ebosele,ie IRL,DF,20.0,18.9,33,20,23,9,1,21,35,60.0,14,33,2,31,10,43,27,0,Matches
+Florian Thauvin,fr FRA,FW,30.0,19.0,7,4,2,4,1,4,13,30.8,9,9,1,8,3,10,2,0,Matches
+João Ferreira,pt POR,DF,22.0,20.2,58,42,36,18,4,34,58,58.6,24,27,6,21,29,87,89,0,Matches
+Marco Silvestri,it ITA,GK,32.0,17.0,0,0,0,0,0,0,3,0.0,3,1,0,1,0,0,5,3,Matches
+Kingsley Ehizibue,nl NED,DF,28.0,10.6,22,14,16,4,2,11,18,61.1,7,21,3,18,8,30,36,0,Matches
+Jordan Zemura,zw ZIM,DF,23.0,11.5,24,16,13,7,4,11,19,57.9,8,5,1,4,13,37,21,0,Matches
+Christian Kabasele,be BEL,DF,32.0,9.6,10,7,4,5,1,2,11,18.2,9,15,9,6,12,22,56,0,Matches
+Isaac Success,ng NGA,"FW,MF",27.0,9.8,6,4,0,5,1,1,3,33.3,2,6,1,5,2,8,11,0,Matches
+Lautaro Gianetti,ar ARG,DF,29.0,7.0,9,4,7,2,0,4,5,80.0,1,10,6,4,19,28,39,0,Matches
+Oier Zarraga,es ESP,MF,24.0,4.5,3,3,2,1,0,1,5,20.0,4,5,2,3,5,8,16,1,Matches
+Brenner,br BRA,"MF,FW",23.0,2.1,8,7,1,5,2,4,7,57.1,3,2,0,2,0,8,2,0,Matches
+Beto,gw GNB,FW,25.0,0.8,1,0,0,0,1,0,0,0.0,0,0,0,0,0,1,0,0,Matches
+Adam Masina,ma MAR,DF,29.0,0.7,4,0,2,2,0,2,4,50.0,2,2,1,1,2,6,5,0,Matches
+Keinan Davis,eng ENG,"FW,MF",25.0,2.1,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,3,0,Matches
+Axel Guessand,fr FRA,DF,18.0,0.5,1,1,0,1,0,1,1,100.0,0,1,0,1,0,1,0,0,Matches
+Domingos Quina,pt POR,MF,23.0,0.1,1,1,1,0,0,0,0,0.0,0,0,0,0,0,1,0,0,Matches
+Vivaldo Semedo,pt POR,FW,18.0,0.1,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Marley Aké,fr FRA,FW,22.0,0.1,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Enzo Ebosse,cm CMR,DF,24.0,0.1,1,1,1,0,0,0,1,0.0,1,0,0,0,1,2,0,0,Matches
+Simone Pafundi,it ITA,MF,17.0,0.1,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Antonio Tikvić,hr CRO,DF,19.0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Squad Total,0,0,25.7,38.0,606,381,345,213,48,299,571,52.4,272,437,129,308,327,933,988,10,0
+Opponent Total,0,0,26.6,38.0,649,394,302,250,97,314,650,48.3,336,368,127,241,249,898,582,11,0

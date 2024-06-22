@@ -1,0 +1,4 @@
+Player,Nation,Pos,Age,Playing Time MP,Playing Time Starts,Playing Time Min,Playing Time 90s,Performance GA,Performance GA90,Performance SoTA,Performance Saves,Performance Save%,Performance W,Performance D,Performance L,Performance CS,Performance CS%,Penalty Kicks PKatt,Penalty Kicks PKA,Penalty Kicks PKsv,Penalty Kicks PKm,Penalty Kicks Save%,Matches
+Fábio,br BRA,GK,43-264,10,10,900,10.0,18,1.8,62,44,72.6,1,3,6,0,0.0,1,1,0,0,0.0,Matches
+Squad Total,0,0,30.8,10,10,900,10.0,18,1.8,62,44,72.6,1,3,6,0,0.0,1,1,0,0,0.0,0
+Opponent Total,0,0,27.6,10,10,900,10.0,10,1.0,44,35,79.5,6,3,1,3,30.0,1,1,0,0,0.0,0

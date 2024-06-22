@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,90s,Goals GA,Goals PKA,Goals FK,Goals CK,Goals OG,Expected PSxG,Expected PSxG/SoT,Expected PSxG+/-,Expected /90,Launched Cmp,Launched Att,Launched Cmp%,Passes Att (GK),Passes Thr,Passes Launch%,Passes AvgLen,Goal Kicks Att,Goal Kicks Launch%,Goal Kicks AvgLen,Crosses Opp,Crosses Stp,Crosses Stp%,Sweeper #OPA,Sweeper #OPA/90,Sweeper AvgDist,Matches
+Maduka Okoye,ng NGA,GK,23.0,21.0,25,3,2,3,1,23.9,0.24,-0.1,0.0,99,263,37.6,286,45,55.9,41.7,161,64.0,49.0,365,7,1.9,2,0.1,8.7,Matches
+Marco Silvestri,it ITA,GK,32.0,17.0,28,6,0,2,0,25.7,0.29,-2.3,-0.14,57,168,33.9,345,68,33.6,32.3,105,49.5,42.1,282,5,1.8,7,0.41,13.1,Matches
+Squad Total,0,0,25.7,38.0,53,9,2,5,1,49.6,0.26,-2.4,-0.06,156,431,36.2,597,113,45.9,0.0,300,52.3,42.5,647,12,1.9,9,0.24,0.0,0
+Opponent Total,0,0,26.6,38.0,37,3,0,1,1,38.3,0.26,2.3,0.06,117,311,37.6,783,155,26.3,31.0,299,35.1,34.8,441,24,5.4,30,0.79,13.3,0

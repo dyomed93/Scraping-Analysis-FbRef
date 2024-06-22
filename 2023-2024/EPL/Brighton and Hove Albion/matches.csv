@@ -1,0 +1,51 @@
+D a t e,T i m e,C o m p,R o u n d,D a y,V e n u e,R e s u l t,G F,G A,O p p o n e n t,x G,x G A,P o s s,A t t e n d a n c e,C a p t a i n,F o r m a t i o n,R e f e r e e,M a t c h   R e p o r t,N o t e s
+2023-08-12,15:00,Premier League,Matchweek 1,Sat,Home,W,4,1,Luton Town,4.0,1.5,70,31872,Lewis Dunk,4-2-3-1,David Coote,Match Report,0
+2023-08-19,15:00,Premier League,Matchweek 2,Sat,Away,W,4,1,Wolves,2.2,2.1,53,31317,Lewis Dunk,4-2-3-1,Andy Madley,Match Report,0
+2023-08-26,17:30,Premier League,Matchweek 3,Sat,Home,L,1,3,West Ham,1.5,3.0,78,31508,Lewis Dunk,4-2-3-1,Anthony Taylor,Match Report,0
+2023-09-02,17:30,Premier League,Matchweek 4,Sat,Home,W,3,1,Newcastle Utd,1.3,1.2,56,31620,Lewis Dunk,4-2-3-1,Stuart Attwell,Match Report,0
+2023-09-16,15:00,Premier League,Matchweek 5,Sat,Away,W,3,1,Manchester Utd,1.7,1.0,56,73592,Lewis Dunk,4-2-3-1,Jarred Gillett,Match Report,0
+2023-09-21,20:00,Europa Lg,Group stage,Thu,Home,L,2,3,gr AEK Athens,2.7,1.3,75,30178,Pascal Groß,4-2-3-1,Kristo Tohver,Match Report,0
+2023-09-24,14:00,Premier League,Matchweek 6,Sun,Home,W,3,1,Bournemouth,1.9,1.1,61,31617,Lewis Dunk,4-2-3-1,John Brooks,Match Report,0
+2023-09-27,19:45,EFL Cup,Third round,Wed,Away,L,0,1,Chelsea,0.0,0.0,61,37516,Pervis Estupiñán,4-2-3-1,Thomas Bramall,Match Report,0
+2023-09-30,12:30,Premier League,Matchweek 7,Sat,Away,L,1,6,Aston Villa,1.7,1.6,61,40636,Lewis Dunk,4-2-3-1,Andy Madley,Match Report,0
+2023-10-05,18:45,Europa Lg,Group stage,Thu,Away,D,2,2,fr Marseille,2.4,1.3,54,63465,Lewis Dunk,4-2-3-1,Mykola Balakin,Match Report,0
+2023-10-08,14:00,Premier League,Matchweek 8,Sun,Home,D,2,2,Liverpool,2.3,2.3,46,31752,Lewis Dunk,4-2-3-1,Anthony Taylor,Match Report,0
+2023-10-21,15:00,Premier League,Matchweek 9,Sat,Away,L,1,2,Manchester City,0.8,0.8,45,53466,Lewis Dunk,4-2-3-1,Robert Jones,Match Report,0
+2023-10-26,20:00,Europa Lg,Group stage,Thu,Home,W,2,0,nl Ajax,1.3,0.2,64,30540,Lewis Dunk,4-4-2,Bartosz Frankowski,Match Report,0
+2023-10-29,14:00,Premier League,Matchweek 10,Sun,Home,D,1,1,Fulham,1.4,0.7,71,31550,Lewis Dunk,3-4-3,Michael Salisbury,Match Report,0
+2023-11-04,15:00,Premier League,Matchweek 11,Sat,Away,D,1,1,Everton,0.5,0.7,79,38683,Lewis Dunk,4-3-3,Tim Robinson,Match Report,0
+2023-11-09,18:45,Europa Lg,Group stage,Thu,Away,W,2,0,nl Ajax,1.0,0.7,46,52095,Lewis Dunk,4-2-3-1,Nikola Dabanović,Match Report,0
+2023-11-12,14:00,Premier League,Matchweek 12,Sun,Home,D,1,1,Sheffield Utd,1.5,1.1,61,31367,Pascal Groß,4-2-3-1,John Brooks,Match Report,0
+2023-11-25,15:00,Premier League,Matchweek 13,Sat,Away,W,3,2,Nott'ham Forest,1.3,1.9,53,29404,Lewis Dunk,4-2-3-1,Anthony Taylor,Match Report,0
+2023-11-30,19:45,Europa Lg,Group stage,Thu,Away,W,1,0,gr AEK Athens,1.3,1.6,45,30520,Lewis Dunk,4-2-3-1,Sandro Schärer,Match Report,0
+2023-12-03,14:00,Premier League,Matchweek 14,Sun,Away,L,2,3,Chelsea,1.1,2.1,68,39647,Adam Lallana,4-2-3-1,Craig Pawson,Match Report,0
+2023-12-06,19:30,Premier League,Matchweek 15,Wed,Home,W,2,1,Brentford,1.5,1.5,61,31571,Pascal Groß,4-2-3-1,Peter Bankes,Match Report,0
+2023-12-09,15:00,Premier League,Matchweek 16,Sat,Home,D,1,1,Burnley,2.6,0.6,72,31511,Lewis Dunk,4-2-3-1,Simon Hooper,Match Report,0
+2023-12-14,20:00,Europa Lg,Group stage,Thu,Home,W,1,0,fr Marseille,1.2,0.4,61,30214,Lewis Dunk,4-2-3-1,José Sánchez,Match Report,0
+2023-12-17,14:00,Premier League,Matchweek 17,Sun,Away,L,0,2,Arsenal,0.7,2.3,51,60257,Lewis Dunk,4-2-3-1,Tim Robinson,Match Report,0
+2023-12-21,20:00,Premier League,Matchweek 18,Thu,Away,D,1,1,Crystal Palace,1.2,1.3,65,24171,Lewis Dunk,4-2-3-1,John Brooks,Match Report,0
+2023-12-28,19:30,Premier League,Matchweek 19,Thu,Home,W,4,2,Tottenham,3.2,2.3,45,31675,Lewis Dunk,4-1-2-1-2◆,Jarred Gillett,Match Report,0
+2024-01-02,19:30,Premier League,Matchweek 20,Tue,Away,D,0,0,West Ham,2.3,0.7,68,62462,Pascal Groß,4-3-1-2,Samuel Barrott,Match Report,0
+2024-01-06,15:00,FA Cup,Third round proper,Sat,Away,W,4,2,Stoke City,0.0,0.0,69,17032,Lewis Dunk,3-4-3,Paul Tierney,Match Report,0
+2024-01-22,19:45,Premier League,Matchweek 21,Mon,Home,D,0,0,Wolves,1.0,1.1,72,41505,Lewis Dunk,4-3-3,Craig Pawson,Match Report,0
+2024-01-27,15:00,FA Cup,Fourth round proper,Sat,Away,W,5,2,Sheffield Utd,0.0,0.0,69,18391,Pascal Groß,3-4-3,Sunny Gill,Match Report,0
+2024-01-30,19:45,Premier League,Matchweek 22,Tue,Away,L,0,4,Luton Town,0.9,3.1,59,10994,Lewis Dunk,3-4-3,Robert Jones,Match Report,0
+2024-02-03,15:00,Premier League,Matchweek 23,Sat,Home,W,4,1,Crystal Palace,1.4,0.3,68,31345,Lewis Dunk,3-4-3,Simon Hooper,Match Report,0
+2024-02-10,15:00,Premier League,Matchweek 24,Sat,Away,L,1,2,Tottenham,1.2,1.6,48,61445,Lewis Dunk,4-2-3-1,Samuel Barrott,Match Report,0
+2024-02-18,14:00,Premier League,Matchweek 25,Sun,Away,W,5,0,Sheffield Utd,2.9,0.6,79,29522,Lewis Dunk,4-2-3-1,Stuart Attwell,Match Report,0
+2024-02-24,15:00,Premier League,Matchweek 26,Sat,Home,D,1,1,Everton,1.4,0.3,64,41646,Lewis Dunk,4-2-3-1,Tony Harrington,Match Report,0
+2024-02-28,19:45,FA Cup,Fifth round proper,Wed,Away,L,0,1,Wolves,0.0,0.0,72,23822,Lewis Dunk,3-4-3,Andy Madley,Match Report,0
+2024-03-02,15:00,Premier League,Matchweek 27,Sat,Away,L,0,3,Fulham,1.3,1.3,70,24460,Lewis Dunk,3-4-3,Simon Hooper,Match Report,0
+2024-03-07,18:45,Europa Lg,Round of 16,Thu,Away,L,0,4,it Roma,1.0,2.9,59,64877,Lewis Dunk,4-2-3-1,François Letexier,Match Report,Leg 1 of 2
+2024-03-10,14:00,Premier League,Matchweek 28,Sun,Home,W,1,0,Nott'ham Forest,0.4,0.7,63,31505,Lewis Dunk,4-2-3-1,Michael Salisbury,Match Report,0
+2024-03-14,20:00,Europa Lg,Round of 16,Thu,Home,W,1,0,it Roma,1.4,0.4,64,30380,Lewis Dunk,4-2-3-1,Felix Zwayer,Match Report,Leg 2 of 2; Roma won
+2024-03-31,14:00,Premier League,Matchweek 30,Sun,Away,L,1,2,Liverpool,0.5,2.8,45,60061,Lewis Dunk,4-2-3-1,David Coote,Match Report,0
+2024-04-03,19:30,Premier League,Matchweek 31,Wed,Away,D,0,0,Brentford,1.1,0.6,66,17024,Lewis Dunk,4-2-3-1,Andy Madley,Match Report,0
+2024-04-06,17:30,Premier League,Matchweek 32,Sat,Home,L,0,3,Arsenal,0.5,3.4,54,31677,Lewis Dunk,4-2-3-1,John Brooks,Match Report,0
+2024-04-13,15:00,Premier League,Matchweek 33,Sat,Away,D,1,1,Burnley,0.9,1.7,56,20687,Lewis Dunk,4-2-3-1,Simon Hooper,Match Report,0
+2024-04-25,20:00,Premier League,Matchweek 29,Thu,Home,L,0,4,Manchester City,0.6,1.4,36,31596,Lewis Dunk,4-2-3-1,Jarred Gillett,Match Report,0
+2024-04-28,14:00,Premier League,Matchweek 35,Sun,Away,L,0,3,Bournemouth,0.9,1.9,69,11188,Lewis Dunk,4-2-3-1,Paul Tierney,Match Report,0
+2024-05-05,14:00,Premier League,Matchweek 36,Sun,Home,W,1,0,Aston Villa,2.5,0.1,52,31596,Lewis Dunk,4-2-3-1,Robert Jones,Match Report,0
+2024-05-11,15:00,Premier League,Matchweek 37,Sat,Away,D,1,1,Newcastle Utd,1.4,2.2,43,51997,Lewis Dunk,4-2-3-1,Darren England,Match Report,0
+2024-05-15,19:45,Premier League,Matchweek 34,Wed,Home,L,1,2,Chelsea,1.3,1.5,55,31555,Lewis Dunk,4-2-3-1,Michael Salisbury,Match Report,0
+2024-05-19,16:00,Premier League,Matchweek 38,Sun,Home,L,0,2,Manchester Utd,1.7,1.3,55,31662,Adam Lallana,4-2-3-1,Craig Pawson,Match Report,0

@@ -1,0 +1,43 @@
+D a t e,T i m e,C o m p,R o u n d,D a y,V e n u e,R e s u l t,G F,G A,O p p o n e n t,x G,x G A,P o s s,A t t e n d a n c e,C a p t a i n,F o r m a t i o n,R e f e r e e,M a t c h   R e p o r t,N o t e s
+2023-08-13,14:00,Premier League,Matchweek 1,Sun,Home,D,2,2,Tottenham,2.2,1.3,31.0,17066,Christian Nørgaard,5-3-2,Robert Jones,Match Report,0
+2023-08-19,15:00,Premier League,Matchweek 2,Sat,Away,W,3,0,Fulham,3.7,0.5,45.0,24236,Christian Nørgaard,4-3-3,Darren Bond,Match Report,0
+2023-08-26,15:00,Premier League,Matchweek 3,Sat,Home,D,1,1,Crystal Palace,1.0,0.8,60.0,16997,Christian Nørgaard,4-3-3,Peter Bankes,Match Report,0
+2023-08-29,19:45,EFL Cup,Second round,Tue,Away,D,1 (3),1 (0),Newport County,0.0,0.0,78.0,5916,Vitaly Janelt,4-3-3,Scott Oldham,Match Report,Brentford won on penalty kicks following extra time
+2023-09-02,15:00,Premier League,Matchweek 4,Sat,Home,D,2,2,Bournemouth,2.9,2.1,60.0,16973,Christian Nørgaard,4-3-3,Robert Madley,Match Report,0
+2023-09-16,17:30,Premier League,Matchweek 5,Sat,Away,L,0,1,Newcastle Utd,0.5,1.4,44.0,51670,Christian Nørgaard,5-3-2,Craig Pawson,Match Report,0
+2023-09-23,17:30,Premier League,Matchweek 6,Sat,Home,L,1,3,Everton,1.0,1.9,57.0,16981,Christian Nørgaard,4-3-3,Michael Oliver,Match Report,0
+2023-09-27,19:45,EFL Cup,Third round,Wed,Home,L,0,1,Arsenal,0.0,0.0,41.0,16688,Christian Nørgaard,3-5-2,Darren Bond,Match Report,0
+2023-10-01,14:00,Premier League,Matchweek 7,Sun,Away,D,1,1,Nott'ham Forest,1.6,0.5,59.0,29004,Christian Nørgaard,4-3-3,Paul Tierney,Match Report,0
+2023-10-07,15:00,Premier League,Matchweek 8,Sat,Away,L,1,2,Manchester Utd,0.9,1.4,36.0,73453,Christian Nørgaard,3-5-2,Andy Madley,Match Report,0
+2023-10-21,15:00,Premier League,Matchweek 9,Sat,Home,W,3,0,Burnley,3.1,1.1,50.0,17029,Christian Nørgaard,4-3-3,Joshua Smith,Match Report,0
+2023-10-28,12:30,Premier League,Matchweek 10,Sat,Away,W,2,0,Chelsea,2.2,1.9,32.0,39575,Christian Nørgaard,3-5-2,Simon Hooper,Match Report,0
+2023-11-04,15:00,Premier League,Matchweek 11,Sat,Home,W,3,2,West Ham,1.5,1.8,58.0,17103,Christian Nørgaard,4-3-3,Thomas Bramall,Match Report,0
+2023-11-12,14:00,Premier League,Matchweek 12,Sun,Away,L,0,3,Liverpool,1.6,1.7,42.0,50151,Christian Nørgaard,5-3-2,Paul Tierney,Match Report,0
+2023-11-25,17:30,Premier League,Matchweek 13,Sat,Home,L,0,1,Arsenal,1.1,1.6,37.0,17201,Christian Nørgaard,5-3-2,Tim Robinson,Match Report,0
+2023-12-02,15:00,Premier League,Matchweek 14,Sat,Home,W,3,1,Luton Town,3.1,0.2,68.0,17075,Christian Nørgaard,4-3-3,Anthony Taylor,Match Report,0
+2023-12-06,19:30,Premier League,Matchweek 15,Wed,Away,L,1,2,Brighton,1.5,1.5,39.0,31571,Vitaly Janelt,4-4-2,Peter Bankes,Match Report,0
+2023-12-09,15:00,Premier League,Matchweek 16,Sat,Away,L,0,1,Sheffield Utd,0.6,0.8,59.0,28509,Christian Nørgaard,4-3-3,Stuart Attwell,Match Report,0
+2023-12-17,14:00,Premier League,Matchweek 17,Sun,Home,L,1,2,Aston Villa,0.5,1.4,34.0,17034,Christian Nørgaard,3-5-2,David Coote,Match Report,0
+2023-12-27,19:30,Premier League,Matchweek 19,Wed,Home,L,1,4,Wolves,2.2,2.4,60.0,17109,Christian Nørgaard,4-3-3,Andy Madley,Match Report,0
+2023-12-30,15:00,Premier League,Matchweek 20,Sat,Away,L,1,3,Crystal Palace,1.4,1.0,54.0,25472,Christian Nørgaard,3-5-2,Robert Jones,Match Report,0
+2024-01-05,19:15,FA Cup,Third round proper,Fri,Home,D,1,1,Wolves,0.0,0.0,0.0,16818,Christian Nørgaard,3-5-2,Tony Harrington,Match Report,0
+2024-01-16,19:30,FA Cup,Third round proper,Tue,Away,L,2,3,Wolves,0.0,0.0,0.0,24692,Mathias Jensen,3-5-2,Andy Madley,Match Report,Required Extra Time
+2024-01-20,17:30,Premier League,Matchweek 21,Sat,Home,W,3,2,Nott'ham Forest,1.2,1.2,48.0,17077,Ivan Toney,3-5-2,Darren England,Match Report,0
+2024-01-31,19:30,Premier League,Matchweek 22,Wed,Away,L,2,3,Tottenham,1.6,2.9,33.0,61210,Christian Nørgaard,3-5-2,David Coote,Match Report,0
+2024-02-05,20:00,Premier League,Matchweek 23,Mon,Home,L,1,3,Manchester City,1.0,2.1,28.0,17096,Christian Nørgaard,3-5-2,Jarred Gillett,Match Report,0
+2024-02-10,15:00,Premier League,Matchweek 24,Sat,Away,W,2,0,Wolves,1.9,1.0,29.0,30731,Christian Nørgaard,3-5-2,Simon Hooper,Match Report,0
+2024-02-17,12:30,Premier League,Matchweek 25,Sat,Home,L,1,4,Liverpool,1.6,2.8,38.0,17193,Christian Nørgaard,3-5-2,Michael Oliver,Match Report,0
+2024-02-20,19:30,Premier League,Matchweek 18,Tue,Away,L,0,1,Manchester City,0.4,2.3,30.0,52247,Christian Nørgaard,3-5-2,Darren England,Match Report,0
+2024-02-26,20:00,Premier League,Matchweek 26,Mon,Away,L,2,4,West Ham,0.9,1.7,59.0,62450,Christian Nørgaard,3-5-2,Simon Hooper,Match Report,0
+2024-03-02,15:00,Premier League,Matchweek 27,Sat,Home,D,2,2,Chelsea,1.8,1.8,33.0,17140,Christian Nørgaard,3-5-2,Jarred Gillett,Match Report,0
+2024-03-09,17:30,Premier League,Matchweek 28,Sat,Away,L,1,2,Arsenal,1.0,1.3,29.0,60331,Christian Nørgaard,3-5-2,Robert Jones,Match Report,0
+2024-03-16,15:00,Premier League,Matchweek 29,Sat,Away,L,1,2,Burnley,1.1,2.8,40.0,20431,Ivan Toney,3-5-2,Darren Bond,Match Report,0
+2024-03-30,20:00,Premier League,Matchweek 30,Sat,Home,D,1,1,Manchester Utd,3.2,0.6,47.0,17138,Ivan Toney,3-5-2,Simon Hooper,Match Report,0
+2024-04-03,19:30,Premier League,Matchweek 31,Wed,Home,D,0,0,Brighton,0.6,1.1,34.0,17024,Ivan Toney,3-5-2,Andy Madley,Match Report,0
+2024-04-06,15:00,Premier League,Matchweek 32,Sat,Away,D,3,3,Aston Villa,1.5,1.5,31.0,42118,Mathias Jensen,3-5-2,Michael Salisbury,Match Report,0
+2024-04-13,15:00,Premier League,Matchweek 33,Sat,Home,W,2,0,Sheffield Utd,1.0,0.8,53.0,17115,Mathias Jensen,4-3-3,Samuel Barrott,Match Report,0
+2024-04-20,15:00,Premier League,Matchweek 34,Sat,Away,W,5,1,Luton Town,3.1,0.6,47.0,11877,Mathias Jensen,4-3-3,Jarred Gillett,Match Report,0
+2024-04-27,17:30,Premier League,Matchweek 35,Sat,Away,L,0,1,Everton,0.9,0.8,52.0,39098,Christian Nørgaard,4-3-3,Darren England,Match Report,0
+2024-05-04,15:00,Premier League,Matchweek 36,Sat,Home,D,0,0,Fulham,0.6,1.3,54.0,17090,Christian Nørgaard,4-3-3,Graham Scott,Match Report,0
+2024-05-11,15:00,Premier League,Matchweek 37,Sat,Away,W,2,1,Bournemouth,1.1,0.7,52.0,11154,Christian Nørgaard,4-3-3,Matt Donohue,Match Report,0
+2024-05-19,16:00,Premier League,Matchweek 38,Sun,Home,L,2,4,Newcastle Utd,1.1,3.4,54.0,17124,Christian Nørgaard,4-3-3,Simon Hooper,Match Report,0

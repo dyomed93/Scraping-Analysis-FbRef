@@ -1,0 +1,31 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Iván Gil,es ESP,"MF,FW",24-155,33.0,2107,1906,188,65,7,33,197,12,108,33,30,1,1705,13,50,Matches
+Julen Lobete,es ESP,"FW,MF",23-277,30.1,835,809,23,4,2,2,60,13,0,0,0,0,643,3,41,Matches
+Diego Pampín,es ESP,DF,24-098,30.3,1962,1646,314,45,2,4,85,264,5,2,0,0,1636,2,37,Matches
+Jandro Orellana,es ESP,MF,23-319,26.7,1380,1312,61,48,5,8,18,5,7,2,0,0,1200,7,16,Matches
+Sergio Molina,es ESP,MF,28-124,28.2,1417,1321,92,46,2,12,31,23,11,4,5,0,1214,4,21,Matches
+Alex Petxa,es ESP,DF,27-136,25.7,1544,1306,230,37,3,15,65,193,0,0,0,0,1243,8,24,Matches
+Nico Ratti,it ITA,GK,30-277,26.0,1227,1048,177,47,0,0,0,0,0,0,0,0,1085,2,0,Matches
+Iker Benito,es ESP,"FW,DF",21-316,25.6,863,790,68,6,0,2,62,62,0,0,0,0,692,5,33,Matches
+Alex Pastor,es ESP,DF,24-264,23.8,1631,1514,114,69,1,20,24,42,0,0,0,0,1374,3,17,Matches
+Ruben Bover,es ESP,MF,31-363,20.2,951,845,103,25,1,7,61,8,40,6,8,0,767,3,22,Matches
+Diego González,es ESP,DF,25-045,20.1,1714,1609,105,35,1,12,2,5,0,0,0,0,1534,0,5,Matches
+José Marsà,es ESP,DF,22-109,21.8,1987,1841,143,60,3,16,15,43,0,0,0,0,1755,3,14,Matches
+Aurélien Scheidler,fr FRA,FW,26-017,17.0,286,270,14,0,1,2,3,1,0,0,0,0,221,2,8,Matches
+Adrià Vilanova,es ESP,DF,27-131,16.8,1443,1395,46,41,0,11,1,4,0,0,0,0,1324,2,4,Matches
+Daniel Martín,es ESP,GK,25-349,16.0,846,758,85,24,1,1,0,0,0,0,0,0,735,3,2,Matches
+Jon Karrikaburu,es ESP,FW,21-276,14.8,212,203,9,0,0,3,4,0,0,0,0,0,158,0,7,Matches
+Sergi Samper,es ESP,MF,29-153,11.5,759,735,20,18,0,3,2,0,2,0,0,0,686,4,11,Matches
+Álex Calvo,es ESP,"FW,DF",20-122,13.4,393,370,23,2,2,1,47,18,3,1,0,0,278,0,15,Matches
+Nieto,es ESP,FW,26-084,9.6,198,184,13,2,1,1,2,2,0,0,0,0,144,1,5,Matches
+Diego Alende,es ESP,DF,26-301,7.6,514,469,45,29,0,5,0,4,0,0,0,0,467,0,3,Matches
+Martí Vilà,es ESP,DF,25-026,6.9,407,354,52,4,0,3,22,46,2,1,0,0,325,1,10,Matches
+Miguel,es ESP,DF,27-141,8.6,467,376,91,8,1,0,8,82,1,0,0,0,393,0,12,Matches
+Jorge Pombo,es ESP,"FW,MF",30-120,6.8,243,235,7,2,2,4,6,0,1,1,0,0,199,1,9,Matches
+Álvaro Martín de Frías,es ESP,MF,23-158,9.8,445,395,48,9,3,1,40,8,23,8,4,0,331,2,18,Matches
+Anderson Arroyo,co COL,DF,24-268,4.7,547,502,45,25,1,4,1,11,0,0,0,0,505,0,1,Matches
+Laorent Shabani,se SWE,"MF,FW",24-307,1.4,22,22,0,0,0,0,0,0,0,0,0,0,19,0,1,Matches
+Pablo Moreno,es ESP,"MF,FW",22-049,2.8,83,80,3,0,0,0,3,2,1,0,0,0,74,0,1,Matches
+Christos Almpanis,gr GRE,"FW,MF",29-229,0.5,20,19,1,0,0,0,0,1,0,0,0,0,18,0,0,Matches
+Squad Total,0,0,25.6,42.0,24503,22314,2120,651,39,170,759,849,204,58,47,1,20725,69,387,0
+Opponent Total,0,0,27.8,42.0,15124,13074,1948,524,56,116,602,768,168,76,57,1,11264,102,313,0

@@ -1,0 +1,35 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Bruno Guimarães,br BRA,MF,25.0,36.3,2313,2186,115,100,26,27,32,5,3,1,1,0,1941,12,31,Matches
+Fabian Schär,ch SUI,DF,31.0,33.9,2128,2044,76,67,6,41,8,6,0,0,0,0,1762,8,15,Matches
+Anthony Gordon,eng ENG,FW,22.0,32.1,1055,963,90,14,8,11,111,20,50,18,16,0,803,2,33,Matches
+Dan Burn,eng ENG,DF,31.0,30.3,1667,1471,190,38,1,4,11,150,0,0,0,0,1351,6,25,Matches
+Sean Longstaff,eng ENG,MF,25.0,30.5,1241,1193,46,19,8,8,25,5,2,0,1,1,991,2,30,Matches
+Alexander Isak,se SWE,FW,23.0,25.1,493,428,62,0,5,2,10,6,1,0,0,0,385,3,21,Matches
+Kieran Trippier,eng ENG,DF,32.0,24.8,2130,1705,418,109,1,12,212,197,112,42,38,8,1624,7,42,Matches
+Miguel Almirón,py PAR,FW,29.0,21.5,801,788,10,2,5,0,24,7,1,0,0,0,668,3,16,Matches
+Martin Dúbravka,sk SVK,GK,34.0,22.1,651,443,206,37,0,1,0,0,0,0,0,0,519,2,0,Matches
+Sven Botman,nl NED,DF,23.0,15.3,1017,981,36,32,0,5,0,2,0,0,0,0,921,0,3,Matches
+Nick Pope,eng ENG,GK,31.0,14.9,399,274,125,30,0,0,0,0,0,0,0,0,307,0,0,Matches
+Joelinton,br BRA,"MF,FW",26.0,14.2,627,600,25,18,3,2,2,7,0,0,0,0,524,2,18,Matches
+Lewis Miley,eng ENG,MF,17.0,13.4,535,535,0,0,4,2,11,0,0,0,0,0,441,0,13,Matches
+Jacob Murphy,eng ENG,"FW,DF",28.0,13.2,519,478,38,8,10,0,77,18,11,7,2,0,343,3,23,Matches
+Jamaal Lascelles,eng ENG,DF,29.0,12.0,774,764,8,6,0,3,1,2,0,0,0,0,669,2,5,Matches
+Valentino Livramento,eng ENG,DF,20.0,14.6,802,697,105,4,0,1,26,101,0,0,0,0,689,0,12,Matches
+Elliot Anderson,sct SCO,"MF,FW",20.0,11.4,460,431,29,3,4,1,19,25,1,0,0,0,370,0,9,Matches
+Callum Wilson,eng ENG,FW,31.0,11.0,163,152,11,0,2,2,3,2,0,0,0,0,105,0,17,Matches
+Emil Krafth,se SWE,DF,28.0,10.1,580,514,65,11,0,0,17,53,1,0,0,0,488,1,14,Matches
+Lewis Hall,eng ENG,DF,18.0,8.7,552,474,76,11,0,2,23,59,6,6,0,0,452,2,12,Matches
+Harvey Barnes,eng ENG,"FW,MF",25.0,8.9,272,262,8,2,1,2,12,4,0,0,0,0,208,2,13,Matches
+Sandro Tonali,it ITA,MF,23.0,4.9,280,276,4,0,0,5,11,2,2,0,2,0,241,0,3,Matches
+Joe Willock,eng ENG,MF,23.0,4.7,164,158,5,1,1,2,6,4,0,0,0,0,136,1,3,Matches
+Loris Karius,de GER,GK,30.0,1.0,37,24,12,3,0,0,0,0,0,0,0,0,21,1,0,Matches
+Matt Targett,eng ENG,DF,27.0,0.9,41,38,3,0,0,0,0,3,0,0,0,0,36,0,1,Matches
+Matt Ritchie,sct SCO,"FW,MF",33.0,1.4,93,91,2,0,0,0,7,0,2,1,0,0,70,0,3,Matches
+Ben Parkinson,eng ENG,FW,18.0,0.3,3,2,1,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Paul Dummett,wls WAL,DF,31.0,0.2,23,22,1,0,0,0,0,1,0,0,0,0,21,0,0,Matches
+Alex Murphy,ie IRL,"DF,FW",19.0,0.1,17,17,0,0,0,0,0,0,0,0,0,0,17,0,0,Matches
+Joe White,eng ENG,MF,20.0,0.1,12,12,0,0,0,0,0,0,0,0,0,0,11,0,1,Matches
+Amadou Diallo,eng ENG,MF,20.0,0.0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Michael Ndiweni,eng ENG,FW,19.0,0.0,2,2,0,0,0,0,0,0,0,0,0,0,1,0,1,Matches
+Squad Total,0,0,27.2,38.0,19852,18026,1767,515,85,133,648,679,192,75,60,9,16117,59,364,0
+Opponent Total,0,0,26.2,38.0,18229,16462,1713,424,73,86,588,665,195,86,53,5,14538,54,381,0

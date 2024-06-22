@@ -1,0 +1,54 @@
+D a t e,T i m e,C o m p,R o u n d,D a y,V e n u e,R e s u l t,G F,G A,O p p o n e n t,x G,x G A,P o s s,A t t e n d a n c e,C a p t a i n,F o r m a t i o n,R e f e r e e,M a t c h   R e p o r t,N o t e s
+2023-08-12,21:00,Ligue 1,Matchweek 1,Sat,Home,D,0,0,Lorient,1.2,0.1,78,47000,Danilo Pereira,4-3-3,Bastien Dechepy,Match Report,0
+2023-08-19,21:00,Ligue 1,Matchweek 2,Sat,Away,D,1,1,Toulouse,2.1,1.2,76,27332,Marquinhos,4-3-3,Thomas Léonard,Match Report,0
+2023-08-26,21:00,Ligue 1,Matchweek 3,Sat,Home,W,3,1,Lens,1.5,0.5,66,47864,Marquinhos,4-4-2,François Letexier,Match Report,0
+2023-09-03,20:45,Ligue 1,Matchweek 4,Sun,Away,W,4,1,Lyon,4.5,2.1,69,51657,Marquinhos,4-4-2,Eric Wattellier,Match Report,0
+2023-09-15,21:00,Ligue 1,Matchweek 5,Fri,Home,L,2,3,Nice,1.0,1.3,69,47874,Kylian Mbappé,4-3-3,Clément Turpin,Match Report,0
+2023-09-19,21:00,Champions Lg,Group stage,Tue,Home,W,2,0,de Dortmund,2.4,0.7,67,47379,Marquinhos,4-3-3,Jesús Gil,Match Report,0
+2023-09-24,20:45,Ligue 1,Matchweek 6,Sun,Home,W,4,0,Marseille,1.9,0.7,76,47000,Marquinhos,4-4-2,Willy Delajod,Match Report,0
+2023-09-30,17:00,Ligue 1,Matchweek 7,Sat,Away,D,0,0,Clermont Foot,3.0,1.0,67,10757,Marquinhos,4-4-2,Marc Bollengier,Match Report,0
+2023-10-04,20:00,Champions Lg,Group stage,Wed,Away,L,1,4,eng Newcastle Utd,0.9,0.9,73,52009,Marquinhos,4-2-3-1,István Kovács,Match Report,0
+2023-10-08,20:45,Ligue 1,Matchweek 8,Sun,Away,W,3,1,Rennes,3.5,1.1,58,27734,Marquinhos,4-3-3,Benoît Bastien,Match Report,0
+2023-10-21,17:00,Ligue 1,Matchweek 9,Sat,Home,W,3,0,Strasbourg,2.0,0.4,76,41261,Marquinhos,4-2-2-2,Bastien Dechepy,Match Report,0
+2023-10-25,21:00,Champions Lg,Group stage,Wed,Home,W,3,0,it Milan,1.3,0.6,61,45962,Marquinhos,4-3-3,Slavko Vinčič,Match Report,0
+2023-10-29,13:00,Ligue 1,Matchweek 10,Sun,Away,W,3,2,Brest,2.1,1.8,56,15183,Kylian Mbappé,4-2-2-2,Jérôme Brisard,Match Report,0
+2023-11-03,21:00,Ligue 1,Matchweek 11,Fri,Home,W,3,0,Montpellier,1.1,0.5,70,47647,Marquinhos,4-2-2-2,Ruddy Buquet,Match Report,0
+2023-11-07,21:00,Champions Lg,Group stage,Tue,Away,L,1,2,it Milan,1.5,1.4,69,75649,Marquinhos,4-3-3,Jesús Gil,Match Report,0
+2023-11-11,17:00,Ligue 1,Matchweek 12,Sat,Away,W,3,0,Reims,2.3,1.3,61,20500,Marquinhos,4-2-2-2,Willy Delajod,Match Report,0
+2023-11-24,21:00,Ligue 1,Matchweek 13,Fri,Home,W,5,2,Monaco,2.6,1.6,54,47896,Kylian Mbappé,4-3-3,Benoît Bastien,Match Report,0
+2023-11-28,21:00,Champions Lg,Group stage,Tue,Home,D,1,1,eng Newcastle Utd,4.4,1.3,72,46435,Kylian Mbappé,4-3-3,Szymon Marciniak,Match Report,0
+2023-12-03,13:00,Ligue 1,Matchweek 14,Sun,Away,W,2,0,Le Havre,1.2,2.0,39,23718,Kylian Mbappé,4-3-3,Bastien Dechepy,Match Report,0
+2023-12-09,21:00,Ligue 1,Matchweek 15,Sat,Home,W,2,1,Nantes,2.0,0.5,65,47926,Marquinhos,4-3-3,Jérôme Brisard,Match Report,0
+2023-12-13,21:00,Champions Lg,Group stage,Wed,Away,D,1,1,de Dortmund,2.8,1.4,59,81365,Marquinhos,3-4-3,Glenn Nyberg,Match Report,0
+2023-12-17,20:45,Ligue 1,Matchweek 16,Sun,Away,D,1,1,Lille,1.4,1.4,59,47993,Marquinhos,3-4-3,Willy Delajod,Match Report,0
+2023-12-20,21:00,Ligue 1,Matchweek 17,Wed,Home,W,3,1,Metz,2.4,0.1,74,48229,Marquinhos,3-4-3,Ruddy Buquet,Match Report,0
+2024-01-03,20:45,Trophée des Champions,Trophée des Champions,Wed,Home,W,2,0,Toulouse,0.0,0.0,65,43792,Marquinhos,4-3-3,Hakim Ben El Hadj Salem,Match Report,0
+2024-01-07,20:45,Coupe de France,Round of 64,Sun,Away,W,9,0,US Revel,0.0,0.0,77,9351,Kylian Mbappé,4-3-3,Florent Batta,Match Report,0
+2024-01-14,20:45,Ligue 1,Matchweek 18,Sun,Away,W,2,0,Lens,1.8,2.1,65,38200,Marquinhos,4-3-3,Jérôme Brisard,Match Report,0
+2024-01-20,20:45,Coupe de France,Round of 32,Sat,Away,W,4,1,Orléans,0.0,0.0,75,7238,Marquinhos,4-2-3-1,Marc Bollengier,Match Report,0
+2024-01-28,20:45,Ligue 1,Matchweek 19,Sun,Home,D,2,2,Brest,2.1,0.7,54,47000,Kylian Mbappé,4-3-3,Clément Turpin,Match Report,0
+2024-02-02,21:00,Ligue 1,Matchweek 20,Fri,Away,W,2,1,Strasbourg,2.0,2.7,62,25834,Marquinhos,4-3-3,Ruddy Buquet,Match Report,0
+2024-02-07,21:10,Coupe de France,Round of 16,Wed,Home,W,3,1,Brest,0.0,0.0,59,46895,Marquinhos,4-3-3,Benoît Bastien,Match Report,0
+2024-02-10,21:00,Ligue 1,Matchweek 21,Sat,Home,W,3,1,Lille,2.8,1.2,52,47000,Danilo Pereira,4-1-4-1,François Letexier,Match Report,0
+2024-02-14,21:00,Champions Lg,Round of 16,Wed,Home,W,2,0,es Real Sociedad,1.2,0.7,62,46435,Marquinhos,4-3-3,Marco Guida,Match Report,Leg 1 of 2
+2024-02-17,21:00,Ligue 1,Matchweek 22,Sat,Away,W,2,0,Nantes,1.5,1.3,77,34038,Marquinhos,4-3-3,Jérôme Brisard,Match Report,0
+2024-02-25,17:05,Ligue 1,Matchweek 23,Sun,Home,D,1,1,Rennes,1.9,0.8,66,47874,Kylian Mbappé,4-3-3,Bastien Dechepy,Match Report,0
+2024-03-01,21:00,Ligue 1,Matchweek 24,Fri,Away,D,0,0,Monaco,1.5,1.6,68,14700,Kylian Mbappé,4-3-3,Ruddy Buquet,Match Report,0
+2024-03-05,21:00,Champions Lg,Round of 16,Tue,Away,W,2,1,es Real Sociedad,1.4,0.9,56,39336,Kylian Mbappé,4-3-1-2,Michael Oliver,Match Report,Leg 2 of 2; Paris S-G won
+2024-03-10,13:00,Ligue 1,Matchweek 25,Sun,Home,D,2,2,Reims,1.2,1.3,64,46000,Danilo Pereira,4-3-3,Willy Delajod,Match Report,0
+2024-03-13,21:10,Coupe de France,Quarter-finals,Wed,Home,W,3,1,Nice,0.0,0.0,65,47619,Kylian Mbappé,4-3-1-2,François Letexier,Match Report,0
+2024-03-17,20:45,Ligue 1,Matchweek 26,Sun,Away,W,6,2,Montpellier,1.5,2.3,68,19202,Kylian Mbappé,4-3-3,Florent Batta,Match Report,0
+2024-03-31,20:45,Ligue 1,Matchweek 27,Sun,Away,W,2,0,Marseille,2.1,1.4,53,66046,Kylian Mbappé,4-3-1-2,Benoît Bastien,Match Report,0
+2024-04-03,21:10,Coupe de France,Semi-finals,Wed,Home,W,1,0,Rennes,0.0,0.0,70,47879,Marquinhos,4-3-1-2,Ruddy Buquet,Match Report,0
+2024-04-06,21:00,Ligue 1,Matchweek 28,Sat,Home,D,1,1,Clermont Foot,2.7,0.3,73,47607,Danilo Pereira,4-3-3,Gaël Angoula,Match Report,0
+2024-04-10,21:00,Champions Lg,Quarter-finals,Wed,Home,L,2,3,es Barcelona,1.2,1.9,59,47470,Marquinhos,4-3-3,Anthony Taylor,Match Report,Leg 1 of 2
+2024-04-16,21:00,Champions Lg,Quarter-finals,Tue,Away,W,4,1,es Barcelona,2.3,1.1,67,50309,Marquinhos,4-3-3,István Kovács,Match Report,Leg 2 of 2; Paris S-G won
+2024-04-21,21:00,Ligue 1,Matchweek 30,Sun,Home,W,4,1,Lyon,2.3,1.0,63,45000,Marquinhos,4-2-3-1,François Letexier,Match Report,0
+2024-04-24,19:00,Ligue 1,Matchweek 29,Wed,Away,W,4,1,Lorient,1.6,0.9,59,16738,Kylian Mbappé,4-3-3,Marc Bollengier,Match Report,0
+2024-04-27,21:00,Ligue 1,Matchweek 31,Sat,Home,D,3,3,Le Havre,2.6,1.0,77,46000,Marquinhos,4-2-3-1,Willy Delajod,Match Report,0
+2024-05-01,21:00,Champions Lg,Semi-finals,Wed,Away,L,0,1,de Dortmund,1.7,1.7,57,81365,Marquinhos,4-3-3,Anthony Taylor,Match Report,Leg 1 of 2
+2024-05-07,21:00,Champions Lg,Semi-finals,Tue,Home,L,0,1,de Dortmund,3.0,0.7,69,46435,Marquinhos,4-3-3,Daniele Orsato,Match Report,Leg 2 of 2; Dortmund won
+2024-05-12,21:00,Ligue 1,Matchweek 33,Sun,Home,L,1,3,Toulouse,2.1,1.6,64,47000,Kylian Mbappé,4-3-3,Florent Batta,Match Report,0
+2024-05-15,21:00,Ligue 1,Matchweek 32,Wed,Away,W,2,1,Nice,1.0,1.4,63,33818,Marquinhos,4-3-3,Ruddy Buquet,Match Report,0
+2024-05-19,21:00,Ligue 1,Matchweek 34,Sun,Away,W,2,0,Metz,2.0,0.9,76,28455,Danilo Pereira,4-3-3,Gaël Angoula,Match Report,0
+2024-05-25,21:00,Coupe de France,Final,Sat,Neutral,W,2,1,Lyon,0.0,0.0,68,46577,Marquinhos,4-3-3,François Letexier,Match Report,0

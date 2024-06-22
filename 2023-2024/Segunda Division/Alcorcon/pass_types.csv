@@ -1,0 +1,33 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Javier Castro,es ESP,DF,23-282,35.6,1494,1410,78,30,1,31,18,48,0,0,0,0,1120,6,21,Matches
+Jacobo,es ESP,"MF,FW",27-088,29.2,793,713,73,22,3,10,100,6,35,3,23,0,484,7,30,Matches
+Chiki,es ESP,"FW,MF",27-260,29.0,555,525,26,0,2,8,10,1,0,0,0,0,388,4,32,Matches
+Víctor García,es ESP,"MF,DF",27-172,30.7,1261,1052,205,26,3,23,146,179,0,0,0,0,831,4,49,Matches
+Iago López,es ESP,DF,25-076,29.6,1137,826,307,17,2,12,38,290,0,0,0,0,834,4,32,Matches
+Yan Brice Eteki,cm CMR,MF,26-300,26.6,742,719,22,22,1,6,3,0,0,0,0,0,545,1,16,Matches
+Jesús Ruiz,es ESP,GK,27-153,29.0,962,619,340,89,0,2,0,0,0,0,0,0,679,3,0,Matches
+Óscar Rivas,es ESP,"DF,MF",24-086,25.2,900,857,39,24,1,18,2,4,0,0,0,0,695,4,5,Matches
+Xavi Quintillà,es ESP,DF,27-303,20.3,997,719,275,54,2,21,108,179,42,20,20,0,739,3,13,Matches
+Chema,es ESP,DF,32-110,18.4,699,659,39,18,2,11,1,16,0,0,0,0,480,1,8,Matches
+Emmanuel Addai,gh GHA,"FW,MF",22-325,23.1,569,547,17,3,3,26,56,9,5,0,5,0,374,5,26,Matches
+Pedro Mosquera,es ESP,MF,36-061,20.2,947,881,58,47,0,17,18,6,5,3,1,0,740,8,14,Matches
+Javi Pérez,es ESP,MF,28-312,19.0,526,509,12,9,1,6,25,0,0,0,0,0,389,5,17,Matches
+Jean-Sylvain Babin,mq MTQ,DF,37-251,18.9,799,742,56,30,0,4,0,1,0,0,0,0,670,1,1,Matches
+Javi Lara,es ESP,"MF,FW",38-200,16.1,846,737,107,44,0,39,78,4,43,12,21,0,636,2,14,Matches
+David Morillas,es ESP,DF,37-267,14.1,552,448,102,3,0,11,33,98,1,0,0,0,404,2,8,Matches
+Lucas Anacker,br BRA,GK,27-273,13.0,405,211,192,44,0,1,0,0,0,0,0,0,254,2,0,Matches
+Dyego Sousa,pt POR,FW,34-281,11.0,282,262,20,0,2,1,3,2,0,0,0,0,187,0,9,Matches
+Juanma Bravo,es ESP,"MF,FW",26-132,10.4,305,296,6,1,0,1,20,3,0,0,0,0,203,3,12,Matches
+Koldo Obieta,es ESP,FW,30-257,10.1,257,246,9,0,0,3,3,0,0,0,0,0,146,2,14,Matches
+Juan Artola,es ESP,"FW,MF",24-075,9.1,177,175,2,0,0,1,6,1,0,0,0,0,115,0,5,Matches
+Fede Vico,es ESP,"MF,FW",29-353,7.7,273,249,23,4,2,1,25,1,7,3,1,0,194,1,8,Matches
+Marciano Tchami,gw GNB,"FW,MF",20-110,3.7,71,70,1,0,0,0,3,0,0,0,0,0,46,0,2,Matches
+Álex López,es ESP,"MF,FW",27-019,3.4,184,168,15,10,0,3,9,1,4,1,2,1,150,1,3,Matches
+Álvaro Bustos,es ESP,"MF,FW",28-361,2.7,87,77,10,2,0,0,14,5,3,3,0,0,52,0,2,Matches
+Eric Callís,es ESP,DF,22-159,1.3,55,41,14,0,0,0,6,13,1,0,1,0,44,0,0,Matches
+Iker Bilbao,es ESP,"MF,FW",28-093,1.2,45,44,1,1,0,1,1,0,0,0,0,0,32,0,0,Matches
+Jaime Garrido,es ESP,MF,21-063,0.4,13,13,0,0,0,0,0,0,0,0,0,0,11,0,0,Matches
+Iñigo García,es ESP,MF,20-172,0.2,6,6,0,0,0,0,0,0,0,0,0,0,4,0,0,Matches
+Israel García,es ESP,MF,20-144,0.1,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Squad Total,0,0,28.5,42.0,15941,13823,2049,500,25,257,726,867,146,45,74,1,11447,69,341,0
+Opponent Total,0,0,27.6,42.0,21592,19409,2128,586,47,137,903,923,221,72,73,1,17137,55,401,0

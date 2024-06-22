@@ -1,0 +1,31 @@
+Player,Nation,Pos,Age,90s,Standard Gls,Standard Sh,Standard SoT,Standard SoT%,Standard Sh/90,Standard SoT/90,Standard G/Sh,Standard G/SoT,Standard Dist,Standard FK,Standard PK,Standard PKatt,Expected xG,Expected npxG,Expected npxG/Sh,Expected G-xG,Expected np:G-xG,Matches
+Łukasz Skorupski,pl POL,GK,32.0,32.0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches
+Joshua Zirkzee,nl NED,FW,22.0,30.7,11,84,29,34.5,2.74,0.95,0.11,0.31,17.8,3,2,2,9.0,7.4,0.09,2.0,1.6,Matches
+Lewis Ferguson,sct SCO,MF,23.0,30.1,6,60,20,33.3,1.99,0.66,0.1,0.3,16.0,0,0,0,5.4,5.4,0.09,0.6,0.6,Matches
+Remo Freuler,ch SUI,MF,31.0,29.2,1,14,4,28.6,0.48,0.14,0.07,0.25,17.4,0,0,0,1.2,1.2,0.09,-0.2,-0.2,Matches
+Sam Beukema,nl NED,DF,24.0,28.3,1,12,4,33.3,0.42,0.14,0.08,0.25,9.7,0,0,0,1.9,1.9,0.16,-0.9,-0.9,Matches
+Stefan Posch,at AUT,DF,26.0,26.8,1,18,4,22.2,0.67,0.15,0.06,0.25,19.3,0,0,0,1.2,1.2,0.07,-0.2,-0.2,Matches
+Riccardo Calafiori,it ITA,DF,21.0,26.1,2,17,6,35.3,0.65,0.23,0.12,0.33,17.9,0,0,0,1.4,1.4,0.08,0.6,0.6,Matches
+Victor Bernth Kristiansen,dk DEN,DF,20.0,25.6,0,6,2,33.3,0.23,0.08,0.0,0.0,18.8,0,0,0,0.3,0.3,0.04,-0.3,-0.3,Matches
+Michel Aebischer,ch SUI,MF,26.0,24.8,0,18,5,27.8,0.73,0.2,0.0,0.0,22.4,0,0,0,1.1,1.1,0.06,-1.1,-1.1,Matches
+Jhon Lucumí,co COL,DF,25.0,24.6,0,11,2,18.2,0.45,0.08,0.0,0.0,16.1,0,0,0,0.8,0.8,0.08,-0.8,-0.8,Matches
+Alexis Saelemaekers,be BEL,"FW,MF",24.0,21.0,4,29,10,34.5,1.38,0.48,0.14,0.4,23.2,4,0,0,2.6,2.6,0.09,1.4,1.4,Matches
+Dan Ndoye,ch SUI,"FW,MF",22.0,19.7,1,41,16,39.0,2.08,0.81,0.02,0.06,16.7,0,0,0,4.9,4.9,0.13,-3.9,-3.9,Matches
+Riccardo Orsolini,it ITA,"FW,MF",26.0,19.9,10,55,22,40.0,2.76,1.1,0.15,0.36,18.1,5,2,3,7.4,5.0,0.09,2.6,3.0,Matches
+Giovanni Fabbian,it ITA,"MF,FW",20.0,11.7,5,28,10,35.7,2.38,0.85,0.18,0.5,14.5,0,0,0,4.2,4.2,0.15,0.8,0.8,Matches
+Charalambos Lykogiannis,gr GRE,DF,29.0,10.0,2,15,4,26.7,1.49,0.4,0.13,0.5,21.9,4,0,0,1.3,1.3,0.08,0.7,0.7,Matches
+Nikola Moro,hr CRO,MF,25.0,9.3,1,11,1,9.1,1.18,0.11,0.09,1.0,22.1,1,0,0,0.7,0.7,0.06,0.3,0.3,Matches
+Kacper Urbanski,pl POL,"MF,FW",18.0,10.3,0,17,6,35.3,1.65,0.58,0.0,0.0,17.6,0,0,0,1.1,1.1,0.07,-1.1,-1.1,Matches
+Lorenzo De Silvestri,it ITA,DF,35.0,7.5,2,4,2,50.0,0.53,0.27,0.5,1.0,17.8,0,0,0,0.2,0.2,0.05,1.8,1.8,Matches
+Federico Ravaglia,it ITA,GK,23.0,5.9,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches
+Oussama El Azzouzi,ma MAR,MF,22.0,6.1,2,2,2,100.0,0.33,0.33,1.0,1.0,9.5,0,0,0,0.5,0.5,0.24,1.5,1.5,Matches
+Jens Odgaard,dk DEN,"FW,MF",24.0,4.8,2,11,2,18.2,2.3,0.42,0.18,1.0,18.9,0,0,0,1.5,1.5,0.13,0.5,0.5,Matches
+Jesper Karlsson,se SWE,FW,25.0,3.8,0,6,4,66.7,1.57,1.05,0.0,0.0,26.8,1,0,0,0.4,0.4,0.07,-0.4,-0.4,Matches
+Santiago Castro,ar ARG,FW,18.0,2.7,1,7,3,42.9,2.6,1.12,0.14,0.33,19.6,0,0,0,1.0,1.0,0.14,0.0,0.0,Matches
+Sydney van Hooijdonk,nl NED,FW,23.0,2.4,0,5,1,20.0,2.12,0.42,0.0,0.0,18.1,1,0,0,0.6,0.6,0.12,-0.6,-0.6,Matches
+Tommaso Corazza,it ITA,DF,19.0,2.2,0,1,0,0.0,0.46,0.0,0.0,0.0,12.8,0,0,0,0.1,0.1,0.1,-0.1,-0.1,Matches
+Nicolás Domínguez,ar ARG,MF,25.0,1.1,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches
+Kevin Bonifazi,it ITA,DF,27.0,1.0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches
+Nicola Bagnolini,it ITA,GK,19.0,0.1,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches
+Squad Total,0,0,25.2,38.0,52,472,159,33.7,12.42,4.18,0.1,0.3,18.0,19,4,5,47.9,44.0,0.1,4.1,4.0,0
+Opponent Total,0,0,26.6,38.0,31,402,120,29.9,10.58,3.16,0.07,0.23,18.7,18,3,7,37.1,31.6,0.08,-6.1,-3.6,0

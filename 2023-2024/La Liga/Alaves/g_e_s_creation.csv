@@ -1,0 +1,33 @@
+Player,Nation,Pos,Age,90s,SCA SCA,SCA SCA90,SCA Types PassLive,SCA Types PassDead,SCA Types TO,SCA Types Sh,SCA Types Fld,SCA Types Def,GCA GCA,GCA GCA90,GCA Types PassLive,GCA Types PassDead,GCA Types TO,GCA Types Sh,GCA Types Fld,GCA Types Def,Matches
+Antonio Sivera,es ESP,GK,26.0,34.0,15,0.44,9,6,0,0,0,0,1,0.03,0,1,0,0,0,0,Matches
+Jon Guridi,es ESP,MF,28.0,29.8,69,2.32,54,0,2,7,2,4,8,0.27,6,0,0,2,0,0,Matches
+Ander Guevara,es ESP,MF,26.0,32.6,69,2.12,58,4,2,3,1,1,3,0.09,2,0,0,0,1,0,Matches
+Andoni Gorosabel,es ESP,DF,26.0,31.7,59,1.86,46,5,1,1,4,2,2,0.06,2,0,0,0,0,0,Matches
+Luis Rioja,es ESP,"FW,MF",29.0,27.8,81,2.92,57,14,5,3,2,0,7,0.25,6,1,0,0,0,0,Matches
+Antonio Blanco,es ESP,MF,23.0,27.0,45,1.67,39,1,0,2,3,0,1,0.04,1,0,0,0,0,0,Matches
+Rafa Marín,es ESP,DF,21.0,27.1,18,0.66,16,1,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Abdel Abqar,ma MAR,DF,24.0,25.7,12,0.47,9,0,0,2,1,0,0,0.0,0,0,0,0,0,0,Matches
+Javi López,es ESP,DF,21.0,26.5,51,1.92,39,2,4,2,4,0,8,0.3,6,0,1,0,1,0,Matches
+Samuel Omorodion,es ESP,FW,19.0,21.3,31,1.46,19,0,5,5,2,0,3,0.14,0,0,1,1,1,0,Matches
+Rubén Duarte,es ESP,DF,27.0,20.9,32,1.54,21,8,1,1,1,0,2,0.1,1,1,0,0,0,0,Matches
+Kiké,es ESP,"FW,MF",33.0,15.8,40,2.53,26,0,5,4,5,0,6,0.38,3,0,2,0,1,0,Matches
+Alex Sola,es ESP,"FW,MF",24.0,14.0,69,4.92,32,7,16,6,7,1,4,0.29,2,1,1,0,0,0,Matches
+Carlos Vicente,es ESP,FW,24.0,12.4,48,3.87,26,13,4,2,3,0,5,0.4,3,1,1,0,0,0,Matches
+Nahuel Tenaglia,ar ARG,DF,27.0,12.7,24,1.89,19,2,0,0,1,2,2,0.16,1,0,0,0,1,0,Matches
+Aleksandar Sedlar,rs SRB,DF,31.0,10.5,9,0.86,6,0,1,0,0,2,0,0.0,0,0,0,0,0,0,Matches
+Carlos Benavídez,uy URU,MF,25.0,12.6,22,1.74,15,0,0,2,2,3,2,0.16,2,0,0,0,0,0,Matches
+Ianis Hagi,ro ROU,"MF,FW",24.0,8.9,48,5.37,26,15,3,3,1,0,1,0.11,1,0,0,0,0,0,Matches
+Abderrahman Rebbach,dz ALG,"FW,MF",24.0,8.0,29,3.61,15,7,4,2,1,0,0,0.0,0,0,0,0,0,0,Matches
+Giuliano Simeone,ar ARG,FW,20.0,7.0,22,3.14,14,0,0,5,2,1,4,0.57,2,0,0,1,1,0,Matches
+Jesús Owono,gq EQG,GK,22.0,4.0,6,1.5,3,3,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Xeber,es ESP,"FW,MF",26.0,3.4,11,3.28,10,0,1,0,0,0,1,0.3,1,0,0,0,0,0,Matches
+Joaquín Panichelli,ar ARG,"FW,MF",20.0,2.5,6,2.39,4,0,0,2,0,0,0,0.0,0,0,0,0,0,0,Matches
+Miguel,es ESP,"FW,MF",23.0,0.7,1,1.38,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Matches
+Mamadou Sylla,sn SEN,"FW,MF",29.0,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Jon Karrikaburu,es ESP,"MF,FW",20.0,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Eneko Ortiz,es ESP,DF,20.0,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Tomás Mendes,es ESP,MF,18.0,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Unai Ropero,es ESP,MF,21.0,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Victor Parada,es ESP,"FW,MF",21.0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Squad Total,0,0,25.6,38.0,817,21.5,563,88,54,53,43,16,60,1.58,39,5,6,4,6,0,0
+Opponent Total,0,0,27.2,38.0,820,21.58,597,79,54,38,40,12,81,2.13,55,6,6,7,7,0,0

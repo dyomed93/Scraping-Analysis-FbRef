@@ -1,0 +1,42 @@
+D a t e,T i m e,C o m p,R o u n d,D a y,V e n u e,R e s u l t,G F,G A,O p p o n e n t,x G,x G A,P o s s,A t t e n d a n c e,C a p t a i n,F o r m a t i o n,R e f e r e e,M a t c h   R e p o r t,N o t e s
+2023-08-11,21:00,Coppa Italia,First round,Fri,Home,W,4,3,Modena,0.0,0.0,51,25000.0,Milan Badelj,3-5-2,Gianluca Aureliano,Match Report,0
+2023-08-19,20:45,Serie A,Matchweek 1,Sat,Home,L,1,4,Fiorentina,0.2,1.0,32,33045.0,Milan Badelj,3-5-2,Giovanni Ayroldi,Match Report,0
+2023-08-27,20:45,Serie A,Matchweek 2,Sun,Away,W,1,0,Lazio,0.6,1.4,30,40000.0,Milan Badelj,4-3-2-1,Livio Marinelli,Match Report,0
+2023-09-03,18:30,Serie A,Matchweek 3,Sun,Away,L,0,1,Torino,0.2,0.4,37,24433.0,Milan Badelj,4-3-2-1,Daniele Chiffi,Match Report,0
+2023-09-16,20:45,Serie A,Matchweek 4,Sat,Home,D,2,2,Napoli,1.2,0.9,34,33275.0,Milan Badelj,4-4-2,Michael Fabbri,Match Report,0
+2023-09-22,20:45,Serie A,Matchweek 5,Fri,Away,L,0,1,Lecce,0.3,0.9,44,27000.0,Milan Badelj,4-4-2,Antonio Rapuano,Match Report,0
+2023-09-28,20:45,Serie A,Matchweek 6,Thu,Home,W,4,1,Roma,1.1,1.4,29,32961.0,Milan Badelj,3-5-2,Daniele Orsato,Match Report,0
+2023-10-01,15:00,Serie A,Matchweek 7,Sun,Away,D,2,2,Udinese,0.8,1.3,41,20805.0,Mattia Bani,3-5-2,Maurizio Mariani,Match Report,0
+2023-10-07,20:45,Serie A,Matchweek 8,Sat,Home,L,0,1,Milan,0.5,0.6,41,33157.0,Mattia Bani,4-5-1,Marco Piccinini,Match Report,0
+2023-10-22,18:00,Serie A,Matchweek 9,Sun,Away,L,0,2,Atalanta,1.0,1.2,44,14848.0,Mattia Bani,3-5-2,Livio Marinelli,Match Report,0
+2023-10-27,20:45,Serie A,Matchweek 10,Fri,Home,W,1,0,Salernitana,0.5,0.6,51,31904.0,Milan Badelj,3-5-2,Davide Massa,Match Report,0
+2023-11-01,15:00,Coppa Italia,Second round,Wed,Home,W,2,1,Reggiana,0.0,0.0,50,12427.0,Mattia Bani,3-4-3,Alberto Santoro,Match Report,Required Extra Time
+2023-11-05,15:00,Serie A,Matchweek 11,Sun,Away,L,1,2,Cagliari,1.0,0.9,58,16412.0,Milan Badelj,3-5-2,Marco Guida,Match Report,0
+2023-11-10,20:45,Serie A,Matchweek 12,Fri,Home,W,1,0,Hellas Verona,1.6,0.2,50,30421.0,Milan Badelj,3-5-2,Daniele Orsato,Match Report,0
+2023-11-26,15:00,Serie A,Matchweek 13,Sun,Away,L,1,2,Frosinone,1.3,0.6,43,14018.0,Milan Badelj,3-5-2,Luca Zufferli,Match Report,0
+2023-12-02,15:00,Serie A,Matchweek 14,Sat,Home,D,1,1,Empoli,1.0,0.8,50,30747.0,Milan Badelj,3-5-2,Gianluca Aureliano,Match Report,0
+2023-12-05,21:00,Coppa Italia,Round of 16,Tue,Away,L,0,1,Lazio,0.0,0.0,45,38012.0,Filip Jagiełło,3-5-1-1,Juan Sacchi,Match Report,0
+2023-12-10,15:00,Serie A,Matchweek 15,Sun,Away,L,0,1,Monza,1.4,0.4,49,13283.0,Milan Badelj,3-5-2,Giuseppe Collu,Match Report,0
+2023-12-15,20:45,Serie A,Matchweek 16,Fri,Home,D,1,1,Juventus,0.8,1.7,43,33232.0,Milan Badelj,5-3-2,Davide Massa,Match Report,0
+2023-12-22,18:30,Serie A,Matchweek 17,Fri,Away,W,2,1,Sassuolo,1.6,1.4,57,11745.0,Milan Badelj,3-4-1-2,Marco Guida,Match Report,0
+2023-12-29,20:45,Serie A,Matchweek 18,Fri,Home,D,1,1,Inter,0.5,1.8,48,33249.0,Milan Badelj,3-5-2,Daniele Doveri,Match Report,0
+2024-01-05,20:45,Serie A,Matchweek 19,Fri,Away,D,1,1,Bologna,0.1,1.3,29,25095.0,Milan Badelj,3-5-2,Andrea Colombo,Match Report,0
+2024-01-13,15:00,Serie A,Matchweek 20,Sat,Home,D,0,0,Torino,0.5,0.4,44,33019.0,Milan Badelj,3-5-2,Antonio Giua,Match Report,0
+2024-01-21,18:00,Serie A,Matchweek 21,Sun,Away,W,2,1,Salernitana,1.1,0.8,40,17440.0,Milan Badelj,4-4-2,Daniele Orsato,Match Report,0
+2024-01-28,12:30,Serie A,Matchweek 22,Sun,Home,W,2,1,Lecce,1.7,1.8,49,32152.0,Mattia Bani,3-5-2,Luca Pairetto,Match Report,0
+2024-02-03,15:00,Serie A,Matchweek 23,Sat,Away,D,0,0,Empoli,0.6,0.6,51,10374.0,Milan Badelj,3-5-2,Ermanno Feliciani,Match Report,0
+2024-02-11,18:00,Serie A,Matchweek 24,Sun,Home,L,1,4,Atalanta,0.8,2.1,55,31201.0,Milan Badelj,3-5-2,Andrea Colombo,Match Report,0
+2024-02-17,15:00,Serie A,Matchweek 25,Sat,Away,D,1,1,Napoli,0.3,1.4,26,47000.0,Milan Badelj,3-5-2,Juan Sacchi,Match Report,0
+2024-02-24,20:45,Serie A,Matchweek 26,Sat,Home,W,2,0,Udinese,1.3,0.3,65,31126.0,Milan Badelj,3-5-2,Francesco Fourneau,Match Report,0
+2024-03-04,20:45,Serie A,Matchweek 27,Mon,Away,L,1,2,Inter,0.8,1.8,38,75421.0,Milan Badelj,3-5-2,Giovanni Ayroldi,Match Report,0
+2024-03-09,20:45,Serie A,Matchweek 28,Sat,Home,L,2,3,Monza,2.1,1.7,62,0.0,Milan Badelj,3-5-2,Ermanno Feliciani,Match Report,0
+2024-03-17,12:30,Serie A,Matchweek 29,Sun,Away,D,0,0,Juventus,0.2,1.0,34,40098.0,Milan Badelj,3-4-3,Antonio Giua,Match Report,0
+2024-03-30,15:00,Serie A,Matchweek 30,Sat,Home,D,1,1,Frosinone,1.5,0.8,47,31462.0,Milan Badelj,3-5-2,Juan Sacchi,Match Report,0
+2024-04-07,18:00,Serie A,Matchweek 31,Sun,Away,W,2,1,Hellas Verona,2.2,1.3,39,20342.0,Milan Badelj,3-5-2,Gianluca Manganiello,Match Report,0
+2024-04-15,18:30,Serie A,Matchweek 32,Mon,Away,D,1,1,Fiorentina,1.3,1.5,41,25120.0,Milan Badelj,3-5-2,Davide Di Marco,Match Report,0
+2024-04-19,18:30,Serie A,Matchweek 33,Fri,Home,L,0,1,Lazio,0.5,1.0,39,30697.0,Kevin Strootman,3-5-2,Ermanno Feliciani,Match Report,0
+2024-04-29,20:45,Serie A,Matchweek 34,Mon,Home,W,3,0,Cagliari,1.2,1.1,62,17257.0,Milan Badelj,3-5-2,Federico Dionisi,Match Report,0
+2024-05-05,18:00,Serie A,Matchweek 35,Sun,Away,D,3,3,Milan,1.0,2.8,41,73901.0,Milan Badelj,3-5-2,Alessandro Prontera,Match Report,0
+2024-05-12,15:00,Serie A,Matchweek 36,Sun,Home,W,2,1,Sassuolo,0.9,1.7,58,31412.0,Milan Badelj,3-5-2,Maurizio Mariani,Match Report,0
+2024-05-19,20:45,Serie A,Matchweek 37,Sun,Away,L,0,1,Roma,0.5,0.8,46,67334.0,Milan Badelj,3-5-2,Gianluca Manganiello,Match Report,0
+2024-05-24,20:45,Serie A,Matchweek 38,Fri,Home,W,2,0,Bologna,1.5,1.0,27,32255.0,Alessandro Vogliacco,3-5-2,Alberto Santoro,Match Report,0

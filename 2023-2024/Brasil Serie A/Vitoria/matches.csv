@@ -1,0 +1,39 @@
+D a t e,T i m e,C o m p,R o u n d,D a y,V e n u e,R e s u l t,G F,G A,O p p o n e n t,x G,x G A,P o s s,A t t e n d a n c e,C a p t a i n,F o r m a t i o n,R e f e r e e,M a t c h   R e p o r t,N o t e s
+2024-04-14,18:30,Série A,Matchweek 1,Sun,Home,L,0.0,1.0,Palmeiras,1.4,0.8,56.0,30644.0,Zeca,4-3-3,Braulio Machado,Match Report,0.0
+2024-04-21,16:00,Série A,Matchweek 3,Sun,Home,D,2.0,2.0,Bahia,1.6,2.5,42.0,27609.0,Zeca,4-4-1-1,Raphael Claus,Match Report,0.0
+2024-04-28,16:00,Série A,Matchweek 4,Sun,Away,L,1.0,3.0,Cruzeiro,0.3,1.2,47.0,20083.0,Zeca,4-4-2,Fabio Augusto de Sá Junior,Match Report,0.0
+2024-05-05,16:00,Série A,Matchweek 5,Sun,Home,L,1.0,3.0,São Paulo,0.2,2.9,34.0,25739.0,Zeca,3-4-1-2,Ramon Abatti,Match Report,0.0
+2024-05-12,18:30,Série A,Matchweek 6,Sun,Away,L,1.0,2.0,Vasco da Gama,1.7,1.7,44.0,11084.0,Camutanga,3-4-1-2,Raphael Claus,Match Report,0.0
+2024-06-01,16:00,Série A,Matchweek 7,Sat,Home,L,0.0,2.0,Atl Goianiense,0.5,1.2,34.0,16008.0,Wagner,4-4-2,Kleber Ariel Goncalves Silva,Match Report,0.0
+2024-06-05,19:00,Série A,Matchweek 2,Wed,Away,D,0.0,0.0,Cuiabá,1.0,0.4,46.0,3614.0,Wagner,4-1-4-1,Wilton Pereira Sampaio,Match Report,0.0
+2024-06-11,19:00,Série A,Matchweek 8,Tue,Away,D,1.0,1.0,Juventude,0.5,0.7,40.0,0.0,Wagner,4-1-4-1,Wagner do Nascimento Magalhães,Match Report,0.0
+2024-06-16,16:00,Série A,Matchweek 9,Sun,Home,W,2.0,1.0,Internacional,1.5,1.2,41.0,0.0,Wagner,4-1-4-1,Bruno Arleu,Match Report,0.0
+2024-06-20,18:30,Série A,Matchweek 10,Thu,Home,0,0.0,0.0,Atlético Mineiro,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0.0
+2024-06-23,18:30,Série A,Matchweek 11,Sun,Away,0,0.0,0.0,Red Bull Bragantino,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0.0
+2024-06-27,19:00,Série A,Matchweek 12,Thu,Away,0,0.0,0.0,Fluminense,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0.0
+2024-06-30,18:30,Série A,Matchweek 13,Sun,Home,0,0.0,0.0,Ath Paranaense,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0.0
+2024-07-04,20:00,Série A,Matchweek 14,Thu,Away,0,0.0,0.0,Corinthians,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0.0
+2024-07-07,18:30,Série A,Matchweek 15,Sun,Home,0,0.0,0.0,Criciúma,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0.0
+2024-07-10,0,Série A,Matchweek 16,Wed,Home,0,0.0,0.0,Botafogo (RJ),0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0.0
+2024-07-17,0,Série A,Matchweek 17,Wed,Away,0,0.0,0.0,Fortaleza,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0.0
+2024-07-20,0,Série A,Matchweek 18,Sat,Away,0,0.0,0.0,Grêmio,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0.0
+2024-07-24,0,Série A,Matchweek 19,Wed,Home,0,0.0,0.0,Flamengo,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0.0
+2024-07-27,0,Série A,Matchweek 20,Sat,Away,0,0.0,0.0,Palmeiras,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0.0
+2024-08-03,0,Série A,Matchweek 21,Sat,Home,0,0.0,0.0,Cuiabá,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0.0
+2024-08-10,0,Série A,Matchweek 22,Sat,Away,0,0.0,0.0,Bahia,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0.0
+2024-08-17,0,Série A,Matchweek 23,Sat,Home,0,0.0,0.0,Cruzeiro,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0.0
+2024-08-24,0,Série A,Matchweek 24,Sat,Away,0,0.0,0.0,São Paulo,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0.0
+2024-08-31,0,Série A,Matchweek 25,Sat,Home,0,0.0,0.0,Vasco da Gama,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0.0
+2024-09-14,0,Série A,Matchweek 26,Sat,Away,0,0.0,0.0,Atl Goianiense,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0.0
+2024-09-21,0,Série A,Matchweek 27,Sat,Home,0,0.0,0.0,Juventude,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0.0
+2024-09-28,0,Série A,Matchweek 28,Sat,Away,0,0.0,0.0,Internacional,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0.0
+2024-10-04,0,Série A,Matchweek 29,Fri,Away,0,0.0,0.0,Atlético Mineiro,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0.0
+2024-10-19,0,Série A,Matchweek 30,Sat,Home,0,0.0,0.0,Red Bull Bragantino,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0.0
+2024-10-25,0,Série A,Matchweek 31,Fri,Home,0,0.0,0.0,Fluminense,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0.0
+2024-11-06,0,Série A,Matchweek 32,Wed,Away,0,0.0,0.0,Ath Paranaense,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0.0
+2024-11-13,0,Série A,Matchweek 33,Wed,Home,0,0.0,0.0,Corinthians,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0.0
+2024-11-20,0,Série A,Matchweek 34,Wed,Away,0,0.0,0.0,Criciúma,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0.0
+2024-11-23,0,Série A,Matchweek 35,Sat,Away,0,0.0,0.0,Botafogo (RJ),0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0.0
+2024-11-30,0,Série A,Matchweek 36,Sat,Home,0,0.0,0.0,Fortaleza,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0.0
+2024-12-04,0,Série A,Matchweek 37,Wed,Home,0,0.0,0.0,Grêmio,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0.0
+2024-12-08,0,Série A,Matchweek 38,Sun,Away,0,0.0,0.0,Flamengo,0.0,0.0,0.0,0.0,0,0,0,Head-to-Head,0.0

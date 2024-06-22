@@ -1,0 +1,28 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Manuel Riemann,de GER,GK,34.0,33.0,1715,1313,393,184,0,8,4,0,0,0,0,0,1031,9,0,Matches
+Bernardo,br BRA,DF,28.0,32.5,1622,1356,259,12,0,4,30,233,0,0,0,0,1167,7,34,Matches
+Kevin Stöger,at AUT,MF,29.0,29.6,2028,1650,362,156,16,12,258,40,110,42,60,1,1363,16,55,Matches
+Anthony Losilla,fr FRA,MF,37.0,28.6,896,881,13,4,2,3,6,2,0,0,0,0,649,2,21,Matches
+Takuma Asano,jp JPN,"FW,MF",28.0,22.1,397,383,12,1,1,0,37,2,1,0,0,0,262,2,26,Matches
+Erhan Mašović,rs SRB,"DF,MF",24.0,24.7,732,692,39,20,2,4,5,18,0,0,0,0,570,1,9,Matches
+Keven Schlotterbeck,de GER,DF,26.0,24.3,1027,970,51,18,0,2,12,5,0,0,0,0,802,6,5,Matches
+Ivan Ordets,ua UKR,DF,31.0,20.9,653,641,9,7,0,3,1,2,0,0,0,0,473,3,5,Matches
+Patrick Osterhage,de GER,MF,23.0,20.7,835,812,20,10,5,1,20,7,3,1,0,0,658,3,27,Matches
+Matúš Bero,sk SVK,"MF,FW",27.0,18.5,535,502,28,3,7,1,16,23,0,0,0,0,355,5,20,Matches
+Philipp Hofmann,de GER,FW,30.0,17.5,416,403,11,0,1,0,3,0,0,0,0,0,266,2,9,Matches
+Moritz Broschinski,de GER,FW,22.0,13.9,223,215,5,0,0,0,12,0,0,0,0,0,135,3,10,Matches
+Maximilian Wittek,de GER,"DF,FW",27.0,11.9,499,393,100,8,1,3,51,71,15,3,9,0,312,6,13,Matches
+Felix Passlack,de GER,DF,25.0,10.7,414,310,99,0,2,1,40,98,1,0,1,0,262,5,24,Matches
+Cristian Gamboa,cr CRC,DF,33.0,13.2,475,383,91,3,0,3,23,88,0,0,0,0,350,1,6,Matches
+Christopher Antwi-Adjei,gh GHA,"FW,MF",29.0,13.5,454,343,108,1,1,1,55,106,0,0,0,0,274,3,21,Matches
+Tim Oermann,de GER,DF,19.0,7.9,262,196,63,1,0,1,8,62,0,0,0,0,181,3,7,Matches
+Gonçalo Paciência,pt POR,"FW,MF",28.0,7.2,176,161,12,3,1,1,10,2,2,1,1,0,111,3,11,Matches
+Lukas Daschner,de GER,"MF,FW",24.0,6.0,179,164,14,4,2,2,20,2,8,6,0,0,107,1,9,Matches
+Philipp Förster,de GER,"MF,FW",28.0,4.3,208,183,24,12,0,0,28,0,11,5,5,0,156,1,4,Matches
+Danilo Soares,br BRA,DF,31.0,3.9,179,131,48,1,1,0,3,46,1,0,0,0,124,0,3,Matches
+Noah Loosli,ch SUI,DF,26.0,3.8,127,120,6,1,0,0,2,5,0,0,0,0,81,1,4,Matches
+Moritz-Broni Kwarteng,gh GHA,FW,25.0,3.1,94,91,3,0,0,0,5,1,2,0,1,0,67,0,1,Matches
+Andreas Luthe,de GER,GK,36.0,1.0,49,37,12,5,0,0,0,0,0,0,0,0,25,0,0,Matches
+Simon Zoller,de GER,"FW,MF",32.0,0.5,8,6,2,0,0,0,0,0,0,0,0,0,5,0,1,Matches
+Squad Total,0,0,29.1,34.0,14203,12336,1784,454,42,50,649,813,154,58,77,1,9786,83,325,0
+Opponent Total,0,0,26.5,34.0,16555,14631,1865,506,51,101,668,755,198,87,85,2,12224,59,367,0

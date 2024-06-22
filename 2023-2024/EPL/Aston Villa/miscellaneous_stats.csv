@@ -1,0 +1,34 @@
+Player,Nation,Pos,Age,90s,Performance CrdY,Performance CrdR,Performance 2CrdY,Performance Fls,Performance Fld,Performance Off,Performance Crs,Performance Int,Performance TklW,Performance PKwon,Performance PKcon,Performance OG,Performance Recov,Aerial Duels Won,Aerial Duels Lost,Aerial Duels Won%,Matches
+Ollie Watkins,eng ENG,FW,27.0,35.7,4,0,0,22,41,16,13,4,7,2,0,0,64,49,80,38.0,Matches
+Ezri Konsa,eng ENG,DF,25.0,34.1,5,0,0,14,64,0,17,28,32,1,1,0,142,30,14,68.2,Matches
+John McGinn,sct SCO,"MF,FW",28.0,33.3,9,1,0,39,69,2,74,21,35,0,0,0,161,9,19,32.1,Matches
+Douglas Luiz,br BRA,MF,25.0,33.3,12,0,0,51,41,0,115,23,38,0,0,0,184,25,18,58.1,Matches
+Emiliano Martínez,ar ARG,GK,30.0,33.5,4,0,0,1,7,0,0,0,0,0,0,2,48,5,0,100.0,Matches
+Pau Torres,es ESP,DF,26.0,27.4,1,0,0,18,10,2,8,14,18,0,0,0,127,23,22,51.1,Matches
+Lucas Digne,fr FRA,DF,30.0,26.8,7,0,0,29,30,3,154,26,19,0,0,0,101,42,24,63.6,Matches
+Moussa Diaby,fr FRA,"FW,MF",24.0,24.2,1,0,0,16,15,6,45,9,5,0,0,0,62,2,15,11.8,Matches
+Matty Cash,pl POL,DF,25.0,23.8,8,0,0,30,22,0,39,18,31,0,1,1,110,15,21,41.7,Matches
+Leon Bailey,jm JAM,"MF,FW",25.0,23.0,5,0,0,26,26,11,75,9,7,0,0,0,107,14,24,36.8,Matches
+Diego Carlos,br BRA,DF,30.0,20.2,4,0,0,26,4,1,1,13,16,0,0,0,78,21,26,44.7,Matches
+Boubacar Kamara,fr FRA,MF,23.0,18.4,7,1,0,35,29,0,2,21,29,0,0,0,97,19,25,43.2,Matches
+Youri Tielemans,be BEL,"MF,FW",26.0,18.0,3,0,0,22,29,0,31,15,20,0,0,0,97,13,9,59.1,Matches
+Clément Lenglet,fr FRA,DF,28.0,12.8,3,0,0,3,12,0,3,7,9,0,0,0,37,15,11,57.7,Matches
+Álex Moreno,es ESP,DF,30.0,11.5,2,0,0,11,16,2,37,13,12,0,0,1,40,4,10,28.6,Matches
+Nicolò Zaniolo,it ITA,"FW,MF",24.0,9.3,7,0,0,24,21,0,18,1,9,0,0,0,36,7,14,33.3,Matches
+Jacob Ramsey,eng ENG,"FW,MF",22.0,9.5,2,0,0,7,12,0,11,3,8,0,0,0,42,5,3,62.5,Matches
+Morgan Rogers,eng ENG,"MF,FW",21.0,7.1,3,0,0,12,9,0,2,3,1,0,0,0,31,7,8,46.7,Matches
+Robin Olsen,se SWE,GK,33.0,4.5,0,0,0,0,2,0,0,0,0,0,0,0,4,2,0,100.0,Matches
+Jhon Durán,co COL,"FW,MF",19.0,5.3,5,0,0,12,8,4,6,1,5,1,0,0,15,20,12,62.5,Matches
+Tim Iroegbunam,eng ENG,MF,20.0,1.8,0,0,0,9,3,0,0,2,5,0,0,0,15,1,0,100.0,Matches
+Calum Chambers,eng ENG,"MF,DF",28.0,1.7,1,0,0,3,1,0,0,2,0,0,0,0,8,1,1,50.0,Matches
+Leander Dendoncker,be BEL,MF,28.0,1.3,0,0,0,1,1,0,0,2,4,0,0,0,4,4,5,44.4,Matches
+Tyrone Mings,eng ENG,DF,30.0,0.3,0,0,0,0,0,0,0,1,0,0,0,0,2,1,0,100.0,Matches
+Omari Kellyman,eng ENG,FW,17.0,0.4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0.0,Matches
+Philippe Coutinho,br BRA,"MF,FW",31.0,0.3,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,Matches
+Bertrand Traoré,bf BFA,"DF,FW",27.0,0.1,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0.0,Matches
+Cameron Archer,eng ENG,MF,22.0,0.1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0.0,Matches
+Kaine Kesler-Hayden,eng ENG,"MF,DF",20.0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,Matches
+Finley Munroe,eng ENG,MF,18.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,Matches
+Jaden Philogene Bidace,eng ENG,FW,21.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,Matches
+Squad Total,0,0,26.9,38.0,94,2,0,412,473,47,651,236,311,4,2,4,1619,334,363,47.9,0
+Opponent Total,0,0,26.2,38.0,94,4,2,483,394,167,542,304,435,2,4,4,1825,363,334,52.1,0

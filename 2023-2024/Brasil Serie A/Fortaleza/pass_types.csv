@@ -1,0 +1,29 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+João Ricardo Riedi,br BRA,GK,35-288,9.0,227,136,89,19,0,2,0,0,0,0,0,0,147,2,0,Matches
+Guilherme Tinga,br BRA,DF,30-293,8.1,443,364,77,10,0,3,20,67,0,0,0,0,338,2,12,Matches
+Titi,br BRA,DF,36-100,7.0,253,235,18,17,0,0,0,1,0,0,0,0,212,0,2,Matches
+Hércules,br BRA,"MF,FW",23-244,6.5,249,245,1,1,0,2,5,0,0,0,0,0,203,3,9,Matches
+Breno,br BRA,FW,28-148,5.4,175,171,3,1,0,0,14,0,2,2,0,0,143,1,0,Matches
+Tomas Pochettino,ar ARG,"MF,FW",28-140,5.5,216,188,27,11,1,6,35,1,14,2,11,1,153,1,8,Matches
+Emanuel Brítez,ar ARG,DF,32-086,5.5,192,181,10,7,0,2,0,3,0,0,0,0,148,1,1,Matches
+Pedro Borges,br BRA,MF,27-109,5.4,235,232,3,2,1,2,1,1,0,0,0,0,193,0,2,Matches
+Felipe Jonatan,br BRA,DF,26-126,4.6,223,185,36,9,0,0,14,27,0,0,0,0,171,2,5,Matches
+Renato Kayser,br BRA,FW,28-124,4.3,77,67,10,2,1,0,1,0,0,0,0,0,57,0,0,Matches
+Bruno Pacheco,br BRA,DF,32-195,4.4,178,139,36,4,0,1,6,32,0,0,0,0,123,3,4,Matches
+Juan Martín Lucero,ar ARG,FW,32-203,4.3,70,61,8,0,1,0,3,0,0,0,0,0,52,1,4,Matches
+José Welison,br BRA,MF,29-101,4.0,166,156,10,9,1,2,5,1,0,0,0,0,139,0,3,Matches
+Yago Pikachu,br BRA,"FW,DF",32-015,3.9,112,102,10,1,0,0,14,3,6,0,2,0,86,0,6,Matches
+Tomás Cardona,ar ARG,DF,28-254,3.0,179,177,2,2,0,0,0,0,0,0,0,0,142,0,1,Matches
+Benjamín Kuscevic,cl CHI,DF,28-049,3.0,124,116,7,7,0,2,0,0,0,0,0,0,99,1,2,Matches
+Leandro Emmanuel Martínez,ar ARG,MF,30-016,2.7,141,131,10,2,0,0,11,2,6,1,4,0,120,0,2,Matches
+Marinho,br BRA,"FW,DF",34-022,2.7,79,65,14,3,0,0,11,1,10,3,2,1,51,0,5,Matches
+Imanol Machuca,ar ARG,"FW,MF",24-157,2.5,88,74,14,1,0,1,19,1,11,6,5,0,59,0,8,Matches
+Matheus Rossetto,br BRA,MF,28-017,1.3,81,78,2,1,0,0,0,1,0,0,0,0,71,1,0,Matches
+Lucas Sasha,br BRA,MF,34-111,1.8,62,59,3,1,1,0,3,0,1,0,0,0,50,0,1,Matches
+Kervin Andrade,ve VEN,MF,19-068,0.8,23,20,3,0,0,0,4,0,3,2,0,0,14,0,1,Matches
+Moises,br BRA,FW,27-292,1.7,60,57,3,1,0,3,2,2,0,0,0,0,40,0,4,Matches
+Kauan,br BRA,MF,19-065,0.4,11,11,0,0,0,0,0,0,0,0,0,0,11,0,0,Matches
+Calebe,br BRA,FW,24-051,0.2,5,5,0,0,0,0,1,0,0,0,0,0,4,0,0,Matches
+Pedro Rocha Neves,br BRA,MF,29-264,0.1,5,4,1,0,0,1,1,0,1,1,0,0,4,0,0,Matches
+Squad Total,0,0,30.2,9.0,3674,3259,397,111,6,27,170,143,54,17,24,2,2830,18,80,0
+Opponent Total,0,0,27.5,9.0,4898,4472,414,116,13,26,166,169,53,10,29,1,4039,12,88,0

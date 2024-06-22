@@ -1,0 +1,41 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Yvon Mvogo,ch SUI,GK,29.0,34.0,1149,835,314,86,0,1,0,0,0,0,0,0,869,0,1,Matches
+Laurent Abergel,fr FRA,MF,30.0,31.8,1836,1743,88,68,6,13,34,14,0,0,0,0,1551,5,25,Matches
+Julien Ponceau,fr FRA,MF,22.0,24.9,1200,1126,66,26,2,4,49,16,23,8,15,0,1014,8,29,Matches
+Montassar Talbi,tn TUN,DF,25.0,24.5,1188,1147,35,22,0,5,3,5,0,0,0,0,1008,6,6,Matches
+Souleymane Touré,fr FRA,DF,20.0,22.8,1280,1215,61,28,1,3,5,2,0,0,0,0,1144,4,8,Matches
+Julien Laporte,fr FRA,DF,29.0,20.2,1023,975,45,20,0,5,1,1,0,0,0,0,883,3,5,Matches
+Romain Faivre,fr FRA,"MF,FW",25.0,16.1,601,546,54,19,2,2,38,4,25,11,3,0,495,1,9,Matches
+Théo Le Bris,fr FRA,"DF,MF",20.0,16.8,680,602,75,2,0,1,33,68,3,2,0,0,531,3,16,Matches
+Tiemoué Bakayoko,fr FRA,MF,28.0,14.6,637,619,17,16,1,3,1,1,0,0,0,0,550,1,11,Matches
+Nathaniel Adjei,gh GHA,DF,20.0,13.8,669,628,40,27,0,3,2,11,0,0,0,0,578,1,5,Matches
+Mohamed Bamba,ci CIV,FW,21.0,12.6,256,228,25,0,0,0,2,1,0,0,0,0,185,3,14,Matches
+Formose Mendy,sn SEN,DF,22.0,14.0,739,658,80,35,0,18,13,44,0,0,0,0,587,1,11,Matches
+Panos Katseris,gr GRE,DF,22.0,11.6,393,307,86,2,0,0,45,83,1,0,0,0,275,0,20,Matches
+Ayman Kari,fr FRA,MF,18.0,9.9,386,384,1,1,4,2,1,0,0,0,0,0,338,1,11,Matches
+Darlin Yongwa,cm CMR,DF,22.0,12.9,614,499,112,11,1,0,76,100,1,0,1,0,421,3,29,Matches
+Eli Junior Kroupi,fr FRA,"FW,MF",17.0,12.0,279,239,38,3,3,0,14,4,9,3,3,0,216,2,8,Matches
+Gedeon Kalulu,cd COD,DF,25.0,10.8,528,456,70,7,0,5,21,63,0,0,0,0,433,2,17,Matches
+Tosin Aiyegun,bj BEN,"MF,FW",25.0,10.0,203,193,7,0,0,0,8,1,0,0,0,0,154,3,4,Matches
+Imran Louza,ma MAR,MF,24.0,9.6,583,493,87,37,1,4,53,6,37,19,13,0,465,3,4,Matches
+Vincent Le Goff,fr FRA,"DF,MF",33.0,6.0,322,280,40,3,1,0,18,34,3,1,2,0,252,2,7,Matches
+Benjamin Mendy,fr FRA,DF,29.0,7.9,468,364,101,25,0,1,96,59,17,6,10,0,318,3,12,Matches
+Bamba Dieng,sn SEN,FW,23.0,6.1,117,99,18,0,0,0,5,1,0,0,0,0,90,0,2,Matches
+Jean-Victor Makengo,fr FRA,"MF,FW",25.0,5.3,277,271,6,4,0,2,5,1,1,0,0,0,244,0,6,Matches
+Siriné Doucouré,ml MLI,FW,21.0,4.7,94,87,7,0,2,1,1,0,0,0,0,0,71,0,1,Matches
+Badredine Bouanani,dz ALG,MF,18.0,4.9,180,161,18,6,0,4,10,6,6,3,1,0,146,1,8,Matches
+Bonke Innocent,ng NGA,MF,27.0,2.3,96,95,1,1,0,0,0,0,0,0,0,0,91,0,1,Matches
+Pablo Pagis,fr FRA,MF,20.0,1.8,61,58,3,0,0,1,2,0,3,1,0,0,46,0,0,Matches
+Igor Carioca,br BRA,"DF,MF",26.0,2.9,162,134,28,4,1,1,10,24,0,0,0,0,115,0,15,Matches
+Joel Mvuka,no NOR,"DF,FW",20.0,2.2,49,41,8,2,0,0,12,1,5,2,3,0,33,0,2,Matches
+Bamo Meïté,ci CIV,DF,21.0,1.6,56,54,2,1,0,0,0,1,0,0,0,0,48,0,1,Matches
+Loris Mouyokolo,fr FRA,DF,22.0,1.0,55,54,1,1,0,0,0,0,0,0,0,0,48,0,1,Matches
+Aurélien Pelon,fr FRA,DF,19.0,1.0,33,33,0,0,0,0,0,0,0,0,0,0,26,0,0,Matches
+Bassirou Ndiaye,sn SEN,FW,21.0,1.7,39,36,3,0,0,0,1,0,1,1,0,0,27,0,2,Matches
+Dembo Sylla,gn GUI,DF,20.0,0.5,22,18,4,0,0,1,4,4,0,0,0,0,19,0,1,Matches
+Ibrahima Koné,ml MLI,FW,24.0,0.4,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+Adrian Grbić,at AUT,FW,26.0,0.3,13,10,3,1,0,0,1,0,0,0,0,0,7,0,0,Matches
+Royce Openda Owaga,ga GAB,FW,21.0,0.2,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+Gino Caoki,fr FRA,MF,19.0,0.1,4,3,1,1,0,0,1,0,0,0,0,0,2,0,0,Matches
+Squad Total,0,0,24.7,34.0,16298,14697,1545,459,25,80,565,555,135,57,51,0,13284,56,292,0
+Opponent Total,0,0,25.9,34.0,19172,17645,1489,431,24,90,733,590,191,79,75,1,15949,38,313,0

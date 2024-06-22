@@ -1,0 +1,6 @@
+Player,Nation,Pos,Age,Playing Time MP,Playing Time Starts,Playing Time Min,Playing Time 90s,Performance GA,Performance GA90,Performance SoTA,Performance Saves,Performance Save%,Performance W,Performance D,Performance L,Performance CS,Performance CS%,Penalty Kicks PKatt,Penalty Kicks PKA,Penalty Kicks PKsv,Penalty Kicks PKm,Penalty Kicks Save%,Matches
+Sam Johnstone,eng ENG,GK,30.0,20,20,1796,20.0,27,1.35,67,41,62.7,5,6,9,6,30.0,2,2,0,0,0.0,Matches
+Dean Henderson,eng ENG,GK,26.0,18,18,1620,18.0,30,1.67,86,57,66.3,8,4,6,4,22.2,1,1,0,0,0.0,Matches
+Remi Matthews,eng ENG,GK,29.0,1,0,4,0.0,1,22.5,1,0,0.0,0,0,0,0,0.0,0,0,0,0,0.0,Matches
+Squad Total,0,0,26.7,38,38,3420,38.0,58,1.53,154,98,64.3,13,10,15,10,26.3,3,3,0,0,0.0,0
+Opponent Total,0,0,26.3,38,38,3420,38.0,57,1.5,166,110,68.1,15,10,13,7,18.4,4,4,0,0,0.0,0

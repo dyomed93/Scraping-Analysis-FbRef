@@ -1,0 +1,7 @@
+Player,Nation,Pos,Age,90s,Goals GA,Goals PKA,Goals FK,Goals CK,Goals OG,Expected PSxG,Expected PSxG/SoT,Expected PSxG+/-,Expected /90,Launched Cmp,Launched Att,Launched Cmp%,Passes Att (GK),Passes Thr,Passes Launch%,Passes AvgLen,Goal Kicks Att,Goal Kicks Launch%,Goal Kicks AvgLen,Crosses Opp,Crosses Stp,Crosses Stp%,Sweeper #OPA,Sweeper #OPA/90,Sweeper AvgDist,Matches
+Ivor Pandur,hr CRO,GK,23.0,16.0,28,2,1,2,1,25.9,0.31,-1.1,-0.07,89,247,36.0,426,65,37.3,34.2,125,70.4,51.1,225,23,10.2,13,0.81,12.9,Matches
+Michael Verrips,nl NED,GK,26.0,12.0,22,0,0,5,1,15.9,0.31,-5.1,-0.43,73,253,28.9,268,21,70.1,49.3,84,77.4,55.2,170,11,6.5,8,0.67,12.5,Matches
+Luuk Koopmans,nl NED,GK,29.0,5.0,6,0,0,1,0,7.1,0.38,1.1,0.22,28,105,26.7,116,15,62.1,45.4,35,94.3,66.7,56,7,12.5,9,1.8,21.3,Matches
+Tom Hendriks,nl NED,GK,21.0,1.0,0,0,0,0,0,0.3,0.09,0.3,0.28,4,10,40.0,19,6,36.8,34.0,5,60.0,51.0,11,3,27.3,2,2.0,19.8,Matches
+Squad Total,0,0,26.8,34.0,56,2,1,8,2,49.1,0.31,-4.9,-0.14,194,615,31.5,815,107,52.1,45.4,263,72.2,52.4,462,44,9.5,32,0.94,21.3,0
+Opponent Total,0,0,25.0,34.0,37,3,0,6,1,41.8,0.24,5.8,0.17,188,596,31.5,953,173,44.2,38.0,321,54.5,43.7,539,30,5.6,41,1.21,14.7,0

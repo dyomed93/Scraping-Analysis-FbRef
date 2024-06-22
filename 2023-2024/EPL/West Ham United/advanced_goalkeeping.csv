@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,90s,Goals GA,Goals PKA,Goals FK,Goals CK,Goals OG,Expected PSxG,Expected PSxG/SoT,Expected PSxG+/-,Expected /90,Launched Cmp,Launched Att,Launched Cmp%,Passes Att (GK),Passes Thr,Passes Launch%,Passes AvgLen,Goal Kicks Att,Goal Kicks Launch%,Goal Kicks AvgLen,Crosses Opp,Crosses Stp,Crosses Stp%,Sweeper #OPA,Sweeper #OPA/90,Sweeper AvgDist,Matches
+Alphonse Areola,fr FRA,GK,30.0,30.0,53,5,0,3,3,52.1,0.24,2.1,0.07,160,430,37.2,643,144,43.9,36.8,219,67.6,47.3,468,27,5.8,7,0.23,8.9,Matches
+Łukasz Fabiański,pl POL,GK,38.0,8.0,21,3,0,3,1,19.8,0.33,-0.2,-0.02,50,123,40.7,182,44,50.0,39.0,56,57.1,45.1,114,8,7.0,1,0.12,7.6,Matches
+Squad Total,0,0,28.3,38.0,74,8,0,6,4,72.0,0.26,2.0,0.05,210,553,38.0,793,188,46.8,0.0,307,59.3,43.4,582,35,6.0,8,0.21,0.0,0
+Opponent Total,0,0,26.1,38.0,60,4,0,12,2,53.5,0.33,-4.5,-0.12,132,401,32.9,1187,185,26.5,29.3,247,35.2,31.7,499,33,6.6,24,0.63,11.9,0

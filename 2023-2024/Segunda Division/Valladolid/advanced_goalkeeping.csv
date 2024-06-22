@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,90s,Goals GA,Goals PKA,Goals FK,Goals CK,Goals OG,Expected PSxG,Expected PSxG/SoT,Expected PSxG+/-,Expected /90,Launched Cmp,Launched Att,Launched Cmp%,Passes Att (GK),Passes Thr,Passes Launch%,Passes AvgLen,Goal Kicks Att,Goal Kicks Launch%,Goal Kicks AvgLen,Crosses Opp,Crosses Stp,Crosses Stp%,Sweeper #OPA,Sweeper #OPA/90,Sweeper AvgDist,Matches
+Jordi Masip,es ESP,GK,35-170,31.0,22,0,0,3,0,27.8,0.27,5.8,0.19,102,299,34.1,834,154,24.7,30.5,190,48.9,41.7,326,19,5.8,37,1.19,14.6,Matches
+John,br BRA,GK,28-129,11.0,14,1,0,1,0,14.4,0.33,0.4,0.04,45,123,36.6,297,42,33.0,32.7,68,36.8,36.5,120,2,1.7,29,2.64,19.5,Matches
+Squad Total,0,0,27.7,42.0,36,1,0,4,0,42.2,0.29,6.2,0.15,147,422,34.8,1121,196,27.1,0.0,268,44.0,39.2,446,21,4.7,66,1.57,0.0,0
+Opponent Total,0,0,27.6,42.0,51,1,1,10,2,54.4,0.3,5.4,0.13,252,740,34.1,1058,169,44.4,38.4,412,65.5,48.8,754,56,7.4,52,1.24,13.6,0

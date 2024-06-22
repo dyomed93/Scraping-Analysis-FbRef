@@ -1,0 +1,6 @@
+Player,Nation,Pos,Age,Playing Time MP,Playing Time Starts,Playing Time Min,Playing Time 90s,Performance GA,Performance GA90,Performance SoTA,Performance Saves,Performance Save%,Performance W,Performance D,Performance L,Performance CS,Performance CS%,Penalty Kicks PKatt,Penalty Kicks PKA,Penalty Kicks PKsv,Penalty Kicks PKm,Penalty Kicks Save%,Matches
+Guillermo Ochoa,mx MEX,GK,38.0,21,21,1890,21.0,44,2.1,115,72,67.8,0,6,15,1,4.8,7,7,0,0,0.0,Matches
+Benoît Costil,fr FRA,GK,36.0,13,13,1170,13.0,29,2.23,66,38,60.6,2,3,8,1,7.7,3,3,0,0,0.0,Matches
+Vincenzo Fiorillo,it ITA,GK,33.0,4,4,360,4.0,8,2.0,26,18,69.2,0,2,2,0,0.0,0,0,0,0,0.0,Matches
+Squad Total,0,0,27.3,38,38,3420,38.0,81,2.13,207,128,65.7,2,11,25,2,5.3,10,10,0,0,0.0,0
+Opponent Total,0,0,26.7,38,38,3420,38.0,32,0.84,120,88,75.0,25,11,2,15,39.5,2,2,0,0,0.0,0

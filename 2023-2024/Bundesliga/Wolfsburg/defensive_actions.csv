@@ -1,0 +1,31 @@
+Player,Nation,Pos,Age,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,Matches
+Jonas Wind,dk DEN,FW,24.0,29.5,13,10,4,6,3,7,17,41.2,10,13,4,9,3,16,21,0,Matches
+Maximilian Arnold,de GER,MF,29.0,27.8,51,31,15,27,9,28,57,49.1,29,23,4,19,24,75,60,0,Matches
+Joakim Mæhle,dk DEN,"DF,MF",26.0,27.2,62,39,33,18,11,41,64,64.1,23,43,5,38,29,91,65,0,Matches
+Maxence Lacroix,fr FRA,DF,23.0,26.2,48,29,28,18,2,29,41,70.7,12,35,12,23,24,72,121,0,Matches
+Koen Casteels,be BEL,GK,31.0,25.0,2,1,2,0,0,2,3,66.7,1,0,0,0,0,2,16,5,Matches
+Lovro Majer,hr CRO,"MF,FW",25.0,23.4,39,18,17,22,0,12,31,38.7,19,20,1,19,12,51,13,0,Matches
+Ridle Baku,de GER,"DF,MF",25.0,22.4,37,20,24,7,6,21,46,45.7,25,27,1,26,21,58,45,1,Matches
+Moritz Jenz,de GER,DF,24.0,19.4,34,24,21,11,2,14,21,66.7,7,29,17,12,26,60,94,0,Matches
+Mattias Svanberg,se SWE,MF,24.0,19.1,37,17,8,19,10,12,38,31.6,26,25,5,20,21,58,28,0,Matches
+Cedric Zesiger,ch SUI,DF,25.0,18.2,19,9,13,4,2,10,22,45.5,12,32,21,11,15,34,88,1,Matches
+Yannick Gerhardt,de GER,"MF,DF",29.0,18.1,31,20,16,12,3,9,32,28.1,23,15,2,13,7,38,35,0,Matches
+Sebastiaan Bornauw,be BEL,DF,24.0,15.9,26,12,19,7,0,13,19,68.4,6,21,12,9,18,44,81,0,Matches
+Kevin Paredes,us USA,"FW,MF",20.0,15.9,42,21,22,13,7,20,34,58.8,14,27,2,25,23,65,26,0,Matches
+Aster Vranckx,be BEL,MF,20.0,12.8,32,15,11,11,10,15,28,53.6,13,17,6,11,14,46,29,0,Matches
+Václav Černý,cz CZE,"FW,MF",25.0,10.2,8,3,3,4,1,2,14,14.3,12,13,0,13,8,16,6,0,Matches
+Tiago Tomás,pt POR,"FW,MF",21.0,11.5,5,2,3,0,2,1,6,16.7,5,13,0,13,3,8,9,0,Matches
+Rogério,br BRA,DF,25.0,10.1,14,6,7,5,2,10,14,71.4,4,16,5,11,5,19,23,1,Matches
+Pavao Pervan,at AUT,GK,35.0,9.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,4,0,Matches
+Patrick Wimmer,at AUT,"FW,MF",22.0,6.5,14,5,5,5,4,8,18,44.4,10,14,0,14,3,17,7,0,Matches
+Kevin Behrens,de GER,FW,32.0,6.8,2,1,0,1,1,0,2,0.0,2,9,0,9,3,5,6,0,Matches
+Jakub Kamiński,pl POL,"FW,MF",21.0,5.3,14,5,12,2,0,3,6,50.0,3,3,0,3,2,16,5,0,Matches
+Kilian Fischer,de GER,"DF,MF",22.0,3.2,8,6,4,3,1,2,5,40.0,3,8,1,7,1,9,12,0,Matches
+Nicolas Cozza,fr FRA,DF,24.0,3.1,8,6,4,4,0,2,7,28.6,5,3,0,3,4,12,6,0,Matches
+Amin Sarr,se SWE,"FW,MF",22.0,4.3,3,2,1,2,0,1,2,50.0,1,6,1,5,2,5,1,0,Matches
+Lukas Nmecha,de GER,FW,24.0,0.5,1,1,0,0,1,0,0,0.0,0,1,0,1,0,1,0,0,Matches
+Dženan Pejčinović,de GER,FW,18.0,0.4,0,0,0,0,0,0,0,0.0,0,1,0,1,0,0,0,0,Matches
+Bennit Bröger,de GER,FW,17.0,0.1,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Kofi Amoako,de GER,MF,18.0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Squad Total,0,0,25.6,34.0,550,303,272,201,77,262,527,49.7,265,414,99,315,268,818,801,8,0
+Opponent Total,0,0,26.4,34.0,496,300,239,199,58,235,437,53.8,202,401,103,298,274,770,631,9,0

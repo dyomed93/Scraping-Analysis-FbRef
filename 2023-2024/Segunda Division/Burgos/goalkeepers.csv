@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,Playing Time MP,Playing Time Starts,Playing Time Min,Playing Time 90s,Performance GA,Performance GA90,Performance SoTA,Performance Saves,Performance Save%,Performance W,Performance D,Performance L,Performance CS,Performance CS%,Penalty Kicks PKatt,Penalty Kicks PKA,Penalty Kicks PKsv,Penalty Kicks PKm,Penalty Kicks Save%,Matches
+Churripi,es ESP,GK,30-049,41,41,3690,41.0,53,1.29,163,110,71.8,16,10,15,14,34.1,8,7,0,1,0.0,Matches
+Loic Badiashile,fr FRA,GK,26-137,1,1,90,1.0,1,1.0,5,4,80.0,0,1,0,0,0.0,0,0,0,0,0.0,Matches
+Squad Total,0,0,28.2,42,42,3780,42.0,54,1.29,168,114,72.0,16,11,15,14,33.3,8,7,0,1,0.0,0
+Opponent Total,0,0,27.6,42,42,3780,42.0,52,1.24,178,128,74.2,15,11,16,11,26.2,8,6,1,1,14.3,0

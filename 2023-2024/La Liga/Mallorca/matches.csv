@@ -1,0 +1,47 @@
+D a t e,T i m e,C o m p,R o u n d,D a y,V e n u e,R e s u l t,G F,G A,O p p o n e n t,x G,x G A,P o s s,A t t e n d a n c e,C a p t a i n,F o r m a t i o n,R e f e r e e,M a t c h   R e p o r t,N o t e s
+2023-08-12,18:30,La Liga,Matchweek 1,Sat,Away,D,1,1,Las Palmas,1.6,0.9,32,24100,Dani Rodríguez,5-3-2,Víctor García,Match Report,0
+2023-08-18,19:30,La Liga,Matchweek 2,Fri,Home,L,0,1,Villarreal,0.4,1.8,40,17775,Antonio Raillo,5-3-2,Javier Alberola,Match Report,0
+2023-08-26,19:30,La Liga,Matchweek 3,Sat,Away,L,2,3,Granada,2.6,1.4,47,16368,Dani Rodríguez,5-3-2,Francisco Hernández,Match Report,0
+2023-09-03,16:15,La Liga,Matchweek 4,Sun,Home,D,0,0,Athletic Club,0.4,0.6,33,17043,Dani Rodríguez,5-3-2,Jorge Figueroa,Match Report,0
+2023-09-16,18:30,La Liga,Matchweek 5,Sat,Away,W,1,0,Celta Vigo,0.8,1.3,40,18693,Dani Rodríguez,5-4-1,José Luis Munuera,Match Report,0
+2023-09-23,14:00,La Liga,Matchweek 6,Sat,Away,L,3,5,Girona,1.8,3.2,44,11511,Dani Rodríguez,5-4-1,Pablo González,Match Report,0
+2023-09-26,21:30,La Liga,Matchweek 7,Tue,Home,D,2,2,Barcelona,0.8,1.9,31,19939,Dani Rodríguez,5-3-2,Alejandro Muñíz,Match Report,0
+2023-09-30,16:15,La Liga,Matchweek 8,Sat,Away,D,2,2,Rayo Vallecano,1.5,2.3,40,11991,Dani Rodríguez,4-4-2,Mario Melero,Match Report,0
+2023-10-07,18:30,La Liga,Matchweek 9,Sat,Home,D,1,1,Valencia,0.6,0.5,49,17659,Dani Rodríguez,4-4-2,Francisco Hernández,Match Report,0
+2023-10-21,14:00,La Liga,Matchweek 10,Sat,Away,L,0,1,Real Sociedad,1.9,1.3,44,31279,Dani Rodríguez,5-3-2,Jorge Figueroa,Match Report,0
+2023-10-28,18:30,La Liga,Matchweek 11,Sat,Home,D,0,0,Getafe,0.9,0.2,59,15310,Dani Rodríguez,4-4-2,Pablo González,Match Report,0
+2023-11-01,18:30,Copa del Rey,First round,Wed,Away,W,4,0,Boiro,0.0,0.0,73,2000,Abdón Prats,4-4-2,Alberola Rojas,Match Report,0
+2023-11-04,16:15,La Liga,Matchweek 12,Sat,Away,L,0,2,Betis,0.6,2.2,43,50909,Antonio Raillo,5-3-2,Miguel Ángel Ortiz Arias,Match Report,0
+2023-11-25,21:00,La Liga,Matchweek 14,Sat,Away,L,0,1,Atlético Madrid,1.1,1.7,32,58119,Dani Rodríguez,5-4-1,Juan Martínez,Match Report,0
+2023-11-29,21:00,La Liga,Matchweek 13,Wed,Home,D,1,1,Cádiz,1.1,0.3,67,13821,Antonio Raillo,5-3-2,Javier Villanueva,Match Report,0
+2023-12-03,14:00,La Liga,Matchweek 15,Sun,Home,D,0,0,Alavés,0.8,0.3,63,15090,Antonio Raillo,4-2-3-1,Jorge Figueroa,Match Report,0
+2023-12-06,19:00,Copa del Rey,Second round,Wed,Away,W,3,0,Valle Egüés,0.0,0.0,71,1400,Dani Rodríguez,3-4-3,Ricardo de Burgos,Match Report,0
+2023-12-09,21:00,La Liga,Matchweek 16,Sat,Home,W,1,0,Sevilla,0.5,0.6,35,16041,Antonio Raillo,3-5-1-1,Javier Alberola,Match Report,0
+2023-12-17,14:00,La Liga,Matchweek 17,Sun,Away,D,0,0,Almería,1.9,0.3,47,11936,Antonio Raillo,3-4-3,Pablo González,Match Report,0
+2023-12-21,21:30,La Liga,Matchweek 18,Thu,Home,W,3,2,Osasuna,1.1,1.6,42,14192,Antonio Raillo,3-4-3,Mario Melero,Match Report,0
+2024-01-03,19:15,La Liga,Matchweek 19,Wed,Away,L,0,1,Real Madrid,0.6,1.7,33,72394,Antonio Raillo,5-4-1,Alejandro Muñíz,Match Report,0
+2024-01-07,12:00,Copa del Rey,Round of 32,Sun,Away,W,3,0,Burgos,0.0,0.0,54,10653,Abdón Prats,3-4-3,Isidro Díaz de Mera,Match Report,0
+2024-01-13,16:15,La Liga,Matchweek 20,Sat,Home,D,1,1,Celta Vigo,1.8,0.6,57,21130,Antonio Raillo,5-4-1,Víctor García,Match Report,0
+2024-01-16,21:00,Copa del Rey,Round of 16,Tue,Away,W,1,0,Tenerife,0.0,0.0,50,20176,Abdón Prats,3-4-3,Mario Melero,Match Report,Required Extra Time
+2024-01-20,16:15,La Liga,Matchweek 21,Sat,Away,D,1,1,Villarreal,0.4,1.9,49,16479,Antonio Raillo,5-4-1,Miguel Ángel Ortiz Arias,Match Report,0
+2024-01-24,19:30,Copa del Rey,Quarter-finals,Wed,Home,W,3,2,Girona,0.0,0.0,25,19950,Antonio Raillo,5-3-2,José Luis Munuera,Match Report,0
+2024-01-27,21:00,La Liga,Matchweek 22,Sat,Home,L,0,1,Betis,1.5,0.4,53,20051,Antonio Raillo,5-3-2,Javier Villanueva,Match Report,0
+2024-02-02,21:00,La Liga,Matchweek 23,Fri,Away,L,0,4,Athletic Club,0.4,1.7,38,47061,Antonio Raillo,5-4-1,Jorge Figueroa,Match Report,0
+2024-02-06,21:00,Copa del Rey,Semi-finals,Tue,Home,D,0,0,Real Sociedad,0.0,0.0,31,22051,Dani Rodríguez,5-3-2,Alejandro Muñíz,Match Report,Leg 1 of 2
+2024-02-11,16:15,La Liga,Matchweek 24,Sun,Home,W,2,1,Rayo Vallecano,0.9,1.6,49,16735,Antonio Raillo,5-4-1,José Luis Munuera,Match Report,0
+2024-02-18,18:30,La Liga,Matchweek 25,Sun,Home,L,1,2,Real Sociedad,0.1,1.1,33,18153,Antonio Raillo,5-3-2,Pablo González,Match Report,0
+2024-02-24,18:30,La Liga,Matchweek 26,Sat,Away,D,1,1,Alavés,2.2,0.5,48,16102,Martin Valjent,5-4-1,Víctor García,Match Report,0
+2024-02-27,21:30,Copa del Rey,Semi-finals,Tue,Away,D,1 (5),1 (4),Real Sociedad,0.0,0.0,39,35781,Antonio Raillo,5-3-2,Jesús Gil,Match Report,Leg 2 of 2; Mallorca won
+2024-03-03,18:30,La Liga,Matchweek 27,Sun,Home,W,1,0,Girona,1.2,1.0,40,17769,Antonio Raillo,5-3-2,Francisco Hernández,Match Report,0
+2024-03-08,21:00,La Liga,Matchweek 28,Fri,Away,L,0,1,Barcelona,0.6,2.0,37,38225,Antonio Raillo,5-3-2,Javier Villanueva,Match Report,0
+2024-03-16,14:00,La Liga,Matchweek 29,Sat,Home,W,1,0,Granada,1.6,0.4,52,16477,Antonio Raillo,5-3-2,Ricardo de Burgos,Match Report,0
+2024-03-30,18:30,La Liga,Matchweek 30,Sat,Away,D,0,0,Valencia,0.9,1.5,47,42567,Jaume Costa,5-3-2,Miguel Ángel Ortiz Arias,Match Report,0
+2024-04-06,22:00,Copa del Rey,Final,Sat,Away,D,1 (2),1 (4),Athletic Club,0.0,0.0,32,57619,Antonio Raillo,5-3-2,José Luis Munuera,Match Report,Athletic Club won on penalty kicks following extra time
+2024-04-13,18:30,La Liga,Matchweek 31,Sat,Home,L,0,1,Real Madrid,0.6,1.5,44,23244,Antonio Raillo,5-4-1,José Sánchez,Match Report,0
+2024-04-22,21:00,La Liga,Matchweek 32,Mon,Away,L,1,2,Sevilla,0.7,1.1,46,35203,Antonio Raillo,5-4-1,Alejandro Hernández,Match Report,0
+2024-04-28,14:00,La Liga,Matchweek 33,Sun,Away,D,1,1,Cádiz,0.9,0.4,42,18174,Antonio Raillo,5-4-1,Isidro Díaz de Mera,Match Report,0
+2024-05-04,21:00,La Liga,Matchweek 34,Sat,Home,L,0,1,Atlético Madrid,0.2,0.7,59,20519,Antonio Raillo,5-3-2,Javier Alberola,Match Report,0
+2024-05-11,14:00,La Liga,Matchweek 35,Sat,Home,W,1,0,Las Palmas,0.3,0.4,44,16050,Antonio Raillo,5-3-2,Juan Martínez,Match Report,0
+2024-05-14,19:30,La Liga,Matchweek 36,Tue,Away,D,1,1,Osasuna,1.0,0.4,48,17852,Antonio Raillo,5-4-1,Francisco Hernández,Match Report,0
+2024-05-19,19:00,La Liga,Matchweek 37,Sun,Home,D,2,2,Almería,3.0,0.4,52,20573,Antonio Raillo,5-3-2,Ricardo de Burgos,Match Report,0
+2024-05-26,14:00,La Liga,Matchweek 38,Sun,Away,W,2,1,Getafe,1.4,0.9,50,9545,Antonio Raillo,4-1-4-1,Víctor García,Match Report,0

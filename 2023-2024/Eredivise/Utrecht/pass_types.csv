@@ -1,0 +1,38 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Ryan Flamingo,nl NED,"MF,DF",20.0,30.7,1587,1541,43,37,1,19,8,1,0,0,0,0,1242,3,20,Matches
+Vasilios Barkas,gr GRE,GK,29.0,29.0,1026,734,289,57,0,0,0,1,0,0,0,0,709,3,0,Matches
+Souffian El Karouani,ma MAR,DF,22.0,27.2,1301,1049,249,24,0,2,120,220,5,4,1,0,954,3,34,Matches
+Oscar Fraulo,dk DEN,MF,19.0,23.3,935,912,21,14,4,3,23,0,1,0,0,0,724,2,33,Matches
+Hidde ter Avest,nl NED,DF,26.0,22.9,1195,955,236,15,0,3,64,221,0,0,0,0,906,4,43,Matches
+Nick Viergever,nl NED,DF,33.0,22.8,1262,1160,97,58,0,4,8,26,0,0,0,0,1081,5,11,Matches
+Othman Boussaid,be BEL,FW,23.0,21.9,962,920,40,5,5,13,94,18,11,8,0,0,701,2,35,Matches
+Can Bozdogan,de GER,MF,22.0,21.8,1043,952,88,42,3,3,61,10,36,16,15,0,832,3,19,Matches
+Jens Toornstra,nl NED,"MF,FW",34.0,19.8,780,637,140,31,8,4,141,15,83,37,38,1,517,3,37,Matches
+Mike van der Hoorn,nl NED,DF,30.0,18.5,1052,1000,52,49,0,15,1,0,0,0,0,0,832,0,4,Matches
+Sam Lammers,nl NED,FW,26.0,17.8,426,410,11,0,1,1,12,0,0,0,0,0,275,5,14,Matches
+Victor Jensen,dk DEN,"MF,FW",23.0,16.4,480,453,25,1,0,3,12,5,0,0,0,0,374,2,12,Matches
+Taylor Booth,us USA,FW,22.0,9.6,259,241,15,2,0,1,57,7,5,3,2,0,162,3,21,Matches
+Mats Seuntjens,nl NED,"FW,MF",31.0,10.6,293,232,60,12,4,3,50,2,39,21,16,0,179,1,8,Matches
+Isac Lidberg,se SWE,FW,24.0,10.5,202,193,9,0,0,0,6,0,0,0,0,0,117,0,15,Matches
+Modibo Sagnan,ml MLI,DF,24.0,9.7,466,452,14,11,0,5,1,0,0,0,0,0,384,0,4,Matches
+Marouan Azarkan,nl NED,FW,21.0,8.8,342,310,32,10,1,0,54,10,11,8,2,0,237,0,11,Matches
+Mark van der Maarel,nl NED,DF,33.0,8.3,414,352,62,10,0,2,7,52,0,0,0,0,334,0,6,Matches
+Yannick Leliendal,nl NED,DF,21.0,5.5,249,200,48,4,1,1,8,44,0,0,0,0,193,1,3,Matches
+Mattijs Branderhorst,nl NED,GK,29.0,5.0,145,112,33,8,0,0,0,0,0,0,0,0,96,0,0,Matches
+Ole Romeny,nl NED,"FW,MF",23.0,5.8,156,147,8,1,0,1,10,6,0,0,0,0,119,1,2,Matches
+Zidane Iqbal,iq IRQ,"MF,DF",20.0,5.7,389,379,8,3,0,2,4,3,0,0,0,0,336,2,5,Matches
+Zakaria Labyad,ma MAR,"MF,FW",30.0,3.1,98,84,14,4,1,0,16,0,10,5,5,0,61,0,3,Matches
+Bart Ramselaar,nl NED,"FW,MF",27.0,4.5,147,143,1,0,0,0,8,0,1,1,0,0,113,3,7,Matches
+Niklas Vesterlund,dk DEN,"DF,FW",24.0,3.0,134,107,26,1,0,0,6,25,0,0,0,0,97,1,3,Matches
+Anthony Descotte,be BEL,FW,19.0,2.3,42,39,3,0,0,2,1,0,0,0,0,0,30,0,1,Matches
+Hugo Novoa,es ESP,"DF,FW",20.0,2.3,93,78,15,2,0,1,9,13,0,0,0,0,66,0,3,Matches
+Anastasios Douvikas,gr GRE,FW,23.0,2.0,45,41,4,0,0,0,2,0,0,0,0,0,28,0,1,Matches
+Sean Klaiber,sr SUR,DF,29.0,1.1,92,74,17,3,0,2,4,14,0,0,0,0,70,1,4,Matches
+Jeppe Okkels,dk DEN,"FW,DF",24.0,1.8,62,60,1,0,0,0,7,1,0,0,0,0,43,1,2,Matches
+Adrian Blake,eng ENG,"FW,MF",18.0,0.3,16,16,0,0,0,1,1,0,0,0,0,0,14,0,1,Matches
+Nazjir Held,cw CUW,DF,17.0,0.3,10,10,0,0,0,0,1,0,0,0,0,0,7,0,1,Matches
+Tim Handwerker,de GER,"FW,DF",25.0,0.2,6,4,2,0,0,0,0,2,0,0,0,0,3,0,0,Matches
+Silas Andersen,dk DEN,FW,19.0,0.1,9,9,0,0,0,0,0,0,0,0,0,0,9,0,0,Matches
+Jesse van de Haar,nl NED,FW,18.0,0.1,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+Squad Total,0,0,25.7,34.0,15721,14009,1663,404,29,91,796,696,202,103,79,1,11848,49,363,0
+Opponent Total,0,0,25.0,34.0,16811,15140,1613,388,45,96,590,700,153,73,48,1,13070,58,298,0

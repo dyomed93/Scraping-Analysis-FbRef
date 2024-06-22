@@ -1,0 +1,38 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Luís Maximiano,pt POR,GK,24.0,33.0,1266,862,397,133,0,1,0,0,0,0,0,0,833,7,0,Matches
+Édgar González,es ESP,"DF,MF",26.0,28.0,1350,1296,51,35,0,8,2,2,0,0,0,0,1150,3,6,Matches
+Adri Embarba,es ESP,"FW,MF",31.0,27.5,928,770,150,35,0,16,171,16,94,36,31,0,609,8,43,Matches
+Lucas Robertone,ar ARG,MF,26.0,26.5,1363,1250,105,58,10,12,67,8,30,7,18,0,1107,8,18,Matches
+Juan Brandáriz,es ESP,DF,24.0,27.0,1208,1139,64,21,0,4,2,25,0,0,0,0,1044,5,11,Matches
+Dion Lopy,sn SEN,MF,21.0,21.3,882,855,25,18,2,15,7,7,0,0,0,0,745,2,11,Matches
+Sergio Arribas,es ESP,"MF,FW",21.0,22.7,751,661,86,32,4,4,60,7,28,13,9,0,588,4,20,Matches
+Pubill,es ESP,DF,20.0,20.9,958,743,213,26,0,3,68,187,0,0,0,0,686,2,32,Matches
+Léo Baptistão,br BRA,FW,30.0,20.4,568,534,31,0,1,3,27,8,0,0,0,0,366,3,30,Matches
+César Montes,mx MEX,DF,26.0,19.9,973,927,39,36,1,16,3,0,0,0,0,0,750,7,4,Matches
+Sergio Akieme,es ESP,DF,25.0,18.6,801,630,169,19,1,5,57,148,2,0,1,0,620,2,22,Matches
+Largie Ramazani,be BEL,"FW,MF",22.0,17.3,340,331,7,1,4,2,32,3,1,1,0,0,203,2,17,Matches
+Iddrisu Baba,gh GHA,MF,27.0,15.9,654,636,15,15,2,2,4,0,0,0,0,0,543,3,10,Matches
+Jonathan Viera,es ESP,MF,33.0,10.1,545,512,31,20,5,0,6,4,2,1,0,0,468,2,8,Matches
+Álex Centelles,es ESP,DF,25.0,10.9,544,430,112,24,1,5,44,88,0,0,0,0,400,2,19,Matches
+Gonzalo Melero,es ESP,"MF,FW",29.0,12.3,465,443,20,10,0,0,4,3,0,0,0,0,381,2,5,Matches
+Luis Javier Suárez,co COL,FW,25.0,10.2,202,184,17,1,2,1,7,0,0,0,0,0,150,1,7,Matches
+Anthony Lozano,hn HON,FW,30.0,8.6,136,120,15,0,0,0,4,0,0,0,0,0,98,1,4,Matches
+Alejandro Pozo Pozo,es ESP,"DF,MF",24.0,10.8,598,481,112,9,1,1,41,103,0,0,0,0,443,5,20,Matches
+Bruno Langa,mz MOZ,DF,25.0,9.1,400,320,80,13,0,3,16,67,0,0,0,0,307,0,13,Matches
+Aleksandar Radovanović,rs SRB,DF,29.0,6.3,197,190,6,3,0,4,0,0,0,0,0,0,181,1,0,Matches
+Kaiky,br BRA,DF,19.0,5.8,263,252,11,10,0,3,1,1,0,0,0,0,217,0,4,Matches
+Luka Romero,ar ARG,FW,18.0,4.9,148,145,3,2,0,0,2,1,0,0,0,0,137,0,0,Matches
+Marcos Peña,es ESP,MF,18.0,4.9,217,209,8,8,0,0,0,0,0,0,0,0,188,0,2,Matches
+Houboulang Mendes,gw GNB,DF,25.0,4.4,177,114,61,8,0,1,4,53,0,0,0,0,129,2,3,Matches
+Fernando,es ESP,GK,33.0,4.0,160,123,36,10,0,0,0,0,0,0,0,0,110,1,0,Matches
+Arnau Puigmal,es ESP,"FW,DF",22.0,2.8,93,80,13,2,0,0,14,5,5,3,2,0,65,0,3,Matches
+Marko Milovanović,rs SRB,"FW,MF",19.0,3.4,68,64,4,0,0,0,1,0,0,0,0,0,43,0,2,Matches
+Lázaro,br BRA,"FW,MF",21.0,3.2,100,87,12,4,1,2,12,3,5,3,2,0,69,1,4,Matches
+Ibrahima Koné,ml MLI,FW,24.0,3.1,56,49,7,0,0,0,2,2,0,0,0,0,38,0,0,Matches
+Srđan Babić,rs SRB,DF,27.0,1.0,62,60,2,2,0,1,0,0,0,0,0,0,58,0,0,Matches
+Diego Mariño,es ESP,GK,33.0,1.0,27,25,2,0,0,0,0,0,0,0,0,0,23,0,0,Matches
+Marciano Tchami,gw GNB,"FW,MF",19.0,0.5,24,22,2,0,0,0,1,0,0,0,0,0,14,0,2,Matches
+Paco Sanz,es ESP,DF,18.0,0.3,10,10,0,0,0,0,0,0,0,0,0,0,7,0,0,Matches
+Rachad Fettal,ma MAR,FW,18.0,0.2,6,5,0,0,0,0,0,0,0,0,0,0,4,1,0,Matches
+Squad Total,0,0,25.6,38.0,16540,14559,1906,555,35,112,659,741,167,64,63,0,12774,75,320,0
+Opponent Total,0,0,27.1,38.0,19368,17353,1942,519,54,171,828,820,220,74,101,3,15460,73,352,0

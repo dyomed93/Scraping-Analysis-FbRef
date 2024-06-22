@@ -1,0 +1,7 @@
+Player,Nation,Pos,Age,Playing Time MP,Playing Time Starts,Playing Time Min,Playing Time 90s,Performance GA,Performance GA90,Performance SoTA,Performance Saves,Performance Save%,Performance W,Performance D,Performance L,Performance CS,Performance CS%,Penalty Kicks PKatt,Penalty Kicks PKA,Penalty Kicks PKsv,Penalty Kicks PKm,Penalty Kicks Save%,Matches
+Augusto Batalla,ar ARG,GK,27.0,17,17,1530,17.0,28,1.65,86,58,67.4,3,4,10,3,17.6,0,0,0,0,0.0,Matches
+André Ferreira,pt POR,GK,27.0,15,14,1340,14.9,29,1.95,77,49,66.2,0,5,9,0,0.0,3,3,0,0,0.0,Matches
+Raúl Fernández,es ESP,GK,35.0,4,4,280,3.1,11,3.54,17,7,35.3,1,0,3,0,0.0,1,0,0,1,0.0,Matches
+Marc Martínez,es ESP,GK,33.0,3,3,270,3.0,11,3.67,23,12,60.9,0,0,3,0,0.0,2,2,0,0,0.0,Matches
+Squad Total,0,0,26.7,38,38,3420,38.0,79,2.08,203,126,63.5,4,9,25,3,7.9,6,5,0,1,0.0,0
+Opponent Total,0,0,27.2,38,38,3420,38.0,38,1.0,129,93,74.4,25,9,4,16,42.1,8,5,1,2,16.7,0

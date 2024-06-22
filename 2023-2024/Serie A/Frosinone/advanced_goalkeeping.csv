@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,90s,Goals GA,Goals PKA,Goals FK,Goals CK,Goals OG,Expected PSxG,Expected PSxG/SoT,Expected PSxG+/-,Expected /90,Launched Cmp,Launched Att,Launched Cmp%,Passes Att (GK),Passes Thr,Passes Launch%,Passes AvgLen,Goal Kicks Att,Goal Kicks Launch%,Goal Kicks AvgLen,Crosses Opp,Crosses Stp,Crosses Stp%,Sweeper #OPA,Sweeper #OPA/90,Sweeper AvgDist,Matches
+Stefano Turati,it ITA,GK,21.0,30.5,58,5,0,10,1,47.5,0.28,-9.5,-0.31,72,316,22.8,919,147,27.3,29.2,144,45.1,38.8,412,18,4.4,19,0.62,13.7,Matches
+Michele Cerofolini,it ITA,GK,24.0,7.5,11,0,0,1,1,5.9,0.22,-4.1,-0.55,18,100,18.0,171,28,47.4,37.2,38,50.0,42.8,126,4,3.2,7,0.93,14.3,Matches
+Squad Total,0,0,24.3,38.0,69,5,0,11,2,53.4,0.27,-13.6,-0.36,90,416,21.6,956,175,34.6,0.0,316,26.9,27.1,538,22,4.1,26,0.68,0.0,0
+Opponent Total,0,0,26.7,38.0,44,8,3,7,0,43.8,0.23,-0.2,-0.01,212,601,35.3,1019,126,43.4,37.8,327,48.6,38.7,409,18,4.4,30,0.79,14.4,0

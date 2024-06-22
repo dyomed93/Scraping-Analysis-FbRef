@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,Playing Time MP,Playing Time Starts,Playing Time Min,Playing Time 90s,Performance GA,Performance GA90,Performance SoTA,Performance Saves,Performance Save%,Performance W,Performance D,Performance L,Performance CS,Performance CS%,Penalty Kicks PKatt,Penalty Kicks PKA,Penalty Kicks PKsv,Penalty Kicks PKm,Penalty Kicks Save%,Matches
+Marco Bizot,nl NED,GK,32.0,32,32,2876,32.0,34,1.06,129,94,75.2,15,10,7,13,40.6,3,2,1,0,33.3,Matches
+Grégoire Coudert,fr FRA,GK,24.0,3,2,181,2.0,0,0.0,4,4,100.0,2,0,0,2,100.0,0,0,0,0,0.0,Matches
+Squad Total,0,0,27.0,34,34,3057,34.0,34,1.0,133,98,75.9,17,10,7,15,44.1,3,2,1,0,33.3,0
+Opponent Total,0,0,25.8,34,34,3060,34.0,53,1.56,169,118,71.0,7,10,17,9,26.5,4,4,0,0,0.0,0

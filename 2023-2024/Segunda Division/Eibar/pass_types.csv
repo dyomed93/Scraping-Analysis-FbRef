@@ -1,0 +1,31 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Luca Zidane,fr FRA,GK,26-039,42.0,1739,1390,342,94,0,7,0,1,0,0,0,0,1318,7,1,Matches
+Anaitz Arbilla,es ESP,DF,37-037,39.0,3117,2899,209,97,1,40,6,31,0,0,0,0,2681,9,19,Matches
+Matheus Pereira da Silva,br BRA,MF,26-117,37.5,2417,2312,92,48,11,49,75,12,24,3,14,0,1989,13,35,Matches
+Mario Soriano,es ESP,MF,22-060,33.7,1141,1083,51,2,6,9,15,6,7,3,0,0,988,7,18,Matches
+Stoichkov,es ESP,FW,30-229,34.1,776,752,15,1,9,2,37,4,0,0,0,0,500,9,55,Matches
+Álvaro Tejero,es ESP,DF,27-337,33.4,2095,1720,361,34,1,23,190,318,9,2,5,0,1616,14,50,Matches
+Juan Berrocal,es ESP,DF,25-048,31.9,1897,1840,52,39,0,5,3,3,0,0,0,0,1652,5,7,Matches
+Ager Aketxe,es ESP,"FW,MF",30-174,30.8,1738,1558,171,46,12,17,164,12,107,40,32,0,1363,9,27,Matches
+Jon Bautista,es ESP,FW,28-354,25.5,507,485,17,0,2,1,15,4,0,0,0,0,314,5,14,Matches
+Cristian Gutierrez,es ESP,DF,23-204,22.8,1186,929,256,8,2,3,126,248,0,0,0,0,911,1,37,Matches
+Sergio Álvarez,es ESP,"MF,DF",32-150,23.5,1169,1140,27,18,1,8,1,9,0,0,0,0,996,2,9,Matches
+José Corpas,es ESP,"FW,DF",32-350,23.0,957,838,111,10,2,1,98,74,27,1,5,0,682,8,47,Matches
+José Antonio Ríos,es ESP,DF,34-042,18.5,1064,789,269,19,0,7,76,233,17,6,7,1,776,6,29,Matches
+Unai Vencedor Paris,es ESP,MF,23-219,15.1,994,923,66,29,2,8,68,1,35,14,14,0,773,5,13,Matches
+Peru Nolaskoain,es ESP,MF,25-240,11.4,673,668,4,4,1,4,2,0,0,0,0,0,534,1,10,Matches
+Frederico Venâncio,pt POR,DF,31-138,11.2,502,492,8,7,0,4,1,1,0,0,0,0,432,2,2,Matches
+Quique,es ESP,FW,34-036,6.4,91,82,9,0,0,0,6,0,0,0,0,0,57,0,4,Matches
+Yanis Rahmani,fr FRA,FW,29-039,6.2,170,165,3,1,0,0,10,1,1,0,0,0,126,2,4,Matches
+Sergio León,es ESP,FW,35-167,4.4,77,69,6,0,1,1,1,0,0,0,0,0,55,2,3,Matches
+Konrad De La Fuente,us USA,"FW,MF",22-341,4.1,73,73,0,0,1,0,5,0,0,0,0,0,54,0,3,Matches
+Rober Correa,es ESP,DF,31-275,1.6,85,75,10,0,0,0,5,10,0,0,0,0,72,0,2,Matches
+Angel Troncho,es ESP,"FW,DF",21-263,1.0,48,46,2,0,0,0,5,2,0,0,0,0,39,0,0,Matches
+Yacine Qasmi,ma MAR,FW,33-170,0.8,22,22,0,0,0,0,0,0,0,0,0,0,12,0,1,Matches
+Jorge Yriarte,ve VEN,MF,24-109,0.6,44,43,0,0,0,0,1,0,0,0,0,0,32,1,1,Matches
+Ander Madariaga,es ESP,"MF,FW",22-102,0.6,14,14,0,0,0,0,0,0,0,0,0,0,10,0,0,Matches
+Stefan Simić,cz CZE,DF,29-153,0.3,25,24,1,1,0,0,0,0,0,0,0,0,23,0,0,Matches
+Iker Alday,es ESP,"FW,DF",21-172,0.2,7,6,1,0,0,0,0,1,0,0,0,0,3,0,1,Matches
+Arana,es ESP,FW,24-134,0.1,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Squad Total,0,0,28.7,42.0,22630,20439,2083,458,52,189,910,971,227,69,77,1,18009,108,392,0
+Opponent Total,0,0,27.6,42.0,18909,16658,2193,575,47,194,739,945,172,51,65,0,14344,58,373,0

@@ -1,0 +1,29 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Joachim Andersen,dk DEN,DF,27.0,37.9,2209,2073,121,110,7,31,31,8,0,0,0,0,1731,15,22,Matches
+Tyrick Mitchell,eng ENG,"DF,MF",23.0,35.6,1627,1262,361,14,1,2,69,347,0,0,0,0,1177,4,70,Matches
+Jordan Ayew,gh GHA,"FW,MF",31.0,28.3,920,876,42,8,4,5,97,10,22,6,8,0,681,2,43,Matches
+Jefferson Lerma,co COL,"MF,DF",28.0,26.7,1250,1209,36,30,8,13,14,6,0,0,0,0,1018,5,20,Matches
+Jean-Philippe Mateta,fr FRA,FW,26.0,25.4,433,421,12,0,1,3,20,0,0,0,0,0,309,0,14,Matches
+Eberechi Eze,eng ENG,"MF,FW",25.0,22.8,909,759,144,54,7,6,107,5,71,30,23,3,700,6,20,Matches
+Chris Richards,us USA,"DF,MF",23.0,23.3,942,902,37,18,1,5,1,14,0,0,0,0,778,3,15,Matches
+Marc Guéhi,eng ENG,DF,23.0,22.5,1309,1251,56,51,1,18,3,5,0,0,0,0,1138,2,5,Matches
+Joel Ward,eng ENG,DF,33.0,22.0,944,804,139,21,1,3,22,118,0,0,0,0,715,1,21,Matches
+Will Hughes,eng ENG,MF,28.0,21.0,878,806,71,19,2,1,30,0,17,7,10,0,731,1,13,Matches
+Sam Johnstone,eng ENG,GK,30.0,20.0,599,408,186,45,0,3,0,0,0,0,0,0,343,5,0,Matches
+Dean Henderson,eng ENG,GK,26.0,18.0,485,342,140,35,0,0,0,0,0,0,0,0,280,3,0,Matches
+Odsonne Édouard,fr FRA,"FW,MF",25.0,17.3,350,338,9,0,4,0,10,0,1,0,0,0,249,3,20,Matches
+Jeffrey Schlupp,gh GHA,"FW,MF",30.0,15.0,334,329,4,2,0,0,10,0,0,0,0,0,247,1,10,Matches
+Daniel Muñoz,co COL,"DF,MF",27.0,16.0,720,573,145,4,0,0,11,141,0,0,0,0,561,2,17,Matches
+Adam Wharton,eng ENG,MF,19.0,14.4,596,553,34,13,3,2,25,0,15,7,4,0,464,9,11,Matches
+Nathaniel Clyne,eng ENG,DF,32.0,14.9,600,539,58,3,0,0,9,55,0,0,0,0,495,3,16,Matches
+Michael Olise,fr FRA,"FW,MF",21.0,14.2,721,605,111,44,7,4,97,10,41,25,10,2,540,5,23,Matches
+Cheick Doucouré,ml MLI,MF,23.0,10.2,422,418,4,4,5,0,1,0,0,0,0,0,367,0,7,Matches
+Jaïro Riedewald,nl NED,"MF,FW",26.0,2.6,113,104,7,5,0,0,3,0,2,1,0,1,87,2,3,Matches
+Matheus França,br BRA,"MF,FW",19.0,2.6,79,69,10,1,0,1,14,0,9,5,2,0,51,0,5,Matches
+Naouirou Ahamada,fr FRA,"MF,FW",21.0,3.9,187,183,4,1,0,0,6,2,0,0,0,0,150,0,8,Matches
+David Ozoh,eng ENG,"MF,DF",18.0,1.7,51,51,0,0,0,0,0,0,0,0,0,0,48,0,1,Matches
+Jesurun Rak Sakyi,eng ENG,"MF,FW",20.0,1.5,50,50,0,0,0,0,3,0,0,0,0,0,37,0,2,Matches
+James Tomkins,eng ENG,DF,34.0,0.1,21,21,0,0,0,0,0,0,0,0,0,0,18,0,0,Matches
+Remi Matthews,eng ENG,GK,29.0,0.0,5,2,3,2,0,0,0,0,0,0,0,0,0,0,0,Matches
+Squad Total,0,0,26.7,38.0,16754,14948,1734,484,52,97,583,721,178,81,57,6,12915,72,366,0
+Opponent Total,0,0,26.3,38.0,23229,21322,1833,514,65,132,769,781,197,103,60,4,19197,74,405,0

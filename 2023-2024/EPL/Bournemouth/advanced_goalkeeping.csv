@@ -1,0 +1,6 @@
+Player,Nation,Pos,Age,90s,Goals GA,Goals PKA,Goals FK,Goals CK,Goals OG,Expected PSxG,Expected PSxG/SoT,Expected PSxG+/-,Expected /90,Launched Cmp,Launched Att,Launched Cmp%,Passes Att (GK),Passes Thr,Passes Launch%,Passes AvgLen,Goal Kicks Att,Goal Kicks Launch%,Goal Kicks AvgLen,Crosses Opp,Crosses Stp,Crosses Stp%,Sweeper #OPA,Sweeper #OPA/90,Sweeper AvgDist,Matches
+Neto,br BRA,GK,34.0,32.0,55,5,1,3,1,55.2,0.31,1.2,0.04,172,494,34.8,833,154,44.1,36.9,223,57.0,44.2,413,26,6.3,34,1.06,13.7,Matches
+Mark Travers,ie IRL,GK,24.0,4.0,5,1,0,0,0,5.0,0.23,0.0,0.01,22,72,30.6,92,13,55.4,41.7,26,80.8,55.6,60,3,5.0,3,0.75,14.8,Matches
+Ionuț Radu,ro ROU,GK,26.0,2.0,7,0,0,3,0,2.9,0.27,-4.1,-2.04,5,15,33.3,57,10,19.3,26.9,11,36.4,29.2,19,2,10.5,0,0.0,9.6,Matches
+Squad Total,0,0,25.7,38.0,67,6,1,6,1,63.2,0.3,-2.8,-0.07,199,581,34.3,976,177,44.0,0.0,266,57.1,43.9,492,31,6.3,37,0.97,0.0,0
+Opponent Total,0,0,26.2,38.0,54,2,0,11,2,47.7,0.26,-4.3,-0.11,250,650,38.5,1289,161,37.0,34.1,316,54.7,41.3,557,34,6.1,60,1.58,15.5,0

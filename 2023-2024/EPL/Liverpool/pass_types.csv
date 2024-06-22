@@ -1,0 +1,33 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Virgil van Dijk,nl NED,DF,32.0,35.3,2887,2712,173,80,0,21,0,13,0,0,0,0,2640,2,6,Matches
+Luis Díaz,co COL,FW,26.0,29.2,1075,1040,29,4,4,11,26,24,0,0,0,0,898,6,29,Matches
+Alexis Mac Allister,ar ARG,MF,24.0,28.9,1967,1900,61,38,14,11,32,2,11,2,9,0,1704,6,32,Matches
+Mohamed Salah,eg EGY,FW,31.0,28.2,1010,968,28,4,18,3,41,20,0,0,0,0,737,14,42,Matches
+Alisson,br BRA,GK,30.0,28.0,1142,983,154,38,0,5,0,0,0,0,0,0,985,5,3,Matches
+Trent Alexander-Arnold,eng ENG,DF,24.0,23.9,2062,1705,346,77,22,32,168,198,71,10,52,0,1553,11,23,Matches
+Dominik Szoboszlai,hu HUN,MF,22.0,23.4,1550,1376,167,34,3,16,113,31,66,24,28,2,1280,7,24,Matches
+Darwin Núñez,uy URU,FW,24.0,22.7,493,472,17,2,6,1,19,5,0,0,0,0,341,4,18,Matches
+Wataru Endo,jp JPN,MF,30.0,19.1,1315,1295,16,13,5,1,4,2,0,0,0,0,1157,4,19,Matches
+Andrew Robertson,sct SCO,DF,29.0,18.8,1547,1297,240,41,0,7,184,109,90,34,53,0,1248,10,29,Matches
+Joe Gomez,eng ENG,DF,26.0,19.8,1345,1172,169,14,3,9,39,153,0,0,0,0,1114,4,29,Matches
+Cody Gakpo,nl NED,"FW,MF",24.0,18.3,564,547,15,5,1,2,21,6,0,0,0,0,436,2,15,Matches
+Ibrahima Konaté,fr FRA,DF,24.0,17.5,1463,1426,35,24,5,6,1,11,0,0,0,0,1286,2,8,Matches
+Curtis Jones,eng ENG,MF,22.0,13.0,776,749,25,4,4,2,4,20,1,0,0,0,707,2,5,Matches
+Diogo Jota,pt POR,FW,26.0,12.7,394,393,1,0,5,1,9,1,0,0,0,0,287,0,22,Matches
+Jarell Quansah,eng ENG,DF,20.0,13.2,1172,1147,22,16,1,5,0,4,0,0,0,0,1038,3,2,Matches
+Ryan Gravenberch,nl NED,MF,21.0,12.5,504,492,9,3,4,2,4,4,0,0,0,0,415,3,14,Matches
+Harvey Elliott,eng ENG,"MF,FW",20.0,15.0,986,932,44,4,3,8,62,10,19,9,7,0,825,10,17,Matches
+Caoimhín Kelleher,ie IRL,GK,24.0,10.0,442,401,38,10,0,0,0,0,0,0,0,0,359,3,0,Matches
+Conor Bradley,nir NIR,DF,20.0,8.4,530,445,85,10,3,1,18,75,0,0,0,0,419,0,16,Matches
+Joël Matip,cm CMR,DF,31.0,8.7,564,559,4,4,0,0,0,0,0,0,0,0,494,1,4,Matches
+Kostas Tsimikas,gr GRE,DF,27.0,7.5,500,389,110,14,0,1,72,67,29,7,22,0,383,1,10,Matches
+Bobby Clark,eng ENG,MF,18.0,1.0,49,49,0,0,0,0,0,0,0,0,0,0,38,0,2,Matches
+Stefan Bajcetic,es ESP,MF,18.0,0.3,10,10,0,0,0,0,0,0,0,0,0,0,7,0,1,Matches
+Ben Doak,sct SCO,FW,17.0,0.2,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0,Matches
+Jayden Danns,eng ENG,FW,17.0,0.1,7,7,0,0,1,0,0,0,0,0,0,0,5,0,0,Matches
+Owen Beck,wls WAL,DF,20.0,0.1,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+Thiago Alcántara,es ESP,MF,32.0,0.1,10,9,1,1,0,0,0,0,0,0,0,0,7,0,0,Matches
+James McConnell,eng ENG,MF,18.0,0.0,6,6,0,0,0,0,0,0,0,0,0,0,5,0,1,Matches
+Kaide Gordon,eng ENG,FW,18.0,0.0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Squad Total,0,0,26.3,38.0,24379,22490,1789,440,102,145,817,755,287,86,171,2,20376,100,371,0
+Opponent Total,0,0,26.2,38.0,15575,13687,1813,538,51,80,477,635,150,71,50,4,11775,75,389,0

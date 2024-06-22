@@ -1,0 +1,31 @@
+Player,Nation,Pos,Age,90s,Performance CrdY,Performance CrdR,Performance 2CrdY,Performance Fls,Performance Fld,Performance Off,Performance Crs,Performance Int,Performance TklW,Performance PKwon,Performance PKcon,Performance OG,Performance Recov,Aerial Duels Won,Aerial Duels Lost,Aerial Duels Won%,Matches
+Mark Flekken,nl NED,GK,30.0,36.5,3,0,0,2,4,0,0,0,1,0,1,0,41,10,1,90.9,Matches
+Vitaly Janelt,de GER,"MF,DF",25.0,33.9,8,0,0,27,28,3,59,36,38,1,0,0,189,34,26,56.7,Matches
+Christian Nørgaard,dk DEN,MF,29.0,27.8,8,0,0,41,32,1,22,54,50,0,0,0,216,40,46,46.5,Matches
+Nathan Collins,ie IRL,DF,22.0,29.5,3,0,0,12,23,3,4,44,20,0,0,0,136,73,35,67.6,Matches
+Yoane Wissa,cd COD,FW,26.0,27.7,7,0,0,38,51,20,21,9,16,1,0,0,99,38,47,44.7,Matches
+Ethan Pinnock,jm JAM,DF,30.0,28.0,1,0,0,4,11,0,7,43,23,0,0,0,131,113,51,68.9,Matches
+Mathias Jensen,dk DEN,MF,27.0,24.5,5,0,0,28,19,2,113,23,32,1,0,0,123,5,11,31.3,Matches
+Mads Roerslev,dk DEN,DF,24.0,22.1,1,0,0,10,15,3,62,19,31,0,0,0,82,14,27,34.1,Matches
+Bryan Mbeumo,cm CMR,FW,23.0,21.8,2,0,0,22,42,3,92,7,10,0,0,0,93,23,44,34.3,Matches
+Kristoffer Ajer,no NOR,DF,25.0,20.4,5,0,0,25,10,1,22,25,21,0,0,0,60,63,23,73.3,Matches
+Ivan Toney,eng ENG,FW,27.0,16.1,5,0,0,24,29,7,22,10,5,0,0,0,56,54,61,47.0,Matches
+Keane Lewis-Potter,eng ENG,"FW,DF",22.0,16.0,0,0,0,9,18,3,50,7,7,0,0,0,62,15,22,40.5,Matches
+Ben Mee,eng ENG,DF,33.0,14.1,1,1,0,7,3,1,5,13,15,0,0,0,67,35,32,52.2,Matches
+Sergio Reguilón,es ESP,DF,26.0,12.4,4,1,0,10,15,1,72,16,20,0,1,0,75,14,20,41.2,Matches
+Neal Maupay,fr FRA,FW,26.0,14.7,8,0,0,19,26,4,8,2,7,0,0,0,60,14,41,25.5,Matches
+Mathias Jørgensen,dk DEN,DF,33.0,12.1,4,0,0,11,6,3,8,12,12,0,0,0,67,26,23,53.1,Matches
+Frank Onyeka,ng NGA,MF,25.0,12.9,8,0,0,24,31,4,16,23,24,0,0,0,73,10,23,30.3,Matches
+Aaron Hickey,sct SCO,DF,21.0,7.9,5,0,0,10,16,0,5,3,9,0,0,0,42,1,9,10.0,Matches
+Mikkel Damsgaard,dk DEN,MF,23.0,9.4,2,0,0,14,8,3,29,11,17,0,0,0,57,12,11,52.2,Matches
+Saman Ghoddos,ir IRN,DF,29.0,8.2,5,0,0,13,9,2,42,5,19,0,0,0,39,4,12,25.0,Matches
+Yehor Yarmoliuk,ua UKR,MF,19.0,7.6,2,0,0,12,6,1,14,6,11,0,0,0,50,9,10,47.4,Matches
+Rico Henry,eng ENG,DF,26.0,4.5,1,0,0,4,6,2,11,5,5,0,0,0,24,4,5,44.4,Matches
+Kevin Schade,de GER,"FW,MF",21.0,3.7,0,0,0,10,6,2,5,1,1,0,0,0,23,17,14,54.8,Matches
+Shandon Baptiste,gd GRN,MF,25.0,2.5,1,0,0,3,0,0,3,3,4,0,0,0,17,3,6,33.3,Matches
+Thomas Strakosha,al ALB,GK,28.0,1.5,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0,Matches
+Michael Olakigbe,eng ENG,"DF,FW",19.0,0.7,0,0,0,2,2,1,7,1,0,0,0,0,7,1,2,33.3,Matches
+Josh Dasilva,eng ENG,"DF,FW",24.0,0.3,0,0,0,2,0,0,6,0,1,0,0,0,2,0,0,0.0,Matches
+Myles Peart-Harris,eng ENG,"DF,MF",20.0,0.1,0,0,0,2,2,0,1,0,0,0,0,0,0,0,5,0.0,Matches
+Squad Total,0,0,26.6,38.0,89,2,0,385,419,70,706,378,399,3,2,0,1892,632,607,51.0,0
+Opponent Total,0,0,26.1,38.0,75,4,3,434,371,56,764,293,329,2,3,2,1870,607,632,49.0,0

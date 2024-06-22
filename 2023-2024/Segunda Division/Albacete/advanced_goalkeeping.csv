@@ -1,0 +1,6 @@
+Player,Nation,Pos,Age,90s,Goals GA,Goals PKA,Goals FK,Goals CK,Goals OG,Expected PSxG,Expected PSxG/SoT,Expected PSxG+/-,Expected /90,Launched Cmp,Launched Att,Launched Cmp%,Passes Att (GK),Passes Thr,Passes Launch%,Passes AvgLen,Goal Kicks Att,Goal Kicks Launch%,Goal Kicks AvgLen,Crosses Opp,Crosses Stp,Crosses Stp%,Sweeper #OPA,Sweeper #OPA/90,Sweeper AvgDist,Matches
+Bernabé Barragán,es ESP,GK,31-124,25.0,34,4,0,6,0,32.8,0.35,-1.2,-0.05,116,324,35.8,435,101,44.1,37.4,191,69.1,50.4,343,23,6.7,23,0.92,13.5,Matches
+Tomáš Vaclík,cz CZE,GK,35-084,12.0,14,2,0,2,0,15.5,0.23,1.5,0.12,64,158,40.5,188,46,39.4,36.0,136,61.8,47.5,251,12,4.8,6,0.5,11.1,Matches
+Altube,es ESP,GK,24-120,5.0,8,1,0,2,0,8.1,0.37,0.1,0.03,24,86,27.9,90,11,60.0,44.8,43,74.4,54.6,78,4,5.1,3,0.6,16.2,Matches
+Squad Total,0,0,28.7,42.0,56,7,0,10,0,56.5,0.31,0.5,0.01,204,568,35.9,704,158,45.5,0.0,379,65.4,48.8,672,39,5.8,32,0.76,0.0,0
+Opponent Total,0,0,27.7,42.0,50,2,1,7,3,55.8,0.31,8.8,0.21,242,608,39.8,1065,180,38.5,36.7,361,54.8,44.5,629,41,6.5,47,1.12,14.2,0

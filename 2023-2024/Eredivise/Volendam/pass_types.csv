@@ -1,0 +1,40 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Damon Mirani,nl NED,"MF,DF",27.0,32.0,1311,1275,29,18,1,5,4,11,0,0,0,0,961,7,18,Matches
+Mio Backhaus,de GER,GK,19.0,32.0,1404,1001,396,107,0,10,0,1,0,0,0,0,869,7,2,Matches
+Benaissa Benamar,ma MAR,DF,26.0,25.2,1265,1195,67,45,0,17,4,7,0,0,0,0,1105,3,11,Matches
+Milan de Haan,nl NED,MF,19.0,24.1,565,547,15,3,0,8,15,5,1,1,0,0,403,3,18,Matches
+Bilal Ould-Chikh,ma MAR,"FW,MF",26.0,23.6,616,485,129,25,2,6,155,30,57,43,9,0,422,2,22,Matches
+Josh Flint,eng ENG,DF,22.0,24.8,1203,1073,125,13,0,3,11,102,0,0,0,0,929,5,8,Matches
+George Cox,eng ENG,"DF,MF",25.0,21.3,989,828,155,12,2,9,67,134,9,9,0,0,697,6,24,Matches
+Calvin Twigt,nl NED,MF,20.0,22.7,898,805,92,48,5,16,82,2,40,36,3,0,668,1,12,Matches
+Brian Plat,nl NED,DF,23.0,22.0,812,703,105,13,0,3,12,87,0,0,0,0,617,4,13,Matches
+Oskar Buur,dk DEN,DF,25.0,18.3,661,514,146,7,2,2,31,139,0,0,0,0,483,1,12,Matches
+Robert Mühren,nl NED,FW,34.0,16.5,212,176,35,0,1,0,2,0,0,0,0,0,132,1,7,Matches
+Zach Booth,us USA,"MF,FW",19.0,17.3,280,272,6,0,1,1,22,1,1,1,0,0,192,2,22,Matches
+Darius Johnson,gd GRN,"FW,MF",23.0,13.3,272,265,7,0,1,2,25,6,0,0,0,0,193,0,11,Matches
+Deron Payne,nl NED,DF,20.0,9.6,354,283,70,1,1,1,11,69,0,0,0,0,261,1,12,Matches
+Robin Maulun,fr FRA,MF,26.0,7.8,329,287,42,10,1,1,27,2,22,17,5,0,261,0,9,Matches
+Luke Le Roux,za RSA,MF,23.0,9.7,328,324,4,2,1,2,3,2,0,0,0,0,269,0,3,Matches
+Lequincio Zeefuik,nl NED,"FW,MF",18.0,8.6,131,118,12,1,2,1,3,0,0,0,0,0,69,1,0,Matches
+Garang Kuol,au AUS,"FW,MF",18.0,7.6,125,120,4,1,0,3,13,2,0,0,0,0,75,1,3,Matches
+Xavier Mbuyamba,nl NED,DF,21.0,6.7,333,322,8,7,0,3,0,1,0,0,0,0,265,3,5,Matches
+Vivaldo Semedo,pt POR,FW,18.0,7.0,107,84,21,0,0,1,2,0,0,0,0,0,63,2,2,Matches
+Achraf Douiri,nl NED,"DF,FW",23.0,3.8,139,113,25,3,0,0,21,17,5,4,1,0,90,1,5,Matches
+Bram van Driel,nl NED,MF,18.0,2.6,50,49,1,0,0,1,0,0,0,0,0,0,34,0,4,Matches
+Derry Murkin,eng ENG,DF,24.0,2.0,132,107,25,1,1,2,15,24,0,0,0,0,81,0,6,Matches
+Daryl van Mieghem,nl NED,MF,33.0,1.7,50,38,12,1,0,0,7,1,5,5,0,0,29,0,0,Matches
+Joey Antonioli,nl NED,MF,19.0,1.1,20,19,0,0,0,0,0,0,0,0,0,0,13,1,1,Matches
+Imran Nazih,ma MAR,MF,17.0,1.0,22,21,1,1,0,0,0,0,0,0,0,0,15,0,1,Matches
+Barry Lauwers,nl NED,GK,23.0,1.0,46,36,10,6,0,0,0,0,0,0,0,0,26,0,0,Matches
+Kayne van Oevelen,nl NED,GK,19.0,1.0,44,39,5,2,0,1,0,0,0,0,0,0,33,0,0,Matches
+Axel Guessand,fr FRA,DF,18.0,0.5,7,6,1,1,0,0,0,0,0,0,0,0,3,0,0,Matches
+Quincy Hoeve,bq BOE,"FW,MF",20.0,3.9,98,89,8,0,0,0,1,0,0,0,0,0,50,1,2,Matches
+Safouane Karim,nl NED,"MF,FW",19.0,2.6,84,81,3,0,1,1,2,1,1,0,1,0,57,0,4,Matches
+Ibrahim El Kadiri,nl NED,FW,21.0,0.9,29,27,2,0,0,1,3,2,0,0,0,0,23,0,0,Matches
+Ezechiel Fiemawhle,0,"MF,FW",0.0,0.4,7,6,0,0,0,0,1,0,0,0,0,0,2,1,0,Matches
+Flip Klomp,nl NED,MF,21.0,0.4,9,8,1,1,0,0,0,0,0,0,0,0,8,0,0,Matches
+Francisco Reyes,do DOM,DF,17.0,0.2,12,10,2,0,0,0,0,2,0,0,0,0,11,0,0,Matches
+Myron Mau-Asam,nl NED,MF,19.0,0.1,6,6,0,0,0,0,0,0,0,0,0,0,5,0,0,Matches
+Caner Demircioglu,nl NED,FW,21.0,0.1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Squad Total,0,0,23.4,34.0,12951,11333,1564,329,22,100,539,648,141,116,19,0,9415,54,237,0
+Opponent Total,0,0,25.2,34.0,18576,16808,1696,341,50,137,708,777,244,108,64,3,14980,72,305,0

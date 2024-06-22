@@ -1,0 +1,45 @@
+D a t e,T i m e,C o m p,R o u n d,D a y,V e n u e,R e s u l t,G F,G A,O p p o n e n t,x G,x G A,P o s s,A t t e n d a n c e,C a p t a i n,F o r m a t i o n,R e f e r e e,M a t c h   R e p o r t,N o t e s
+2023-08-11,21:30,La Liga 2,Matchweek 1,Fri,Home,W,2,0,Sporting Gijón,1.6,0.4,47,16912,Jordi Masip,4-2-3-1,Jon González,Match Report,0.0
+2023-08-18,21:30,La Liga 2,Matchweek 2,Fri,Away,L,0,1,Zaragoza,0.4,0.4,56,21023,Jordi Masip,4-2-3-1,Rubén Ávalos,Match Report,0.0
+2023-08-26,21:30,La Liga 2,Matchweek 3,Sat,Home,L,0,2,Alcorcón,1.3,1.9,71,16301,Sergio Escudero,4-1-4-1,Andrés Fuentes,Match Report,0.0
+2023-09-01,21:30,La Liga 2,Matchweek 4,Fri,Away,L,0,2,Albacete,0.5,1.0,56,11453,Sergio Escudero,4-4-2,José Guzmán,Match Report,0.0
+2023-09-10,21:00,La Liga 2,Matchweek 5,Sun,Home,D,1,1,Elche,1.6,0.7,52,16768,Sergio Escudero,3-5-2,Alejandro Quintero,Match Report,0.0
+2023-09-16,18:30,La Liga 2,Matchweek 6,Sat,Home,W,1,0,Cartagena,1.8,0.4,57,16138,Sergio Escudero,3-5-2,Raúl González,Match Report,0.0
+2023-09-24,16:15,La Liga 2,Matchweek 7,Sun,Away,W,1,0,Oviedo,1.0,0.6,50,16955,Sergio Escudero,4-1-3-2,Jon González,Match Report,0.0
+2023-10-01,18:30,La Liga 2,Matchweek 8,Sun,Home,W,3,0,Burgos,1.8,1.5,50,20493,Sergio Escudero,4-1-3-2,José López,Match Report,0.0
+2023-10-04,19:00,La Liga 2,Matchweek 9,Wed,Away,W,1,0,Eldense,0.6,0.4,46,3584,Iván Sánchez,4-1-4-1,Miguel Sesma,Match Report,0.0
+2023-10-08,16:15,La Liga 2,Matchweek 10,Sun,Home,W,3,2,CD Mirandés,1.3,1.6,70,18473,Sergio Escudero,3-4-3,Salvador Lax,Match Report,0.0
+2023-10-14,21:00,La Liga 2,Matchweek 11,Sat,Away,L,0,2,Espanyol,1.0,1.4,66,21439,Sergio Escudero,4-1-4-1,Iván Caparrós,Match Report,0.0
+2023-10-22,21:00,La Liga 2,Matchweek 12,Sun,Home,W,2,0,FC Andorra,1.1,1.7,27,14753,Sergio Escudero,4-4-2,Manuel Orellana,Match Report,0.0
+2023-10-27,21:00,La Liga 2,Matchweek 13,Fri,Away,L,1,5,Eibar,0.6,2.6,55,5690,Iván Sánchez,3-4-3,Dámaso Arcediano,Match Report,0.0
+2023-11-01,12:00,Copa del Rey,First round,Wed,Away,W,5,1,Peña Deportiva,0.0,0.0,75,550,Jordi Masip,4-1-4-1,Rubén Ávalos,Match Report,0.0
+2023-11-04,18:30,La Liga 2,Matchweek 14,Sat,Home,W,2,0,Tenerife,0.8,0.3,50,16409,Jordi Masip,4-1-4-1,Jon González,Match Report,0.0
+2023-11-11,16:15,La Liga 2,Matchweek 15,Sat,Away,W,3,2,Racing Sant,2.2,1.9,64,16095,Jordi Masip,4-1-4-1,Daniel Trujillo,Match Report,0.0
+2023-11-17,21:00,La Liga 2,Matchweek 16,Fri,Home,D,1,1,Leganés,0.8,0.6,65,19914,Jordi Masip,4-4-2,José López,Match Report,0.0
+2023-11-24,21:00,La Liga 2,Matchweek 17,Fri,Away,W,1,0,Huesca,1.2,0.5,56,5214,Jordi Masip,4-1-4-1,Saúl Ais,Match Report,0.0
+2023-12-02,21:00,La Liga 2,Matchweek 18,Sat,Away,L,1,2,Levante,1.8,1.7,60,12978,Jordi Masip,4-4-2,José Guzmán,Match Report,0.0
+2023-12-05,21:00,Copa del Rey,Second round,Tue,Away,L,1,3,Espanyol,0.0,0.0,59,15464,Sergio Escudero,4-1-4-1,Jose Lax Franco,Match Report,0.0
+2023-12-09,16:15,La Liga 2,Matchweek 19,Sat,Home,W,2,1,Amorebieta,1.6,0.9,66,15467,Jordi Masip,4-4-2,Rafael Sánchez,Match Report,0.0
+2023-12-18,20:30,La Liga 2,Matchweek 20,Mon,Away,L,0,1,Villarreal B,1.9,1.2,63,1196,Jordi Masip,4-4-2,Raúl González,Match Report,0.0
+2023-12-21,21:30,La Liga 2,Matchweek 21,Thu,Home,L,0,1,Racing Ferrol,1.0,0.8,56,13711,Jordi Masip,4-2-3-1,Andrés Fuentes,Match Report,0.0
+2024-01-13,21:00,La Liga 2,Matchweek 22,Sat,Away,L,0,1,Burgos,1.2,1.1,68,10742,Jordi Masip,4-4-2,José López,Match Report,0.0
+2024-01-21,21:00,La Liga 2,Matchweek 23,Sun,Away,D,0,0,Elche,0.1,0.9,43,12334,Jordi Masip,4-4-2,Salvador Lax,Match Report,0.0
+2024-01-29,20:30,La Liga 2,Matchweek 24,Mon,Home,W,3,1,Racing Sant,1.2,0.6,53,16685,Jordi Masip,4-2-3-1,Daniel Trujillo,Match Report,0.0
+2024-02-03,18:30,La Liga 2,Matchweek 25,Sat,Away,D,0,0,Leganés,0.2,0.6,57,10880,Jordi Masip,4-4-2,Adrián Cordero,Match Report,0.0
+2024-02-12,20:30,La Liga 2,Matchweek 26,Mon,Home,D,0,0,Albacete,0.7,0.9,72,17414,Jordi Masip,4-4-2,Manuel Orellana,Match Report,0.0
+2024-02-17,18:30,La Liga 2,Matchweek 27,Sat,Away,D,1,1,Sporting Gijón,0.8,0.7,51,21130,Jordi Masip,4-4-2,Iosu Galech,Match Report,0.0
+2024-02-23,20:30,La Liga 2,Matchweek 28,Fri,Home,W,3,0,Oviedo,1.4,0.9,47,19163,Jordi Masip,4-1-4-1,Rubén Ávalos,Match Report,0.0
+2024-03-03,14:00,La Liga 2,Matchweek 29,Sun,Away,L,1,2,FC Andorra,1.0,1.2,46,2014,Jordi Masip,4-3-3,Raúl González,Match Report,0.0
+2024-03-09,18:30,La Liga 2,Matchweek 30,Sat,Home,W,2,0,Zaragoza,0.7,0.1,51,15787,Jordi Masip,4-3-3,Alejandro Quintero,Match Report,0.0
+2024-03-17,16:15,La Liga 2,Matchweek 31,Sun,Away,L,0,2,Racing Ferrol,1.0,0.7,50,6824,Jordi Masip,4-3-3,Luis Milla,Match Report,0.0
+2024-03-24,16:15,La Liga 2,Matchweek 32,Sun,Home,W,3,1,Eibar,2.1,0.5,66,20286,Jordi Masip,4-3-3,Salvador Lax,Match Report,0.0
+2024-03-30,14:00,La Liga 2,Matchweek 33,Sat,Home,D,0,0,Levante,0.4,0.4,58,14218,Jordi Masip,4-3-3,Álvaro Moreno,Match Report,0.0
+2024-04-07,21:00,La Liga 2,Matchweek 34,Sun,Away,W,2,0,Cartagena,0.6,1.1,39,8758,Jordi Masip,4-3-3,Raúl González,Match Report,0.0
+2024-04-13,18:30,La Liga 2,Matchweek 35,Sat,Home,W,1,0,Eldense,1.2,0.5,62,18009,Jordi Masip,4-3-3,Iosu Galech,Match Report,0.0
+2024-04-20,14:00,La Liga 2,Matchweek 36,Sat,Away,W,3,0,Amorebieta,1.3,0.2,63,1846,Jordi Masip,4-3-3,Manuel Orellana,Match Report,0.0
+2024-04-28,18:30,La Liga 2,Matchweek 37,Sun,Home,W,1,0,Huesca,0.7,0.4,49,19225,Jordi Masip,4-3-3,Iván Caparrós,Match Report,0.0
+2024-05-04,14:00,La Liga 2,Matchweek 38,Sat,Away,W,1,0,CD Mirandés,0.7,0.8,54,4042,Jordi Masip,4-3-3,José Guzmán,Match Report,0.0
+2024-05-11,18:30,La Liga 2,Matchweek 39,Sat,Home,D,0,0,Espanyol,1.3,0.1,58,23450,Jordi Masip,4-3-3,Adrián Cordero,Match Report,0.0
+2024-05-19,16:15,La Liga 2,Matchweek 40,Sun,Away,D,1,1,Alcorcón,1.2,1.0,60,4177,Jordi Masip,4-3-3,Raúl González,Match Report,0.0
+2024-05-26,18:30,La Liga 2,Matchweek 41,Sun,Home,W,3,2,Villarreal B,1.5,1.3,54,24765,Jordi Masip,4-3-3,Miguel Sesma,Match Report,0.0
+2024-06-02,17:30,La Liga 2,Matchweek 42,Sun,Away,L,1,2,Tenerife,0.8,1.7,49,11142,Jordi Masip,4-3-3,Rubén Ávalos,Match Report,0.0

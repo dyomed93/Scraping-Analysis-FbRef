@@ -1,0 +1,31 @@
+Player,Nation,Pos,Age,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,Matches
+Sergi,es ESP,DF,32-062,40.7,43,23,27,16,0,27,39,69.2,12,57,40,17,34,77,168,0,Matches
+Enric Franquesa,es ESP,DF,27-116,40.5,73,46,43,27,3,39,57,68.4,18,40,8,32,30,103,71,0,Matches
+Diego Conde,es ESP,GK,25-237,39.1,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,16,1,Matches
+Jorge Sáenz,es ESP,DF,27-217,35.2,50,34,37,13,0,21,34,61.8,13,32,22,10,30,80,185,0,Matches
+Diego,es ESP,FW,24-064,31.1,10,5,1,5,4,4,15,26.7,11,14,1,13,2,12,18,0,Matches
+Yvan Neyou,cm CMR,MF,27-170,28.8,68,42,31,33,4,32,58,55.2,26,36,10,26,35,103,24,0,Matches
+Francisco Portillo,es ESP,"MF,FW",34-008,27.4,25,14,10,12,3,11,42,26.2,31,19,4,15,12,37,19,0,Matches
+Dani Raba,es ESP,"MF,FW",28-236,23.9,44,31,14,15,15,24,56,42.9,32,32,6,26,16,60,7,0,Matches
+Iker Undabarrena,es ESP,MF,29-034,24.7,44,20,18,25,1,19,47,40.4,28,32,8,24,36,80,36,0,Matches
+Miguel,es ESP,FW,24-292,24.8,11,8,5,4,2,6,27,22.2,21,21,1,20,7,18,20,0,Matches
+Allan Nyom,cm CMR,DF,36-042,22.3,35,24,26,6,3,21,31,67.7,10,17,4,13,15,50,53,1,Matches
+Jorge Miramón,es ESP,"DF,FW",35-019,22.1,43,26,21,18,4,20,37,54.1,17,25,6,19,23,66,40,0,Matches
+Aritz Arambarri,es ESP,DF,26-142,17.9,14,8,10,4,0,10,20,50.0,10,14,7,7,24,38,97,1,Matches
+Julián Chicco,ar ARG,MF,26-160,16.3,30,18,9,19,2,19,42,45.2,23,20,4,16,19,49,20,0,Matches
+Seydouba Cissé,gn GUI,"MF,FW",23-132,15.1,32,21,15,15,2,14,26,53.8,12,22,2,20,17,49,15,0,Matches
+Naïs Djouahra,fr FRA,"MF,FW",24-211,11.1,19,11,7,9,3,9,24,37.5,15,31,2,29,4,23,6,0,Matches
+Juan Cruz,es ESP,"FW,MF",24-057,10.6,10,6,8,1,1,6,16,37.5,10,4,0,4,5,15,5,0,Matches
+Luis Perea,es ESP,MF,26-301,9.1,18,11,9,9,0,9,25,36.0,16,14,8,6,3,21,25,0,Matches
+Darko Brašanac,rs SRB,"MF,FW",32-130,7.3,14,10,8,4,2,6,13,46.2,7,7,2,5,7,21,9,0,Matches
+Oscar Ureña,es ESP,"MF,FW",21-172,5.2,9,5,3,5,1,2,6,33.3,4,3,2,1,0,9,5,0,Matches
+Dani Jiménez,es ESP,GK,34-108,2.9,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0,Matches
+Naim García,es ESP,"MF,FW",22-010,3.0,7,3,1,3,3,4,6,66.7,2,4,2,2,3,10,5,0,Matches
+Darío Poveda,es ESP,FW,27-100,0.7,1,1,0,0,1,1,1,100.0,0,0,0,0,1,2,1,0,Matches
+Borja López,es ESP,DF,30-140,0.5,0,0,0,0,0,0,0,0.0,0,1,1,0,0,0,1,0,Matches
+Diyaeddine Abzi,ca CAN,"DF,MF",25-211,0.4,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,2,0,Matches
+Lalo Aguilar,es ESP,"DF,MF",22-010,0.2,0,0,0,0,0,0,0,0.0,0,1,1,0,0,0,0,0,Matches
+Sergio Navarro,es ESP,MF,23-126,0.0,0,0,0,0,0,0,0,0.0,0,1,0,1,0,0,0,0,Matches
+Sydney Osazuwa,es ESP,"DF,MF",17-061,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Squad Total,0,0,28.3,42.0,600,367,303,243,54,304,624,48.7,320,448,141,307,323,923,849,3,0
+Opponent Total,0,0,27.6,42.0,610,367,306,246,58,292,629,46.4,337,339,92,247,315,925,769,8,0

@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,90s,Goals GA,Goals PKA,Goals FK,Goals CK,Goals OG,Expected PSxG,Expected PSxG/SoT,Expected PSxG+/-,Expected /90,Launched Cmp,Launched Att,Launched Cmp%,Passes Att (GK),Passes Thr,Passes Launch%,Passes AvgLen,Goal Kicks Att,Goal Kicks Launch%,Goal Kicks AvgLen,Crosses Opp,Crosses Stp,Crosses Stp%,Sweeper #OPA,Sweeper #OPA/90,Sweeper AvgDist,Matches
+Gregor Kobel,ch SUI,GK,25.0,26.3,34,5,0,9,1,36.8,0.28,3.8,0.14,106,268,39.6,1006,106,19.6,28.1,165,43.0,38.5,359,7,1.9,17,0.65,12.5,Matches
+Alexander Meyer,de GER,GK,32.0,7.7,9,0,0,0,1,7.8,0.3,-0.2,-0.03,27,81,33.3,334,29,20.1,28.3,31,45.2,42.1,107,8,7.5,7,0.91,14.5,Matches
+Squad Total,0,0,26.8,34.0,43,5,0,9,2,44.6,0.28,3.6,0.1,133,349,38.1,1267,135,20.8,0.0,269,31.6,30.7,466,15,3.2,24,0.71,0.0,0
+Opponent Total,0,0,26.6,34.0,68,6,2,9,0,66.4,0.33,-1.6,-0.05,152,435,34.9,874,147,39.0,35.2,247,38.1,34.3,403,21,5.2,24,0.71,13.6,0

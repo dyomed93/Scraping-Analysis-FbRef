@@ -1,0 +1,30 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Stijn van Gassel,nl NED,GK,26.0,34.0,1583,1225,352,86,0,3,0,0,0,0,0,0,935,6,0,Matches
+Siebe Horemans,be BEL,DF,25.0,33.6,1741,1453,281,23,1,12,84,258,0,0,0,0,1280,7,24,Matches
+Julian Baas,nl NED,MF,21.0,32.0,1387,1187,197,77,4,15,138,10,101,51,35,0,1069,3,29,Matches
+Arthur Zagre,fr FRA,DF,21.0,25.7,1210,1002,207,20,3,1,19,187,0,0,0,0,1018,1,24,Matches
+Casper Widell,se SWE,DF,20.0,25.8,1266,1218,47,27,0,20,1,4,0,0,0,0,1047,1,6,Matches
+Redouan El Yaakoubi,nl NED,"DF,MF",27.0,25.1,1225,1179,40,34,3,16,13,2,0,0,0,0,936,6,16,Matches
+Couhaib Driouech,ma MAR,"FW,MF",21.0,21.3,676,639,35,4,6,13,82,29,1,1,0,0,461,2,22,Matches
+Lazaros Lamprou,gr GRE,"FW,MF",25.0,18.0,494,472,18,7,3,3,49,10,1,0,0,0,345,4,14,Matches
+Cisse Sandra,be BEL,MF,19.0,18.6,611,577,33,11,1,5,14,6,3,1,0,0,488,1,11,Matches
+Troy Parrott,ie IRL,FW,21.0,17.6,317,286,28,0,2,0,10,5,0,0,0,0,216,3,18,Matches
+Kenzo Goudmijn,nl NED,"MF,FW",21.0,17.4,833,759,70,16,2,8,40,19,8,6,2,0,671,4,16,Matches
+Sven Nieuwpoort,nl NED,DF,30.0,16.3,654,641,13,10,0,1,0,2,0,0,0,0,589,0,2,Matches
+Derensili Fernandes,nl NED,"FW,MF",22.0,14.3,444,426,17,3,1,4,38,8,6,5,0,0,335,1,10,Matches
+Lance Duijvestijn,nl NED,"MF,FW",24.0,12.2,402,389,12,1,5,4,7,1,0,0,0,0,304,1,17,Matches
+Noah Naujoks,nl NED,"MF,FW",21.0,11.7,254,249,5,0,1,0,9,2,1,0,1,0,151,0,9,Matches
+Nikolas Agrafiotis,nl NED,FW,23.0,8.4,185,178,7,0,0,0,3,1,0,0,0,0,115,0,9,Matches
+Mimeirhel Benita,nl NED,DF,19.0,10.5,480,397,82,7,0,6,23,75,0,0,0,0,361,1,10,Matches
+Serano Seymor,nl NED,DF,21.0,4.1,203,200,3,2,0,0,0,0,0,0,0,0,173,0,3,Matches
+Kian Fitz-Jim,nl NED,MF,20.0,4.4,176,168,7,3,0,0,2,0,3,0,1,0,149,1,4,Matches
+Kik Pierie,nl NED,DF,23.0,3.3,188,173,15,5,0,2,2,4,0,0,0,0,151,0,0,Matches
+Siem de Moes,nl NED,DF,19.0,3.2,146,125,21,4,0,1,0,17,0,0,0,0,118,0,1,Matches
+Richie Omorowa,se SWE,FW,19.0,5.7,133,120,13,0,0,0,2,1,0,0,0,0,89,0,4,Matches
+Oscar Uddenäs,se SWE,"FW,MF",20.0,5.2,153,144,9,0,0,0,6,9,0,0,0,0,105,0,6,Matches
+Ian Smeulers,nl NED,DF,23.0,2.0,77,58,19,1,0,0,3,17,1,0,1,0,61,0,2,Matches
+Lennard Hartjes,nl NED,MF,20.0,1.0,42,42,0,0,1,0,0,0,0,0,0,0,38,0,0,Matches
+Mike van Duinen,nl NED,"FW,MF",31.0,1.0,14,12,2,0,0,0,2,0,0,0,0,0,7,0,1,Matches
+Jeremy Udenhout,nl NED,DF,20.0,0.1,7,4,3,0,0,0,0,3,0,0,0,0,4,0,0,Matches
+Squad Total,0,0,23.2,34.0,14901,13323,1536,341,33,114,547,670,125,64,40,0,11216,42,258,0
+Opponent Total,0,0,25.3,34.0,18022,16352,1606,306,50,91,717,767,220,101,52,0,14154,64,358,0

@@ -1,0 +1,34 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Matteo Pessina,it ITA,MF,26.0,35.8,2154,2037,112,65,1,9,19,4,0,0,0,0,1903,5,26,Matches
+Andrea Colpani,it ITA,"MF,FW",24.0,29.5,981,876,99,24,2,33,111,9,66,15,40,0,752,6,19,Matches
+Michele Di Gregorio,it ITA,GK,26.0,31.9,1350,1053,296,73,0,2,0,0,0,0,0,0,1054,1,1,Matches
+Pablo Marí,es ESP,DF,29.0,29.1,1737,1670,66,31,0,5,4,12,0,0,0,0,1581,1,6,Matches
+Roberto Gagliardini,it ITA,"MF,DF",29.0,26.2,1487,1427,57,45,2,13,8,8,3,0,0,0,1339,3,11,Matches
+Dany Mota,pt POR,"FW,MF",25.0,22.8,836,775,58,9,1,5,89,5,31,3,23,0,625,3,33,Matches
+Luca Caldirola,it ITA,DF,32.0,23.8,1374,1294,78,43,0,7,4,12,0,0,0,0,1247,2,10,Matches
+Samuele Birindelli,it ITA,DF,24.0,22.4,1104,939,160,11,1,14,54,148,1,0,0,0,902,5,31,Matches
+Giorgos Kyriakopoulos,gr GRE,DF,27.0,19.0,1080,908,170,17,0,0,84,136,17,1,16,0,891,2,30,Matches
+Armando Izzo,it ITA,DF,31.0,18.3,1235,1181,54,43,0,5,3,8,0,0,0,0,1122,0,7,Matches
+Patrick Ciurria,it ITA,"DF,MF",28.0,17.8,847,740,106,7,2,2,53,92,7,2,4,0,662,1,25,Matches
+Danilo D'Ambrosio,it ITA,DF,34.0,17.1,1095,1029,65,34,1,2,7,27,0,0,0,0,979,1,9,Matches
+Andrea Carboni,it ITA,DF,22.0,16.5,976,925,51,16,0,10,21,34,0,0,0,0,833,0,13,Matches
+Lorenzo Colombo,it ITA,FW,21.0,15.1,263,252,11,1,0,4,2,2,0,0,0,0,185,0,7,Matches
+Warren Bondo,fr FRA,MF,19.0,16.4,621,602,16,6,0,3,2,3,1,0,0,0,557,3,11,Matches
+Milan Đurić,ba BIH,FW,33.0,14.0,272,268,4,0,0,0,1,0,0,0,0,0,140,0,5,Matches
+Valentin Carboni,ar ARG,"MF,FW",18.0,13.0,523,507,16,3,4,4,14,2,6,2,2,0,436,0,20,Matches
+Pedro Pereira,pt POR,DF,25.0,9.3,517,448,66,2,0,2,37,64,0,0,0,0,406,3,17,Matches
+Jean-Daniel Akpa-Akpro,ci CIV,MF,30.0,7.8,263,260,3,1,1,1,1,0,0,0,0,0,220,0,11,Matches
+Alessio Zerbin,it ITA,"DF,FW",24.0,7.6,282,228,54,7,1,0,31,35,12,1,7,0,218,0,11,Matches
+Alessandro Sorrentino,it ITA,GK,21.0,6.1,193,141,52,10,0,0,0,0,0,0,0,0,148,0,0,Matches
+Gianluca Caprari,it ITA,"MF,FW",30.0,3.2,124,114,9,1,0,0,8,2,5,1,3,0,98,1,7,Matches
+Samuele Vignato,it ITA,"MF,FW",19.0,3.8,128,118,10,2,1,3,8,1,6,0,5,0,107,0,3,Matches
+Daniel Maldini,it ITA,"MF,FW",21.0,3.7,114,103,11,2,1,0,9,0,8,3,2,0,89,0,1,Matches
+Pepín,gq EQG,"MF,FW",26.0,2.7,143,134,7,2,2,1,4,2,3,0,3,0,113,2,3,Matches
+Mirko Marić,hr CRO,FW,28.0,3.2,91,87,4,0,0,0,1,0,0,0,0,0,66,0,4,Matches
+Papu Gómez,ar ARG,"MF,FW",35.0,0.5,19,13,5,1,1,0,5,0,4,1,2,0,11,1,0,Matches
+Giulio Donati,it ITA,DF,33.0,0.4,46,40,6,1,0,0,4,5,0,0,0,0,38,0,1,Matches
+Giorgio Cittadini,it ITA,DF,21.0,0.2,6,5,1,1,0,0,0,0,0,0,0,0,5,0,0,Matches
+Andrea Ferraris,it ITA,MF,20.0,0.1,4,3,1,0,0,0,0,1,0,0,0,0,4,0,0,Matches
+Davide Bettella,it ITA,MF,23.0,0.0,5,5,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+Squad Total,0,0,26.8,38.0,19870,18182,1648,458,21,125,584,612,170,29,107,0,16734,40,322,0
+Opponent Total,0,0,26.6,38.0,17248,15602,1600,465,42,113,655,616,192,70,85,2,14208,46,277,0

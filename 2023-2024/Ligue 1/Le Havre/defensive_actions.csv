@@ -1,0 +1,30 @@
+Player,Nation,Pos,Age,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,Matches
+Arthur Desmas,fr FRA,GK,29.0,33.0,0,0,0,0,0,0,2,0.0,2,0,0,0,0,0,13,1,Matches
+Gautier Lloris,fr FRA,DF,28.0,30.9,50,28,40,9,1,28,42,66.7,14,50,30,20,32,82,142,1,Matches
+Arouna Sangante,sn SEN,DF,21.0,29.9,53,33,27,23,3,24,40,60.0,16,35,18,17,66,119,93,2,Matches
+Christopher Operi,ci CIV,DF,26.0,27.2,55,36,37,15,3,32,59,54.2,27,45,7,38,35,90,68,1,Matches
+Abdoulaye Touré,gn GUI,MF,29.0,25.4,47,28,22,22,3,30,60,50.0,30,30,8,22,25,72,33,0,Matches
+Josué Casimir,fr FRA,"FW,DF",21.0,22.4,31,18,14,14,3,7,18,38.9,11,23,2,21,13,44,25,0,Matches
+Daler Kuzyaev,ru RUS,MF,30.0,23.2,34,19,11,13,10,15,43,34.9,28,18,5,13,22,56,18,1,Matches
+Etienne Youte Kinkoue,fr FRA,DF,21.0,21.6,15,9,13,2,0,7,11,63.6,4,21,16,5,44,59,104,0,Matches
+Yassine Kechta,ma MAR,MF,21.0,20.5,46,24,24,19,3,31,73,42.5,42,20,3,17,23,69,16,1,Matches
+Emmanuel Sabbi,us USA,"FW,MF",25.0,17.6,38,19,15,15,8,16,39,41.0,23,26,2,24,19,57,7,0,Matches
+Yoann Salmier,gf GUF,DF,30.0,17.4,22,10,13,6,3,13,20,65.0,7,21,15,6,21,43,57,0,Matches
+Loïc Nego,hu HUN,"DF,MF",32.0,17.3,37,26,21,12,4,18,30,60.0,12,12,2,10,16,53,17,0,Matches
+Mohamed Lamine Bayo,gn GUI,FW,25.0,15.4,13,5,2,5,6,2,10,20.0,8,8,1,7,2,15,11,0,Matches
+André Ayew,gh GHA,FW,33.0,12.3,15,11,7,6,2,6,9,66.7,3,8,3,5,2,17,11,0,Matches
+Oussama Targhalline,ma MAR,MF,21.0,11.4,23,11,16,7,0,15,25,60.0,10,9,3,6,20,43,14,2,Matches
+Nabil Alioui,fr FRA,"MF,FW",24.0,11.2,3,2,2,1,0,2,4,50.0,2,6,1,5,3,6,4,0,Matches
+Antoine Joujou,fr FRA,"FW,MF",20.0,8.7,20,12,7,7,6,11,21,52.4,10,11,2,9,7,27,5,0,Matches
+Rassoul Ndiaye,sn SEN,"MF,FW",21.0,5.8,25,17,8,16,1,12,24,50.0,12,2,1,1,4,29,5,0,Matches
+Samuel Grandsir,fr FRA,"MF,FW",26.0,6.7,16,12,5,9,2,8,18,44.4,10,4,0,4,3,19,3,1,Matches
+Oualid El Hajjam,ma MAR,"DF,MF",32.0,4.4,8,7,5,2,1,2,9,22.2,7,5,1,4,6,14,10,0,Matches
+Issa Soumaré,sn SEN,"FW,MF",22.0,2.6,2,0,2,0,0,0,4,0.0,4,0,0,0,0,2,2,0,Matches
+Andy Logbo,fr FRA,FW,19.0,2.8,0,0,0,0,0,0,3,0.0,3,7,3,4,0,0,2,0,Matches
+Steve Ngoura,fr FRA,"FW,MF",18.0,2.5,2,1,1,1,0,1,4,25.0,3,0,0,0,0,2,3,0,Matches
+Mathieu Gorgelin,fr FRA,GK,32.0,1.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Nolan Mbemba,cg CGO,MF,28.0,0.2,2,1,0,1,1,1,2,50.0,1,0,0,0,0,2,0,0,Matches
+Simon Ebonog,cm CMR,MF,18.0,0.2,1,1,0,1,0,1,1,100.0,0,1,1,0,0,1,1,0,Matches
+Alois Confais,fr FRA,"MF,FW",26.0,0.1,2,2,1,1,0,1,1,100.0,0,0,0,0,0,2,0,0,Matches
+Squad Total,0,0,26.2,34.0,560,332,293,207,60,283,572,49.5,289,362,124,238,363,923,664,10,0
+Opponent Total,0,0,26.0,34.0,570,335,258,250,62,286,546,52.4,260,392,105,287,286,856,579,13,0

@@ -1,0 +1,32 @@
+Player,Nation,Pos,Age,90s,Standard Gls,Standard Sh,Standard SoT,Standard SoT%,Standard Sh/90,Standard SoT/90,Standard G/Sh,Standard G/SoT,Standard Dist,Standard FK,Standard PK,Standard PKatt,Expected xG,Expected npxG,Expected npxG/Sh,Expected G-xG,Expected np:G-xG,Matches
+Sam Kersten,nl NED,DF,25.0,34.0,0,8,3,37.5,0.24,0.09,0.0,0.0,22.4,0,0,0,0.5,0.5,0.06,-0.5,-0.5,Matches
+Jasper Schendelaar,nl NED,GK,22.0,32.0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches
+Bram van Polen,nl NED,DF,37.0,29.5,0,21,4,19.0,0.71,0.14,0.0,0.0,14.3,0,0,0,2.4,2.4,0.12,-2.4,-2.4,Matches
+Thomas Lam,fi FIN,DF,29.0,29.4,2,29,13,44.8,0.99,0.44,0.07,0.15,17.0,2,0,0,3.1,3.1,0.11,-1.1,-1.1,Matches
+Lennart Thy,de GER,"FW,MF",31.0,29.7,13,63,27,42.9,2.12,0.91,0.21,0.48,13.5,0,0,0,8.8,8.8,0.14,4.2,4.2,Matches
+Younes Namli,dk DEN,"FW,MF",29.0,28.5,4,63,19,30.2,2.21,0.67,0.06,0.21,23.1,3,0,0,3.1,3.1,0.05,0.9,0.9,Matches
+Anselmo García MacNulty,ie IRL,DF,20.0,27.9,2,10,6,60.0,0.36,0.22,0.2,0.33,14.3,0,0,0,1.5,1.5,0.15,0.5,0.5,Matches
+Dave Van Den Berg,nl NED,MF,23.0,28.4,5,47,15,31.9,1.65,0.53,0.11,0.33,22.5,1,0,0,3.1,3.1,0.07,1.9,1.9,Matches
+Odysseus Velanas,nl NED,"MF,FW",25.0,23.8,5,41,18,43.9,1.72,0.76,0.12,0.28,19.6,8,0,0,5.0,5.0,0.12,0.0,0.0,Matches
+Eliano Reijnders,nl NED,"FW,DF",22.0,23.1,3,25,8,32.0,1.08,0.35,0.12,0.38,16.2,0,0,0,2.8,2.8,0.11,0.2,0.2,Matches
+Zico Buurmeester,nl NED,MF,21.0,15.1,0,11,3,27.3,0.73,0.2,0.0,0.0,20.8,0,0,0,0.7,0.7,0.07,-0.7,-0.7,Matches
+Anouar El Azzouzi,nl NED,MF,22.0,14.6,0,9,2,22.2,0.62,0.14,0.0,0.0,18.2,0,0,0,0.8,0.8,0.09,-0.8,-0.8,Matches
+Ferdy Druijf,nl NED,"FW,MF",25.0,10.5,5,25,11,44.0,2.37,1.04,0.12,0.27,12.1,0,2,2,4.6,3.0,0.12,0.4,0.0,Matches
+Filip Krastev,bg BUL,MF,21.0,10.0,2,12,7,58.3,1.2,0.7,0.17,0.29,18.4,0,0,0,1.5,1.5,0.13,0.5,0.5,Matches
+Silvester van der Water,nl NED,"FW,MF",26.0,6.4,1,18,7,38.9,2.82,1.1,0.06,0.14,19.3,0,0,0,1.4,1.4,0.08,-0.4,-0.4,Matches
+Ryan Thomas,nz NZL,MF,28.0,3.7,0,5,1,20.0,1.34,0.27,0.0,0.0,23.0,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches
+Apostolos Vellios,gr GRE,"FW,MF",31.0,8.1,3,24,9,37.5,2.95,1.11,0.13,0.33,10.7,0,0,0,3.1,3.1,0.13,-0.1,-0.1,Matches
+Nick Fichtinger,0,MF,0.0,3.9,0,4,3,75.0,1.02,0.77,0.0,0.0,27.2,0,0,0,0.2,0.2,0.04,-0.2,-0.2,Matches
+Damian van der Haar,0,DF,0.0,3.2,0,1,0,0.0,0.31,0.0,0.0,0.0,14.0,0,0,0,0.1,0.1,0.06,-0.1,-0.1,Matches
+Bart van Hintum,nl NED,DF,36.0,2.0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches
+Mike Hauptmeijer,nl NED,GK,26.0,2.0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches
+Lennart-Marten Czyborra,de GER,DF,24.0,1.7,0,1,1,100.0,0.59,0.59,0.0,0.0,26.8,0,0,0,0.0,0.0,0.01,0.0,0.0,Matches
+Kaj de Rooij,nl NED,"FW,MF",22.0,1.8,0,2,0,0.0,1.09,0.0,0.0,0.0,9.3,0,0,0,0.3,0.3,0.16,-0.3,-0.3,Matches
+Dean Huiberts,nl NED,"MF,DF",23.0,1.3,0,2,1,50.0,1.59,0.8,0.0,0.0,11.7,0,0,0,0.6,0.6,0.32,-0.6,-0.6,Matches
+Nicolás Serrano,es ESP,"FW,MF",20.0,1.6,0,5,2,40.0,3.06,1.22,0.0,0.0,18.8,0,0,0,0.3,0.3,0.07,-0.3,-0.3,Matches
+Divaio Jhaïr-Bobson,nl NED,"DF,FW",19.0,0.6,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches
+Anthony Fontana,us USA,"MF,FW",23.0,0.5,0,1,0,0.0,1.91,0.0,0.0,0.0,17.4,0,0,0,0.0,0.0,0.04,0.0,0.0,Matches
+Mohamed Oukhattou,nl NED,"FW,MF",18.0,0.4,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches
+Teun Gijselhart,nl NED,MF,18.0,0.1,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches
+Squad Total,0,0,26.4,34.0,45,427,160,37.5,12.56,4.71,0.1,0.27,17.9,14,2,2,43.1,41.5,0.1,1.9,1.5,0
+Opponent Total,0,0,25.2,34.0,63,521,186,35.7,15.32,5.47,0.11,0.3,16.6,24,8,10,62.4,54.7,0.11,0.6,0.3,0

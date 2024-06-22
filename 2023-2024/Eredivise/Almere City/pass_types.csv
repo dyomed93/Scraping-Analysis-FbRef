@@ -1,0 +1,32 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Thomas Robinet,fr FRA,"FW,MF",26.0,31.7,824,804,17,0,1,0,22,3,0,0,0,0,496,3,30,Matches
+Peer Koopmeiners,nl NED,MF,23.0,30.8,1476,1275,194,92,4,6,157,6,94,29,40,0,944,7,32,Matches
+Damian van Bruggen,nl NED,DF,27.0,27.8,860,803,56,54,0,1,0,2,0,0,0,0,623,1,1,Matches
+Nordin Bakker,nl NED,GK,25.0,28.8,1081,767,311,77,0,1,0,0,0,0,0,0,483,3,1,Matches
+Stije Resink,nl NED,MF,20.0,28.6,1059,1002,53,15,3,5,21,3,0,0,0,0,759,4,32,Matches
+Sherel Floranus,cw CUW,DF,24.0,28.0,1259,960,296,32,1,5,37,264,0,0,0,0,880,3,15,Matches
+Jochem van de Kamp,nl NED,"DF,MF",19.0,21.1,700,646,49,2,4,3,10,45,0,0,0,0,495,5,22,Matches
+Joey Jacobs,nl NED,DF,23.0,21.8,900,708,187,15,0,7,17,172,0,0,0,0,525,5,14,Matches
+Rajiv van La Parra,nl NED,"FW,MF",32.0,20.0,454,412,41,9,0,0,46,16,9,5,3,0,283,1,24,Matches
+Théo Barbet,fr FRA,DF,22.0,20.2,769,704,63,13,2,7,4,50,0,0,0,0,549,2,10,Matches
+Yoann Cathline,fr FRA,"DF,FW",21.0,19.1,551,506,40,4,2,2,69,19,16,0,7,0,353,5,24,Matches
+Kornelius Hansen,no NOR,FW,22.0,15.4,306,294,9,0,2,0,17,2,5,0,1,0,191,3,15,Matches
+Hamdi Akujobi,nl NED,"DF,FW",23.0,17.3,682,549,131,5,2,5,43,126,0,0,0,0,443,2,10,Matches
+Álvaro Peña,es ESP,MF,31.0,12.5,500,455,44,12,1,4,20,4,12,2,5,0,379,1,14,Matches
+Loïc Mbe Soh,fr FRA,DF,22.0,14.0,551,534,15,10,1,8,2,5,0,0,0,0,409,2,4,Matches
+Manu Royo,es ESP,DF,29.0,7.4,413,308,104,2,0,6,60,95,7,2,3,0,265,1,9,Matches
+Yann Kitala,0,FW,25.0,5.3,104,103,1,0,0,0,6,0,0,0,0,0,53,0,3,Matches
+Samuel Şahin-Radlinger,at AUT,GK,30.0,5.2,194,136,57,14,0,0,0,0,0,0,0,0,69,1,0,Matches
+Lance Duijvestijn,nl NED,"MF,FW",24.0,5.0,203,196,6,0,0,4,8,3,1,1,0,0,151,1,10,Matches
+Anthony Limbombe,be BEL,FW,29.0,2.0,63,51,12,3,0,1,11,2,7,2,1,2,47,0,3,Matches
+Adi Nalic,ba BIH,"FW,MF",25.0,2.4,69,68,1,0,0,2,6,1,0,0,0,0,40,0,2,Matches
+Jason Van Duiven,nl NED,"FW,MF",18.0,3.2,78,76,2,0,0,0,0,0,0,0,0,0,39,0,1,Matches
+Milan Corryn,be BEL,"MF,FW",24.0,1.8,59,53,6,1,0,0,4,0,2,0,2,0,37,0,2,Matches
+José Pascual Alba Seva,es ESP,FW,23.0,1.5,33,24,8,3,0,0,6,0,1,1,0,0,14,1,2,Matches
+Christopher Mamengi,nl NED,"DF,FW",22.0,0.8,28,26,2,1,0,0,0,0,0,0,0,0,22,0,0,Matches
+Faiz Mattoir,km COM,"FW,MF",23.0,0.6,19,15,4,3,0,0,2,0,1,0,1,0,17,0,0,Matches
+Danny Post,nl NED,"MF,DF",34.0,0.4,20,20,0,0,0,0,0,0,0,0,0,0,17,0,1,Matches
+Marcelencio Esajas,nl NED,"MF,FW",21.0,0.4,12,11,1,0,0,0,0,0,0,0,0,0,8,0,0,Matches
+Jeffrey Puriel,nl NED,FW,20.0,0.3,5,4,1,1,0,0,1,0,0,0,0,0,3,0,0,Matches
+Squad Total,0,0,24.6,34.0,13272,11510,1711,368,23,67,569,818,155,42,63,2,8594,51,281,0
+Opponent Total,0,0,25.0,34.0,17018,15064,1895,515,45,75,569,845,191,95,60,0,12341,59,328,0

@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,Playing Time MP,Playing Time Starts,Playing Time Min,Playing Time 90s,Performance GA,Performance GA90,Performance SoTA,Performance Saves,Performance Save%,Performance W,Performance D,Performance L,Performance CS,Performance CS%,Penalty Kicks PKatt,Penalty Kicks PKA,Penalty Kicks PKsv,Penalty Kicks PKm,Penalty Kicks Save%,Matches
+Jesús Ruiz,es ESP,GK,27-153,29,29,2610,29.0,41,1.41,138,96,73.2,6,10,13,7,24.1,5,4,1,0,20.0,Matches
+Lucas Anacker,br BRA,GK,27-273,13,13,1170,13.0,12,0.92,44,32,77.3,4,4,5,5,38.5,2,2,0,0,0.0,Matches
+Squad Total,0,0,28.5,42,42,3780,42.0,53,1.26,182,128,74.2,10,14,18,12,28.6,7,6,1,0,14.3,0
+Opponent Total,0,0,27.6,42,42,3780,42.0,32,0.76,144,111,78.5,18,14,10,19,45.2,2,1,1,0,50.0,0

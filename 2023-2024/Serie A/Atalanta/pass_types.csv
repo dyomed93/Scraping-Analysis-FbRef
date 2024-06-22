@@ -1,0 +1,32 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Éderson,br BRA,MF,24.0,31.9,1662,1611,44,42,6,17,17,2,0,0,0,0,1390,7,27,Matches
+Berat Djimsiti,al ALB,DF,30.0,31.5,1661,1584,75,58,1,6,6,17,0,0,0,0,1454,2,11,Matches
+Giorgio Scalvini,it ITA,DF,19.0,28.3,1564,1500,57,33,1,10,5,24,0,0,0,0,1272,7,23,Matches
+Teun Koopmeiners,nl NED,MF,25.0,29.2,1419,1280,129,34,3,9,121,13,59,31,20,0,1092,10,32,Matches
+Marten de Roon,nl NED,"MF,DF",32.0,28.9,1712,1636,74,60,5,22,16,13,0,0,0,0,1446,2,17,Matches
+Matteo Ruggeri,it ITA,DF,21.0,27.2,1562,1343,218,8,0,9,101,200,10,1,4,0,1250,1,33,Matches
+Marco Carnesecchi,it ITA,GK,23.0,26.9,879,635,238,45,0,0,0,0,0,0,0,0,619,6,1,Matches
+Sead Kolašinac,ba BIH,DF,30.0,24.2,1278,1192,81,28,1,4,9,53,0,0,0,0,1077,5,26,Matches
+Charles De Ketelaere,be BEL,"FW,MF",22.0,22.5,782,746,35,7,6,2,47,8,2,0,2,0,565,1,25,Matches
+Mario Pašalić,hr CRO,MF,28.0,22.8,1145,1107,35,29,4,11,10,2,0,0,0,0,988,3,13,Matches
+Davide Zappacosta,it ITA,DF,31.0,20.7,1049,857,191,13,0,2,76,168,10,4,4,0,881,1,28,Matches
+Ademola Lookman,ng NGA,"FW,MF",25.0,21.0,838,759,79,6,6,4,69,8,52,20,17,0,635,0,28,Matches
+Gianluca Scamacca,it ITA,FW,24.0,16.1,434,420,9,1,4,16,6,0,0,0,0,0,293,5,18,Matches
+Aleksei Miranchuk,ru RUS,"MF,FW",27.0,13.1,622,553,68,11,2,5,83,2,52,31,16,0,454,1,22,Matches
+Emil Holm,se SWE,DF,23.0,10.5,457,362,94,2,1,1,35,92,0,0,0,0,304,1,21,Matches
+Juan Musso,ar ARG,GK,29.0,11.0,371,282,87,17,0,1,0,0,0,0,0,0,278,2,0,Matches
+Hans Hateboer,nl NED,DF,29.0,12.4,616,515,97,4,0,2,34,93,0,0,0,0,514,4,16,Matches
+Rafael Tolói,it ITA,DF,32.0,10.7,537,505,31,14,0,0,8,17,0,0,0,0,442,1,8,Matches
+Isak Hien,se SWE,DF,24.0,10.4,472,451,21,14,0,1,0,1,0,0,0,0,417,0,2,Matches
+El Bilal Touré,ml MLI,FW,21.0,4.4,126,124,2,0,1,1,2,0,0,0,0,0,92,0,6,Matches
+Mitchel Bakker,nl NED,DF,23.0,4.2,212,168,42,3,0,0,13,36,3,0,3,0,167,2,8,Matches
+Luis Muriel,co COL,"FW,MF",32.0,4.5,241,203,36,5,1,1,31,5,21,16,0,1,170,2,5,Matches
+Duván Zapata,co COL,FW,32.0,1.2,50,47,3,1,0,0,6,1,0,0,0,0,36,0,4,Matches
+Giovanni Bonfanti,it ITA,DF,20.0,1.0,57,52,5,2,0,0,2,3,0,0,0,0,46,0,2,Matches
+Nadir Zortea,it ITA,DF,24.0,1.7,92,77,15,0,0,0,12,14,1,0,1,0,69,0,5,Matches
+Michel Ndary Adopo,fr FRA,MF,23.0,1.2,89,88,1,1,0,0,1,0,0,0,0,0,74,0,1,Matches
+José Luis Palomino,ar ARG,DF,33.0,0.3,32,31,1,1,0,0,0,0,0,0,0,0,25,0,0,Matches
+Francesco Rossi,it ITA,GK,32.0,0.1,2,1,1,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Leonardo Mendicino,it ITA,MF,17.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Squad Total,0,0,26.3,38.0,19961,18129,1769,439,42,124,710,772,210,103,67,1,16051,63,382,0
+Opponent Total,0,0,26.4,38.0,19162,17161,1943,517,52,84,571,862,147,71,56,0,15167,58,412,0

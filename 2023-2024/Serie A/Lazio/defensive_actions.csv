@@ -1,0 +1,25 @@
+Player,Nation,Pos,Age,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,Matches
+Adam Marušić,me MNE,DF,30.0,34.4,45,31,24,19,2,27,49,55.1,22,27,7,20,29,74,63,2,Matches
+Felipe Anderson,br BRA,"FW,MF",30.0,30.8,78,45,32,33,13,34,90,37.8,56,45,3,42,27,105,23,0,Matches
+Ivan Provedel,it ITA,GK,29.0,30.0,1,0,1,0,0,1,3,33.3,2,0,0,0,0,1,12,1,Matches
+Luis Alberto,es ESP,MF,30.0,25.7,35,20,16,12,7,15,53,28.3,38,34,4,30,7,42,13,0,Matches
+Mattéo Guendouzi,fr FRA,MF,24.0,26.3,34,15,11,18,5,21,49,42.9,28,24,6,18,21,55,24,1,Matches
+Alessio Romagnoli,it ITA,DF,28.0,26.8,25,18,14,11,0,16,24,66.7,8,29,17,12,29,54,115,0,Matches
+Mattia Zaccagni,it ITA,"FW,MF",28.0,21.7,27,16,11,15,1,9,21,42.9,12,26,2,24,21,48,15,0,Matches
+Mario Gila,es ESP,DF,22.0,20.1,32,14,23,8,1,19,34,55.9,15,27,14,13,20,52,69,0,Matches
+Ciro Immobile,it ITA,FW,33.0,18.4,11,9,2,5,4,3,14,21.4,11,9,3,6,5,16,11,0,Matches
+Manuel Lazzari,it ITA,DF,29.0,18.6,26,18,13,10,3,18,28,64.3,10,20,4,16,12,38,37,1,Matches
+Patric,es ESP,DF,30.0,17.9,13,8,10,3,0,8,18,44.4,10,15,9,6,6,19,44,0,Matches
+Daichi Kamada,jp JPN,MF,26.0,17.2,53,36,22,22,9,28,52,53.8,24,24,5,19,18,71,7,0,Matches
+Valentín Castellanos,ar ARG,FW,24.0,18.7,22,10,1,12,9,6,20,30.0,14,22,2,20,2,24,18,0,Matches
+Nicolò Casale,it ITA,DF,25.0,17.3,15,9,13,2,0,6,15,40.0,9,19,16,3,12,27,61,0,Matches
+Nicolò Rovella,it ITA,MF,21.0,14.6,46,28,25,17,4,16,36,44.4,20,27,6,21,23,69,29,0,Matches
+Danilo Cataldi,it ITA,MF,28.0,15.1,24,12,7,16,1,8,18,44.4,10,15,7,8,17,41,19,1,Matches
+Gustav Isaksen,dk DEN,FW,22.0,11.9,4,3,2,1,1,1,9,11.1,8,11,1,10,4,8,4,0,Matches
+Elseid Hysaj,al ALB,DF,29.0,13.3,24,14,8,13,3,15,24,62.5,9,16,6,10,17,41,31,0,Matches
+Matías Vecino,uy URU,MF,31.0,12.8,32,17,12,20,0,20,31,64.5,11,17,5,12,12,44,21,0,Matches
+Luca Pellegrini,it ITA,DF,24.0,8.7,18,13,7,10,1,9,17,52.9,8,7,3,4,9,27,20,0,Matches
+Christos Mandas,gr GRE,GK,21.0,8.0,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,3,1,Matches
+Pedro,es ESP,"FW,MF",36.0,9.1,16,12,5,7,4,3,12,25.0,9,16,2,14,3,19,1,0,Matches
+Squad Total,0,0,28.2,38.0,581,348,259,254,68,283,618,45.8,335,430,122,308,295,876,640,7,0
+Opponent Total,0,0,26.5,38.0,512,303,239,211,62,269,541,49.7,272,441,122,319,318,830,702,16,0

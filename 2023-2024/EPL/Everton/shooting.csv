@@ -1,0 +1,29 @@
+Player,Nation,Pos,Age,90s,Standard Gls,Standard Sh,Standard SoT,Standard SoT%,Standard Sh/90,Standard SoT/90,Standard G/Sh,Standard G/SoT,Standard Dist,Standard FK,Standard PK,Standard PKatt,Expected xG,Expected npxG,Expected npxG/Sh,Expected G-xG,Expected np:G-xG,Matches
+Jordan Pickford,eng ENG,GK,29.0,38.0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches
+James Tarkowski,eng ENG,DF,30.0,38.0,1,25,4,16.0,0.66,0.11,0.04,0.25,9.9,0,0,0,2.6,2.6,0.1,-1.6,-1.6,Matches
+Jarrad Branthwaite,eng ENG,DF,21.0,34.6,3,14,4,28.6,0.4,0.12,0.21,0.75,11.6,0,0,0,1.7,1.7,0.12,1.3,1.3,Matches
+James Garner,eng ENG,MF,22.0,33.4,1,41,10,24.4,1.23,0.3,0.02,0.1,22.1,5,0,0,2.7,2.7,0.07,-1.7,-1.7,Matches
+Dwight McNeil,eng ENG,"MF,FW",23.0,32.1,3,57,14,24.6,1.77,0.44,0.05,0.21,21.0,0,0,0,3.4,3.4,0.06,-0.4,-0.4,Matches
+Abdoulaye Doucouré,ml MLI,"FW,MF",30.0,29.2,7,47,21,44.7,1.61,0.72,0.15,0.33,12.2,0,0,0,8.8,8.8,0.2,-1.8,-1.8,Matches
+Vitaliy Mykolenko,ua UKR,DF,24.0,27.4,2,26,5,19.2,0.95,0.18,0.08,0.4,18.9,0,0,0,1.5,1.5,0.06,0.5,0.5,Matches
+Ashley Young,eng ENG,"DF,MF",38.0,25.3,0,13,2,15.4,0.51,0.08,0.0,0.0,21.9,3,0,0,0.6,0.6,0.05,-0.6,-0.6,Matches
+Dominic Calvert-Lewin,eng ENG,FW,26.0,24.1,7,71,28,39.4,2.94,1.16,0.07,0.18,13.9,1,2,2,12.9,11.4,0.16,-5.9,-6.4,Matches
+Jack Harrison,eng ENG,"MF,FW",26.0,24.6,3,34,9,26.5,1.38,0.37,0.09,0.33,17.8,1,0,0,3.6,3.6,0.11,-0.6,-0.6,Matches
+Idrissa Gana Gueye,sn SEN,MF,33.0,20.9,4,26,7,26.9,1.24,0.33,0.15,0.57,22.2,1,0,0,1.3,1.3,0.05,2.7,2.7,Matches
+Amadou Onana,be BEL,MF,21.0,23.2,2,29,6,20.7,1.25,0.26,0.07,0.33,19.3,0,0,0,2.0,2.0,0.07,0.0,0.0,Matches
+Ben Godfrey,eng ENG,DF,25.0,12.4,0,15,3,20.0,1.21,0.24,0.0,0.0,12.0,0,0,0,1.7,1.7,0.12,-1.7,-1.7,Matches
+Nathan Patterson,sct SCO,DF,21.0,11.2,0,4,0,0.0,0.36,0.0,0.0,0.0,20.9,0,0,0,0.3,0.3,0.08,-0.3,-0.3,Matches
+Beto,gw GNB,FW,25.0,10.6,3,42,12,28.6,3.97,1.14,0.07,0.25,14.7,0,0,1,6.8,6.0,0.14,-3.8,-3.0,Matches
+Séamus Coleman,ie IRL,DF,34.0,7.4,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches
+Arnaut Danjuma,nl NED,"MF,FW",26.0,6.6,1,25,9,36.0,3.78,1.36,0.04,0.11,16.0,1,0,0,2.6,2.6,0.1,-1.6,-1.6,Matches
+Michael Keane,eng ENG,DF,30.0,4.9,1,6,4,66.7,1.23,0.82,0.17,0.25,10.8,0,0,0,0.7,0.7,0.12,0.3,0.3,Matches
+André Gomes,pt POR,"MF,FW",30.0,5.6,1,8,4,50.0,1.42,0.71,0.13,0.25,22.4,2,0,0,0.3,0.3,0.04,0.7,0.7,Matches
+Alex Iwobi,ng NGA,MF,27.0,1.6,0,4,2,50.0,2.57,1.29,0.0,0.0,16.2,0,0,0,0.3,0.3,0.08,-0.3,-0.3,Matches
+Lewis Dobbin,eng ENG,MF,20.0,2.6,1,5,2,40.0,1.94,0.78,0.2,0.5,15.6,0,0,0,0.3,0.3,0.06,0.7,0.7,Matches
+Youssef Chermiti,pt POR,FW,19.0,2.3,0,7,2,28.6,3.03,0.87,0.0,0.0,14.6,0,0,0,0.7,0.7,0.1,-0.7,-0.7,Matches
+Neal Maupay,fr FRA,FW,26.0,1.2,0,5,4,80.0,4.05,3.24,0.0,0.0,12.5,0,0,0,1.4,1.4,0.29,-1.4,-1.4,Matches
+Thomas Cannon,ie IRL,FW,20.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches
+Tyler Onyango,eng ENG,MF,20.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches
+Lewis Warrington,eng ENG,FW,20.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches
+Squad Total,0,0,27.1,38.0,40,504,152,30.2,13.26,4.0,0.08,0.25,16.7,14,2,3,54.0,51.6,0.11,-14.0,-13.6,0
+Opponent Total,0,0,26.3,38.0,48,530,157,29.6,13.95,4.13,0.08,0.25,16.9,12,8,8,55.2,49.1,0.1,-7.2,-9.1,0

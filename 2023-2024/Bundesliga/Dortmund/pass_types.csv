@@ -1,0 +1,35 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Nico Schlotterbeck,de GER,DF,23.0,31.8,2681,2540,136,72,4,42,8,11,0,0,0,0,2381,5,23,Matches
+Gregor Kobel,ch SUI,GK,25.0,26.3,1175,951,220,55,0,0,0,0,0,0,0,0,974,4,0,Matches
+Niclas Füllkrug,de GER,FW,30.0,24.6,572,557,14,1,4,5,5,0,0,0,0,0,378,1,23,Matches
+Julian Brandt,de GER,"MF,FW",27.0,24.7,1319,1143,172,38,6,12,165,15,116,53,53,2,1054,4,24,Matches
+Marcel Sabitzer,at AUT,MF,29.0,21.8,1067,993,72,19,1,4,30,14,17,7,8,0,868,2,19,Matches
+Emre Can,de GER,"MF,DF",29.0,21.7,1471,1431,39,32,4,7,2,5,0,0,0,0,1286,1,15,Matches
+Donyell Malen,nl NED,"FW,MF",24.0,19.8,546,525,18,4,6,4,39,9,4,0,0,0,410,3,23,Matches
+Julian Ryerson,no NOR,DF,25.0,19.6,1129,997,129,9,0,2,40,120,0,0,0,0,974,3,19,Matches
+Mats Hummels,de GER,DF,34.0,17.6,1418,1366,50,44,3,16,3,3,0,0,0,0,1262,2,10,Matches
+Marco Reus,de GER,"MF,FW",34.0,17.8,707,634,70,21,6,2,32,7,19,8,9,0,588,3,19,Matches
+Ian Maatsen,nl NED,DF,21.0,14.0,1060,945,112,17,3,8,26,94,1,1,0,0,928,3,20,Matches
+Niklas Süle,de GER,DF,27.0,16.8,1505,1431,73,48,0,22,2,12,0,0,0,0,1401,1,6,Matches
+Jamie Bynoe-Gittens,eng ENG,"FW,MF",18.0,11.8,363,357,5,1,2,2,13,4,0,0,0,0,284,1,13,Matches
+Salih Özcan,tr TUR,MF,25.0,13.2,794,758,35,27,4,4,1,7,0,0,0,0,680,1,13,Matches
+Marius Wolf,de GER,DF,28.0,13.0,896,757,136,14,1,3,45,122,0,0,0,0,687,3,26,Matches
+Ramy Bensebaini,dz ALG,DF,28.0,11.5,851,746,105,22,1,4,21,83,0,0,0,0,702,0,26,Matches
+Jadon Sancho,eng ENG,"FW,MF",23.0,10.5,512,481,28,3,3,1,29,11,13,7,5,0,414,3,13,Matches
+Felix Nmecha,de GER,MF,22.0,11.3,457,445,12,12,1,4,3,0,0,0,0,0,382,0,10,Matches
+Karim Adeyemi,de GER,"FW,MF",21.0,10.1,299,280,19,3,0,1,25,11,4,1,2,0,218,0,16,Matches
+Alexander Meyer,de GER,GK,32.0,7.7,366,323,42,11,0,0,0,0,0,0,0,0,302,1,0,Matches
+Thomas Meunier,be BEL,DF,31.0,6.5,495,424,70,7,0,1,17,63,0,0,0,0,399,1,7,Matches
+Sébastien Haller,ci CIV,FW,29.0,4.4,115,109,6,0,1,0,0,0,0,0,0,0,78,0,2,Matches
+Youssoufa Moukoko,de GER,FW,18.0,6.9,128,120,6,0,1,2,4,1,0,0,0,0,104,2,6,Matches
+Mateu Morey,es ESP,DF,23.0,1.2,87,78,9,3,0,1,1,6,0,0,0,0,74,0,3,Matches
+Gio Reyna,us USA,"MF,FW",20.0,3.1,193,188,5,2,0,2,4,2,0,0,0,0,166,0,3,Matches
+Antonios Papadopoulos,de GER,DF,23.0,1.3,74,74,0,0,0,1,0,0,0,0,0,0,59,0,2,Matches
+Kjell-Arik Wätjen,de GER,"MF,FW",17.0,1.2,53,52,1,0,1,0,0,1,0,0,0,0,46,0,1,Matches
+Ole Pohlmann,de GER,MF,22.0,0.6,20,17,3,1,0,0,3,0,2,2,0,0,13,0,0,Matches
+Samuel Bamba,de GER,FW,19.0,0.5,20,19,1,0,0,0,4,1,0,0,0,0,14,0,1,Matches
+Hendry Blank,de GER,DF,18.0,0.5,59,56,3,1,0,1,0,0,0,0,0,0,58,0,0,Matches
+Julien Duranville,be BEL,"FW,MF",17.0,0.1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,1,Matches
+Thorgan Hazard,be BEL,DF,30.0,0.1,9,9,0,0,0,0,0,0,0,0,0,0,7,0,0,Matches
+Squad Total,0,0,26.8,34.0,20445,18810,1591,467,52,151,522,602,176,79,77,2,17191,44,344,0
+Opponent Total,0,0,26.6,34.0,14962,13401,1471,330,54,83,602,623,172,74,66,0,11645,90,350,0

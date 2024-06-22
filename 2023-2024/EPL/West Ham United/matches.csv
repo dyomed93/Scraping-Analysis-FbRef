@@ -1,0 +1,54 @@
+D a t e,T i m e,C o m p,R o u n d,D a y,V e n u e,R e s u l t,G F,G A,O p p o n e n t,x G,x G A,P o s s,A t t e n d a n c e,C a p t a i n,F o r m a t i o n,R e f e r e e,M a t c h   R e p o r t,N o t e s
+2023-08-12,15:00,Premier League,Matchweek 1,Sat,Away,D,1,1,Bournemouth,1.1,1.3,38,11245,Kurt Zouma,4-2-3-1,Peter Bankes,Match Report,0
+2023-08-20,16:30,Premier League,Matchweek 2,Sun,Home,W,3,1,Chelsea,1.8,2.5,25,62451,Kurt Zouma,4-2-3-1,John Brooks,Match Report,0
+2023-08-26,17:30,Premier League,Matchweek 3,Sat,Away,W,3,1,Brighton,3.0,1.5,22,31508,Kurt Zouma,4-1-4-1,Anthony Taylor,Match Report,0
+2023-09-01,20:00,Premier League,Matchweek 4,Fri,Away,W,2,1,Luton Town,1.0,1.4,61,10802,Kurt Zouma,4-2-3-1,Paul Tierney,Match Report,0
+2023-09-16,15:00,Premier League,Matchweek 5,Sat,Home,L,1,3,Manchester City,0.9,3.6,32,62475,Kurt Zouma,4-2-3-1,Andy Madley,Match Report,0
+2023-09-21,20:00,Europa Lg,Group stage,Thu,Home,W,3,1,rs TSC Bačka Top,2.2,0.5,71,41374,Angelo Ogbonna,4-2-3-1,Filip Glova,Match Report,0
+2023-09-24,14:00,Premier League,Matchweek 6,Sun,Away,L,1,3,Liverpool,1.1,3.0,37,50136,Kurt Zouma,4-2-3-1,Chris Kavanagh,Match Report,0
+2023-09-27,19:45,EFL Cup,Third round,Wed,Away,W,1,0,Lincoln City,0.0,0.0,74,10168,Angelo Ogbonna,4-2-3-1,Joshua Smith,Match Report,0
+2023-09-30,15:00,Premier League,Matchweek 7,Sat,Home,W,2,0,Sheffield Utd,2.1,1.1,52,62459,Kurt Zouma,4-2-3-1,Graham Scott,Match Report,0
+2023-10-05,18:45,Europa Lg,Group stage,Thu,Away,W,2,1,de Freiburg,1.0,1.5,45,34100,Łukasz Fabiański,4-2-3-1,Mohammed Al Hakim,Match Report,0
+2023-10-08,14:00,Premier League,Matchweek 8,Sun,Home,D,2,2,Newcastle Utd,1.2,2.0,36,62473,Kurt Zouma,4-2-3-1,Peter Bankes,Match Report,0
+2023-10-22,16:30,Premier League,Matchweek 9,Sun,Away,L,1,4,Aston Villa,1.1,1.9,42,41734,Kurt Zouma,4-2-3-1,David Coote,Match Report,0
+2023-10-26,19:45,Europa Lg,Group stage,Thu,Away,L,1,2,gr Olympiacos,1.0,0.9,56,30623,Angelo Ogbonna,4-2-3-1,Andris Treimanis,Match Report,0
+2023-10-29,13:00,Premier League,Matchweek 10,Sun,Home,L,0,1,Everton,0.7,0.8,64,62469,Kurt Zouma,4-2-3-1,Stuart Attwell,Match Report,0
+2023-11-01,19:30,EFL Cup,Fourth round,Wed,Home,W,3,1,Arsenal,0.0,0.0,28,62154,Łukasz Fabiański,4-2-3-1,Simon Hooper,Match Report,0
+2023-11-04,15:00,Premier League,Matchweek 11,Sat,Away,L,2,3,Brentford,1.8,1.5,42,17103,James Ward-Prowse,4-4-2,Thomas Bramall,Match Report,0
+2023-11-09,20:00,Europa Lg,Group stage,Thu,Home,W,1,0,gr Olympiacos,1.5,0.6,56,55811,Łukasz Fabiański,4-2-3-1,Matej Jug,Match Report,0
+2023-11-12,14:00,Premier League,Matchweek 12,Sun,Home,W,3,2,Nott'ham Forest,1.8,1.7,54,62470,Kurt Zouma,4-2-3-1,Michael Salisbury,Match Report,0
+2023-11-25,15:00,Premier League,Matchweek 13,Sat,Away,W,2,1,Burnley,0.9,1.3,50,21319,Kurt Zouma,4-2-3-1,Samuel Barrott,Match Report,0
+2023-11-30,18:45,Europa Lg,Group stage,Thu,Away,W,1,0,rs TSC Bačka Top,0.6,0.7,58,4256,Łukasz Fabiański,4-3-3,Allard Lindhout,Match Report,0
+2023-12-03,14:00,Premier League,Matchweek 14,Sun,Home,D,1,1,Crystal Palace,1.1,0.9,55,62414,Tomáš Souček,4-2-3-1,Michael Oliver,Match Report,0
+2023-12-07,20:15,Premier League,Matchweek 15,Thu,Away,W,2,1,Tottenham,2.2,1.8,26,61171,Kurt Zouma,4-3-3,Michael Salisbury,Match Report,0
+2023-12-10,14:00,Premier League,Matchweek 16,Sun,Away,L,0,5,Fulham,1.3,2.3,37,23988,Kurt Zouma,4-4-1-1,Paul Tierney,Match Report,0
+2023-12-14,20:00,Europa Lg,Group stage,Thu,Home,W,2,0,de Freiburg,1.6,0.4,57,48876,Łukasz Fabiański,4-3-3,João Pinheiro,Match Report,0
+2023-12-17,14:00,Premier League,Matchweek 17,Sun,Home,W,3,0,Wolves,1.1,0.7,45,62455,Kurt Zouma,4-2-3-1,Chris Kavanagh,Match Report,0
+2023-12-20,20:00,EFL Cup,Quarter-finals,Wed,Away,L,1,5,Liverpool,0.0,0.0,33,57332,Angelo Ogbonna,4-2-3-1,Tim Robinson,Match Report,0
+2023-12-23,12:30,Premier League,Matchweek 18,Sat,Home,W,2,0,Manchester Utd,1.2,1.0,35,64472,Kurt Zouma,4-2-3-1,Simon Hooper,Match Report,0
+2023-12-28,20:15,Premier League,Matchweek 19,Thu,Away,W,2,0,Arsenal,1.4,2.7,27,60261,Angelo Ogbonna,4-2-3-1,Michael Oliver,Match Report,0
+2024-01-02,19:30,Premier League,Matchweek 20,Tue,Home,D,0,0,Brighton,0.7,2.3,32,62462,Angelo Ogbonna,4-2-3-1,Samuel Barrott,Match Report,0
+2024-01-07,14:00,FA Cup,Third round proper,Sun,Home,D,1,1,Bristol City,0.0,0.0,57,62447,Kurt Zouma,4-2-3-1,Graham Scott,Match Report,0
+2024-01-16,19:45,FA Cup,Third round proper,Tue,Away,L,0,1,Bristol City,0.0,0.0,57,25616,Kurt Zouma,3-4-3,Darren England,Match Report,0
+2024-01-21,14:00,Premier League,Matchweek 21,Sun,Away,D,2,2,Sheffield Utd,2.3,2.5,43,29164,Kurt Zouma,4-4-1-1,Michael Salisbury,Match Report,0
+2024-02-01,19:30,Premier League,Matchweek 22,Thu,Home,D,1,1,Bournemouth,1.4,1.2,48,62478,Kurt Zouma,4-3-2-1,Tim Robinson,Match Report,0
+2024-02-04,14:00,Premier League,Matchweek 23,Sun,Away,L,0,3,Manchester Utd,1.4,0.7,49,73612,Kurt Zouma,4-2-3-1,Andy Madley,Match Report,0
+2024-02-11,14:00,Premier League,Matchweek 24,Sun,Home,L,0,6,Arsenal,0.2,3.6,30,62475,Kurt Zouma,4-2-3-1,Craig Pawson,Match Report,0
+2024-02-17,15:00,Premier League,Matchweek 25,Sat,Away,L,0,2,Nott'ham Forest,0.5,2.8,51,29490,Kurt Zouma,4-2-3-1,Thomas Bramall,Match Report,0
+2024-02-26,20:00,Premier League,Matchweek 26,Mon,Home,W,4,2,Brentford,1.7,0.9,41,62450,Kurt Zouma,4-2-3-1,Simon Hooper,Match Report,0
+2024-03-02,15:00,Premier League,Matchweek 27,Sat,Away,W,3,1,Everton,1.9,2.7,45,39262,Kurt Zouma,4-2-3-1,Craig Pawson,Match Report,0
+2024-03-07,21:00,Europa Lg,Round of 16,Thu,Away,L,0,1,de Freiburg,1.4,1.5,42,34700,Kurt Zouma,4-2-3-1,Alejandro Hernández,Match Report,Leg 1 of 2
+2024-03-10,14:00,Premier League,Matchweek 28,Sun,Home,D,2,2,Burnley,2.1,0.7,52,62441,Tomáš Souček,4-2-3-1,Darren England,Match Report,0
+2024-03-14,17:45,Europa Lg,Round of 16,Thu,Home,W,5,0,de Freiburg,2.1,0.3,40,51014,Kurt Zouma,4-2-3-1,Marco Guida,Match Report,Leg 2 of 2; West Ham won
+2024-03-17,14:00,Premier League,Matchweek 29,Sun,Home,D,1,1,Aston Villa,2.0,0.7,31,62461,Kurt Zouma,4-2-3-1,Jarred Gillett,Match Report,0
+2024-03-30,12:30,Premier League,Matchweek 30,Sat,Away,L,3,4,Newcastle Utd,1.4,4.1,40,52199,Kurt Zouma,4-2-3-1,Robert Jones,Match Report,0
+2024-04-02,20:15,Premier League,Matchweek 31,Tue,Home,D,1,1,Tottenham,1.5,1.0,33,62469,Kurt Zouma,4-5-1,John Brooks,Match Report,0
+2024-04-06,15:00,Premier League,Matchweek 32,Sat,Away,W,2,1,Wolves,1.2,1.5,42,31504,Kurt Zouma,4-2-3-1,Tony Harrington,Match Report,0
+2024-04-11,21:00,Europa Lg,Quarter-finals,Thu,Away,L,0,2,de Leverkusen,0.2,2.3,28,30210,Kurt Zouma,3-4-3,Artur Soares Dias,Match Report,Leg 1 of 2
+2024-04-14,14:00,Premier League,Matchweek 33,Sun,Home,L,0,2,Fulham,0.9,3.2,58,62459,Łukasz Fabiański,4-2-3-1,Stuart Attwell,Match Report,0
+2024-04-18,20:00,Europa Lg,Quarter-finals,Thu,Home,D,1,1,de Leverkusen,1.5,1.1,43,62473,Kurt Zouma,4-2-3-1,José Sánchez,Match Report,Leg 2 of 2; Leverkusen won
+2024-04-21,15:00,Premier League,Matchweek 34,Sun,Away,L,2,5,Crystal Palace,1.3,2.4,40,25145,Kurt Zouma,4-2-3-1,Graham Scott,Match Report,0
+2024-04-27,12:30,Premier League,Matchweek 35,Sat,Home,D,2,2,Liverpool,0.7,1.7,29,62474,Kurt Zouma,4-2-3-1,Anthony Taylor,Match Report,0
+2024-05-05,14:00,Premier League,Matchweek 36,Sun,Away,L,0,5,Chelsea,0.9,4.1,31,39295,Kurt Zouma,4-2-3-1,Andy Madley,Match Report,0
+2024-05-11,15:00,Premier League,Matchweek 37,Sat,Home,W,3,1,Luton Town,3.2,0.3,58,62475,Kurt Zouma,4-2-3-1,Michael Oliver,Match Report,0
+2024-05-19,16:00,Premier League,Matchweek 38,Sun,Away,L,1,3,Manchester City,0.4,1.9,29,55097,Kurt Zouma,3-4-3,John Brooks,Match Report,0

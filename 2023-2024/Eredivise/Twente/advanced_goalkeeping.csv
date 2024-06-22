@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,90s,Goals GA,Goals PKA,Goals FK,Goals CK,Goals OG,Expected PSxG,Expected PSxG/SoT,Expected PSxG+/-,Expected /90,Launched Cmp,Launched Att,Launched Cmp%,Passes Att (GK),Passes Thr,Passes Launch%,Passes AvgLen,Goal Kicks Att,Goal Kicks Launch%,Goal Kicks AvgLen,Crosses Opp,Crosses Stp,Crosses Stp%,Sweeper #OPA,Sweeper #OPA/90,Sweeper AvgDist,Matches
+Lars Unnerstall,de GER,GK,33.0,32.0,34,5,1,4,1,40.1,0.28,7.1,0.22,128,426,30.0,932,156,37.1,34.2,197,40.6,35.6,359,20,5.6,54,1.69,18.6,Matches
+Przemysław Tytoń,pl POL,GK,36.0,2.0,2,0,0,0,1,1.9,0.32,0.9,0.47,6,24,25.0,41,9,43.9,40.0,9,66.7,53.7,14,1,7.1,1,0.5,19.0,Matches
+Squad Total,0,0,25.4,34.0,36,5,1,4,2,42.0,0.28,8.0,0.24,134,450,29.8,943,165,38.5,40.0,236,36.9,33.3,373,21,5.6,55,1.62,19.0,0
+Opponent Total,0,0,25.0,34.0,69,3,1,11,2,57.5,0.33,-9.5,-0.28,260,722,36.0,1166,150,46.5,38.0,313,57.5,44.9,592,37,6.3,47,1.38,13.8,0

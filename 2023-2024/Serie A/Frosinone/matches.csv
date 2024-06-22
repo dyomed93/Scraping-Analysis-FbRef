@@ -1,0 +1,43 @@
+D a t e,T i m e,C o m p,R o u n d,D a y,V e n u e,R e s u l t,G F,G A,O p p o n e n t,x G,x G A,P o s s,A t t e n d a n c e,C a p t a i n,F o r m a t i o n,R e f e r e e,M a t c h   R e p o r t,N o t e s
+2023-08-11,17:45,Coppa Italia,First round,Fri,Home,W,1,0,Pisa,0.0,0.0,45,3804,Luca Mazzitelli,4-3-3,Davide Ghersini,Match Report,0
+2023-08-19,18:30,Serie A,Matchweek 1,Sat,Home,L,1,3,Napoli,0.9,1.5,48,15822,Luca Mazzitelli,4-3-3,Matteo Marcenaro,Match Report,0
+2023-08-26,18:30,Serie A,Matchweek 2,Sat,Home,W,2,1,Atalanta,0.7,1.6,37,13426,Luca Mazzitelli,4-2-3-1,Juan Sacchi,Match Report,0
+2023-09-02,18:30,Serie A,Matchweek 3,Sat,Away,D,0,0,Udinese,1.8,1.5,53,20116,Luca Mazzitelli,4-2-3-1,Marco Guida,Match Report,0
+2023-09-17,15:00,Serie A,Matchweek 4,Sun,Home,W,4,2,Sassuolo,2.8,1.3,55,13133,Luca Mazzitelli,4-4-2,Alessandro Prontera,Match Report,0
+2023-09-22,18:30,Serie A,Matchweek 5,Fri,Away,D,1,1,Salernitana,0.7,1.1,50,16217,Luca Mazzitelli,4-3-3,Marco Piccinini,Match Report,0
+2023-09-28,18:30,Serie A,Matchweek 6,Thu,Home,D,1,1,Fiorentina,0.7,1.4,52,14755,Luca Mazzitelli,4-3-3,Francesco Fourneau,Match Report,0
+2023-10-01,20:45,Serie A,Matchweek 7,Sun,Away,L,0,2,Roma,0.9,0.6,50,62638,Luca Mazzitelli,5-4-1,Matteo Marchetti,Match Report,0
+2023-10-08,15:00,Serie A,Matchweek 8,Sun,Home,W,2,1,Hellas Verona,1.8,0.8,52,13034,Luca Mazzitelli,4-3-3,Maria Sole Ferrieri Caputi,Match Report,0
+2023-10-22,15:00,Serie A,Matchweek 9,Sun,Away,L,1,2,Bologna,1.5,1.5,45,26729,Luca Mazzitelli,4-2-3-1,Daniele Doveri,Match Report,0
+2023-10-29,12:30,Serie A,Matchweek 10,Sun,Away,L,3,4,Cagliari,1.5,3.4,53,15946,Simone Romagnoli,4-2-3-1,Luca Pairetto,Match Report,0
+2023-11-02,21:00,Coppa Italia,Second round,Thu,Away,W,2,1,Torino,0.0,0.0,44,5233,Luca Mazzitelli,3-4-3,Francesco Fourneau,Match Report,Required Extra Time
+2023-11-06,18:30,Serie A,Matchweek 11,Mon,Home,W,2,1,Empoli,0.8,1.5,64,13229,Luca Mazzitelli,4-2-3-1,Gianluca Manganiello,Match Report,0
+2023-11-12,20:45,Serie A,Matchweek 12,Sun,Away,L,0,2,Inter,0.7,3.1,53,70816,Luca Mazzitelli,3-4-3,Federico Dionisi,Match Report,0
+2023-11-26,15:00,Serie A,Matchweek 13,Sun,Home,W,2,1,Genoa,0.6,1.3,57,14018,Simone Romagnoli,4-2-3-1,Luca Zufferli,Match Report,0
+2023-12-02,20:45,Serie A,Matchweek 14,Sat,Away,L,1,3,Milan,0.7,1.2,53,68684,Simone Romagnoli,4-2-3-1,Matteo Marchetti,Match Report,0
+2023-12-10,12:30,Serie A,Matchweek 15,Sun,Home,D,0,0,Torino,0.8,1.2,52,13807,Simone Romagnoli,3-4-3,Luca Massimi,Match Report,0
+2023-12-16,15:00,Serie A,Matchweek 16,Sat,Away,L,1,2,Lecce,1.7,0.7,60,23645,Simone Romagnoli,4-3-3,Luca Zufferli,Match Report,0
+2023-12-19,21:00,Coppa Italia,Round of 16,Tue,Away,W,4,0,Napoli,0.0,0.0,37,25000,Luca Garritano,3-4-3,Rosario Abisso,Match Report,0
+2023-12-23,12:30,Serie A,Matchweek 17,Sat,Home,L,1,2,Juventus,0.5,1.1,56,38225,Simone Romagnoli,3-4-3,Maurizio Mariani,Match Report,0
+2023-12-29,20:45,Serie A,Matchweek 18,Fri,Away,L,1,3,Lazio,1.1,1.5,46,40000,Simone Romagnoli,3-4-3,Ermanno Feliciani,Match Report,0
+2024-01-06,15:00,Serie A,Matchweek 19,Sat,Home,L,2,3,Monza,1.2,1.3,60,13146,Ilario Monterisi,3-4-3,Maria Sole Ferrieri Caputi,Match Report,0
+2024-01-11,21:00,Coppa Italia,Quarter-finals,Thu,Away,L,0,4,Juventus,0.0,0.0,54,37940,Luca Mazzitelli,3-4-3,Juan Sacchi,Match Report,0
+2024-01-15,20:45,Serie A,Matchweek 20,Mon,Away,L,0,5,Atalanta,0.4,3.7,52,14195,Luca Mazzitelli,4-1-4-1,Alessandro Prontera,Match Report,0
+2024-01-21,12:30,Serie A,Matchweek 21,Sun,Home,W,3,1,Cagliari,2.8,0.6,60,13925,Luca Mazzitelli,4-3-2-1,Federico Dionisi,Match Report,0
+2024-01-28,15:00,Serie A,Matchweek 22,Sun,Away,D,1,1,Hellas Verona,1.2,2.2,51,17529,Simone Romagnoli,4-3-3,Federico La Penna,Match Report,0
+2024-02-03,18:00,Serie A,Matchweek 23,Sat,Home,L,2,3,Milan,1.0,1.4,42,16050,Luca Mazzitelli,4-2-3-1,Luca Pairetto,Match Report,0
+2024-02-11,12:30,Serie A,Matchweek 24,Sun,Away,L,1,5,Fiorentina,1.1,2.2,46,25397,Luca Mazzitelli,4-4-2,Ermanno Feliciani,Match Report,0
+2024-02-18,18:00,Serie A,Matchweek 25,Sun,Home,L,0,3,Roma,1.4,1.8,43,16056,Luca Mazzitelli,4-2-3-1,Antonio Giua,Match Report,0
+2024-02-25,12:30,Serie A,Matchweek 26,Sun,Away,L,2,3,Juventus,0.4,2.0,38,40719,Luca Mazzitelli,5-3-2,Antonio Rapuano,Match Report,0
+2024-03-03,15:00,Serie A,Matchweek 27,Sun,Home,D,1,1,Lecce,1.3,1.2,64,15334,Luca Mazzitelli,4-4-2,Marco Guida,Match Report,0
+2024-03-09,15:00,Serie A,Matchweek 28,Sat,Away,L,0,1,Sassuolo,1.3,0.6,60,11189,Luca Mazzitelli,4-3-3,Federico La Penna,Match Report,0
+2024-03-16,20:45,Serie A,Matchweek 29,Sat,Home,L,2,3,Lazio,2.1,2.9,43,15780,Luca Mazzitelli,4-3-3,Antonio Rapuano,Match Report,0
+2024-03-30,15:00,Serie A,Matchweek 30,Sat,Away,D,1,1,Genoa,0.8,1.5,53,31462,Simone Romagnoli,3-4-3,Juan Sacchi,Match Report,0
+2024-04-07,12:30,Serie A,Matchweek 31,Sun,Home,D,0,0,Bologna,0.4,2.0,35,14986,Luca Mazzitelli,3-4-3,Daniele Orsato,Match Report,0
+2024-04-14,12:30,Serie A,Matchweek 32,Sun,Away,D,2,2,Napoli,2.4,2.2,34,51177,Luca Mazzitelli,3-4-1-2,Michael Fabbri,Match Report,0
+2024-04-21,15:00,Serie A,Matchweek 33,Sun,Away,D,0,0,Torino,0.6,0.6,47,23728,Luca Mazzitelli,3-4-1-2,Antonio Rapuano,Match Report,0
+2024-04-26,20:45,Serie A,Matchweek 34,Fri,Home,W,3,0,Salernitana,1.7,1.4,42,13728,Luca Mazzitelli,3-4-1-2,Francesco Fourneau,Match Report,0
+2024-05-05,15:00,Serie A,Matchweek 35,Sun,Away,D,0,0,Empoli,1.2,0.3,52,13110,Simone Romagnoli,3-4-3,Daniele Doveri,Match Report,0
+2024-05-10,20:45,Serie A,Matchweek 36,Fri,Home,L,0,5,Inter,1.3,1.8,42,16021,Luca Mazzitelli,3-4-3,Antonio Giua,Match Report,0
+2024-05-19,15:00,Serie A,Matchweek 37,Sun,Away,W,1,0,Monza,2.0,1.0,30,12306,Simone Romagnoli,3-4-3,Michael Fabbri,Match Report,0
+2024-05-26,20:45,Serie A,Matchweek 38,Sun,Home,L,0,1,Udinese,0.8,0.7,58,16190,Simone Romagnoli,3-4-3,Daniele Doveri,Match Report,0

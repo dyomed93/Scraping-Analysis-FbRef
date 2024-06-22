@@ -1,0 +1,36 @@
+D a t e,T i m e,C o m p,R o u n d,D a y,V e n u e,R e s u l t,G F,G A,O p p o n e n t,x G,x G A,P o s s,A t t e n d a n c e,C a p t a i n,F o r m a t i o n,R e f e r e e,M a t c h   R e p o r t,N o t e s
+2023-08-13,12:15,Eredivisie,Matchweek 1,Sun,Home,L,3,4,Excelsior,0.8,1.3,50,12207,Lasse Schöne,4-2-3-1,Allard Lindhout,Match Report,0.0
+2023-08-18,20:00,Eredivisie,Matchweek 2,Fri,Away,L,1,2,Heracles Almelo,1.1,1.1,54,12080,Lasse Schöne,4-2-3-1,Erwin Blank,Match Report,0.0
+2023-08-26,18:45,Eredivisie,Matchweek 3,Sat,Home,W,3,0,RKC Waalwijk,1.9,1.3,41,12319,Bram Nuytinck,4-2-3-1,Jochem Kamphuis,Match Report,0.0
+2023-09-01,20:00,Eredivisie,Matchweek 4,Fri,Away,D,1,1,Sparta R'dam,0.5,1.9,41,10111,Bram Nuytinck,4-2-3-1,Serdar Gözübüyük,Match Report,0.0
+2023-09-16,20:00,Eredivisie,Matchweek 5,Sat,Away,L,0,4,PSV Eindhoven,0.2,5.6,40,34200,Lasse Schöne,4-2-3-1,Joey Kooij,Match Report,0.0
+2023-09-23,18:45,Eredivisie,Matchweek 6,Sat,Home,W,3,0,Utrecht,2.2,1.5,43,12500,Lasse Schöne,4-2-3-1,Dennis Higler,Match Report,0.0
+2023-10-01,12:15,Eredivisie,Matchweek 7,Sun,Home,L,1,3,Vitesse,1.1,1.2,63,12500,Lasse Schöne,4-2-3-1,Sander van der Eijk,Match Report,0.0
+2023-10-07,16:30,Eredivisie,Matchweek 8,Sat,Away,D,1,1,Heerenveen,1.0,2.1,51,20600,Lasse Schöne,4-2-3-1,Marc Nagtegaal,Match Report,0.0
+2023-10-21,20:00,Eredivisie,Matchweek 9,Sat,Home,D,1,1,Almere City,1.2,0.7,56,12500,Lasse Schöne,4-2-3-1,Danny Makkelie,Match Report,0.0
+2023-11-05,14:30,Eredivisie,Matchweek 11,Sun,Home,D,3,3,Volendam,2.0,1.6,39,12500,Bram Nuytinck,4-2-3-1,Jochem Kamphuis,Match Report,0.0
+2023-11-11,20:00,Eredivisie,Matchweek 12,Sat,Away,D,3,3,Twente,1.6,3.2,33,30000,Lasse Schöne,4-2-3-1,Joey Kooij,Match Report,0.0
+2023-11-26,14:30,Eredivisie,Matchweek 13,Sun,Home,D,1,1,Go Ahead Eag,1.1,0.9,57,12500,Lasse Schöne,4-2-3-1,Robin Hensgens,Match Report,0.0
+2023-12-03,14:30,Eredivisie,Matchweek 14,Sun,Home,L,1,2,Ajax,0.7,3.5,44,12500,Lasse Schöne,4-2-3-1,Marc Nagtegaal,Match Report,0.0
+2023-12-06,19:00,Eredivisie,Matchweek 10,Wed,Away,W,2,1,AZ Alkmaar,0.6,2.6,26,18773,Dirk Proper,4-2-3-1,Jeroen Manschot,Match Report,0.0
+2023-12-09,20:00,Eredivisie,Matchweek 15,Sat,Away,W,3,1,Zwolle,1.2,1.2,46,13324,Bram Nuytinck,4-2-3-1,Pol van Boekel,Match Report,0.0
+2023-12-15,20:00,Eredivisie,Matchweek 16,Fri,Home,W,4,1,Fortuna Sittard,2.1,0.4,57,12500,Bram Nuytinck,4-2-3-1,Edwin van de Graaf,Match Report,0.0
+2024-01-14,16:45,Eredivisie,Matchweek 17,Sun,Away,D,2,2,Feyenoord,0.5,2.4,32,47500,Bram Nuytinck,4-1-4-1,Sander van der Eijk,Match Report,0.0
+2024-01-20,16:30,Eredivisie,Matchweek 18,Sat,Home,W,1,0,Twente,1.6,0.6,48,12500,Bram Nuytinck,4-2-3-1,Martin van den Kerkhof,Match Report,0.0
+2024-01-28,14:30,Eredivisie,Matchweek 19,Sun,Away,D,2,2,Go Ahead Eag,2.9,2.0,53,9997,Bram Nuytinck,4-2-3-1,Ingmar Oostrom,Match Report,0.0
+2024-02-03,21:00,Eredivisie,Matchweek 20,Sat,Home,W,3,1,Heracles Almelo,2.9,0.8,63,12500,Bram Nuytinck,4-2-3-1,Marc Nagtegaal,Match Report,0.0
+2024-02-09,20:00,Eredivisie,Matchweek 21,Fri,Away,L,0,2,RKC Waalwijk,0.9,1.9,59,6183,Bram Nuytinck,4-2-3-1,Jeroen Manschot,Match Report,0.0
+2024-02-18,14:30,Eredivisie,Matchweek 22,Sun,Away,D,2,2,Ajax,1.9,1.1,48,53521,Dirk Proper,4-2-3-1,Bas Nijhuis,Match Report,0.0
+2024-02-24,21:00,Eredivisie,Matchweek 23,Sat,Home,W,2,0,Sparta R'dam,1.7,1.4,44,12500,Dirk Proper,4-2-3-1,Dennis Higler,Match Report,0.0
+2024-03-01,20:00,Eredivisie,Matchweek 24,Fri,Away,W,5,2,Volendam,2.6,1.3,67,6932,Lasse Schöne,4-2-3-1,Martijn Vos,Match Report,0.0
+2024-03-10,16:45,Eredivisie,Matchweek 25,Sun,Home,W,2,0,Heerenveen,0.7,0.8,49,12500,Bram Nuytinck,4-2-3-1,Joey Kooij,Match Report,0.0
+2024-03-17,14:30,Eredivisie,Matchweek 26,Sun,Away,L,0,1,Utrecht,0.6,2.0,54,21147,Lasse Schöne,4-2-3-1,Danny Makkelie,Match Report,0.0
+2024-03-30,16:30,Eredivisie,Matchweek 27,Sat,Home,W,3,1,PSV Eindhoven,1.9,3.5,34,12500,Lasse Schöne,4-2-3-1,Bas Nijhuis,Match Report,0.0
+2024-04-02,21:00,Eredivisie,Matchweek 28,Tue,Away,D,1,1,Fortuna Sittard,0.4,3.2,55,9304,Bram Nuytinck,4-2-3-1,Richard Martens,Match Report,0.0
+2024-04-07,12:15,Eredivisie,Matchweek 29,Sun,Away,W,3,0,Vitesse,1.1,1.2,46,14026,Bram Nuytinck,4-2-3-1,Allard Lindhout,Match Report,0.0
+2024-04-14,20:00,Eredivisie,Matchweek 30,Sun,Home,D,2,2,Zwolle,1.6,0.9,58,12540,Bram Nuytinck,4-2-3-1,Dennis Higler,Match Report,0.0
+2024-04-28,12:15,Eredivisie,Matchweek 31,Sun,Home,L,0,3,AZ Alkmaar,0.6,1.5,54,12540,Bram Nuytinck,4-2-3-1,Martin van den Kerkhof,Match Report,0.0
+2024-05-06,20:00,Eredivisie,Matchweek 32,Mon,Away,W,3,0,Excelsior,1.5,0.7,54,4400,Bram Nuytinck,4-2-3-1,Bas Nijhuis,Match Report,0.0
+2024-05-12,14:30,Eredivisie,Matchweek 33,Sun,Home,L,2,3,Feyenoord,2.0,3.8,33,12540,Bram Nuytinck,4-2-3-1,Alex Bos,Match Report,0.0
+2024-05-19,14:30,Eredivisie,Matchweek 34,Sun,Away,W,4,1,Almere City,3.0,1.0,54,4222,Dirk Proper,4-2-3-1,Edwin van de Graaf,Match Report,0.0
+2024-05-23,18:45,Eredivisie,Semi-finals,Thu,Home,L,1,2,Go Ahead Eag,1.4,2.6,47,12036,Bram Nuytinck,4-2-3-1,Bas Nijhuis,Match Report,0.0

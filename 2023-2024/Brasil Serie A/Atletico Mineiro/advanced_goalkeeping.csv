@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,90s,Goals GA,Goals PKA,Goals FK,Goals CK,Goals OG,Expected PSxG,Expected PSxG/SoT,Expected PSxG+/-,Expected /90,Launched Cmp,Launched Att,Launched Cmp%,Passes Att (GK),Passes Thr,Passes Launch%,Passes AvgLen,Goal Kicks Att,Goal Kicks Launch%,Goal Kicks AvgLen,Crosses Opp,Crosses Stp,Crosses Stp%,Sweeper #OPA,Sweeper #OPA/90,Sweeper AvgDist,Matches
+Éverson,br BRA,GK,33-334,7.0,5,0,0,1,0,4.1,0.23,-0.9,-0.13,27,63,42.9,192,18,26.0,30.4,35,37.1,32.8,78,2,2.6,7,1.0,16.1,Matches
+Matheus Mendes,br BRA,GK,25-102,1.0,4,1,0,0,0,3.8,0.31,-0.2,-0.24,7,18,38.9,21,4,42.9,34.7,12,75.0,42.8,15,2,13.3,3,3.0,18.0,Matches
+Squad Total,0,0,28.5,8.0,9,1,0,1,0,7.8,0.25,-1.2,-0.15,34,81,42.0,213,22,27.7,0.0,47,46.8,35.4,93,4,4.3,10,1.25,0.0,0
+Opponent Total,0,0,28.4,8.0,12,1,2,0,0,12.2,0.31,0.2,0.03,40,103,38.8,186,36,41.9,36.5,55,45.5,38.3,132,6,4.5,7,0.88,12.9,0

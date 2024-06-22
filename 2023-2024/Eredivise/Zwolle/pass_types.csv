@@ -1,0 +1,32 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Sam Kersten,nl NED,DF,25.0,34.0,1700,1625,74,57,0,10,2,12,0,0,0,0,1476,1,12,Matches
+Jasper Schendelaar,nl NED,GK,22.0,32.0,1358,1045,310,70,0,2,0,0,0,0,0,0,923,3,2,Matches
+Bram van Polen,nl NED,DF,37.0,29.5,1294,1057,234,21,1,7,56,212,0,0,0,0,1024,3,28,Matches
+Thomas Lam,fi FIN,DF,29.0,29.4,1730,1623,104,51,0,7,2,3,0,0,0,0,1518,3,9,Matches
+Lennart Thy,de GER,"FW,MF",31.0,29.7,814,739,70,0,1,5,18,11,1,0,0,0,574,5,26,Matches
+Younes Namli,dk DEN,"FW,MF",29.0,28.5,1244,1120,114,35,15,12,119,20,51,25,18,0,930,10,25,Matches
+Anselmo García MacNulty,ie IRL,DF,20.0,27.9,1554,1323,225,23,1,6,74,200,0,0,0,0,1177,6,37,Matches
+Dave Van Den Berg,nl NED,MF,23.0,28.4,1423,1371,45,32,11,15,34,6,2,2,0,0,1151,7,26,Matches
+Odysseus Velanas,nl NED,"MF,FW",25.0,23.8,708,637,65,14,0,6,70,6,37,21,6,0,503,6,26,Matches
+Eliano Reijnders,nl NED,"FW,DF",22.0,23.1,731,640,90,4,2,3,46,79,3,2,0,0,530,1,32,Matches
+Zico Buurmeester,nl NED,MF,21.0,15.1,586,557,26,8,0,2,16,4,12,5,5,0,475,3,10,Matches
+Anouar El Azzouzi,nl NED,MF,22.0,14.6,811,795,15,12,1,0,5,2,0,0,0,0,686,1,10,Matches
+Ferdy Druijf,nl NED,"FW,MF",25.0,10.5,251,246,5,0,2,4,6,0,0,0,0,0,162,0,11,Matches
+Filip Krastev,bg BUL,MF,21.0,10.0,398,384,13,6,0,1,4,6,1,0,0,0,321,1,11,Matches
+Silvester van der Water,nl NED,"FW,MF",26.0,6.4,151,143,7,1,1,3,19,2,4,3,0,0,100,1,4,Matches
+Ryan Thomas,nz NZL,MF,28.0,3.7,201,191,9,7,0,1,1,2,0,0,0,0,161,1,5,Matches
+Apostolos Vellios,gr GRE,"FW,MF",31.0,8.1,202,190,11,0,0,0,2,0,0,0,0,0,97,1,5,Matches
+Nick Fichtinger,0,MF,0.0,3.9,151,150,1,0,0,1,3,0,1,1,0,0,110,0,5,Matches
+Damian van der Haar,0,DF,0.0,3.2,151,131,20,2,0,3,2,18,0,0,0,0,112,0,3,Matches
+Bart van Hintum,nl NED,DF,36.0,2.0,129,98,31,5,0,0,13,16,9,5,3,0,91,0,1,Matches
+Mike Hauptmeijer,nl NED,GK,26.0,2.0,99,74,25,3,0,0,0,0,0,0,0,0,68,0,0,Matches
+Lennart-Marten Czyborra,de GER,DF,24.0,1.7,85,73,12,2,0,0,8,10,0,0,0,0,56,0,3,Matches
+Kaj de Rooij,nl NED,"FW,MF",22.0,1.8,74,70,4,0,0,0,3,4,0,0,0,0,47,0,6,Matches
+Dean Huiberts,nl NED,"MF,DF",23.0,1.3,16,16,0,0,0,0,1,0,0,0,0,0,10,0,0,Matches
+Nicolás Serrano,es ESP,"FW,MF",20.0,1.6,71,64,4,1,0,2,14,2,1,0,0,0,45,3,3,Matches
+Divaio Jhaïr-Bobson,nl NED,"DF,FW",19.0,0.6,19,18,0,0,0,0,0,0,0,0,0,0,15,1,0,Matches
+Anthony Fontana,us USA,"MF,FW",23.0,0.5,16,16,0,0,0,0,1,0,0,0,0,0,10,0,2,Matches
+Mohamed Oukhattou,nl NED,"FW,MF",18.0,0.4,17,12,5,1,0,0,5,0,4,2,2,0,10,0,0,Matches
+Teun Gijselhart,nl NED,MF,18.0,0.1,5,5,0,0,0,1,0,0,0,0,0,0,3,0,0,Matches
+Squad Total,0,0,26.4,34.0,15989,14413,1519,355,35,91,524,615,126,66,34,0,12385,57,302,0
+Opponent Total,0,0,25.2,34.0,16730,15032,1619,383,59,132,725,689,225,121,73,2,13001,79,294,0

@@ -1,0 +1,52 @@
+D a t e,T i m e,C o m p,R o u n d,D a y,V e n u e,R e s u l t,G F,G A,O p p o n e n t,x G,x G A,P o s s,A t t e n d a n c e,C a p t a i n,F o r m a t i o n,R e f e r e e,M a t c h   R e p o r t,N o t e s
+2023-08-13,16:30,Premier League,Matchweek 1,Sun,Home,D,1,1,Liverpool,1.4,1.3,65,40096,Reece James,3-4-3,Anthony Taylor,Match Report,0
+2023-08-20,16:30,Premier League,Matchweek 2,Sun,Away,L,1,3,West Ham,2.5,1.8,75,62451,Ben Chilwell,3-4-3,John Brooks,Match Report,0
+2023-08-25,20:00,Premier League,Matchweek 3,Fri,Home,W,3,0,Luton Town,2.2,0.4,67,39893,Ben Chilwell,3-4-3,Robert Jones,Match Report,0
+2023-08-30,19:45,EFL Cup,Second round,Wed,Home,W,2,1,AFC Wimbledon,0.0,0.0,84,37794,Conor Gallagher,4-2-3-1,Tony Harrington,Match Report,0
+2023-09-02,15:00,Premier League,Matchweek 4,Sat,Home,L,0,1,Nott'ham Forest,2.3,0.8,75,39820,Ben Chilwell,3-4-3,Tim Robinson,Match Report,0
+2023-09-17,14:00,Premier League,Matchweek 5,Sun,Away,D,0,0,Bournemouth,1.8,1.0,64,10421,Conor Gallagher,4-2-3-1,David Coote,Match Report,0
+2023-09-24,14:00,Premier League,Matchweek 6,Sun,Home,L,0,1,Aston Villa,1.3,1.0,53,39700,Conor Gallagher,4-2-3-1,Jarred Gillett,Match Report,0
+2023-09-27,19:45,EFL Cup,Third round,Wed,Home,W,1,0,Brighton,0.0,0.0,39,37516,Ben Chilwell,4-2-3-1,Thomas Bramall,Match Report,0
+2023-10-02,20:00,Premier League,Matchweek 7,Mon,Away,W,2,0,Fulham,1.7,1.1,44,24445,Conor Gallagher,4-3-3,Tim Robinson,Match Report,0
+2023-10-07,15:00,Premier League,Matchweek 8,Sat,Away,W,4,1,Burnley,1.9,0.7,62,21654,Conor Gallagher,4-3-3,Stuart Attwell,Match Report,0
+2023-10-21,17:30,Premier League,Matchweek 9,Sat,Home,D,2,2,Arsenal,1.3,1.0,44,39723,Conor Gallagher,4-2-3-1,Chris Kavanagh,Match Report,0
+2023-10-28,12:30,Premier League,Matchweek 10,Sat,Home,L,0,2,Brentford,1.9,2.2,68,39575,Conor Gallagher,4-2-3-1,Simon Hooper,Match Report,0
+2023-11-01,19:45,EFL Cup,Fourth round,Wed,Home,W,2,0,Blackburn,0.0,0.0,64,39548,Reece James,4-2-3-1,Tim Robinson,Match Report,0
+2023-11-06,20:00,Premier League,Matchweek 11,Mon,Away,W,4,1,Tottenham,4.1,0.9,60,61726,Reece James,4-2-3-1,Michael Oliver,Match Report,0
+2023-11-12,16:30,Premier League,Matchweek 12,Sun,Home,D,4,4,Manchester City,2.9,2.9,45,39532,Reece James,4-2-3-1,Anthony Taylor,Match Report,0
+2023-11-25,15:00,Premier League,Matchweek 13,Sat,Away,L,1,4,Newcastle Utd,0.5,2.4,46,52227,Reece James,4-2-3-1,Simon Hooper,Match Report,0
+2023-12-03,14:00,Premier League,Matchweek 14,Sun,Home,W,3,2,Brighton,2.1,1.1,32,39647,Conor Gallagher,4-2-3-1,Craig Pawson,Match Report,0
+2023-12-06,20:15,Premier League,Matchweek 15,Wed,Away,L,1,2,Manchester Utd,1.5,4.1,55,73607,Levi Colwill,4-2-3-1,Chris Kavanagh,Match Report,0
+2023-12-10,14:00,Premier League,Matchweek 16,Sun,Away,L,0,2,Everton,0.9,1.2,71,39280,Reece James,4-2-3-1,Michael Oliver,Match Report,0
+2023-12-16,15:00,Premier League,Matchweek 17,Sat,Home,W,2,0,Sheffield Utd,3.1,0.4,78,39599,Conor Gallagher,4-2-3-1,Andy Madley,Match Report,0
+2023-12-19,20:00,EFL Cup,Quarter-finals,Tue,Home,D,1 (4),1 (2),Newcastle Utd,0.0,0.0,78,38058,Conor Gallagher,4-2-3-1,Jarred Gillett,Match Report,Chelsea won on penalty kicks following extra time
+2023-12-24,13:00,Premier League,Matchweek 18,Sun,Away,L,1,2,Wolves,2.0,1.3,68,31641,Conor Gallagher,4-2-3-1,David Coote,Match Report,0
+2023-12-27,19:30,Premier League,Matchweek 19,Wed,Home,W,2,1,Crystal Palace,2.6,1.1,63,39618,Conor Gallagher,4-2-3-1,Michael Salisbury,Match Report,0
+2023-12-30,12:30,Premier League,Matchweek 20,Sat,Away,W,3,2,Luton Town,1.5,2.3,48,11041,Conor Gallagher,4-2-3-1,Paul Tierney,Match Report,0
+2024-01-06,17:30,FA Cup,Third round proper,Sat,Home,W,4,0,Preston,0.0,0.0,70,39705,Levi Colwill,4-2-3-1,Thomas Bramall,Match Report,0
+2024-01-09,20:00,EFL Cup,Semi-finals,Tue,Away,L,0,1,Middlesbrough,0.0,0.0,72,32097,Conor Gallagher,4-2-3-1,Samuel Barrott,Match Report,Leg 1 of 2
+2024-01-13,12:30,Premier League,Matchweek 21,Sat,Home,W,1,0,Fulham,2.2,0.8,55,39643,Conor Gallagher,4-2-3-1,Anthony Taylor,Match Report,0
+2024-01-23,20:00,EFL Cup,Semi-finals,Tue,Home,W,6,1,Middlesbrough,0.0,0.0,62,37754,Ben Chilwell,4-2-3-1,John Brooks,Match Report,Leg 2 of 2; Chelsea won
+2024-01-26,19:45,FA Cup,Fourth round proper,Fri,Home,D,0,0,Aston Villa,0.0,0.0,57,39325,Conor Gallagher,4-2-3-1,Robert Jones,Match Report,0
+2024-01-31,20:15,Premier League,Matchweek 22,Wed,Away,L,1,4,Liverpool,0.6,2.9,50,57524,Ben Chilwell,4-2-3-1,Paul Tierney,Match Report,0
+2024-02-04,14:00,Premier League,Matchweek 23,Sun,Home,L,2,4,Wolves,1.7,2.0,64,39628,Ben Chilwell,4-2-3-1,Tim Robinson,Match Report,0
+2024-02-07,20:00,FA Cup,Fourth round proper,Wed,Away,W,3,1,Aston Villa,0.0,0.0,51,40013,Ben Chilwell,4-2-3-1,Thomas Bramall,Match Report,0
+2024-02-12,20:00,Premier League,Matchweek 24,Mon,Away,W,3,1,Crystal Palace,1.4,0.6,77,25110,Ben Chilwell,4-2-3-1,Michael Oliver,Match Report,0
+2024-02-17,17:30,Premier League,Matchweek 25,Sat,Away,D,1,1,Manchester City,1.4,2.6,30,52178,Ben Chilwell,4-2-3-1,Andy Madley,Match Report,0
+2024-02-25,15:00,EFL Cup,Final,Sun,Home,L,0,1,Liverpool,0.0,0.0,46,88868,Ben Chilwell,4-2-3-1,Chris Kavanagh,Match Report,Required Extra Time
+2024-02-28,19:30,FA Cup,Fifth round proper,Wed,Home,W,3,2,Leeds United,0.0,0.0,51,37892,Enzo Fernández,4-2-3-1,David Coote,Match Report,0
+2024-03-02,15:00,Premier League,Matchweek 27,Sat,Away,D,2,2,Brentford,1.8,1.8,67,17140,Ben Chilwell,3-5-2,Jarred Gillett,Match Report,0
+2024-03-11,20:00,Premier League,Matchweek 28,Mon,Home,W,3,2,Newcastle Utd,1.6,0.7,44,37753,Conor Gallagher,4-2-3-1,John Brooks,Match Report,0
+2024-03-17,12:45,FA Cup,Quarter-finals,Sun,Home,W,4,2,Leicester City,0.0,0.0,60,39589,Conor Gallagher,4-2-3-1,Andy Madley,Match Report,0
+2024-03-30,15:00,Premier League,Matchweek 30,Sat,Home,D,2,2,Burnley,4.2,1.6,69,39535,Conor Gallagher,4-2-3-1,Darren England,Match Report,0
+2024-04-04,20:15,Premier League,Matchweek 31,Thu,Home,W,4,3,Manchester Utd,3.0,1.5,57,39694,Conor Gallagher,4-2-3-1,Jarred Gillett,Match Report,0
+2024-04-07,17:30,Premier League,Matchweek 32,Sun,Away,D,2,2,Sheffield Utd,0.3,1.4,68,28638,Conor Gallagher,4-2-3-1,Robert Jones,Match Report,0
+2024-04-15,20:00,Premier League,Matchweek 33,Mon,Home,W,6,0,Everton,3.1,1.5,58,39392,Conor Gallagher,4-2-3-1,Paul Tierney,Match Report,0
+2024-04-20,17:15,FA Cup,Semi-finals,Sat,Neutral,L,0,1,Manchester City,0.0,0.0,38,80902,Conor Gallagher,4-2-3-1,Michael Oliver,Match Report,0
+2024-04-23,20:00,Premier League,Matchweek 29,Tue,Away,L,0,5,Arsenal,1.6,3.3,55,60238,Conor Gallagher,4-2-3-1,Simon Hooper,Match Report,0
+2024-04-27,20:00,Premier League,Matchweek 35,Sat,Away,D,2,2,Aston Villa,1.6,1.1,71,42354,Conor Gallagher,4-2-3-1,Craig Pawson,Match Report,0
+2024-05-02,19:30,Premier League,Matchweek 26,Thu,Home,W,2,0,Tottenham,2.2,1.6,37,39086,Conor Gallagher,4-2-3-1,Robert Jones,Match Report,0
+2024-05-05,14:00,Premier League,Matchweek 36,Sun,Home,W,5,0,West Ham,4.1,0.9,69,39295,Conor Gallagher,4-2-3-1,Andy Madley,Match Report,0
+2024-05-11,17:30,Premier League,Matchweek 37,Sat,Away,W,3,2,Nott'ham Forest,1.6,1.5,67,29708,Conor Gallagher,4-2-3-1,Tony Harrington,Match Report,0
+2024-05-15,19:45,Premier League,Matchweek 34,Wed,Away,W,2,1,Brighton,1.5,1.3,45,31555,Conor Gallagher,4-2-3-1,Michael Salisbury,Match Report,0
+2024-05-19,16:00,Premier League,Matchweek 38,Sun,Home,W,2,1,Bournemouth,1.1,2.2,61,39724,Conor Gallagher,4-2-3-1,Anthony Taylor,Match Report,0

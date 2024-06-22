@@ -1,0 +1,34 @@
+Player,Nation,Pos,Age,90s,Performance CrdY,Performance CrdR,Performance 2CrdY,Performance Fls,Performance Fld,Performance Off,Performance Crs,Performance Int,Performance TklW,Performance PKwon,Performance PKcon,Performance OG,Performance Recov,Aerial Duels Won,Aerial Duels Lost,Aerial Duels Won%,Matches
+Andy Pelmard,fr FRA,DF,23.0,33.2,1,0,0,13,19,0,6,33,38,0,2,0,170,25,12,67.6,Matches
+Mory Diaw,sn SEN,GK,30.0,30.0,3,0,0,0,3,0,0,1,1,0,0,0,41,11,1,91.7,Matches
+Muhammed Cham,at AUT,"MF,FW",22.0,28.4,4,0,0,22,56,3,118,8,14,0,0,0,144,7,23,23.3,Matches
+Neto Borges,br BRA,DF,26.0,28.0,3,1,0,21,24,8,79,57,24,2,0,0,156,37,45,45.1,Matches
+Johan Gastien,fr FRA,MF,35.0,25.1,7,0,0,31,29,1,39,36,22,0,0,0,165,17,16,51.5,Matches
+Jim Allevinah,ga GAB,"MF,DF",28.0,20.7,1,0,0,15,26,1,47,13,18,0,0,0,100,16,26,38.1,Matches
+Maximiliano Caufriez,be BEL,DF,26.0,18.4,6,3,1,39,18,0,4,18,28,0,1,0,72,19,17,52.8,Matches
+Yohann Magnin,fr FRA,MF,26.0,18.7,2,0,0,37,23,1,14,19,31,0,0,0,97,31,30,50.8,Matches
+Shamar Nicholson,jm JAM,FW,26.0,16.5,2,0,0,20,26,14,6,0,2,2,0,0,36,47,60,43.9,Matches
+Maxime Gonalons,fr FRA,MF,34.0,14.4,4,0,0,28,15,0,1,20,33,0,0,0,97,15,9,62.5,Matches
+Mehdi Zeffane,dz ALG,"DF,MF",31.0,13.7,2,0,0,13,7,2,42,16,20,1,0,0,64,7,13,35.0,Matches
+Elba Rashani,xk KVX,"MF,FW",30.0,13.1,4,2,0,27,29,3,28,12,18,1,0,0,58,24,18,57.1,Matches
+Chrislain Matsima,fr FRA,DF,21.0,13.1,2,0,0,12,10,1,0,13,11,0,3,0,67,23,13,63.9,Matches
+Alidu Seidu,gh GHA,DF,23.0,12.6,5,1,0,20,29,0,4,25,24,0,1,0,107,15,8,65.2,Matches
+Habib Keita,ml MLI,MF,21.0,14.2,4,0,0,23,36,0,4,29,19,0,0,0,83,7,11,38.9,Matches
+Cheick Konaté,ml MLI,DF,19.0,11.9,4,0,0,17,14,0,43,13,15,0,1,0,55,7,12,36.8,Matches
+Alan Virginius,fr FRA,FW,20.0,10.4,0,0,0,4,6,4,22,3,5,1,0,0,15,4,15,21.1,Matches
+Grejohn Kyei,fr FRA,FW,27.0,11.4,1,0,0,29,11,8,2,1,4,0,0,0,20,28,29,49.1,Matches
+Bilal Boutobba,fr FRA,"FW,MF",24.0,10.3,1,0,0,7,26,2,57,8,12,0,0,0,54,11,11,50.0,Matches
+Florent Ogier,fr FRA,DF,34.0,10.5,1,0,0,11,6,0,0,9,9,0,1,1,37,23,18,56.1,Matches
+Massamba Ndiaye,sn SEN,GK,21.0,4.0,0,0,0,0,1,0,0,0,0,0,0,0,5,2,1,66.7,Matches
+Jérémy Jacquet,fr FRA,DF,18.0,2.8,0,0,0,1,3,1,1,6,3,0,0,0,9,6,4,60.0,Matches
+Yoël Armougom,fr FRA,"DF,MF",25.0,2.6,1,0,0,1,3,0,14,1,3,0,0,0,6,2,3,40.0,Matches
+Mateusz Wieteska,pl POL,DF,26.0,1.9,0,0,0,0,2,1,0,5,1,0,0,0,12,4,2,66.7,Matches
+Jérémie Bela,ao ANG,"MF,FW",30.0,2.3,0,0,0,0,4,0,14,0,1,0,0,0,8,1,3,25.0,Matches
+Komnen Andrić,rs SRB,FW,28.0,1.9,0,0,0,2,2,1,1,0,1,0,0,0,4,2,8,20.0,Matches
+Ilhan Fakili,fr FRA,"MF,FW",17.0,1.0,0,0,0,1,1,0,1,1,0,0,0,0,3,0,3,0.0,Matches
+Aïman Maurer,ma MAR,"MF,FW",18.0,0.6,0,0,0,0,0,0,4,0,1,0,0,0,2,0,3,0.0,Matches
+Mohamed Bouchenna,fr FRA,"MF,FW",17.0,0.3,1,0,0,1,0,0,0,0,0,0,0,0,6,0,0,0.0,Matches
+Joshua M'Bahia,ci CIV,MF,18.0,0.2,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,100.0,Matches
+Abdellah Baallal,ma MAR,MF,18.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,100.0,Matches
+Squad Total,0,0,26.8,34.0,60,7,1,396,429,51,551,347,358,7,9,1,1695,393,414,48.7,0
+Opponent Total,0,0,25.7,34.0,70,6,3,448,376,41,642,352,331,7,8,0,1860,414,393,51.3,0

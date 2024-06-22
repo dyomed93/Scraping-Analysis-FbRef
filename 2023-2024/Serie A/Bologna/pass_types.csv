@@ -1,0 +1,31 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Łukasz Skorupski,pl POL,GK,32.0,32.0,1018,773,244,56,0,1,0,0,0,0,0,0,796,1,1,Matches
+Joshua Zirkzee,nl NED,FW,22.0,30.7,917,850,66,3,7,6,8,8,0,0,0,0,710,1,36,Matches
+Lewis Ferguson,sct SCO,MF,23.0,30.1,1778,1740,34,16,7,9,11,17,1,0,0,0,1571,4,37,Matches
+Remo Freuler,ch SUI,MF,31.0,29.2,1890,1789,97,87,1,4,9,10,0,0,0,0,1710,4,22,Matches
+Sam Beukema,nl NED,DF,24.0,28.3,2055,1971,81,47,1,12,2,18,0,0,0,0,1842,3,13,Matches
+Stefan Posch,at AUT,DF,26.0,26.8,2082,1779,298,50,0,7,39,248,0,0,0,0,1712,5,48,Matches
+Riccardo Calafiori,it ITA,DF,21.0,26.1,1810,1720,89,38,2,16,9,17,0,0,0,0,1622,1,20,Matches
+Victor Bernth Kristiansen,dk DEN,DF,20.0,25.6,1688,1452,231,24,0,4,35,207,0,0,0,0,1422,5,22,Matches
+Michel Aebischer,ch SUI,MF,26.0,24.8,1503,1447,53,34,3,5,12,13,6,3,0,0,1370,3,17,Matches
+Jhon Lucumí,co COL,DF,25.0,24.6,1857,1771,84,57,0,13,1,16,0,0,0,0,1734,2,8,Matches
+Alexis Saelemaekers,be BEL,"FW,MF",24.0,21.0,1008,908,92,25,5,8,86,14,50,27,21,0,786,8,36,Matches
+Dan Ndoye,ch SUI,"FW,MF",22.0,19.7,602,577,21,1,0,5,47,5,15,11,2,0,467,4,27,Matches
+Riccardo Orsolini,it ITA,"FW,MF",26.0,19.9,731,646,80,18,3,21,100,3,59,43,14,0,490,5,38,Matches
+Giovanni Fabbian,it ITA,"MF,FW",20.0,11.7,287,282,5,3,1,1,4,2,0,0,0,0,225,0,7,Matches
+Charalambos Lykogiannis,gr GRE,DF,29.0,10.0,594,496,96,9,0,8,59,84,3,2,1,0,451,2,16,Matches
+Nikola Moro,hr CRO,MF,25.0,9.3,572,560,10,6,1,7,13,4,0,0,0,0,469,2,18,Matches
+Kacper Urbanski,pl POL,"MF,FW",18.0,10.3,387,364,21,2,1,5,22,4,15,5,8,1,313,2,11,Matches
+Lorenzo De Silvestri,it ITA,DF,35.0,7.5,432,365,66,16,0,1,9,50,0,0,0,0,373,1,7,Matches
+Federico Ravaglia,it ITA,GK,23.0,5.9,206,160,46,12,0,0,0,0,0,0,0,0,166,0,0,Matches
+Oussama El Azzouzi,ma MAR,MF,22.0,6.1,390,383,7,6,0,2,2,0,1,1,0,0,352,0,2,Matches
+Jens Odgaard,dk DEN,"FW,MF",24.0,4.8,135,130,5,1,0,0,8,1,1,1,0,0,94,0,9,Matches
+Jesper Karlsson,se SWE,FW,25.0,3.8,152,131,20,4,0,0,24,2,14,7,5,0,103,1,5,Matches
+Santiago Castro,ar ARG,FW,18.0,2.7,52,47,5,0,0,1,1,1,0,0,0,0,43,0,1,Matches
+Sydney van Hooijdonk,nl NED,FW,23.0,2.4,36,30,5,0,0,0,1,0,0,0,0,0,28,1,2,Matches
+Tommaso Corazza,it ITA,DF,19.0,2.2,145,110,35,5,0,1,8,30,0,0,0,0,119,0,9,Matches
+Nicolás Domínguez,ar ARG,MF,25.0,1.1,92,90,2,1,0,0,0,1,0,0,0,0,83,0,1,Matches
+Kevin Bonifazi,it ITA,DF,27.0,1.0,82,80,2,2,0,0,0,0,0,0,0,0,72,0,1,Matches
+Nicola Bagnolini,it ITA,GK,19.0,0.1,3,1,2,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+Squad Total,0,0,25.2,38.0,22504,20652,1797,523,32,137,510,755,165,100,51,1,19125,55,414,0
+Opponent Total,0,0,26.6,38.0,16289,14526,1714,482,37,83,641,695,165,60,81,3,12943,49,355,0

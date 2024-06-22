@@ -1,0 +1,29 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types Live,Pass Types Dead,Pass Types FK,Pass Types TB,Pass Types Sw,Pass Types Crs,Pass Types TI,Pass Types CK,Corner Kicks In,Corner Kicks Out,Corner Kicks Str,Outcomes Cmp,Outcomes Off,Outcomes Blocks,Matches
+Marvin Schwäbe,de GER,GK,28.0,34.0,1305,1095,202,53,0,1,0,0,0,0,0,0,1014,8,3,Matches
+Julian Chabot,de GER,DF,25.0,30.0,1616,1405,208,108,0,12,4,2,0,0,0,0,1361,3,5,Matches
+Timo Hübers,de GER,DF,27.0,30.9,1743,1665,73,60,1,8,3,7,0,0,0,0,1473,5,10,Matches
+Eric Martel,de GER,MF,21.0,27.3,1126,1109,14,10,0,0,19,4,0,0,0,0,913,3,26,Matches
+Florian Kainz,at AUT,"MF,FW",30.0,24.4,1119,940,175,51,3,5,167,25,80,30,35,0,770,4,31,Matches
+Dejan Ljubicic,at AUT,"MF,FW",25.0,22.8,843,833,8,2,5,6,31,5,0,0,0,0,670,2,22,Matches
+Linton Maina,de GER,"FW,MF",24.0,21.1,661,613,47,3,0,1,74,40,3,1,1,0,484,1,43,Matches
+Jan Thielmann,de GER,"FW,DF",21.0,17.5,551,465,83,8,2,4,42,65,0,0,0,0,364,3,34,Matches
+Max Finkgräfe,de GER,"DF,FW",19.0,19.5,859,662,196,17,1,8,61,172,7,3,3,0,598,1,35,Matches
+Rasmus Carstensen,dk DEN,"DF,FW",22.0,18.4,827,666,160,9,1,0,58,151,0,0,0,0,594,1,47,Matches
+Denis Huseinbasic,ba BIH,MF,22.0,18.1,791,777,12,7,1,2,15,5,0,0,0,0,674,2,17,Matches
+Davie Selke,de GER,FW,28.0,14.1,234,211,22,1,0,0,4,0,0,0,0,0,144,1,9,Matches
+Faride Alidou,de GER,"FW,MF",22.0,14.2,305,293,12,0,0,2,39,7,1,0,1,0,196,0,17,Matches
+Luca Waldschmidt,de GER,"MF,FW",27.0,12.7,448,392,49,10,4,4,39,5,26,7,12,0,320,7,14,Matches
+Benno Schmitz,de GER,DF,28.0,12.8,709,563,142,7,0,2,40,135,0,0,0,0,502,4,27,Matches
+Leart Paqarada,xk KVX,DF,28.0,11.9,717,548,164,21,0,7,92,103,40,25,11,0,490,5,40,Matches
+Sargis Adamyan,am ARM,"FW,MF",30.0,8.9,189,166,22,1,0,2,4,2,0,0,0,0,132,1,6,Matches
+Steffen Tigges,de GER,FW,25.0,8.1,203,196,6,0,0,0,7,1,0,0,0,0,118,1,12,Matches
+Luca Kilian,de GER,DF,23.0,7.1,317,302,15,8,0,1,1,5,0,0,0,0,241,0,4,Matches
+Dominique Heintz,de GER,DF,29.0,6.3,423,359,64,5,0,2,23,54,0,0,0,0,349,0,6,Matches
+Mark Uth,de GER,"MF,FW",31.0,4.1,168,130,38,13,1,1,31,2,18,8,8,0,111,0,10,Matches
+Jacob Christensen,dk DEN,MF,22.0,2.4,85,85,0,0,0,1,5,0,0,0,0,0,66,0,1,Matches
+Justin Diehl,de GER,"FW,MF",18.0,1.9,64,48,16,2,0,0,18,1,13,7,6,0,41,0,1,Matches
+Damion Downs,de GER,"FW,MF",19.0,2.0,36,35,1,0,0,0,1,1,0,0,0,0,24,0,4,Matches
+Mathias Olesen,lu LUX,"MF,FW",22.0,1.2,53,52,0,0,0,0,1,0,0,0,0,0,42,1,2,Matches
+Florian Dietz,de GER,"FW,MF",24.0,0.8,19,18,1,0,0,0,0,0,0,0,0,0,13,0,1,Matches
+Squad Total,0,0,25.4,34.0,15411,13628,1730,396,19,69,779,792,188,81,77,0,11704,53,427,0
+Opponent Total,0,0,26.6,34.0,18354,16589,1725,447,41,101,629,742,203,85,87,3,14756,40,392,0

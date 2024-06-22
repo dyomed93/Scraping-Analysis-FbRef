@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,Playing Time MP,Playing Time Starts,Playing Time Min,Playing Time 90s,Performance GA,Performance GA90,Performance SoTA,Performance Saves,Performance Save%,Performance W,Performance D,Performance L,Performance CS,Performance CS%,Penalty Kicks PKatt,Penalty Kicks PKA,Penalty Kicks PKsv,Penalty Kicks PKm,Penalty Kicks Save%,Matches
+Janis Blaswich,de GER,GK,32.0,21,21,1890,21.0,30,1.43,76,46,65.8,10,4,7,5,23.8,4,4,0,0,0.0,Matches
+Péter Gulácsi,hu HUN,GK,33.0,13,13,1170,13.0,9,0.69,41,33,78.0,9,4,0,5,38.5,1,0,0,1,0.0,Matches
+Squad Total,0,0,25.6,34,34,3060,34.0,39,1.15,117,79,70.1,19,8,7,10,29.4,5,4,0,1,0.0,0
+Opponent Total,0,0,26.7,34,34,3060,34.0,77,2.26,221,144,67.0,7,8,19,4,11.8,7,4,3,0,42.9,0

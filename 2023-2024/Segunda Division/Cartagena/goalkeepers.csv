@@ -1,0 +1,6 @@
+Player,Nation,Pos,Age,Playing Time MP,Playing Time Starts,Playing Time Min,Playing Time 90s,Performance GA,Performance GA90,Performance SoTA,Performance Saves,Performance Save%,Performance W,Performance D,Performance L,Performance CS,Performance CS%,Penalty Kicks PKatt,Penalty Kicks PKA,Penalty Kicks PKsv,Penalty Kicks PKm,Penalty Kicks Save%,Matches
+Marc Martínez,es ESP,GK,34-078,21,21,1890,21.0,30,1.43,86,57,70.9,5,6,10,3,14.3,5,5,0,0,0.0,Matches
+Raúl Lizoain,es ESP,GK,33-146,19,19,1710,19.0,16,0.84,79,63,79.7,9,3,7,9,47.4,0,0,0,0,0.0,Matches
+Tomás Mejías,es ESP,GK,35-143,2,2,180,2.0,5,2.5,10,5,50.0,0,0,2,0,0.0,0,0,0,0,0.0,Matches
+Squad Total,0,0,30.5,42,42,3780,42.0,51,1.21,175,125,73.7,14,9,19,12,28.6,5,5,0,0,0.0,0
+Opponent Total,0,0,27.5,42,42,3780,42.0,37,0.88,134,98,76.1,19,9,14,17,40.5,5,5,0,0,0.0,0

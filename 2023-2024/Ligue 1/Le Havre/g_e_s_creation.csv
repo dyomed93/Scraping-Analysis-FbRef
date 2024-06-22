@@ -1,0 +1,30 @@
+Player,Nation,Pos,Age,90s,SCA SCA,SCA SCA90,SCA Types PassLive,SCA Types PassDead,SCA Types TO,SCA Types Sh,SCA Types Fld,SCA Types Def,GCA GCA,GCA GCA90,GCA Types PassLive,GCA Types PassDead,GCA Types TO,GCA Types Sh,GCA Types Fld,GCA Types Def,Matches
+Arthur Desmas,fr FRA,GK,29.0,33.0,4,0.12,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Gautier Lloris,fr FRA,DF,28.0,30.9,18,0.58,16,1,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Arouna Sangante,sn SEN,DF,21.0,29.9,39,1.31,28,4,0,0,3,4,4,0.13,2,0,0,0,1,1,Matches
+Christopher Operi,ci CIV,DF,26.0,27.2,74,2.72,29,34,5,4,2,0,6,0.22,2,2,1,0,1,0,Matches
+Abdoulaye Touré,gn GUI,MF,29.0,25.4,44,1.73,37,0,2,1,3,1,1,0.04,1,0,0,0,0,0,Matches
+Josué Casimir,fr FRA,"FW,DF",21.0,22.4,52,2.32,42,0,4,2,4,0,7,0.31,5,0,1,0,1,0,Matches
+Daler Kuzyaev,ru RUS,MF,30.0,23.2,72,3.1,57,6,0,3,6,0,4,0.17,4,0,0,0,0,0,Matches
+Etienne Youte Kinkoue,fr FRA,DF,21.0,21.6,12,0.56,9,2,0,0,0,1,1,0.05,1,0,0,0,0,0,Matches
+Yassine Kechta,ma MAR,MF,21.0,20.5,47,2.29,39,2,0,2,4,0,2,0.1,1,0,0,1,0,0,Matches
+Emmanuel Sabbi,us USA,"FW,MF",25.0,17.6,44,2.5,26,1,5,5,7,0,6,0.34,3,0,1,1,1,0,Matches
+Yoann Salmier,gf GUF,DF,30.0,17.4,17,0.98,15,1,0,1,0,0,3,0.17,2,0,0,1,0,0,Matches
+Loïc Nego,hu HUN,"DF,MF",32.0,17.3,39,2.25,29,2,1,1,6,0,8,0.46,6,0,0,0,2,0,Matches
+Mohamed Lamine Bayo,gn GUI,FW,25.0,15.4,39,2.53,26,0,5,6,1,1,6,0.39,3,0,2,1,0,0,Matches
+André Ayew,gh GHA,FW,33.0,12.3,27,2.2,18,0,5,2,0,2,1,0.08,1,0,0,0,0,0,Matches
+Oussama Targhalline,ma MAR,MF,21.0,11.4,24,2.11,18,0,0,0,3,3,2,0.18,2,0,0,0,0,0,Matches
+Nabil Alioui,fr FRA,"MF,FW",24.0,11.2,40,3.56,24,11,3,2,0,0,2,0.18,1,1,0,0,0,0,Matches
+Antoine Joujou,fr FRA,"FW,MF",20.0,8.7,31,3.59,17,0,5,5,4,0,5,0.58,3,0,1,0,1,0,Matches
+Rassoul Ndiaye,sn SEN,"MF,FW",21.0,5.8,7,1.2,6,0,1,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Samuel Grandsir,fr FRA,"MF,FW",26.0,6.7,31,4.61,20,5,3,2,0,1,2,0.3,1,0,1,0,0,0,Matches
+Oualid El Hajjam,ma MAR,"DF,MF",32.0,4.4,12,2.76,9,0,1,0,2,0,1,0.23,0,0,0,0,1,0,Matches
+Issa Soumaré,sn SEN,"FW,MF",22.0,2.6,7,2.66,2,0,2,1,2,0,0,0.0,0,0,0,0,0,0,Matches
+Andy Logbo,fr FRA,FW,19.0,2.8,3,1.09,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Steve Ngoura,fr FRA,"FW,MF",18.0,2.5,9,3.6,7,0,2,0,0,0,1,0.4,1,0,0,0,0,0,Matches
+Mathieu Gorgelin,fr FRA,GK,32.0,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Nolan Mbemba,cg CGO,MF,28.0,0.2,1,4.09,1,0,0,0,0,0,1,4.09,1,0,0,0,0,0,Matches
+Simon Ebonog,cm CMR,MF,18.0,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Alois Confais,fr FRA,"MF,FW",26.0,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Squad Total,0,0,26.2,34.0,693,20.38,482,69,44,38,47,13,63,1.85,40,3,7,4,8,1,0
+Opponent Total,0,0,26.0,34.0,803,23.62,578,80,34,56,44,11,75,2.21,50,6,9,7,3,0,0

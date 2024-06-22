@@ -1,0 +1,45 @@
+D a t e,T i m e,C o m p,R o u n d,D a y,V e n u e,R e s u l t,G F,G A,O p p o n e n t,x G,x G A,P o s s,A t t e n d a n c e,C a p t a i n,F o r m a t i o n,R e f e r e e,M a t c h   R e p o r t,N o t e s
+2023-08-12,15:00,Premier League,Matchweek 1,Sat,Away,L,1,4,Brighton,1.5,4.0,30,31872,Tom Lockyer,3-5-2,David Coote,Match Report,0.0
+2023-08-25,20:00,Premier League,Matchweek 3,Fri,Away,L,0,3,Chelsea,0.4,2.2,33,39893,Tom Lockyer,5-3-2,Robert Jones,Match Report,0.0
+2023-08-29,19:45,EFL Cup,Second round,Tue,Home,W,3,2,Gillingham,0.0,0.0,62,9468,Tom Lockyer,3-4-3,Jeremy Simpson,Match Report,0.0
+2023-09-01,20:00,Premier League,Matchweek 4,Fri,Home,L,1,2,West Ham,1.4,1.0,39,10802,Carlton Morris,5-3-2,Paul Tierney,Match Report,0.0
+2023-09-16,15:00,Premier League,Matchweek 5,Sat,Away,L,0,1,Fulham,1.1,1.0,23,24467,Tom Lockyer,5-3-2,Michael Salisbury,Match Report,0.0
+2023-09-23,15:00,Premier League,Matchweek 6,Sat,Home,D,1,1,Wolves,2.1,0.6,57,10893,Tom Lockyer,3-4-3,Joshua Smith,Match Report,0.0
+2023-09-26,19:45,EFL Cup,Third round,Tue,Away,L,0,1,Exeter City,0.0,0.0,67,7360,Pelly Ruddock Mpanzu,3-5-2,James Bell,Match Report,0.0
+2023-09-30,15:00,Premier League,Matchweek 7,Sat,Away,W,2,1,Everton,0.9,2.9,33,39289,Tom Lockyer,3-4-3,Anthony Taylor,Match Report,0.0
+2023-10-03,19:30,Premier League,Matchweek 2,Tue,Home,L,1,2,Burnley,1.3,1.1,49,10918,Tom Lockyer,3-4-3,Peter Bankes,Match Report,0.0
+2023-10-07,12:30,Premier League,Matchweek 8,Sat,Home,L,0,1,Tottenham,0.8,1.9,34,10290,Tom Lockyer,4-4-2,John Brooks,Match Report,0.0
+2023-10-21,15:00,Premier League,Matchweek 9,Sat,Away,D,2,2,Nott'ham Forest,1.7,2.9,43,29361,Tom Lockyer,4-4-2,Samuel Barrott,Match Report,0.0
+2023-10-29,14:00,Premier League,Matchweek 10,Sun,Away,L,1,3,Aston Villa,0.5,2.3,30,41785,Tom Lockyer,3-4-3,John Brooks,Match Report,0.0
+2023-11-05,16:30,Premier League,Matchweek 11,Sun,Home,D,1,1,Liverpool,0.8,2.6,27,11049,Tom Lockyer,3-4-3,Andy Madley,Match Report,0.0
+2023-11-11,15:00,Premier League,Matchweek 12,Sat,Away,L,0,1,Manchester Utd,0.4,2.2,36,73599,Tom Lockyer,3-4-3,Graham Scott,Match Report,0.0
+2023-11-25,15:00,Premier League,Matchweek 13,Sat,Home,W,2,1,Crystal Palace,0.9,1.6,39,11029,Tom Lockyer,3-4-3,Jarred Gillett,Match Report,0.0
+2023-12-02,15:00,Premier League,Matchweek 14,Sat,Away,L,1,3,Brentford,0.2,3.1,32,17075,Tom Lockyer,3-4-3,Anthony Taylor,Match Report,0.0
+2023-12-05,20:15,Premier League,Matchweek 15,Tue,Home,L,3,4,Arsenal,0.5,2.2,34,11031,Pelly Ruddock Mpanzu,3-4-3,Samuel Barrott,Match Report,0.0
+2023-12-10,14:00,Premier League,Matchweek 16,Sun,Home,L,1,2,Manchester City,0.3,1.6,35,11047,Tom Lockyer,3-4-3,Tim Robinson,Match Report,0.0
+2023-12-23,15:00,Premier League,Matchweek 18,Sat,Home,W,1,0,Newcastle Utd,1.4,1.4,35,11042,Amari'i Bell,3-4-3,Darren England,Match Report,0.0
+2023-12-26,15:00,Premier League,Matchweek 19,Tue,Away,W,3,2,Sheffield Utd,0.6,2.4,49,31041,Amari'i Bell,3-4-3,Samuel Allison,Match Report,0.0
+2023-12-30,12:30,Premier League,Matchweek 20,Sat,Home,L,2,3,Chelsea,2.3,1.5,52,11041,Amari'i Bell,3-4-3,Paul Tierney,Match Report,0.0
+2024-01-07,14:00,FA Cup,Third round proper,Sun,Home,D,0,0,Bolton,0.0,0.0,63,10739,Carlton Morris,3-4-1-2,Andy Madley,Match Report,0.0
+2024-01-12,19:45,Premier League,Matchweek 21,Fri,Away,D,1,1,Burnley,0.9,1.1,61,20155,Amari'i Bell,3-4-3,Tony Harrington,Match Report,0.0
+2024-01-16,19:45,FA Cup,Third round proper,Tue,Away,W,2,1,Bolton,0.0,0.0,53,10878,Carlton Morris,3-4-3,Thomas Bramall,Match Report,0.0
+2024-01-27,15:00,FA Cup,Fourth round proper,Sat,Away,W,2,1,Everton,0.0,0.0,54,37713,Carlton Morris,3-4-1-2,Simon Hooper,Match Report,0.0
+2024-01-30,19:45,Premier League,Matchweek 22,Tue,Home,W,4,0,Brighton,3.1,0.9,41,10994,Carlton Morris,3-4-3,Robert Jones,Match Report,0.0
+2024-02-03,15:00,Premier League,Matchweek 23,Sat,Away,D,4,4,Newcastle Utd,2.4,2.3,45,52211,Carlton Morris,3-4-3,Thomas Bramall,Match Report,0.0
+2024-02-10,15:00,Premier League,Matchweek 24,Sat,Home,L,1,3,Sheffield Utd,1.8,1.7,74,11138,Carlton Morris,3-4-3,Chris Kavanagh,Match Report,0.0
+2024-02-18,16:30,Premier League,Matchweek 25,Sun,Home,L,1,2,Manchester Utd,1.8,2.9,58,11483,Carlton Morris,3-4-3,David Coote,Match Report,0.0
+2024-02-21,19:30,Premier League,Matchweek 26,Wed,Away,L,1,4,Liverpool,0.9,3.3,40,59713,Carlton Morris,3-4-3,Andy Madley,Match Report,0.0
+2024-02-27,20:00,FA Cup,Fifth round proper,Tue,Home,L,2,6,Manchester City,0.0,0.0,43,11163,Carlton Morris,3-4-3,Anthony Taylor,Match Report,0.0
+2024-03-02,17:30,Premier League,Matchweek 27,Sat,Home,L,2,3,Aston Villa,1.8,1.9,46,11594,Carlton Morris,3-4-3,Michael Oliver,Match Report,0.0
+2024-03-09,15:00,Premier League,Matchweek 28,Sat,Away,D,1,1,Crystal Palace,0.8,2.7,51,25103,Carlton Morris,3-4-3,Sunny Singh,Match Report,0.0
+2024-03-13,19:30,Premier League,Matchweek 17,Wed,Away,L,3,4,Bournemouth,2.0,2.3,41,11198,Carlton Morris,3-4-3,Samuel Allison,Match Report,0.0
+2024-03-16,15:00,Premier League,Matchweek 29,Sat,Home,D,1,1,Nott'ham Forest,0.6,2.0,60,11630,Carlton Morris,3-4-3,Darren England,Match Report,0.0
+2024-03-30,15:00,Premier League,Matchweek 30,Sat,Away,L,1,2,Tottenham,0.5,2.9,30,61534,Carlton Morris,4-3-3,Jarred Gillett,Match Report,0.0
+2024-04-03,19:30,Premier League,Matchweek 31,Wed,Away,L,0,2,Arsenal,0.3,0.7,42,60262,Carlton Morris,3-4-3,Craig Pawson,Match Report,0.0
+2024-04-06,15:00,Premier League,Matchweek 32,Sat,Home,W,2,1,Bournemouth,1.5,0.4,55,11797,Carlton Morris,3-4-3,Andy Madley,Match Report,0.0
+2024-04-13,15:00,Premier League,Matchweek 33,Sat,Away,L,1,5,Manchester City,0.5,4.2,27,52149,Carlton Morris,3-4-3,John Brooks,Match Report,0.0
+2024-04-20,15:00,Premier League,Matchweek 34,Sat,Home,L,1,5,Brentford,0.6,3.1,53,11877,Carlton Morris,3-4-3,Jarred Gillett,Match Report,0.0
+2024-04-27,15:00,Premier League,Matchweek 35,Sat,Away,L,1,2,Wolves,0.6,1.2,42,31531,Carlton Morris,3-4-3,David Coote,Match Report,0.0
+2024-05-03,20:00,Premier League,Matchweek 36,Fri,Home,D,1,1,Everton,0.8,1.4,51,11873,Carlton Morris,3-4-3,Tim Robinson,Match Report,0.0
+2024-05-11,15:00,Premier League,Matchweek 37,Sat,Away,L,1,3,West Ham,0.3,3.2,42,62475,Carlton Morris,3-4-3,Michael Oliver,Match Report,0.0
+2024-05-19,16:00,Premier League,Matchweek 38,Sun,Home,L,2,4,Fulham,2.0,1.1,41,12027,Carlton Morris,3-4-3,Matt Donohue,Match Report,0.0

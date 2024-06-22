@@ -1,0 +1,46 @@
+D a t e,T i m e,C o m p,R o u n d,D a y,V e n u e,R e s u l t,G F,G A,O p p o n e n t,x G,x G A,P o s s,A t t e n d a n c e,C a p t a i n,F o r m a t i o n,R e f e r e e,M a t c h   R e p o r t,N o t e s
+2023-08-12,22:00,La Liga 2,Matchweek 1,Sat,Home,L,0,1,Racing Ferrol,0.6,0.8,56.0,14506,Fidel,4-4-2,Germán Cid Camacho,Match Report,0.0
+2023-08-19,17:00,La Liga 2,Matchweek 2,Sat,Away,L,1,2,Eibar,2.0,0.7,52.0,2938,Fidel,3-4-3,Oliver De La Fuente,Match Report,0.0
+2023-08-26,21:30,La Liga 2,Matchweek 3,Sat,Home,W,1,0,Villarreal B,2.5,0.7,50.0,13318,Fidel,4-1-4-1,Rafael Sánchez,Match Report,0.0
+2023-09-02,21:00,La Liga 2,Matchweek 4,Sat,Home,D,1,1,Racing Sant,1.4,0.9,60.0,13051,Fidel,4-5-1,Álvaro Moreno,Match Report,0.0
+2023-09-10,21:00,La Liga 2,Matchweek 5,Sun,Away,D,1,1,Valladolid,0.7,1.6,48.0,16768,Fidel,4-4-2,Alejandro Quintero,Match Report,0.0
+2023-09-17,18:30,La Liga 2,Matchweek 6,Sun,Home,W,1,0,Leganés,1.5,0.9,57.0,16154,Fidel,3-4-3◆,José López,Match Report,0.0
+2023-09-23,18:30,La Liga 2,Matchweek 7,Sat,Away,L,0,4,Burgos,0.3,2.2,65.0,8753,Fidel,4-3-2-1,Adrián Cordero,Match Report,0.0
+2023-09-30,18:30,La Liga 2,Matchweek 8,Sat,Home,D,0,0,Levante,2.0,0.5,53.0,15660,Fidel,4-1-4-1,Raúl González,Match Report,0.0
+2023-10-04,21:30,La Liga 2,Matchweek 9,Wed,Away,L,0,2,Sporting Gijón,0.4,1.3,53.0,14916,Fidel,5-4-1,Daniel Trujillo,Match Report,0.0
+2023-10-09,19:00,La Liga 2,Matchweek 10,Mon,Home,W,2,1,FC Andorra,2.0,0.4,45.0,15073,Fidel,5-3-2,Jon González,Match Report,0.0
+2023-10-15,16:15,La Liga 2,Matchweek 11,Sun,Away,D,1,1,Eldense,0.3,0.8,61.0,4906,Fidel,4-4-2,Dámaso Arcediano,Match Report,0.0
+2023-10-22,16:15,La Liga 2,Matchweek 12,Sun,Away,W,1,0,Huesca,0.6,0.2,47.0,5363,Pedro Bigas,3-4-3,Iosu Galech,Match Report,0.0
+2023-10-28,21:00,La Liga 2,Matchweek 13,Sat,Home,W,2,1,Tenerife,1.6,0.5,54.0,13745,Pedro Bigas,4-2-3-1,Rubén Ávalos,Match Report,0.0
+2023-11-01,18:00,Copa del Rey,First round,Wed,Away,W,2,0,Europa,0.0,0.0,0.0,4032,Édgar Badía,4-2-3-1,Salvador Lax,Match Report,0.0
+2023-11-04,21:00,La Liga 2,Matchweek 14,Sat,Away,D,1,1,Albacete,0.6,1.4,44.0,10203,Pedro Bigas,4-2-3-1,Miguel Sesma,Match Report,0.0
+2023-11-11,18:30,La Liga 2,Matchweek 15,Sat,Home,W,2,0,Zaragoza,0.8,0.8,51.0,15681,Josan,4-4-2,Adrián Cordero,Match Report,0.0
+2023-11-18,21:00,La Liga 2,Matchweek 16,Sat,Away,L,0,2,Espanyol,1.2,1.5,56.0,19617,Josan,4-4-2,Álvaro Moreno,Match Report,0.0
+2023-11-26,16:15,La Liga 2,Matchweek 17,Sun,Home,W,2,0,Amorebieta,0.8,0.7,60.0,14042,Pedro Bigas,4-4-2,Dámaso Arcediano,Match Report,0.0
+2023-12-03,16:15,La Liga 2,Matchweek 18,Sun,Away,W,2,0,Alcorcón,2.2,0.6,58.0,3545,Pedro Bigas,4-4-2,Oliver De La Fuente,Match Report,0.0
+2023-12-07,20:00,Copa del Rey,Second round,Thu,Away,W,3,1,Linares Dep,0.0,0.0,0.0,3876,Sergio Carreira,5-4-1,Germán Cid Camacho,Match Report,0.0
+2023-12-10,14:00,La Liga 2,Matchweek 19,Sun,Home,L,1,2,Cartagena,1.2,1.4,64.0,15452,Pedro Bigas,4-4-2,Luis Milla,Match Report,0.0
+2023-12-15,20:30,La Liga 2,Matchweek 20,Fri,Away,L,2,3,Oviedo,1.8,1.6,43.0,12525,Pedro Bigas,3-1-4-2,Salvador Lax,Match Report,0.0
+2023-12-19,21:30,La Liga 2,Matchweek 21,Tue,Home,D,0,0,CD Mirandés,1.1,0.3,60.0,9792,Fidel,3-5-1-1,Iosu Galech,Match Report,0.0
+2024-01-06,18:00,Copa del Rey,Round of 32,Sat,Home,L,0,2,Girona,0.0,0.0,46.0,15518,Pedro Bigas,3-4-3,Alberola Rojas,Match Report,0.0
+2024-01-13,17:30,La Liga 2,Matchweek 22,Sat,Away,W,1,0,Tenerife,1.1,0.4,43.0,17177,Pedro Bigas,4-4-2,Jon González,Match Report,0.0
+2024-01-21,21:00,La Liga 2,Matchweek 23,Sun,Home,D,0,0,Valladolid,0.9,0.1,57.0,12334,Pedro Bigas,5-4-1,Salvador Lax,Match Report,0.0
+2024-01-28,16:15,La Liga 2,Matchweek 24,Sun,Away,W,1,0,FC Andorra,0.7,0.7,49.0,2398,Pedro Bigas,3-4-3,Oliver De La Fuente,Match Report,0.0
+2024-02-02,20:30,La Liga 2,Matchweek 25,Fri,Home,W,2,0,Burgos,2.0,0.4,63.0,14942,Pedro Bigas,3-4-3,Rafael Sánchez,Match Report,0.0
+2024-02-10,16:15,La Liga 2,Matchweek 26,Sat,Away,L,0,1,Amorebieta,1.6,1.1,70.0,747,Pedro Bigas,3-4-3,Miguel González,Match Report,0.0
+2024-02-18,21:00,La Liga 2,Matchweek 27,Sun,Home,D,0,0,Eibar,1.8,0.9,68.0,13643,Pedro Bigas,4-4-2,José Guzmán,Match Report,0.0
+2024-02-25,18:30,La Liga 2,Matchweek 28,Sun,Away,W,1,0,Cartagena,1.4,0.1,63.0,11862,Pedro Bigas,4-4-2,Daniel Trujillo,Match Report,0.0
+2024-03-04,20:30,La Liga 2,Matchweek 29,Mon,Home,W,3,0,Alcorcón,2.1,0.3,64.0,14387,Pedro Bigas,4-4-2,Adrián Cordero,Match Report,0.0
+2024-03-10,16:15,La Liga 2,Matchweek 30,Sun,Away,W,1,0,Villarreal B,1.4,2.0,55.0,3715,Pedro Bigas,3-5-2,Rubén Ávalos,Match Report,0.0
+2024-03-17,18:30,La Liga 2,Matchweek 31,Sun,Home,W,3,2,Albacete,2.5,0.8,68.0,24210,Josan,4-4-2,Miguel Sesma,Match Report,0.0
+2024-03-24,18:30,La Liga 2,Matchweek 32,Sun,Away,L,2,3,Levante,1.6,1.5,54.0,15134,Pedro Bigas,4-4-2,Oliver De La Fuente,Match Report,0.0
+2024-03-31,16:15,La Liga 2,Matchweek 33,Sun,Away,L,0,1,Racing Ferrol,0.2,1.3,61.0,6898,Pedro Bigas,3-5-2,Iosu Galech,Match Report,0.0
+2024-04-05,20:30,La Liga 2,Matchweek 34,Fri,Home,L,0,2,Oviedo,1.0,1.7,69.0,19270,Tete Morente,3-5-2,Manuel Orellana,Match Report,0.0
+2024-04-14,18:30,La Liga 2,Matchweek 35,Sun,Away,D,1,1,Zaragoza,1.7,0.9,60.0,24407,Pedro Bigas,3-5-1-1,Adrián Cordero,Match Report,0.0
+2024-04-20,18:30,La Liga 2,Matchweek 36,Sat,Home,W,2,1,Sporting Gijón,0.9,0.6,42.0,16771,Pedro Bigas,4-4-2,Alejandro Quintero,Match Report,0.0
+2024-04-27,18:30,La Liga 2,Matchweek 37,Sat,Home,D,2,2,Espanyol,0.5,1.8,59.0,21009,Pedro Bigas,3-4-3,Álvaro Moreno,Match Report,0.0
+2024-05-04,18:30,La Liga 2,Matchweek 38,Sat,Away,L,1,3,Racing Sant,1.8,2.2,69.0,19255,Pedro Bigas,3-2-4-1,Jon González,Match Report,0.0
+2024-05-12,21:00,La Liga 2,Matchweek 39,Sun,Home,L,0,3,Huesca,1.7,0.6,75.0,15370,Pedro Bigas,4-4-2,Iosu Galech,Match Report,0.0
+2024-05-17,20:30,La Liga 2,Matchweek 40,Fri,Away,D,1,1,CD Mirandés,0.8,0.6,70.0,3648,Pedro Bigas,4-4-2,Rubén Ávalos,Match Report,0.0
+2024-05-26,18:30,La Liga 2,Matchweek 41,Sun,Home,L,1,2,Eldense,1.2,0.9,69.0,21186,Pedro Bigas,4-4-2,Germán Cid Camacho,Match Report,0.0
+2024-06-02,18:30,La Liga 2,Matchweek 42,Sun,Away,L,0,2,Leganés,0.4,1.2,67.0,12083,Pedro Bigas,4-2-3-1,Luis Milla,Match Report,0.0

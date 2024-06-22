@@ -1,0 +1,43 @@
+D a t e,T i m e,C o m p,R o u n d,D a y,V e n u e,R e s u l t,G F,G A,O p p o n e n t,x G,x G A,P o s s,A t t e n d a n c e,C a p t a i n,F o r m a t i o n,R e f e r e e,M a t c h   R e p o r t,N o t e s
+2023-08-12,15:00,Premier League,Matchweek 1,Sat,Away,W,1,0,Sheffield Utd,1.9,0.5,68,31194,Joel Ward,4-2-3-1,John Brooks,Match Report,0.0
+2023-08-21,20:00,Premier League,Matchweek 2,Mon,Home,L,0,1,Arsenal,1.0,2.0,47,24189,Joel Ward,4-2-3-1,David Coote,Match Report,0.0
+2023-08-26,15:00,Premier League,Matchweek 3,Sat,Away,D,1,1,Brentford,0.8,1.0,40,16997,Joel Ward,4-2-3-1,Peter Bankes,Match Report,0.0
+2023-08-29,19:45,EFL Cup,Second round,Tue,Away,W,4,2,Plymouth Argyle,0.0,0.0,48,15826,James Tomkins,4-4-2,Dean Whitestone,Match Report,0.0
+2023-09-03,14:00,Premier League,Matchweek 4,Sun,Home,W,3,2,Wolves,2.1,1.2,43,24741,Joel Ward,4-3-3,Robert Jones,Match Report,0.0
+2023-09-16,15:00,Premier League,Matchweek 5,Sat,Away,L,1,3,Aston Villa,1.2,3.0,34,40809,Joel Ward,4-4-1-1,Darren England,Match Report,0.0
+2023-09-23,15:00,Premier League,Matchweek 6,Sat,Home,D,0,0,Fulham,0.3,0.6,51,25072,Joel Ward,4-2-3-1,Paul Tierney,Match Report,0.0
+2023-09-26,20:00,EFL Cup,Third round,Tue,Away,L,0,3,Manchester Utd,0.0,0.0,31,72842,Jordan Ayew,4-2-3-1,Michael Salisbury,Match Report,0.0
+2023-09-30,15:00,Premier League,Matchweek 7,Sat,Away,W,1,0,Manchester Utd,0.9,1.3,23,73428,Joel Ward,4-3-3,Chris Kavanagh,Match Report,0.0
+2023-10-07,17:30,Premier League,Matchweek 8,Sat,Home,D,0,0,Nott'ham Forest,0.8,1.0,52,25017,Marc Guéhi,4-3-3,Craig Pawson,Match Report,0.0
+2023-10-21,15:00,Premier League,Matchweek 9,Sat,Away,L,0,4,Newcastle Utd,1.2,2.4,41,52189,Joel Ward,4-3-3,Tim Robinson,Match Report,0.0
+2023-10-27,20:00,Premier League,Matchweek 10,Fri,Home,L,1,2,Tottenham,0.6,1.1,25,25074,Joel Ward,4-2-3-1,Andy Madley,Match Report,0.0
+2023-11-04,15:00,Premier League,Matchweek 11,Sat,Away,W,2,0,Burnley,1.3,1.1,33,21578,Joel Ward,4-2-3-1,Peter Bankes,Match Report,0.0
+2023-11-11,15:00,Premier League,Matchweek 12,Sat,Home,L,2,3,Everton,2.2,1.5,67,25103,Joel Ward,4-2-3-1,Samuel Barrott,Match Report,0.0
+2023-11-25,15:00,Premier League,Matchweek 13,Sat,Away,L,1,2,Luton Town,1.6,0.9,61,11029,Joel Ward,4-2-3-1,Jarred Gillett,Match Report,0.0
+2023-12-03,14:00,Premier League,Matchweek 14,Sun,Away,D,1,1,West Ham,0.9,1.1,45,62414,Joel Ward,4-3-3,Michael Oliver,Match Report,0.0
+2023-12-06,19:30,Premier League,Matchweek 15,Wed,Home,L,0,2,Bournemouth,1.0,1.8,59,25078,Joel Ward,4-2-3-1,Craig Pawson,Match Report,0.0
+2023-12-09,12:30,Premier League,Matchweek 16,Sat,Home,L,1,2,Liverpool,1.7,1.2,24,25103,Joel Ward,4-3-3,Andy Madley,Match Report,0.0
+2023-12-16,15:00,Premier League,Matchweek 17,Sat,Away,D,2,2,Manchester City,1.8,1.6,26,53248,Joel Ward,5-4-1,Paul Tierney,Match Report,0.0
+2023-12-21,20:00,Premier League,Matchweek 18,Thu,Home,D,1,1,Brighton,1.3,1.2,35,24171,Marc Guéhi,4-3-3,John Brooks,Match Report,0.0
+2023-12-27,19:30,Premier League,Matchweek 19,Wed,Away,L,1,2,Chelsea,1.1,2.6,37,39618,Marc Guéhi,4-3-3,Michael Salisbury,Match Report,0.0
+2023-12-30,15:00,Premier League,Matchweek 20,Sat,Home,W,3,1,Brentford,1.0,1.4,46,25472,Marc Guéhi,4-3-3,Robert Jones,Match Report,0.0
+2024-01-04,20:00,FA Cup,Third round proper,Thu,Home,D,0,0,Everton,0.0,0.0,53,24489,Marc Guéhi,4-2-3-1,Chris Kavanagh,Match Report,0.0
+2024-01-17,19:45,FA Cup,Third round proper,Wed,Away,L,0,1,Everton,0.0,0.0,49,37796,Marc Guéhi,4-2-3-1,Tony Harrington,Match Report,0.0
+2024-01-20,12:30,Premier League,Matchweek 21,Sat,Away,L,0,5,Arsenal,0.3,3.3,40,60284,Marc Guéhi,3-4-3,Paul Tierney,Match Report,0.0
+2024-01-30,20:00,Premier League,Matchweek 22,Tue,Home,W,3,2,Sheffield Utd,1.1,0.8,53,24781,Marc Guéhi,4-3-3,Tony Harrington,Match Report,0.0
+2024-02-03,15:00,Premier League,Matchweek 23,Sat,Away,L,1,4,Brighton,0.3,1.4,32,31345,Marc Guéhi,4-3-3,Simon Hooper,Match Report,0.0
+2024-02-12,20:00,Premier League,Matchweek 24,Mon,Home,L,1,3,Chelsea,0.6,1.4,23,25110,Joachim Andersen,4-1-4-1,Michael Oliver,Match Report,0.0
+2024-02-19,20:00,Premier League,Matchweek 25,Mon,Away,D,1,1,Everton,0.7,1.7,39,38164,Joel Ward,3-4-3,Paul Tierney,Match Report,0.0
+2024-02-24,15:00,Premier League,Matchweek 26,Sat,Home,W,3,0,Burnley,2.4,0.1,56,24042,Joel Ward,3-4-3,Lewis Smith,Match Report,0.0
+2024-03-02,15:00,Premier League,Matchweek 27,Sat,Away,L,1,3,Tottenham,0.3,1.9,22,61339,Joel Ward,3-4-3,John Brooks,Match Report,0.0
+2024-03-09,15:00,Premier League,Matchweek 28,Sat,Home,D,1,1,Luton Town,2.7,0.8,49,25103,Joel Ward,3-4-3,Sunny Singh,Match Report,0.0
+2024-03-30,15:00,Premier League,Matchweek 30,Sat,Away,D,1,1,Nott'ham Forest,1.2,0.9,41,29520,Joel Ward,3-4-3,Chris Kavanagh,Match Report,0.0
+2024-04-02,19:45,Premier League,Matchweek 31,Tue,Away,L,0,1,Bournemouth,0.2,1.1,50,11058,Joel Ward,3-4-3,Graham Scott,Match Report,0.0
+2024-04-06,12:30,Premier League,Matchweek 32,Sat,Home,L,2,4,Manchester City,1.1,1.9,25,25132,Joel Ward,3-4-3,Paul Tierney,Match Report,0.0
+2024-04-14,14:00,Premier League,Matchweek 33,Sun,Away,W,1,0,Liverpool,2.0,2.7,31,60090,Joachim Andersen,3-4-3,Chris Kavanagh,Match Report,0.0
+2024-04-21,15:00,Premier League,Matchweek 34,Sun,Home,W,5,2,West Ham,2.4,1.3,60,25145,Joachim Andersen,3-4-3,Graham Scott,Match Report,0.0
+2024-04-24,20:00,Premier League,Matchweek 29,Wed,Home,W,2,0,Newcastle Utd,0.9,0.4,47,25002,Joachim Andersen,3-4-3,Thomas Bramall,Match Report,0.0
+2024-04-27,15:00,Premier League,Matchweek 35,Sat,Away,D,1,1,Fulham,1.0,1.1,47,24142,Joachim Andersen,3-4-3,Stuart Attwell,Match Report,0.0
+2024-05-06,20:00,Premier League,Matchweek 36,Mon,Home,W,4,0,Manchester Utd,1.7,0.4,43,25190,Joachim Andersen,3-4-3,Jarred Gillett,Match Report,0.0
+2024-05-11,15:00,Premier League,Matchweek 37,Sat,Away,W,3,1,Wolves,2.6,1.6,38,31424,Joachim Andersen,3-4-3,Thomas Bramall,Match Report,0.0
+2024-05-19,16:00,Premier League,Matchweek 38,Sun,Home,W,5,0,Aston Villa,2.5,0.9,54,25191,Marc Guéhi,3-4-3,Darren Bond,Match Report,0.0

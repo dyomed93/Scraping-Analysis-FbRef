@@ -1,0 +1,33 @@
+Player,Nation,Pos,Age,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,Matches
+Oliver Baumann,de GER,GK,33.0,34.0,1,1,1,0,0,1,2,50.0,1,0,0,0,0,1,19,2,Matches
+Maximilian Beier,de GER,"FW,MF",20.0,26.9,20,12,5,11,4,4,19,21.1,15,21,1,20,9,29,12,0,Matches
+Pavel Kadeřábek,cz CZE,"DF,FW",31.0,26.8,31,19,10,15,6,18,40,45.0,22,22,8,14,23,54,68,0,Matches
+Ozan Kabak,tr TUR,DF,23.0,25.4,48,35,32,14,2,19,33,57.6,14,43,21,22,46,94,106,2,Matches
+Grischa Prömel,de GER,MF,28.0,23.8,32,18,11,15,6,14,32,43.8,18,22,6,16,22,54,36,0,Matches
+Anton Stach,de GER,MF,24.0,25.8,73,42,40,27,6,33,63,52.4,30,38,12,26,72,145,67,1,Matches
+Florian Grillitsch,at AUT,"DF,MF",27.0,25.5,54,28,31,19,4,22,54,40.7,32,41,20,21,52,106,90,2,Matches
+Andrej Kramarić,hr CRO,"MF,FW",32.0,24.4,11,2,5,4,2,6,13,46.2,7,14,2,12,10,21,12,2,Matches
+Wout Weghorst,nl NED,FW,30.0,22.0,13,6,4,7,2,9,15,60.0,6,25,8,17,6,19,24,0,Matches
+John Brooks,us USA,DF,30.0,17.1,28,15,17,10,1,15,30,50.0,15,29,17,12,27,55,109,1,Matches
+Ihlas Bebou,tg TOG,"FW,DF",29.0,18.2,22,12,10,8,4,8,16,50.0,8,13,2,11,14,36,15,0,Matches
+Marius Bülter,de GER,"DF,FW",30.0,15.0,18,11,9,5,4,12,23,52.2,11,17,3,14,10,28,20,0,Matches
+Kevin Vogt,de GER,DF,31.0,14.7,14,10,7,7,0,8,13,61.5,5,16,13,3,9,23,54,0,Matches
+Robert Skov,dk DEN,"DF,FW",27.0,14.0,24,16,15,8,1,17,36,47.2,19,17,4,13,10,34,23,1,Matches
+Umut Tohumcu,de GER,MF,18.0,11.2,16,12,9,7,0,6,19,31.6,13,11,1,10,6,22,12,0,Matches
+Kevin Akpoguma,ng NGA,DF,28.0,12.2,35,18,22,12,1,26,35,74.3,9,28,8,20,18,53,32,0,Matches
+Stanley N'Soki,fr FRA,DF,24.0,7.0,21,10,12,8,1,17,29,58.6,12,13,2,11,8,29,33,0,Matches
+Tim Drexler,de GER,DF,18.0,6.4,16,9,12,4,0,8,17,47.1,9,12,8,4,8,24,14,0,Matches
+Finn Ole Becker,de GER,MF,23.0,6.7,10,9,8,2,0,4,17,23.5,13,9,1,8,1,11,10,0,Matches
+David Jurásek,cz CZE,DF,22.0,5.5,14,11,13,1,0,7,17,41.2,10,7,2,5,3,17,22,1,Matches
+Attila Szalai,hu HUN,DF,25.0,3.2,3,1,3,0,0,1,4,25.0,3,6,2,4,1,4,7,0,Matches
+Tom Bischof,de GER,"MF,FW",18.0,2.0,8,4,6,1,1,2,9,22.2,7,3,0,3,1,9,2,0,Matches
+Angelo Stiller,de GER,MF,22.0,0.9,0,0,0,0,0,0,1,0.0,1,2,0,2,0,0,3,0,Matches
+Mergim Berisha,de GER,FW,25.0,1.6,0,0,0,0,0,0,0,0.0,0,2,1,1,0,0,0,0,Matches
+Dennis Geiger,de GER,MF,25.0,0.7,1,0,1,0,0,0,0,0.0,0,1,1,0,0,1,0,0,Matches
+Julian Justvan,de GER,"FW,MF",25.0,0.5,1,0,1,0,0,1,2,50.0,1,1,0,1,0,1,0,0,Matches
+Bambasé Conté,de GER,"MF,FW",20.0,0.5,3,3,2,0,1,1,1,100.0,0,0,0,0,0,3,0,0,Matches
+Max Moerstedt,de GER,"DF,FW",0.0,0.1,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,Matches
+Kasim Nuhu,gh GHA,DF,28.0,0.1,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,Matches
+Diadie Samassékou,ml MLI,MF,27.0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,1,1,0,0,Matches
+Squad Total,0,0,27.7,34.0,517,304,286,185,46,259,541,47.9,282,413,143,270,357,874,790,12,0
+Opponent Total,0,0,26.4,34.0,508,299,252,188,68,267,487,54.8,220,420,120,300,279,787,714,17,0

@@ -1,0 +1,54 @@
+D a t e,T i m e,C o m p,R o u n d,D a y,V e n u e,R e s u l t,G F,G A,O p p o n e n t,x G,x G A,P o s s,A t t e n d a n c e,C a p t a i n,F o r m a t i o n,R e f e r e e,M a t c h   R e p o r t,N o t e s
+2023-08-12,17:00,La Liga,Matchweek 1,Sat,Home,D,1,1,Girona,1.0,0.8,48,30848,Mikel Oyarzabal,4-3-3,Francisco Hernández,Match Report,0
+2023-08-19,17:00,La Liga,Matchweek 2,Sat,Home,D,1,1,Celta Vigo,0.7,1.0,53,30354,Igor Zubeldia,4-3-3,Miguel Ángel Ortiz Arias,Match Report,0
+2023-08-25,18:30,La Liga,Matchweek 3,Fri,Away,D,0,0,Las Palmas,1.0,0.9,48,25335,Mikel Merino,4-2-3-1,Guillermo Cuadra,Match Report,0
+2023-09-02,14:00,La Liga,Matchweek 4,Sat,Home,W,5,3,Granada,2.3,0.8,61,27808,Mikel Oyarzabal,4-3-3,Javier Villanueva,Match Report,0
+2023-09-17,21:00,La Liga,Matchweek 5,Sun,Away,L,1,2,Real Madrid,1.6,2.0,48,70092,Mikel Oyarzabal,4-3-3,César Soto,Match Report,0
+2023-09-20,21:00,Champions Lg,Group stage,Wed,Home,D,1,1,it Inter,1.3,0.5,44,36591,Mikel Oyarzabal,4-3-3,Michael Oliver,Match Report,0
+2023-09-24,14:00,La Liga,Matchweek 6,Sun,Home,W,4,3,Getafe,2.0,1.4,61,29568,Igor Zubeldia,4-4-2,Juan Pulido,Match Report,0
+2023-09-27,21:30,La Liga,Matchweek 7,Wed,Away,W,1,0,Valencia,0.2,0.4,62,44200,Mikel Oyarzabal,4-3-3,Alejandro Hernández,Match Report,0
+2023-09-30,21:00,La Liga,Matchweek 8,Sat,Home,W,3,0,Athletic Club,1.4,1.8,51,38229,Mikel Merino,4-4-2,Jesús Gil,Match Report,0
+2023-10-03,18:45,Champions Lg,Group stage,Tue,Away,W,2,0,at RB Salzburg,1.2,0.6,52,28227,Mikel Oyarzabal,4-4-2,Bartosz Frankowski,Match Report,0
+2023-10-08,16:15,La Liga,Matchweek 9,Sun,Away,L,1,2,Atlético Madrid,1.2,2.2,62,65607,Mikel Oyarzabal,4-3-3,José Luis Munuera,Match Report,0
+2023-10-21,14:00,La Liga,Matchweek 10,Sat,Home,W,1,0,Mallorca,1.3,1.9,56,31279,Mikel Oyarzabal,4-4-2,Jorge Figueroa,Match Report,0
+2023-10-24,20:00,Champions Lg,Group stage,Tue,Away,W,1,0,pt Benfica,0.9,0.5,62,56002,Mikel Oyarzabal,4-3-3,Clément Turpin,Match Report,0
+2023-10-29,16:15,La Liga,Matchweek 11,Sun,Away,D,2,2,Rayo Vallecano,2.0,1.0,45,12790,Mikel Oyarzabal,4-1-4-1,Mateo Busquets,Match Report,0
+2023-11-01,18:30,Copa del Rey,First round,Wed,Away,W,1,0,Buñol,0.0,0.0,71,4000,Aritz Elustondo,4-3-3,Guillermo Cuadra,Match Report,0
+2023-11-04,21:00,La Liga,Matchweek 12,Sat,Home,L,0,1,Barcelona,0.9,1.2,51,37555,Mikel Oyarzabal,4-3-3,Javier Alberola,Match Report,0
+2023-11-08,18:45,Champions Lg,Group stage,Wed,Home,W,3,1,pt Benfica,3.3,0.8,52,36815,Mikel Oyarzabal,4-3-3,Anthony Taylor,Match Report,0
+2023-11-11,16:15,La Liga,Matchweek 13,Sat,Away,W,3,1,Almería,2.4,0.4,53,13016,Mikel Oyarzabal,4-1-3-2,Isidro Díaz de Mera,Match Report,0
+2023-11-26,16:15,La Liga,Matchweek 14,Sun,Home,W,2,1,Sevilla,0.7,0.6,49,33879,Mikel Merino,4-4-2,Miguel Ángel Ortiz Arias,Match Report,0
+2023-11-29,21:00,Champions Lg,Group stage,Wed,Home,D,0,0,at RB Salzburg,1.3,0.6,71,34419,Mikel Oyarzabal,4-3-3,Mykola Balakin,Match Report,0
+2023-12-02,21:00,La Liga,Matchweek 15,Sat,Away,D,1,1,Osasuna,1.7,0.7,71,20859,Mikel Merino,4-3-3,Juan Pulido,Match Report,0
+2023-12-06,16:00,Copa del Rey,Second round,Wed,Away,W,1,0,Andratx,0.0,0.0,71,1233,Robin Le Normand,4-4-2,José Sánchez,Match Report,0
+2023-12-09,18:30,La Liga,Matchweek 16,Sat,Away,W,3,0,Villarreal,1.5,2.2,47,19344,Aritz Elustondo,4-1-4-1,Mario Melero,Match Report,0
+2023-12-12,21:00,Champions Lg,Group stage,Tue,Away,D,0,0,it Inter,0.7,0.7,55,69010,Mikel Oyarzabal,4-1-4-1,Sandro Schärer,Match Report,0
+2023-12-17,16:15,La Liga,Matchweek 17,Sun,Home,D,0,0,Betis,1.1,1.1,57,33172,Mikel Oyarzabal,4-3-3,Mateo Busquets,Match Report,0
+2023-12-21,19:00,La Liga,Matchweek 18,Thu,Away,D,0,0,Cádiz,0.5,1.0,60,17693,Mikel Oyarzabal,4-1-4-1,Javier Villanueva,Match Report,0
+2024-01-02,19:15,La Liga,Matchweek 19,Tue,Home,D,1,1,Alavés,1.2,1.0,53,34051,Mikel Oyarzabal,4-3-3,Víctor García,Match Report,0
+2024-01-07,21:00,Copa del Rey,Round of 32,Sun,Away,W,1,0,Málaga,0.0,0.0,61,22111,Mikel Oyarzabal,4-3-3,Jesús Gil,Match Report,0
+2024-01-13,18:30,La Liga,Matchweek 20,Sat,Away,L,1,2,Athletic Club,1.1,1.6,51,51475,Mikel Oyarzabal,4-1-4-1,José Luis Munuera,Match Report,0
+2024-01-17,21:00,Copa del Rey,Round of 16,Wed,Away,W,2,0,Osasuna,0.0,0.0,58,21116,Mikel Oyarzabal,4-3-3,Alejandro Hernández,Match Report,0
+2024-01-20,21:00,La Liga,Matchweek 21,Sat,Away,W,1,0,Celta Vigo,0.8,0.3,51,20901,Igor Zubeldia,5-3-2,Jorge Figueroa,Match Report,0
+2024-01-23,21:30,Copa del Rey,Quarter-finals,Tue,Away,W,2,1,Celta Vigo,0.0,0.0,54,20903,Mikel Oyarzabal,4-1-3-2,César Soto,Match Report,0
+2024-01-27,14:00,La Liga,Matchweek 22,Sat,Home,D,0,0,Rayo Vallecano,0.2,0.1,51,32528,Igor Zubeldia,5-3-2,Alejandro Hernández,Match Report,0
+2024-02-03,21:00,La Liga,Matchweek 23,Sat,Away,D,0,0,Girona,0.6,0.7,51,13755,Mikel Oyarzabal,4-4-1-1,Jesús Gil,Match Report,0
+2024-02-06,21:00,Copa del Rey,Semi-finals,Tue,Away,D,0,0,Mallorca,0.0,0.0,69,22051,Mikel Merino,4-3-3,Alejandro Muñíz,Match Report,Leg 1 of 2
+2024-02-10,16:15,La Liga,Matchweek 24,Sat,Home,L,0,1,Osasuna,1.5,0.5,68,32905,Mikel Merino,4-3-3,Isidro Díaz de Mera,Match Report,0
+2024-02-14,21:00,Champions Lg,Round of 16,Wed,Away,L,0,2,fr Paris S-G,0.7,1.2,38,46435,Mikel Merino,4-3-3,Marco Guida,Match Report,Leg 1 of 2
+2024-02-18,18:30,La Liga,Matchweek 25,Sun,Away,W,2,1,Mallorca,1.1,0.1,67,18153,Mikel Merino,4-3-3,Pablo González,Match Report,0
+2024-02-23,21:00,La Liga,Matchweek 26,Fri,Home,L,1,3,Villarreal,1.5,1.0,70,30609,Robin Le Normand,4-1-4-1,Javier Villanueva,Match Report,0
+2024-02-27,21:30,Copa del Rey,Semi-finals,Tue,Home,D,1 (4),1 (5),Mallorca,0.0,0.0,62,35781,Mikel Merino,4-3-3,Jesús Gil,Match Report,Leg 2 of 2; Mallorca won
+2024-03-02,14:00,La Liga,Matchweek 27,Sat,Away,L,2,3,Sevilla,1.5,2.0,61,35884,Igor Zubeldia,4-1-3-2,Mateo Busquets,Match Report,0
+2024-03-05,21:00,Champions Lg,Round of 16,Tue,Home,L,1,2,fr Paris S-G,0.9,1.4,44,39336,Mikel Oyarzabal,4-3-3,Michael Oliver,Match Report,Leg 2 of 2; Paris S-G won
+2024-03-09,18:30,La Liga,Matchweek 28,Sat,Away,W,3,2,Granada,2.1,1.7,63,9214,Mikel Oyarzabal,4-1-4-1,Juan Martínez,Match Report,0
+2024-03-15,21:00,La Liga,Matchweek 29,Fri,Home,W,2,0,Cádiz,1.9,0.8,63,31000,Mikel Oyarzabal,4-3-3,César Soto,Match Report,0
+2024-03-31,18:30,La Liga,Matchweek 30,Sun,Away,W,1,0,Alavés,0.9,0.3,59,18575,Mikel Oyarzabal,4-3-3,Francisco Hernández,Match Report,0
+2024-04-14,21:00,La Liga,Matchweek 31,Sun,Home,D,2,2,Almería,1.5,1.6,50,26520,Mikel Oyarzabal,4-4-2,Isidro Díaz de Mera,Match Report,0
+2024-04-21,14:00,La Liga,Matchweek 32,Sun,Away,D,1,1,Getafe,1.2,0.5,59,12228,Mikel Oyarzabal,4-3-3,Víctor García,Match Report,0
+2024-04-26,21:00,La Liga,Matchweek 33,Fri,Home,L,0,1,Real Madrid,0.6,0.4,56,37109,Mikel Oyarzabal,4-1-4-1,José Luis Munuera,Match Report,0
+2024-05-04,14:00,La Liga,Matchweek 34,Sat,Home,W,2,0,Las Palmas,0.6,0.5,52,29330,Mikel Oyarzabal,4-1-4-1,Miguel Ángel Ortiz Arias,Match Report,0
+2024-05-13,21:00,La Liga,Matchweek 35,Mon,Away,L,0,2,Barcelona,0.7,2.1,44,35829,Mikel Oyarzabal,3-4-3,Guillermo Cuadra,Match Report,0
+2024-05-16,22:00,La Liga,Matchweek 36,Thu,Home,W,1,0,Valencia,1.3,0.8,57,25067,Mikel Merino,4-3-3,César Soto,Match Report,0
+2024-05-19,19:00,La Liga,Matchweek 37,Sun,Away,W,2,0,Betis,0.4,1.7,33,58036,Mikel Oyarzabal,4-4-2,Juan Martínez,Match Report,0
+2024-05-25,16:15,La Liga,Matchweek 38,Sat,Home,L,0,2,Atlético Madrid,0.6,2.2,59,30678,Aritz Elustondo,4-3-3,José Sánchez,Match Report,0

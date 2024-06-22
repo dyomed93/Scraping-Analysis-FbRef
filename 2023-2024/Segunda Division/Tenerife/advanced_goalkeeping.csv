@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,90s,Goals GA,Goals PKA,Goals FK,Goals CK,Goals OG,Expected PSxG,Expected PSxG/SoT,Expected PSxG+/-,Expected /90,Launched Cmp,Launched Att,Launched Cmp%,Passes Att (GK),Passes Thr,Passes Launch%,Passes AvgLen,Goal Kicks Att,Goal Kicks Launch%,Goal Kicks AvgLen,Crosses Opp,Crosses Stp,Crosses Stp%,Sweeper #OPA,Sweeper #OPA/90,Sweeper AvgDist,Matches
+Juan Soriano,es ESP,GK,26-303,39.2,38,6,1,8,0,43.0,0.27,5.0,0.13,284,721,39.4,937,159,53.6,40.8,300,73.0,54.4,565,43,7.6,40,1.02,14.9,Matches
+Tomeu Nadal,es ESP,GK,35-134,2.8,3,1,0,0,2,2.2,0.17,1.2,0.42,15,42,35.7,48,12,45.8,37.1,30,66.7,47.1,55,2,3.6,2,0.72,8.3,Matches
+Squad Total,0,0,28.8,42.0,41,7,1,8,2,45.2,0.26,6.2,0.15,299,763,39.2,982,171,53.3,0.0,333,72.1,53.5,620,45,7.3,42,1.0,0.0,0
+Opponent Total,0,0,27.6,42.0,38,6,0,3,0,41.8,0.28,3.8,0.09,211,569,37.1,1129,199,34.3,33.7,318,57.2,44.3,552,41,7.4,41,0.98,15.1,0
