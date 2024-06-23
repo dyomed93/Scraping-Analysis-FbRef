@@ -1,6 +1,6 @@
 # Extraction and Analysis of FBRef Data Player
 
-This repository provides tools to extract data from FBRef for all teams and players and to compare the best players in a specific league with the best players in Europe based on various dataset variables.
+This repository provides tools to extract data from FBRef for all teams and players and to compare the best players in a specific league with the best players in Europe based on various dataset variables. You can find the dataset inside this Kaggle repository: https://www.kaggle.com/datasets/marcodiomedi/teams-and-players-stats-from-fbref/data
 
 ## Contents
 
@@ -23,3 +23,4 @@ This repository provides tools to extract data from FBRef for all teams and play
 ## Contributing
 
 If you encounter any issues or have suggestions for improvements, please leave a message. Your feedback is highly appreciated and will help enhance the tools provided in this repository.
+
